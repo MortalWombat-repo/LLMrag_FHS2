@@ -13,7 +13,7 @@ type MessageType = {
 
 type IconProps = SVGProps<SVGSVGElement>;
 
-#const LOCAL_API_URL = 'http://127.0.0.1:8000/query';
+//const LOCAL_API_URL = 'http://127.0.0.1:8000/query';
 const LOCAL_API_URL = 'https://llmrag-fhs2.onrender.com/query';
 
 // --- Icon Components ---
