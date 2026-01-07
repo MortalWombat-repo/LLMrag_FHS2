@@ -13,8 +13,7 @@ type MessageType = {
 
 type IconProps = SVGProps<SVGSVGElement>;
 
-//const LOCAL_API_URL = 'http://127.0.0.1:8000/query';
-const LOCAL_API_URL = 'https://llmrag-fhs2.onrender.com/query';
+const LOCAL_API_URL = 'http://127.0.0.1:8000/query';
 
 // --- Icon Components ---
 
@@ -128,9 +127,20 @@ const Message: React.FC<Pick<MessageType, 'content' | 'role'>> = ({ content, rol
                                 thead: ({ children }) => <thead className="bg-gray-200 dark:bg-gray-700">{children}</thead>,
                                 th: ({ children }) => <th className="border border-gray-300 dark:border-gray-600 p-2 font-semibold text-gray-800 dark:text-gray-100">{children}</th>,
                                 td: ({ children }) => <td className="border border-gray-300 dark:border-gray-600 p-2">{children}</td>,
-                                hr: () => <hr className="my-3 border-t border-gray-300 dark:border-gray-700" />,
-                                h1: ({ children }) => <h1 className="text-base font-bold mt-4 mb-2">{children}</h1>,
-                                h2: ({ children }) => <h2 className="text-base font-bold mt-3 mb-1">{children}</h2>,
+                                hr: () => <hr className="my-4 border-t-2 border-gray-400 dark:border-gray-600" />,
+                                //h1: ({ children }) => <h1 className="text-base font-bold mt-4 mb-2">{children}</h1>,
+                                //h2: ({ children }) => <h2 className="text-base font-bold mt-3 mb-1">{children}</h2>,
+                                // Unutar ReactMarkdown components objekta:
+                                h1: ({ children }) => (
+                                    <h1 className="text-base font-bold mt-4 mb-2 first:mt-0">
+                                        {children}
+                                    </h1>
+                                ),
+                                h2: ({ children }) => (
+                                    <h2 className="text-base font-bold mt-3 mb-1 first:mt-0">
+                                        {children}
+                                    </h2>
+                                ),
                                 blockquote: ({ children }) => <blockquote className="border-l-4 border-blue-400 pl-3 italic text-gray-600 dark:text-gray-400 my-2">{children}</blockquote>,
                             }}
                         >
@@ -183,9 +193,9 @@ async function callLocalAPI(userQuery: string) {
 // --- Main Chat Application Component (Fixed for iframe) ---
 export default function App() {
     const initialMessage: MessageType = {
-        id: 1,
-        role: 'assistant',
-        content: "# Dobrodošli u Hrstud AI\n\nJa sam vaš AI asistent, spreman odgovoriti na pitanja vezana za fakultet Hrvatskih studija.",
+    id: 1,
+    role: 'assistant',
+    content: "# Dobrodošli u Hrstud AI\n\nJa sam vaš AI asistent, spreman odgovoriti na pitanja vezana za fakultet Hrvatskih studija.\n\n---\n\n# Welcome to Hrstud AI\n\nI am your AI assistant, ready to answer questions related to the Faculty of Croatian Studies.",
     };
 
     const [messages, setMessages] = useState<MessageType[]>([initialMessage]);
