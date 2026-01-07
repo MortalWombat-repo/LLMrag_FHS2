@@ -232,7 +232,7 @@ def get_query_hr(user_query, embed_fn, collection, client, request_ip: str):
     
     # 3. Call the model
     answer = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.5-flash",
         contents=prompt, # Use the full prompt
         config={
             "max_output_tokens": 2048,
@@ -331,7 +331,7 @@ def get_query_en(user_query, embed_fn, collection, client, request_ip: str):
     """
     
     answer = client.models.generate_content(
-        model="gemini-2.0-flash",
+        model="gemini-2.5-flash",
         contents=prompt,
         config={
             "max_output_tokens": 2048,
