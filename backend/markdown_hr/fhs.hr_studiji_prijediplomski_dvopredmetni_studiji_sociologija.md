@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/sociologija#v1id-904768_661591_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/sociologija#v1id-904768_661591_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -297,4 +296,4 @@ ECTS | TZP (3503) - Akademski strani jezik
 4.0 |  [Akademski francuski (209486)](https://www.fhs.hr/predmet/akafra) Franić, I. |  | 60 15P+45SJ |  [__](javascript:show_window\('/.cms/predmet_info?_v1=RXUiH6vuPcEDq--qp_EFa3LSg6Ywqc03rhPnBISKpvmtanw4C3WT_roPhWZ27qA33L1HhG-NavCZrMmxu6WGQ2UkL8akPQz69f0i4X99c9lvoXtT5DIIFgz0FulMf6HbFTT_VDE1bHNZxg_Y0Z8cte4ta1f3T-JKIgIrHPIEr2UIk_-b-TA4meYB2OZ7-t9Q-MUneQ==&_v1flags=d6ad4nd5fvC6dtnGpLsg32hC4XZM2xutv4bVYGzJr64Ta9RD40UMF6zFgcU8qz3qiQRm9jlq5IH0BPatVboksDgme0Xt7Nad7Un1DTDP4FAfgkzG8l2_nILezz_Z_W46YF3_WKHYEbXxMIHXXNVdk1oEAiRiJNIhaliCcZi4hOZMVO2k&_lid=82933&_rand=0',%20''\))  
 4.0 |  [Akademski njemački (45829)](https://www.fhs.hr/predmet/akanje) Miškulin Saletović, L. |  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=qYMyRgvBWhRIm713WdaGebiKAkCco39p4k118KXPti3QOy4FamQvRKmcTjicGbxPuZaeZA2KIFT2NPVxkJY0srR6Ew-iBBYUNdhZA0P-xtU-VtDvRjiEuJLWa2E_dWG0fo-Vim2p2lg8Gp3RDVRgaB_m_SNFymt5diln1lRG3hmJYdN4yj9xzjwXEhNm3BGqfvXk-w==&_v1flags=VqkCxbCT3RiCMVmiTsQ_IWww9M2gkoHqit9jpyEUHs3mlDNXIdiS25enfCW4aO8bD7-r4BEuQed5dXrC0TAq57DQ71e3CTvHCVIWoShXVO1ppXko2di-bJyLfkjvcG65C6YaFn0lg9u_iSNnzO9a1Pf6_NNS2dRpw3-jC0h_yaXWvabv&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

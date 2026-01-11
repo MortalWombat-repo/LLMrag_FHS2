@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pgunh#v1id-904851_672299_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pgunh#v1id-904851_672299_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pgunh) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tgitcl)
 **Šifra:** |  234436  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  prof. dr. sc. [Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac) - Lektorske vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -158,10 +157,8 @@
 >  Rosandić, Dragutin, Rosandić, Irena (1996. ) Hrvatski jezik u srednjoškolskoj nastavi. Zagreb: Školske novine.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -171,7 +168,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac)**: 
 Srijeda od 14:30 do 15:30
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/pgunh?@=21igo#news_122021 "Arhiva obavijesti")

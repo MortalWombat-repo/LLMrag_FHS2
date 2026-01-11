@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/pnukp_a#v1id-904857_715162_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pnukp_a#v1id-904857_715162_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pnukp_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cprrw_a)
 **Šifra:** |  286523  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -25,20 +24,17 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar**  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/pnukp_a?@=21tvj#news_132735 "Arhiva obavijesti")

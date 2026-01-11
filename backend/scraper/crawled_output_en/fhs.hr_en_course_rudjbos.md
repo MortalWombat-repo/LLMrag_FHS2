@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rudjbos)
 
 ## Ruđer Bošković
-  * [Basic data](https://www.fhs.hr/en/course/rudjbos#v1id-523829_188523_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rudjbos#v1id-523829_188523_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rudjbos#v1id-523829_188523_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rudjbos#v1id-523829_188523_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rudjbos#v1id-159985_952775_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rudjbos#v1id-159985_952775_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rudjbos#v1id-159985_952775_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rudjbos#v1id-159985_952775_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rudjbos) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rudjbos)

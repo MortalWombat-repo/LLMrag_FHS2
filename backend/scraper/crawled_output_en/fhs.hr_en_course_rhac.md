@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rhac)
 
 ## Roman History and Civilization
-  * [Basic data](https://www.fhs.hr/en/course/rhac#v1id-523827_674355_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rhac#v1id-523827_674355_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rhac#v1id-523827_674355_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rhac#v1id-523827_674355_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rhac#v1id-159983_386821_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rhac#v1id-159983_386821_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rhac#v1id-159983_386821_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rhac#v1id-159983_386821_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rpc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rhac)

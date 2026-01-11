@@ -30,7 +30,6 @@ Test apstraktnog mišljenja u jesenskom roku za sveučilišni jednopredmetni pri
   8. ****Pristupnici trebaju uzeti u obzir da nakon početka testiranja neće moći napustiti dvoranu otprilike sat vremena.
   9. ****Pristupnicima je dozvoljeno i preporučuje se imati uz sebe bocu s tekućinom.
 
-
 ****
 ****
 **Napomena: Pristupnicima se preporučuje da prouče način dolaska do Znanstveno-učilišnoga kampusa Borongaj te da prate sve obavijesti vezane uz razredbeni postupak. Posebnu pozornost obratite na učestale prometne gužve u Gradu Zagrebu, radove na cestama i ostale čimbenike koji mogu utjecati na to da testiranju pristupite na vrijeme.**
@@ -39,5 +38,3 @@ Test apstraktnog mišljenja u jesenskom roku za sveučilišni jednopredmetni pri
 ****
 ****
 ****
-  
-

@@ -12,5 +12,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Hrvatska gastronomija i enologija (188083)](https://www.fhs.hr/predmet/hge) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

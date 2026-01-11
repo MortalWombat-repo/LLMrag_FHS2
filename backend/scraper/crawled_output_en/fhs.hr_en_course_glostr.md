@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/glostr)
 
 ## Global Strategy
-  * [Basic data](https://www.fhs.hr/en/course/glostr#v1id-523776_762926_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/glostr#v1id-523776_762926_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/glostr#v1id-523776_762926_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/glostr#v1id-523776_762926_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/glostr#v1id-159941_757864_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/glostr#v1id-159941_757864_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/glostr#v1id-159941_757864_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/glostr#v1id-159941_757864_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/glostr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/glostr)

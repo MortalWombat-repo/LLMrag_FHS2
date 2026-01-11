@@ -62,5 +62,3 @@ Uredio: _Goran Dejanović -_ _16. 1. 2025. u 09:43_
   * ![](https://www.fhs.hr/_themes339/hrstud2024/default/icons_file/pdf32.png)
 [ Pravilnik o doktorskim studijima Sveučilišta u Zagrebu, rujan 2024. _[312,92 KiB]_ ](https://www.fhs.hr/_download/repository/2024-09-24_Pravilnik_o_doktorskim_studijima_2024.pdf)
 Objavljeno: _Goran Dejanović -_ _22. 1. 2025. u 12:22_
-
-

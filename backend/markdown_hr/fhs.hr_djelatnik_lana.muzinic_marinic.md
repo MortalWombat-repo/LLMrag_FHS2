@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **diplomski**
   * [Psihobiosocijalni pristup liječenju i rehabilitaciji osoba sa poteškoćama mentalnog zdravlja (285549)](https://www.fhs.hr/predmet/pplrospmz) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

@@ -16,5 +16,3 @@
 17. sjednica Povjerenstva za znanost i inovacije - 6. prosinca 2024.
 [16. sjednica Povjerenstva za znanost i inovacije - 3. prosinca 2024](https://www.fhs.hr/images/50042915/ZAPISNIK%2016.pdf).
 [15. sjednica Povjerenstva za znanost i inovacije - 29. studenog 2024.](https://www.fhs.hr/images/50042915/15.%20sjednica%20-%2029_11_24%20-%20zapisnik.pdf)
-  
-

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sos_b)
 
 ## Sociology of Space
-  * [Basic data](https://www.fhs.hr/en/course/sos_b#v1id-523837_495219_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sos_b#v1id-523837_495219_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sos_b#v1id-523837_495219_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sos_b#v1id-523837_495219_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sos_b#v1id-159990_81231_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sos_b#v1id-159990_81231_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sos_b#v1id-159990_81231_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sos_b#v1id-159990_81231_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/socpro_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sos_b)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ancphi_a)
 
 ## Ancient Philosophy
-  * [Basic data](https://www.fhs.hr/en/course/ancphi_a#v1id-523743_593651_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ancphi_a#v1id-523743_593651_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ancphi_a#v1id-523743_593651_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ancphi_a#v1id-523743_593651_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ancphi_a#v1id-159911_183481_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ancphi_a#v1id-159911_183481_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ancphi_a#v1id-159911_183481_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ancphi_a#v1id-159911_183481_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/antfil_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ancphi_a)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/araphi)
 
 ## Arabian Philosophy
-  * [Basic data](https://www.fhs.hr/en/course/araphi#v1id-523744_833251_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/araphi#v1id-523744_833251_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/araphi#v1id-523744_833251_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/araphi#v1id-523744_833251_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/araphi#v1id-159912_664006_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/araphi#v1id-159912_664006_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/araphi#v1id-159912_664006_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/araphi#v1id-159912_664006_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/arafil) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/araphi)

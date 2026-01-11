@@ -43,5 +43,3 @@ Objavljeno: _Danijela Vnučec Grdović -_ _7. 2. 2025. u 11:46_
   * ![](https://www.fhs.hr/_themes339/hrstud2024/default/icons_file/pdf32.png)
 [ Godišnje izvješće o osiguravanju kvalitete 2017-2018 _[259,56 KiB]_ ](https://www.fhs.hr/_download/repository/ZNV_20181218_6a_izvjesce_o_osiguravanju_kvalitete_u_ak_god_2017_18%5B1%5D.pdf)
 Objavljeno: _Danijela Vnučec Grdović -_ _7. 2. 2025. u 11:47_
-
-

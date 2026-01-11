@@ -12,5 +12,4 @@ ODSJEK ZA SOCIOLOGIJU
 **prijediplomski**
   * [Povijest hrvatske sociologije (172543)](https://www.fhs.hr/predmet/phs) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

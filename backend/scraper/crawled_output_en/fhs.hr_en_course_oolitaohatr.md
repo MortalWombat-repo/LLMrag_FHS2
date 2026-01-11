@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/oolitaohatr)
 
 ## Overview of Latinity in the Age of Humanism and the Renaissance
-  * [Basic data](https://www.fhs.hr/en/course/oolitaohatr#v1id-523809_587272_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/oolitaohatr#v1id-523809_587272_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/oolitaohatr#v1id-523809_587272_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/oolitaohatr#v1id-523809_587272_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/oolitaohatr#v1id-159967_831614_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/oolitaohatr#v1id-159967_831614_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/oolitaohatr#v1id-159967_831614_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/oolitaohatr#v1id-159967_831614_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/plhr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/oolitaohatr)

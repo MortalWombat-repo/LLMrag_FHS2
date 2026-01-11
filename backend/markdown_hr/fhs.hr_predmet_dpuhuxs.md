@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/dpuhuxs#v1id-904799_182281_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/dpuhuxs#v1id-904799_182281_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dpuhuxs) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/scitroci2c)
 **Šifra:** |  202475  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Mijo Beljo](https://www.fhs.hr/djelatnik/mijo.beljo)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -40,7 +37,6 @@ Termini konzultacija:
 Utorkom: 10.00 - 11.00
 Srijedom: 9.45 - 11.00
 Lokacija: 117 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/dpuhuxs?@=218c9#news_116717 "Arhiva obavijesti")

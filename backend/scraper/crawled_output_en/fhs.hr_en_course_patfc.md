@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/patfc)
 
 ## Prehistory and the First Civilisations
-  * [Basic data](https://www.fhs.hr/en/course/patfc#v1id-523812_287708_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/patfc#v1id-523812_287708_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/patfc#v1id-523812_287708_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/patfc#v1id-523812_287708_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/patfc#v1id-159969_485669_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/patfc#v1id-159969_485669_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/patfc#v1id-159969_485669_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/patfc#v1id-159969_485669_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/patfc)

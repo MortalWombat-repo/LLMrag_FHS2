@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/peas3)
 
 ## Physical Education and Sports 3
-  * [Basic data](https://www.fhs.hr/en/course/peas3#v1id-523813_6498_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/peas3#v1id-523813_6498_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/peas3#v1id-523813_6498_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/peas3#v1id-523813_6498_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/peas3#v1id-159971_201606_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/peas3#v1id-159971_201606_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/peas3#v1id-159971_201606_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/peas3#v1id-159971_201606_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/tks3) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peas3)

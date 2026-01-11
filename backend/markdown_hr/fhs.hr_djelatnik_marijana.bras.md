@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **diplomski**
   * [Palijativna skrb (226946)](https://www.fhs.hr/predmet/palskr) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

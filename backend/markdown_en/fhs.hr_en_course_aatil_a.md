@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/aatil_a)
 
 ## Approaching a text in Latin
-  * [Basic data](https://www.fhs.hr/en/course/aatil_a#v1id-523742_924439_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/aatil_a#v1id-523742_924439_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/aatil_a#v1id-523742_924439_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/aatil_a#v1id-523742_924439_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/aatil_a#v1id-159911_846901_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/aatil_a#v1id-159911_846901_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/aatil_a#v1id-159911_846901_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/aatil_a#v1id-159911_846901_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/plt_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/aatil_a)

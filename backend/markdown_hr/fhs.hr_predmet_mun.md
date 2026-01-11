@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/mun#v1id-904841_545787_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mun#v1id-904841_545787_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mun) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mie)
 **Šifra:** |  61961  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -65,7 +64,6 @@
 >  Studenti imaju mogućnost polagati dva pismena kolokvija.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. 1. Bognar, L., Matijević, M. (2005), Didaktika, Zagreb: Školska knjiga, str. 323-352., 
   2. 2. Car, V., Turčilo, L., Matović, M. (2015), Medijska pismenost - preduvjet za odgovorne medije. Sarajevo: Fakultet političkih nauka Univerziteta u Sarajevu, str. 19-38, 105-117, 121-138., 
@@ -77,7 +75,6 @@
   8. 8. Vukić, T., Younes, I., (2015.), Televizijski program kao nastavno sredstvo u stjecanju osnovnoškolskih medijskih kompetencija, u: Medijska istraživanja, Vol. 21 No. 1, str. 79-101., 
   9. Medijska pismenost i informacijsko doba, Labaš, D. (2017), Medijska pismenost i informacijsko doba, u: Josić, Lj. (ur.) Zbornik Informacijska tehnologija i mediji 2016., Zagreb: Hrvatski studiji Sveučilišta u Zagrebu., Labaš, Danijel, Hrvatski studiji Sveučilišta u Zagrebu, 2017. 
 
-  
 **Preporučena literatura:**  
   1. , 1. Buckingham, D. (2000), After the death od childhood: growing up in the age of electronic media, Cambridge: Polity Press  
 2. Erjavec K, (2005), Odgoj za medije: Od koncepta do školske prakse, u: Zgrabljić Rotar N., Medijska pismenost i civilno društvo, Sarajevo: MediaCentar  
@@ -94,16 +91,15 @@
 13. Uldrijan, I. (2011) Zašto odgajati za medije? Mediji kao "odgojitelji" u doba odgojne krize, u: Labaš, D. (ur.) Komunikacija i mediji u krizi, Zagreb, Hrvatski studiji Sveučilišta u Zagrebu.  
 14. Zgrabljić Rotar, N. (2005), Mediji - Medijska pismenost, medijski sadržaji i medijski utjecaji, u: Zgrabljić Rotar, N., Medijska pismenost i civilno društvo, Sarajevo: MediaCentar, str. 9-43., , , .
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -111,14 +107,13 @@
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/mun?@=20ox1#news_80458 "Arhiva obavijesti")

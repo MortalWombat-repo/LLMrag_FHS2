@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/isizhp1s#v1id-904824_448737_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/isizhp1s#v1id-904824_448737_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/isizhp1s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rgiosfcht1c)
 **Šifra:** |  130523  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -33,11 +32,9 @@
   5. biti upoznat s arhivskim gradivom koje se odnosi na hrvatsku povijest 19. stoljeća u Hrvatskom državnom arhivu, Arhivu Hrvatske akademije znanosti i umjetnosti i Državnom arhivu u Zagrebu
   6. biti upoznat s načinom na koji se pronalazi određena arhivska građa
 
-  
 **Literatura:**  
   1. Gross, Mirjana.; Suvremena historiografija. Korijeni, postignuća, traganja.; (2001), str. 172-188, 356-416, 
 
-  
 **Preporučena literatura:**  
   1. , Bloch, Marc.; Apologija historije ili Zanat povjesničara.; (2008), , , .
   2. , Brkljačić, Maja - Prlenda, Sandra (prir.).; Kultura pamćenja i historija.; (2006), , , .
@@ -51,7 +48,6 @@
   10. , Roksandić, Drago (ur.).; Uvod u komparativnu historiju.; (2004), , , .
   11. , Šokčević, Dinko.; Hrvati u očima Mađara, Mađari u očima Hrvata. Kako se u pogledu preko Drave mijenjala slika Drugoga.; (2006), , , .
 
-  
 **3. semestar**  
 ---  
 > **POV-dipl (5390): Istraživačke skupine** - Redovni smjer - Znanstveni  
@@ -60,7 +56,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)**: 
 Srijedom od 11:15 do 12:15.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/isizhp1s?@=21ldn#news_87870)

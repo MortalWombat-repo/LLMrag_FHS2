@@ -19,5 +19,4 @@ Fakultet hrvatskih studija
   * [Demokratske promjene u Republici Hrvatskoj (202702)](https://www.fhs.hr/predmet/dpurh_a) - Seminar
   * [Hrvatsko proljeće: intelektualna i politička povijest (285735)](https://www.fhs.hr/predmet/hpipp) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

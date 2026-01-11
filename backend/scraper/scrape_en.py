@@ -42,7 +42,8 @@ async def main():
     english_path_filter = URLPatternFilter(
     # We require the full domain followed by /en/ to prevent veering off
     patterns=[
-    f"https://{TARGET_DOMAIN}/en/*"
+    f"https://{TARGET_DOMAIN}/en/*",
+    f"https://{TARGET_DOMAIN}/staff/*"
     ])
     # reverse is False by default, meaning it acts as an inclusion filter 
     

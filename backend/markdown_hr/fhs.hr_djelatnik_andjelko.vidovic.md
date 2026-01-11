@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Specifična psihopatologija (28732)](https://www.fhs.hr/predmet/spepsi) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

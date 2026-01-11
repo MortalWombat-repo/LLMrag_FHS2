@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/f1s_a#v1id-904803_401924_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/f1s_a#v1id-904803_401924_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/f1s_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/1cp)
 **Šifra:** |  213953  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -63,10 +62,8 @@
 >  15. Neokantizam, neoskolastika i neotomizam.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija i kultura  
@@ -75,7 +72,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic)**: 
 Srijedom od 13:00 do 14:00
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/f1s_a?@=21mtm#news_120173)

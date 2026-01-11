@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ftaaoec)
 
 ## Funeral Traditions and Architecture of Egyptian Civilization
-  * [Basic data](https://www.fhs.hr/en/course/ftaaoec#v1id-523777_327806_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ftaaoec#v1id-523777_327806_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ftaaoec#v1id-523777_327806_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ftaaoec#v1id-523777_327806_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ftaaoec#v1id-159938_787322_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ftaaoec#v1id-159938_787322_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ftaaoec#v1id-159938_787322_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ftaaoec#v1id-159938_787322_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/poase) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ftaaoec)

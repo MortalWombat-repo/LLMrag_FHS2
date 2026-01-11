@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rhe)
 
 ## Rhetorics
-  * [Basic data](https://www.fhs.hr/en/course/rhe#v1id-523828_311028_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rhe#v1id-523828_311028_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rhe#v1id-523828_311028_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rhe#v1id-523828_311028_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rhe#v1id-159982_835435_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rhe#v1id-159982_835435_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rhe#v1id-159982_835435_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rhe#v1id-159982_835435_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ret) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rhe)

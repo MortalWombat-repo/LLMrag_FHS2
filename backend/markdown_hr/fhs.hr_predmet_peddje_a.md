@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/peddje_a#v1id-904850_14117_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/peddje_a#v1id-904850_14117_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/peddje_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/chiped)
 **Šifra:** |  226199  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -40,7 +37,7 @@
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >  **SOC-dipl (4420): Izborni kolegiji u zimskom semestru (ZN/NAST smjer)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
@@ -50,7 +47,7 @@
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
@@ -66,7 +63,7 @@
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >  **SOC-dipl (4420): Izborni kolegiji u zimskom semestru (ZN/NAST smjer)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
@@ -79,12 +76,12 @@
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **5. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **POV (3517) - izborni TZP** - Redovni studij - Povijest  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **POV (3517) - izborni TZP** - Redovni studij - Povijest  
@@ -93,7 +90,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)**: 
 petkom od 8.00 do 9.00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/peddje_a?@=21m3h#news_121263)

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ternas1#v1id-904881_38334_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ternas1#v1id-904881_38334_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ternas1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/fie1)
 **Šifra:** |  226646  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac)   
-  
+
 **Izvođači:** |  [Ivan Nađ](https://www.fhs.hr/djelatnik/ivan.nadj), mag. educ. math. - Terenske vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -95,10 +94,8 @@
 >  15. Testiranje rezultata terenskoga razmatranja  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -110,7 +107,6 @@ Lokacija: 710 (zgrada 77)
   * **[Ivan Nađ](https://www.fhs.hr/djelatnik/ivan.nadj), mag. educ. math.**: 
 ponedjeljkom 13:00 - 14:00 ili po dogovoru
 Lokacija: 710 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ternas1?@=21g9r#news_121116 "Arhiva obavijesti")

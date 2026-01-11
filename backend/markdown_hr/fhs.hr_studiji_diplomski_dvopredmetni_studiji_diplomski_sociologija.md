@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/sociologija#v1id-904757_828636_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/sociologija#v1id-904757_828636_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -205,4 +204,4 @@ ECTS | SOC-dipl (4469): Izborni kolegiji
 5.0 |  [Sociologija upravljanja ljudskim potencijalima (269856)](https://www.fhs.hr/predmet/sulp_a) Matić, R. |  | 45 15P+15PK+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=0zzo5jQOvYiYzFZ5pwfOhmegQu2yMpExg-Lvdb25oHz6H3UbPuPNNwgjYG68sKSTt68MQokXqA9L3JKcAVD5wB5O1KZMhyUWJRxBVymnse7ASwEPRSiPSSc8QuKVYc4P8LMbsYsSMddy3Zi4iApPw0aE4RT9T2MIbxrczaH-3p-CyHJua7FeLFpCLWFbNyATrnQKaA==&_v1flags=yyJOKZ8FuFsgZ-6i0QT73SHB_AATLSSgifrF9mOW9HYdhtSXiqPruOk6uBnzRTuFC_SiYkdctaHKFlgHzg4-T34I73IH5UuLUQ6bhGYoTLfvlDsfBEPgyCpGYt8-AaC0ux3pyfKjl8bazrn9oqiFdOUpcmIvMk5099oxWmHWnx9D8eZ1&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Strategije za aktivno učenje (214637)](https://www.fhs.hr/predmet/szau_a) * Bušljeta Kardum, R. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Z3Nq-t7QJnyee5Y_tnYik_EQTBGuXNUnP1yqb-PT-unWfy2jae0Sl-KaJF_jpvtE7UZyBkSYXtbBiecSxLNk43kibL0MCNDxYIGoa1N4Vm6viM-EvEteUSjdig7OWzBsOn-lwEJzSz_byLROBBJDByEO_wKYztKB3Pwn-OxdOoAUtphNBaZ6TFYi7Vrjv57XcPr1dw==&_v1flags=3hJwcLsSvuBFaLFHnOYKDmGzklV1Xw3gUzamt9evRnKBR9OdOcf3pshqKxCE0IZ-iVEqym0E1_3NZfpO5Uc-yuNlMgaWsG_O_3q2P0DBXzBozvPPPzfVASdK9UHUnBa2ywCM7jE2emAiVOPyptyruoTGeKuYMMtbt-06k4VwqoQnf0LE&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

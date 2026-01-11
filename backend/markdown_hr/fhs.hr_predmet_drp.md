@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/drp#v1id-904800_929500_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/drp#v1id-904800_929500_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/drp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/dtss)
 **Šifra:** |  64811  
-  
+
 ---|---  
 **ECTS:** |  30.0   
 **Nositelji:** |   
@@ -25,7 +24,7 @@ nasl. prof. dr. sc. [Nenad Pokos](https://www.fhs.hr/djelatnik/nenad.pokos) - Se
 doc. dr. sc. [Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic) - Seminar  
 prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad) - Seminar  
 izv. prof. dr. sc. [Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -38,11 +37,9 @@ izv. prof. dr. sc. [Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic
 > Diplomski rad je cjelovita, sveobuhvatna i visoko nezavisna obveza kojom student završava studij, te mora pokazati svoju sposobnost u analiziranju zadanoga problema ili tematike s teorijskog, praktičnog ili istraživačkog stajališta u onom znanstvenom polju ili grani u kojoj je ustrojen studij koji student završava. Cilj je predmeta da student pokaže poznavanje teme, sposobnost samostalnog istraživanja, korištenja literature i primjenu znanstvene i stručne metodologije.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mentor je dogovara sa svakim studentom ovisno o temi diplomskog rada.;, 
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni smjer - Znanstveni  
@@ -69,7 +66,7 @@ Lokacija: 103
 Srijedom od 11:15 do 12:15.
 Lokacija: 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
   * **prof. dr. sc.[Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad)**: 
@@ -80,7 +77,6 @@ Lokacija: 25
   * **izv. prof. dr. sc.[Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic)**: 
 Četvrtkom od 12.30-13.30
 Lokacija: 11 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/drp?@=20ox7#news_82194 "Arhiva obavijesti")

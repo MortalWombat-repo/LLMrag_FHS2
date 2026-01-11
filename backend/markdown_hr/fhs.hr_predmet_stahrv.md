@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/stahrv#v1id-904876_877598_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/stahrv#v1id-904876_877598_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/stahrv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cropop)
 **Šifra:** |  226641  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -90,10 +89,8 @@
 >  15. Mjere populacijske politike.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -102,7 +99,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac)**: 
 Ponedjeljak, 11:30 - 12:30h ili prema prethodnom dogovoru e-mailom.
 Lokacija: 710 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/stahrv?@=21g9p#news_121144 "Arhiva obavijesti")

@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/kszsc_a#v1id-904831_677074_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kszsc_a#v1id-904831_677074_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kszsc_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/camcomc_a)
 **Šifra:** |  202860  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -25,23 +24,21 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **LAT _DIPL_DVP ( 17064) - Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **LAT-dipl (7584): Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **LAT _DIPL_DVP ( 17064) - Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >  **LAT-dipl (7584): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -49,7 +46,7 @@
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **LAT _DIPL_DVP ( 17064) - Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >  **LAT-dipl (7584): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -58,7 +55,6 @@
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/kszsc_a?@=21dog#news_116836)

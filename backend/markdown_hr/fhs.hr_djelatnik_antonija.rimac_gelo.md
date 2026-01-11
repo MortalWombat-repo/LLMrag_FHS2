@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Poslovno komuniciranje (117216)](https://www.fhs.hr/predmet/poskom) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

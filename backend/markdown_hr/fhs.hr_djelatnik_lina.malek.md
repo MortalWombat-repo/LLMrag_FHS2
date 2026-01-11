@@ -12,5 +12,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Hrvatska usmena književnost (45833)](https://www.fhs.hr/predmet/huk) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

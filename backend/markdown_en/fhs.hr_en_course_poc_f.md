@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poc_f)
 
 ## Philosophy of Culture
-  * [Basic data](https://www.fhs.hr/en/course/poc_f#v1id-523817_19791_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poc_f#v1id-523817_19791_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poc_f#v1id-523817_19791_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poc_f#v1id-523817_19791_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poc_f#v1id-159973_785668_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poc_f#v1id-159973_785668_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poc_f#v1id-159973_785668_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poc_f#v1id-159973_785668_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filkul_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poc_f)

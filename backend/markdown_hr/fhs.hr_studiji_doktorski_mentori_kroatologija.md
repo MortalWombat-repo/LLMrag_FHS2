@@ -27,7 +27,6 @@
 **izv. prof. dr. sc. Davor Piskač:** Maja Adžija, Nina Lekić (prvi mentor), Anja Novak
 **prof. dr. sc. Sanja Vulić Vranković:** Jelena Gazivoda (u mirovanju), Tena Babić Sesar, Andrea Šabić (prvi mentor), Marija Konsuo Kuzmanić 
 **prof. dr. sc. Dubravka Zima:** Martina Jurišić (u mirovanju), Monika Jurkovac
-  
 
 ## Repozitorij
 Repozitorij je prazan

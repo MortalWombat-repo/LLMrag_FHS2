@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/iotcpsats)
 
 ## Institutions of the Croatian people, society and the state
-  * [Basic data](https://www.fhs.hr/en/course/iotcpsats#v1id-523788_702841_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/iotcpsats#v1id-523788_702841_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/iotcpsats#v1id-523788_702841_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/iotcpsats#v1id-523788_702841_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/iotcpsats#v1id-159948_619777_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/iotcpsats#v1id-159948_619777_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/iotcpsats#v1id-159948_619777_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/iotcpsats#v1id-159948_619777_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ihndd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/iotcpsats)
@@ -14,7 +14,7 @@
 **ECTS:** |  2.0   
 **Lecturers in charge:** |  doc. dr. sc. [Vlatko Smiljanić](https://www.fhs.hr/staff/vlatko.smiljanic)   
   
-**Lecturers:** |  doc. dr. sc. [Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic) - Seminar  
+**Lecturers:** |  [Bruno Šagi](https://www.fhs.hr/djelatnik/bruno.sagi) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -66,9 +66,6 @@
 >   
 Consultations schedule: 
   * **doc. dr. sc.[Vlatko Smiljanić](https://www.fhs.hr/staff/vlatko.smiljanic)**: 
-by agreement with prior notice by e-mail
-Location: zgrada 77, ured 718 
-  * **doc. dr. sc.[Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic)**: 
 by agreement with prior notice by e-mail
 Location: zgrada 77, ured 718 
 

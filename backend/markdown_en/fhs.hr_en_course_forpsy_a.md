@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/forpsy_a)
 
 ## Forensic Psychiatry
-  * [Basic data](https://www.fhs.hr/en/course/forpsy_a#v1id-523776_421848_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/forpsy_a#v1id-523776_421848_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/forpsy_a#v1id-523776_421848_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/forpsy_a#v1id-523776_421848_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/forpsy_a#v1id-159939_289641_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/forpsy_a#v1id-159939_289641_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/forpsy_a#v1id-159939_289641_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/forpsy_a#v1id-159939_289641_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/forpsi_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/forpsy_a)

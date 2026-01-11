@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/sociologija#v1id-904771_23482_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/sociologija#v1id-904771_23482_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -624,4 +623,4 @@ ECTS | SOC (3502) - Izborni kolegiji (1.)-6. sem.
 4.0 |  [Povijest hrvatske sociologije (172543)](https://www.fhs.hr/predmet/phs) Matić, R. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=mf7jEhfPCyltC0_H_C51wfzngg8Ke3qM7t-8HDhkJf3tU5nbZbBl2WEPcpvnOwrXFE_uFtovqXZsb5BG8yFOFEEZrqabt7YgxwHcNep-TIAVy_-07GNDC0mVSKly8_GhsSwiOAnBEjWkQGpPKhp4j5vzvdJNvlloOPc2GkYNnlJkofEbi_ubwzsUV4X3P6dEK9z4Xg==&_v1flags=7bIvHo4KHa-hdQD_98jAkKE9m8r8mpNHp80S2yKdUvqlY38wuidL857zQljD3m-j1mUyOb9Rzp0JhS5Yu1WnLANOmS8bMbVu28iRIh4h0Umzv0QH1FSh6fy8Gv54lIkfum-4biKfMZAOK8UPmn9Xv2GqHqxMmvJag9s-z6afv8TLg7aN&_lid=82933&_rand=0',%20''\))  
 4.0 |  [Sociologija marketinga (269451)](https://www.fhs.hr/predmet/socmar) Matić, R. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=FVE3E2WajeDY6zbFBVKRXgbLygdnvh3IKB_gaDtjU-AWt3z0XEGW20oHnFqKNBvWJSlPHoiRBzd3Rana62r9s1OaGjVZzWq5eUN-SSYnGEBE91aVt_ul209Te_3mkNzNjczhylIS9YU6R-ZXYsUR2k43C2184U39JK52LxvcGhZAa6dMjC0C-HFdbrZNmwesquG8Qw==&_v1flags=b1Yw24PKeOnSRwtN4QMnGyreIlGQK00HVA-w8dFanoYRV7yxrF6XSiuS3r69PunYqc7i3658GiWdC9t1k0by_K_iE9Op2SAqVk-9fld4Un4BU0zB5k7PXbeV1cbdpgm3019TLrlvesnonqEfOkGjdRCdaSDL6duSHDzLdoVWapejYUJl&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

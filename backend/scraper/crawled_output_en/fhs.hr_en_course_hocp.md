@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hocp)
 
 ## History of Croatian Philosophy
-  * [Basic data](https://www.fhs.hr/en/course/hocp#v1id-523782_375393_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hocp#v1id-523782_375393_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hocp#v1id-523782_375393_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hocp#v1id-523782_375393_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hocp#v1id-159946_220105_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hocp#v1id-159946_220105_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hocp#v1id-159946_220105_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hocp#v1id-159946_220105_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phf_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hocp)

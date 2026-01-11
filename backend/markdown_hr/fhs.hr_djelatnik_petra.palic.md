@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **diplomski**
   * [Regionalna ekonomika (238022)](https://www.fhs.hr/predmet/regeko) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

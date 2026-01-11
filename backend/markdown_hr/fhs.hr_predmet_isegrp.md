@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/isegrp#v1id-904823_670083_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/isegrp#v1id-904823_670083_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/isegrp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rgsoegarh)
 **Šifra:** |  96373  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,13 +26,11 @@
 > Upoznavanje s metodama rada na povijesnim izvorima stare povijesti, poblemima obrade, analize i interpretacije te vrstama izvora. Tijekom uvodnih predavanja upoznati studente s najvažnijim izvorima povijesti Egipta, Grčke i Rima. Praktičnim radom podučiti studente kako tumačiti raspoložive povijesne izvore i kako ih iskoristiti u raznim oblicima povijesnih istraživanja i pisanim radovima. Upoznati studente s fundusom muzejskih institucija u Hrvatskoj i bazama podatka muzejskih institucija u svijetu. Upoznati studente sa svjetskim bazama podataka pisanih povijesnih izvora.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Pritchard, B. (ur.); Ancient Near Eastern Texts relating to the Old Testament, Princeton; (1969), 
   2. Corpus Inscriptionum Latinarum, Berlin;, 
   3. Corpus Inscriptionum Greacarum, Berlin;, 
 
-  
 **3. semestar**  
 ---  
 > **POV-dipl (5390): Istraživačke skupine** - Redovni smjer - Znanstveni  
@@ -44,7 +41,6 @@ Ponedjeljak 7:30-8:00 (prema dogovoru) i nakon predavanja te prema dogovoru.
 Nastava u ljetnom semestru: ponedjeljak 8:00-9:30, 9:35-11:05.
 Nastava u zimskom semestru: ponedjeljak 8:00-12:40, utorak 8:00-11:05.
 Lokacija: 25 
-
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/1b51aef63723ed91a53c19f282a4f5276344_icon.png) ](https://www.fhs.hr/predmet/isegrp?@=21u5n#news_81144)

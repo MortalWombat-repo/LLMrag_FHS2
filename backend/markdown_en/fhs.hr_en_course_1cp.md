@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/1cp)
 
 ## 19th Century Philosophy
-  * [Basic data](https://www.fhs.hr/en/course/1cp#v1id-523743_297440_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/1cp#v1id-523743_297440_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/1cp#v1id-523743_297440_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/1cp#v1id-523743_297440_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/1cp#v1id-159911_734011_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/1cp#v1id-159911_734011_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/1cp#v1id-159911_734011_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/1cp#v1id-159911_734011_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/f1s_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/1cp)

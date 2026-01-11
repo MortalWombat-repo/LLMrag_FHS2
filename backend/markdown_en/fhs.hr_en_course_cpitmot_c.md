@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cpitmot_c)
 
 ## Correlation Practicum in the Methodology of Teaching
-  * [Basic data](https://www.fhs.hr/en/course/cpitmot_c#v1id-523760_319002_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cpitmot_c#v1id-523760_319002_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cpitmot_c#v1id-523760_319002_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cpitmot_c#v1id-523760_319002_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cpitmot_c#v1id-159926_431018_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cpitmot_c#v1id-159926_431018_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cpitmot_c#v1id-159926_431018_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cpitmot_c#v1id-159926_431018_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kvnp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cpitmot_c)
@@ -15,10 +15,10 @@
 **Lecturers in charge:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/staff/marjan.nincevic)   
 izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/staff/katarina.dadic)   
   
-**Lecturers:** |  [Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Seminar  
+**Lecturers:** |  dr. sc. Martina Horvat - Seminar  
   
 izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic) - Methodology exercises  
-[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Methodology exercises  
+dr. sc. Martina Horvat - Methodology exercises  
 doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic) - Methodology exercises  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
@@ -70,9 +70,6 @@ Consultations schedule:
   * **doc. dr. sc.[Marjan Ninčević](https://www.fhs.hr/staff/marjan.nincevic)**: 
 Wednesdays from 1 to 2 p. m., room number 106
 Location: 106 
-  * **[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed.**: 
-Thursday, 11.00 - 12.00
-Location: Zgrada knjižnice 
   * **doc. dr. sc.[Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)**: 
 Wednesdays from 1 to 2 p. m., room number 106
 Location: 106 

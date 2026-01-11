@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sof_b)
 
 ## Sociology of Food
-  * [Basic data](https://www.fhs.hr/en/course/sof_b#v1id-523836_355320_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sof_b#v1id-523836_355320_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sof_b#v1id-523836_355320_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sof_b#v1id-523836_355320_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sof_b#v1id-159990_407199_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sof_b#v1id-159990_407199_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sof_b#v1id-159990_407199_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sof_b#v1id-159990_407199_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/socpre_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sof_b)
@@ -12,7 +12,7 @@
   
 ---|---  
 **ECTS:** |  4.0   
-**Lecturers in charge:** |  doc. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/staff/marica.marinovic_golubic)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/staff/marica.marinovic_golubic)   
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   

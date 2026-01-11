@@ -30,7 +30,6 @@ ODSJEK ZA KROATOLOGIJU
   * [Teorija i interpretacija književnoga teksta (188073)](https://www.fhs.hr/predmet/tikt) - Nositelj, Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Hrvatski književnici europskih i svjetskih referencija (201770)](https://www.fhs.hr/predmet/hkesr) - Nositelj, Seminar
   * [Književnost i kultura Hrvata u dijaspori (57134)](https://www.fhs.hr/predmet/kkhud) - Nositelj
@@ -41,7 +40,6 @@ ODSJEK ZA KROATOLOGIJU
   * [Diplomski rad (64813)](https://www.fhs.hr/predmet/diprad_a) - Seminar
   * [Diplomski rad (215308)](https://www.fhs.hr/predmet/diprad_h) - Seminar
   * [Diplomski rad (POV-zn_smjer) (64811)](https://www.fhs.hr/predmet/drp) - Seminar
-
 
 #### Životopis
 Domagoj Brozović rođen je u Koprivnici 10. travnja 1983. god. Osnovnu školu i opću gimnaziju polazio je u Đurđevcu. Početkom 2008. god. završio je predbolonjski studij filozofije i hrvatskoga jezika i književnosti na Filozofskom fakultetu Sveučilišta u Zagrebu te time stekao zvanje profesora.

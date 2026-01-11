@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/lpae_a)
 
 ## Latin Paleography and Epigraphy
-  * [Basic data](https://www.fhs.hr/en/course/lpae_a#v1id-523797_323042_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/lpae_a#v1id-523797_323042_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/lpae_a#v1id-523797_323042_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/lpae_a#v1id-523797_323042_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/lpae_a#v1id-159957_654424_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/lpae_a#v1id-159957_654424_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/lpae_a#v1id-159957_654424_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/lpae_a#v1id-159957_654424_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/lpe_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lpae_a)
@@ -12,11 +12,11 @@
   
 ---|---  
 **ECTS:** |  5.0   
-**Lecturers in charge:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
   
-**Lecturers:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
+**Lecturers:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
   
-doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Proofreading exercises  
+izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Proofreading exercises  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   

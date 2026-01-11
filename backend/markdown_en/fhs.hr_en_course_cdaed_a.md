@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cdaed_a)
 
 ## Croatian Diaspora and Entire Development
-  * [Basic data](https://www.fhs.hr/en/course/cdaed_a#v1id-523750_972952_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cdaed_a#v1id-523750_972952_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cdaed_a#v1id-523750_972952_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cdaed_a#v1id-523750_972952_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cdaed_a#v1id-159917_61877_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cdaed_a#v1id-159917_61877_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cdaed_a#v1id-159917_61877_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cdaed_a#v1id-159917_61877_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hiur_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cdaed_a)

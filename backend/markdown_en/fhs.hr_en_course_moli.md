@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/moli)
 
 ## Methodology of Literary Interpretation
-  * [Basic data](https://www.fhs.hr/en/course/moli#v1id-523805_288619_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/moli#v1id-523805_288619_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/moli#v1id-523805_288619_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/moli#v1id-523805_288619_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/moli#v1id-159964_774437_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/moli#v1id-159964_774437_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/moli#v1id-159964_774437_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/moli#v1id-159964_774437_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mikt) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/moli)

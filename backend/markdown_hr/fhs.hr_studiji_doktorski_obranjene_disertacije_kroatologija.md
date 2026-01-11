@@ -87,8 +87,5 @@
 
   43. **Marinko Šišak** : _Republikanski etos Dubrovačke Republike: odgojne teorije i praksa_. Doktorat izvan doktorskog studija. Mentor: prof. dr. sc. Marko Pranjić. Datum obrane: 14. 02. 2011.
 
-
-  
-
 ## Repozitorij
 Repozitorij je prazan

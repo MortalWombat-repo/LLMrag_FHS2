@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/digsoc#v1id-904797_75_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/digsoc#v1id-904797_75_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/digsoc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/digsoc)
 **Šifra:** |  227716  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Erik Brezovec](https://www.fhs.hr/djelatnik/erik.brezovec)   
-  
+
 **Izvođači:** |  dr. sc. [Marija Zelić](https://www.fhs.hr/djelatnik/marija.zelic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Svi elementi nastave na predmetu provode se na engleskom jeziku. Ova razina uključuje i predmete s više nastavnih grupa (u hrvatskoj grupi nastava je isključivo na hrvatskom jeziku, a u engleskoj grupi isključivo na engleskom jeziku).   
 **Opterećenje:**  
@@ -67,10 +66,8 @@
 >  14. Završno predavanje i ponavljanje  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **SOC-dipl (16536): Izborni kolegiji u 3. semestru** - Redovni smjer - Znanstveni  
@@ -82,7 +79,6 @@ Lokacija: 018
   * **dr. sc.[Marija Zelić](https://www.fhs.hr/djelatnik/marija.zelic)**: 
 Po dogovoru uz najavu na e-mail: mzelic@hrstud.hr
 Lokacija: 018 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/digsoc?@=21m1q#news_121480)

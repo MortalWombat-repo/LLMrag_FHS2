@@ -23,7 +23,3 @@ Objavljeni zbornici:
   * [_Zbornik o Miloradu Mediniju_](https://www.fhs.hr/images/50043113/Medini_merged.pdf), Zagreb, 2018.
   * [_Zbornik o Ljubomiru Marakoviću_](https://www.fhs.hr/images/50043113/Marakovic_merged.pdf), Zagreb, 2020.
   * [_Zbornik o Slavku Ježiću_](https://www.fhs.hr/images/50043113/Jezic%2018%20merged.pdf), Zagreb, 2022.
-
-
-  
-

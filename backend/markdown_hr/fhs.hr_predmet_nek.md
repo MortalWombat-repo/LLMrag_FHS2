@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/nek#v1id-904843_72154_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/nek#v1id-904843_72154_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/nek) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/nec)
 **Šifra:** |  187891  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,23 +28,21 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
-  
+
 **4. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
-  
+
 **6. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
@@ -53,7 +50,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)**: 
 Utorkom, 14:30 - 15:30
 Lokacija: 18 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/nek?@=21ajl#news_114101)

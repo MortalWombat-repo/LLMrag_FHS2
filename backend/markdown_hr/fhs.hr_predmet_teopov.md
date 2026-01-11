@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/teopov#v1id-904931_630343_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/teopov#v1id-904931_630343_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/teopov) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/toh)
 **Šifra:** |  61951  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,7 +26,6 @@
 > Cilj kolegija je upoznati studente s osnovnim podacima i teorijskim gledištima na povijesnu znanost. Upoznati ih s recentnim teorijskim okvirima i njihovoj primjeni na konkretna povijesna istraživanja. Osposobiti studente za samostalno istraživanje i interpretiranje historiografskih djela.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. M. Gross; Suvremena historiografija: Korijeni, postignuća, traganja; Novi LIber, Zagreb (2001), 
   2. K. Jenkins; Promišljanje historije; Srednja Europa Zagreb (2008), 
@@ -35,17 +33,15 @@
   4. E. H. Carr; Što je povijest; Srednja Europa Zagreb (2004), 
   5. L. Hunt; Nova kulturna historija; Naklada Ljevak, Zagreb (2001), 
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
 >   
 Termini konzultacija: 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/teopov?@=21jk7#news_77818)

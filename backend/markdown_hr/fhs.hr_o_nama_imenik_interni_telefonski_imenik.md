@@ -25,7 +25,7 @@ Služba za nastavu i studente - Marija Šerić | 7646
 025 | Ured Prodekana za nastavu i studente - Vanja Kopilaš | 7637  
 026 | Ured voditeljice Službe za nastavu i studente - Danijela Vnučec Grdović | 7617  
 027 | Rasporedar nastave - Tomislav Rapić  
-  
+
 |  7630  
 028 | Služba za znanost i projekte - Tea Cacović | 7668  
 Služba za nastavu i studente - Blaženka Nedić | 7621  
@@ -95,6 +95,4 @@ Veliki kabinet | LAT - Š. Demo, M. Matasović | 7645
 77/718 | KRO - Vlatko Smiljanić | 7665  
 78/17 | CUHJ - Antonia Ordulj | 7605  
 78/18 | Korejski jezik | 7641  
-78/23 | FIL - Ivo Džinić | 7622  
-  
-
+78/23 | FIL - Ivo Džinić | 7622

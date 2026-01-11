@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poob)
 
 ## Psychology of Organisational Behaviour
-  * [Basic data](https://www.fhs.hr/en/course/poob#v1id-523820_231226_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poob#v1id-523820_231226_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poob#v1id-523820_231226_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poob#v1id-523820_231226_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poob#v1id-159975_866555_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poob#v1id-159975_866555_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poob#v1id-159975_866555_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poob#v1id-159975_866555_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppuo) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poob)

@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/pupd_b#v1id-904864_645066_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pupd_b#v1id-904864_645066_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pupd_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lbapd_b)
 **Šifra:** |  201263  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,15 +25,13 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar**  
 > **EDU (17148): Nastavnički modul - Obvezni kolegiji** - Redovni studij - Filozofija  
 >  **EDU (17148): Nastavnički modul - Obvezni kolegiji** - Redovni studij - Hrvatski latinitet  
@@ -46,11 +43,11 @@
 >  **DIPL(18149): Izborno (NASTAVNIČKI MODUL)** - Redovni smjer - Znanstveni  
 >  **DIPL(18149): Izborno (NASTAVNIČKI MODUL)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar**  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
@@ -58,7 +55,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)**: 
 Utorak, 11-12 sati
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pupd_b?@=21mup#news_116095)

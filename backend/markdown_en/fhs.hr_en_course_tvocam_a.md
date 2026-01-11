@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tvocam_a)
 
 ## The Violence of Children and Minors
-  * [Basic data](https://www.fhs.hr/en/course/tvocam_a#v1id-523844_948512_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tvocam_a#v1id-523844_948512_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tvocam_a#v1id-523844_948512_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tvocam_a#v1id-523844_948512_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tvocam_a#v1id-159997_177739_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tvocam_a#v1id-159997_177739_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tvocam_a#v1id-159997_177739_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tvocam_a#v1id-159997_177739_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ndm_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tvocam_a)

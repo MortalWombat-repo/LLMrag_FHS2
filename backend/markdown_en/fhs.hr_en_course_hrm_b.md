@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hrm_b)
 
 ## Human resources management
-  * [Basic data](https://www.fhs.hr/en/course/hrm_b#v1id-523786_105619_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hrm_b#v1id-523786_105619_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hrm_b#v1id-523786_105619_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hrm_b#v1id-523786_105619_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hrm_b#v1id-159948_425215_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hrm_b#v1id-159948_425215_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hrm_b#v1id-159948_425215_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hrm_b#v1id-159948_425215_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ulp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hrm_b)

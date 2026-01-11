@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ppos)
 
 ## Public Promotion of Science
-  * [Basic data](https://www.fhs.hr/en/course/ppos#v1id-523820_850306_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ppos#v1id-523820_850306_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ppos#v1id-523820_850306_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ppos#v1id-523820_850306_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ppos#v1id-159976_740412_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ppos#v1id-159976_740412_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ppos#v1id-159976_740412_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ppos#v1id-159976_740412_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mjpz) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ppos)

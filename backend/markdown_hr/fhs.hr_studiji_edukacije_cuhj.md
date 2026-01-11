@@ -5,10 +5,8 @@ Među djelatnosti Fakulteta hrvatskih studija pripada znanstveno-istraživačka 
 Centar za učenje hrvatskoga jezika osnovan je odlukom Fakultetskoga vijeća 4. prosinca 2020. o donošenju Statuta Fakulteta hrvatskih studija. Njime je određen kao ustrojna jedinica Fakulteta koja se bavi nastavnim i stručnim radom te razvijanjem stručnih i inih studijskih programa u povezanosti s praksom, izvodi program osposobljavanja i usavršavanja u hrvatskom jeziku kao dio sustava cjeloživotne naobrazbe i priprema studijski program preddiplomskoga stručnoga studija hrvatskoga jezika.
 U Centru se poučava hrvatski standardni jezik kao sredstvo javnoga sporazumijevanja, kao bitna sastavnica kulturnoga identiteta i nacionalno sredstvo izražavanja kulture. Svojim djelovanjem Centar promiče interkulturalnost i višejezičnost u Europi kao njezina identitetska obilježja.
 Osim klasičnoga načina učenja hrvatskoga jezika u fakultetskim predavaonicama, polaznici Centra uče i usvajaju hrvatski jezik sudjelovanjem u različitim zajedničkim aktivnostima sa zaposlenicima Centra.  
-  
 
 Voditeljica Centra: doc. dr. sc. [Antonia Ordulj](javascript:cms_mail\('aordulj','fhs.hr','',''\))
-  
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/9b0618435984a823654417471d4d362f4280_icon.jpg) ](https://www.fhs.hr/studiji/edukacije/cuhj?@=21tbw#news_131811)

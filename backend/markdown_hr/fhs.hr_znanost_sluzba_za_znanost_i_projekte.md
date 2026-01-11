@@ -9,5 +9,3 @@ Redovito obavještavanje zaposlenika Fakulteta hrvatskih studija o mogućnostima
 **Kontakt:** [**Tea Cacović**](https://www.fhs.unizg.hr/djelatnik/tea.cacovic), dipl. fil., voditeljica Službe za znanost i projekte
 **e-adresa:** [tcacovic@fhs.unizg.hr](javascript:cms_mail\('tcacovic','fhs.unizg.hr','',''\)); [projekti@fhs.hr](javascript:cms_mail\('projekti','fhs.hr','',''\))
 **telefon:** (01) 245 7668
-  
-

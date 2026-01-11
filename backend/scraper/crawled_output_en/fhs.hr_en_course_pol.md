@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pol)
 
 ## Psychology of Learning
-  * [Basic data](https://www.fhs.hr/en/course/pol#v1id-523817_630058_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pol#v1id-523817_630058_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pol#v1id-523817_630058_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pol#v1id-523817_630058_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pol#v1id-159974_550431_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pol#v1id-159974_550431_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pol#v1id-159974_550431_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pol#v1id-159974_550431_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psiuce) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pol)

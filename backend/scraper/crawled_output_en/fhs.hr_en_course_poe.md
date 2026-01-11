@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poe)
 
 ## Philosophy of Education
-  * [Basic data](https://www.fhs.hr/en/course/poe#v1id-523818_277684_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poe#v1id-523818_277684_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poe#v1id-523818_277684_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poe#v1id-523818_277684_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poe#v1id-159974_484118_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poe#v1id-159974_484118_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poe#v1id-159974_484118_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poe#v1id-159974_484118_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filodg) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poe)

@@ -13,9 +13,6 @@
 **dr. sc. Boris Kožnjak, znanstveni suradnik:** Ivana Ljubičić
 **izv. prof. dr. sc. Sandro Skansi:** Dorotea Milas (u mirovanju), Luka Poslon (prvi mentor), Alisa Zviagina (drugi mentor)
 **prof. dr. sc. Josip Talanga:** Damijan Bermanec  
-  
-
-  
 
 ## Repozitorij
 Repozitorij je prazan

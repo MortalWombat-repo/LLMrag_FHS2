@@ -13,9 +13,7 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Hrvatska etnologija (188075)](https://www.fhs.hr/predmet/hrvetn_a) - Nositelj, Seminar
 
-
 **diplomski**
   * [Diplomski rad (64886)](https://www.fhs.hr/predmet/diprad_c) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Osnove stanične biologije i genetike (115576)](https://www.fhs.hr/predmet/osbg) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

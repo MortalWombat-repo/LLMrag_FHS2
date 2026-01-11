@@ -22,7 +22,3 @@ Mrežna građa – web publikacije:
 
   * [Dies historiae](https://www.fhs.unizg.hr/znanost/nakladnicka_djelatnost/izdanja/dies_hitoriae)
   *   * [Katalog izdanja (iz 2010. g.)](https://www.fhs.hr/images/50042834/Katalog_izdanja_2010-ispr.pdf)
-
-
-  
-

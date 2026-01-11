@@ -15,7 +15,6 @@ ODSJEK ZA PSIHOLOGIJU
   * [Eksperimentalne metode (200133)](https://www.fhs.hr/predmet/eksmet_a) - Nositelj
   * [Neeksperimentalne metode (86410)](https://www.fhs.hr/predmet/neemet) - Nositelj
 
-
 #### Rezultati studentske ankete
 Eksperimentalne metode, LJS ak. god. 2008./09
 Eksperimentalne metode, LJS ak. god. 2010./11

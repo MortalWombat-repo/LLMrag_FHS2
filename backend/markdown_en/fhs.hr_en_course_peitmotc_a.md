@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/peitmotc_a)
 
 ## Practical Exercises in the Methodology of Teaching [Philosophy]
-  * [Basic data](https://www.fhs.hr/en/course/peitmotc_a#v1id-523813_282744_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/peitmotc_a#v1id-523813_282744_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/peitmotc_a#v1id-523813_282744_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/peitmotc_a#v1id-523813_282744_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/peitmotc_a#v1id-159970_195967_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/peitmotc_a#v1id-159970_195967_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/peitmotc_a#v1id-159970_195967_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/peitmotc_a#v1id-159970_195967_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvpmf_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peitmotc_a)

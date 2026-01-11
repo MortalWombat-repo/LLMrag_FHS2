@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/oothowl_a)
 
 ## Overview of the History of World Literature
-  * [Basic data](https://www.fhs.hr/en/course/oothowl_a#v1id-523809_221960_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/oothowl_a#v1id-523809_221960_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/oothowl_a#v1id-523809_221960_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/oothowl_a#v1id-523809_221960_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/oothowl_a#v1id-159967_630739_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/oothowl_a#v1id-159967_630739_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/oothowl_a#v1id-159967_630739_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/oothowl_a#v1id-159967_630739_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppsk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/oothowl_a)

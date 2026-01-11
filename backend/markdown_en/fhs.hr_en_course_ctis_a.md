@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ctis_a)
 
 ## Critical Thinking in Sociology
-  * [Basic data](https://www.fhs.hr/en/course/ctis_a#v1id-523765_21839_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ctis_a#v1id-523765_21839_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ctis_a#v1id-523765_21839_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ctis_a#v1id-523765_21839_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ctis_a#v1id-159929_658961_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ctis_a#v1id-159929_658961_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ctis_a#v1id-159929_658961_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ctis_a#v1id-159929_658961_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kmus_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ctis_a)

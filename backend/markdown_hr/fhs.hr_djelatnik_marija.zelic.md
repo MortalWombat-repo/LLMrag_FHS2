@@ -30,12 +30,10 @@ ODSJEK ZA SOCIOLOGIJU
   * [Statistika u društvenim istraživanjima (188095)](https://www.fhs.hr/predmet/sudi_a) - Seminar
   * [Uvod u sociologiju (172495)](https://www.fhs.hr/predmet/uus_a) - Seminar
 
-
 **diplomski**
   * [Obrada podataka (211168)](https://www.fhs.hr/predmet/obrpod) - Vježbe u praktikumu
   * [Digitalna sociologija (227716)](https://www.fhs.hr/predmet/digsoc) - Seminar
   * [Multivarijatne statističke metode (286089)](https://www.fhs.hr/predmet/msm_b) - Seminar
-
 
 #### Životopis
 Marija Zelić**** rođena je 1994. u Makarskoj. Prijediplomski i diplomski studij sociologije i filozofije završila je na Filozofskom fakultetu Sveučilišta u Zagrebu 2019. godine, a 2025. godine završava doktorski studij sociologije __ na Filozofskome fakultetu u Zagrebu. Područja njenog znanstvenoga i stručnoga interesa su sociologija suvremenih medija i tehnologije te sociologija digitalne kulture. Od 2020. godine zaposlena je na Odsjeku za sociologiju Fakulteta hrvatskih studija u suradničkome zvanju asistenta, u znanstvenome polju sociologije.

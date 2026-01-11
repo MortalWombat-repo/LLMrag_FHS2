@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/akatal#v1id-904790_421982_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/akatal#v1id-904790_421982_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akatal) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acaita)
 **Šifra:** |  226939  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)   
-  
+
 **Izvođači:** |  [Jelena Bekić](https://www.fhs.hr/djelatnik/jelena.bekic), prof. - Vježbe iz stranog jezika  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -76,18 +75,15 @@
   6. Pregledno poznavati glavne likove i događaje iz talijanske povijesti.
   7. Poznavati osnovne značajke talijanske kulture i civilizacije.
 
-  
 **Literatura:**  
   1. Konverzacijska talijanska gramatika, Odabrana poglavlja, Josip Jernej, Školska knjiga, Zagreb, 2001. 
   2. Talijansko-hrvatski rječnik., Deanović, M./ Jernej, J., Zagreb: Školska knjiga., 2012. 
   3. Autentični jezični materijali i tekstovi, Razni autori, 
 
-  
 **Preporučena literatura:**  
   1. Novelle da Don Camillo e il suo gregge., Odabrane novele., Guareschi, Giovanni, Milano: Edizioni scolastiche Bruno Mondadori, 1972.
   2. Vino e pane, Odabrani tekstovi., Silone, Ignazio, Milano: Edizioni scolastiche Bruno Mondadori., 1976.
 
-  
 **1. semestar**  
 ---  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
@@ -103,7 +99,7 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -120,7 +116,7 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -135,7 +131,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -150,7 +146,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -161,7 +157,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -175,7 +171,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)**: 
 prema dogovoru uz prethodnu najavu na e-adresu aordulj@fhs.hr
 Lokacija: Objekt 78, soba 16 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/akatal?@=21g96#news_121536 "Arhiva obavijesti")

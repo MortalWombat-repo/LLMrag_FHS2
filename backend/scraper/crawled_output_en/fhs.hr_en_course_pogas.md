@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pogas)
 
 ## Philosophy of Game and Sports
-  * [Basic data](https://www.fhs.hr/en/course/pogas#v1id-523817_866363_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pogas#v1id-523817_866363_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pogas#v1id-523817_866363_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pogas#v1id-523817_866363_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pogas#v1id-159973_893485_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pogas#v1id-159973_893485_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pogas#v1id-159973_893485_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pogas#v1id-159973_893485_1_3 "Consultations schedule")
 
 
 **Code:** |  187914  
@@ -13,10 +13,10 @@
 **ECTS:** |  3.0   
 **Lecturers in charge:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/staff/matija_mato.skerbic)   
   
-**Lecturers:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic) - Seminar  
+**Lecturers:** |  [Emily Ryall](https://www.fhs.hr/djelatnik/emily.ryall) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
-**English level:** |  The lecturer is not able to offer courses in English at this time.   
+**English level:** |  All teaching activities in the course will be held on English. This level includes courses with multiple groups (i.e., all teaching will be held strictly in Croatian for Croatian groups, and strictly in English for English groups).   
 **Load:**  
 ---  
 > ### 1. komponenta
@@ -68,9 +68,6 @@
 >   
 Consultations schedule: 
   * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/staff/matija_mato.skerbic)**: 
-Tuesdays, 1:00 PM - 2:00 PM
-Location: 18 
-  * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)**: 
 Tuesdays, 1:00 PM - 2:00 PM
 Location: 18 
 

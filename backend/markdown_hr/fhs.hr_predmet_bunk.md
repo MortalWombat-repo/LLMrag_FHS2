@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/bunk#v1id-904793_712778_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/bunk#v1id-904793_712778_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/bunk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bitlc)
 **Šifra:** |  172612  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -166,29 +165,26 @@
 >  Solar, Milivoj (2007) Književni leksikon. Zagreb: Matica hrvatska.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. O književnosti i životu, Temeljna literatura, Piskač, Davor, Hrvatski studiji, 2018. 
   2. Literarna biblioterapija u nastavi lnjiževnosti, Temeljna literatura za literarnobiblioterapijsku analizu i interpretaciju, Bušljeta, Rona; Piskač, Davor, Hrvatski studiji, 2018. 
 
-  
 **Preporučena literatura:**  
   1. Dopunska literatura / dostupni online izvori, Afolayan, J. A. (1992). Documentary perspective of bibliotherapy in education.   
 Anderson, H. (2015). Bibliotherapy: can you read yourself happy?   
 Hasty, P. (2017). Dynamic duo: combining bibliotherapy with play therapy techniques., A-H, , .
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -197,7 +193,7 @@ Hasty, P. (2017). Dynamic duo: combining bibliotherapy with play therapy techniq
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -209,7 +205,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac)**: 
 Srijeda od 14:30 do 15:30
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/bunk?@=20zst#news_113174)

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/suvfil_a#v1id-904879_623905_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/suvfil_a#v1id-904879_623905_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/suvfil_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/conphi_a)
 **Šifra:** |  214821  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  izv. prof. dr. sc. [Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -41,7 +38,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi)**: 
 Nakon predavanja uz obveznu raniju najavu mailom ili po dogovoru
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/suvfil_a?@=21s5b#news_118528)

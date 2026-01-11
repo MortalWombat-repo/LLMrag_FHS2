@@ -6,5 +6,3 @@
 [Povijest](https://www.fhs.unizg.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/povijest)
 [Psihologija](https://www.fhs.unizg.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/psihologija)
 [Sociologija](https://www.fhs.unizg.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/sociologija)
-  
-

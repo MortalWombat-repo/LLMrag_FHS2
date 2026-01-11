@@ -195,8 +195,5 @@ __
 
   97. **Ivica Miškulin:** _Međunarodna zajednica i zapadna Slavonija 1991.-1995._ Doktorat izvan doktorskog studija. Mentor: prof. dr. sc. Ljubomir Antić. Datum obrane: 01. 07. 2009.
 
-
-  
-
 ## Repozitorij
 Repozitorij je prazan

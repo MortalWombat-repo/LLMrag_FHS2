@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/perpsy)
 
 ## Personality Psychology
-  * [Basic data](https://www.fhs.hr/en/course/perpsy#v1id-523814_973242_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/perpsy#v1id-523814_973242_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/perpsy#v1id-523814_973242_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/perpsy#v1id-523814_973242_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/perpsy#v1id-159971_163461_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/perpsy#v1id-159971_163461_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/perpsy#v1id-159971_163461_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/perpsy#v1id-159971_163461_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psilic) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/perpsy)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/camcomc_a)
 
 ## Chapters and Monasteries: Centres of Medieval Civilisation
-  * [Basic data](https://www.fhs.hr/en/course/camcomc_a#v1id-523748_208698_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/camcomc_a#v1id-523748_208698_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/camcomc_a#v1id-523748_208698_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/camcomc_a#v1id-523748_208698_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/camcomc_a#v1id-159914_256115_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/camcomc_a#v1id-159914_256115_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/camcomc_a#v1id-159914_256115_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/camcomc_a#v1id-159914_256115_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kszsc_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/camcomc_a)

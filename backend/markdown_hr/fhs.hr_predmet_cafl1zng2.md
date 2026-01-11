@@ -6,18 +6,17 @@
   * [Nastava](https://www.fhs.hr/predmet/cafl1zng2#v1id-904792_685477_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/cafl1zng2#v1id-904792_685477_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/cafl1zng2) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cafl2)
 **Šifra:** |  249459  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj) - Seminar  
-  
+
 doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj) - Lektorske vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -47,17 +46,15 @@ doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj) - Lek
   9. Izreći svoje mišljenje i planove te opisati svakodnevne događaje.
   10. Razlikovati i usporediti sličnosti i razlike između kulture hrvatskoga kao inoga jezika i kulture materinskoga jezika
 
-  
 **Literatura:**  
   1. Razgovarajte s nama! A2-B1. Udžbenik hrvatskoga jezika za više početnike. FF press, Zagreb., Čilaš-Mikulić, Marica, Gulešić Machata, Milvia, Udier, Sanda Lucija, FF press, 2008. 
   2. Razgovarajte s nama! A2-B1. Vježbenica, gramatika i fonetika hrvatskoga jezika za više početnike., Čilaš-Mikulić, Marica, Gulešić Machata, Milvia, Udier, Sanda Lucija, FF press, 2008. 
 
-  
 **1. semestar**  
 ---  
 > **Courses for Erasmus+ student mobility** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar**  
 > **Courses for Erasmus+ student mobility** - Redovni studij - Kroatologija  
 >   
@@ -65,7 +62,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)**: 
 prema dogovoru uz prethodnu najavu na e-adresu aordulj@fhs.hr
 Lokacija: Objekt 78, soba 16 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/cafl1zng2?@=21k2t#news_122614 "Arhiva obavijesti")

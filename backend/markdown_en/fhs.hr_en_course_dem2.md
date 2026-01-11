@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/dem2)
 
 ## Demography 2
-  * [Basic data](https://www.fhs.hr/en/course/dem2#v1id-523767_28749_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/dem2#v1id-523767_28749_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/dem2#v1id-523767_28749_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/dem2#v1id-523767_28749_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/dem2#v1id-159931_970321_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/dem2#v1id-159931_970321_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/dem2#v1id-159931_970321_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/dem2#v1id-159931_970321_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dem2) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/dem2)

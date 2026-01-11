@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/rimknj4#v1id-904867_593481_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/rimknj4#v1id-904867_593481_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rimknj4) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latlit4)
 **Šifra:** |  37576  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,7 +26,6 @@
 > Upoznavanje rimske književnosti u periodu 117. - 524. i njezina odnosa prema starokršćanskoj književnosti.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Budimir, Milan; Flašar, Miron; Pregled rimske književnosti De auctoribus Romanis; Naučna knjiga, Beograd (1963), 
   2. Vladimir Vratović; Rimska književnost; Biokova, Zagreb (2008), 
@@ -35,13 +33,11 @@
   4. Conte, Gian Biagio; Latin literature; The Johns Hopkins University Press, Baltimore and London (1994), 
   5. Svetonije; Dvanaest rimskih careva (životopisi: Julije Cezar, August, Neron, Vespazijan);, 
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Latinski jezik  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/c13565bea8033568a408416b792357547572_icon.jpg) ](https://www.fhs.hr/predmet/rimknj4?@=20s0e#news_78560)

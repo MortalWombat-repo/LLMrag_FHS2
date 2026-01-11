@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ditsc)
 
 ## Development in the Social Context
-  * [Basic data](https://www.fhs.hr/en/course/ditsc#v1id-523769_861520_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ditsc#v1id-523769_861520_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ditsc#v1id-523769_861520_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ditsc#v1id-523769_861520_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ditsc#v1id-159933_94580_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ditsc#v1id-159933_94580_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ditsc#v1id-159933_94580_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ditsc#v1id-159933_94580_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rudk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ditsc)
@@ -14,7 +14,7 @@
 **ECTS:** |  4.0   
 **Lecturers in charge:** |  izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)   
   
-**Lecturers:** |  [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych. - Seminar  
+**Lecturers:** |  pred. [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -50,7 +50,7 @@ Consultations schedule:
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)**: 
 Tuesday 2:30 PM - 3:30 PM
 Location: 207 
-  * **[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych.**: 
+  * **pred.[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego)**: 
 Tuesdays 13.00-14.00h, room 207
 Location: 
 

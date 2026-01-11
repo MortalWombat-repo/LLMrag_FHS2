@@ -14,5 +14,3 @@ E-adresa: [aordulj@fhs.unizg.hr](javascript:startMail\('bnqeyh@wus.fahmv.teu'\);
 obavlja i druge poslove utvrđene Statutom Fakulteta i drugim općim aktima i po dekanovoj povjerbi;
 -o svojem radu kontinuirano izvješćuje dekana i Dekanski kolegij;
 -Fakultetskomu vijeću podnosi godišnje izvješće
-  
-

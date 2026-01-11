@@ -10,5 +10,3 @@ Program se izvodi u formi radionica kroz pet edukacijskih paketa u trajanju od t
 Cijena _Programa metodičkoga osposobljavanja i usavršavanja sveučilišnih nastavnika i suradnika_ za polaznike drugih ustanova je 1.500 kuna po polazniku.
 Voditeljica Programa 
 doc. dr. sc. Rona Bušljeta Kardum
-  
-

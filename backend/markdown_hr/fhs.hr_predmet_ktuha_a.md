@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ktuha_a#v1id-904831_993219_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ktuha_a#v1id-904831_993219_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ktuha_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latica_a)
 **Šifra:** |  270391  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  nasl. doc. dr. sc. [Hela Vukadin-Doronjga](https://www.fhs.hr/djelatnik/hela.vukadin-doronjga)   
-  
+
 **Izvođači:** |  nasl. doc. dr. sc. [Hela Vukadin-Doronjga](https://www.fhs.hr/djelatnik/hela.vukadin-doronjga) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -46,7 +45,6 @@ Navesti najznačajnije primjere hrvatskoga tradicijskoga graditeljstva i antolog
   7. Vrednovati hrvatski prostor i kontinuitet arhitektonskog stvaralaštva.
   8. Ovladati vještinama pretraživanja arhivske građe, literature, izvora i artikulirati stavove o različitim vidovima hrvatske kulture.
 
-  
 **Literatura:**  
   1. Prepoznavanje i razvrstavanje krajolika kao kulturnog naslijeđa, br. 36, Dumbović Bilušić B., Godišnjak zaštite spomenika kulture Hrvatske, Ministarstvo kulture i medija, 2012. 
   2. Hrvatsko tradicijsko graditeljstvo., [odabrana poglavlja]  
@@ -55,48 +53,45 @@ Dostupno na: https://minkulture.gov.hr/UserDocsImages/arhiva/Bastina/HTG_web.pdf
   4. Stadion Maksimir, sportska arhitektura Vladimira Turine, Publikacija, istoimena izložba, Muzej grada Zagreba 23. 12. 2020 do 23. svibnja 2021.  
 Uvodno poglavlje; izvorne tribine Stadiona Maksimir, isječci s izložbe, projektantska vizija, Vukadin-Doronjga, H., Muzej grada Zagreba, 2020. 
 
-  
 **Preporučena literatura:**  
   1. Zaštita graditeljskog nasljeđa, , Marasović, T., Društvo konzervatora Hrvatske ; Split : Filozofski fakultet u Zadru, Arhitektonski fakultet Sveučilišta - Zagreb, 1983.
   2. Dalmatinska zagora nepoznata zemlja., (katalog izložbe, Galerija Klovićevi dvori, 4. 9. ? 21. 10. 2007.) [odabrana poglavlja], Belamarić J., Grčić M., ur., Ministarstvo kulture RH, Galerija Klovićevi dvori, 2007.
   3. Arhitekt Vladimir Turina, Sportska arhitektura, Stadion Maksimir 1946. do 1962., u: Maksimir povijest i kvartovski simboli, Muzej grada Zagreba: 92-96, Zagreb, Vukadin-D., H., Muzej grada Zagreba, 2016.
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ktuha_a?@=21nd8#news_124470 "Arhiva obavijesti")

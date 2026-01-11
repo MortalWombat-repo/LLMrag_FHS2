@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/pkse#v1id-904855_135071_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pkse#v1id-904855_135071_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pkse) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hacoae)
 **Šifra:** |  94019  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,7 +26,6 @@
 > Cilj predmeta je upoznati studente s najvažnijim znanjima vezanim uz povijest i kulturu starog Egipta.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Staroegipatska civilizacija sv. I: Povijest i kultura starog Egipta, Tomorad, Mladen, Hrvatski studiji, 2016. 
   2. Staroegipatska civilizacija sv. II: Uvod u egiptološke studije, Poglavlja:  
@@ -38,7 +36,6 @@ VI. Suvremena egiptomanija (121-135), Tomorad, Mladen, Hrvatski studiji, 2017.
   4. Stari Egipat - Povijest i kultura, Stranice 12-385, 414-666  
 Izlazak knjige: kraj listopada/početak studenoga 2023., Tomorad, Mladen, Školska knjiga, 2023. 
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -50,7 +47,6 @@ Ponedjeljak 7:30-8:00 (prema dogovoru) i nakon predavanja te prema dogovoru.
 Nastava u ljetnom semestru: ponedjeljak 8:00-9:30, 9:35-11:05.
 Nastava u zimskom semestru: ponedjeljak 8:00-12:40, utorak 8:00-11:05.
 Lokacija: 25 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pkse?@=21u6w#news_79555)

@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/sociologija#v1id-904759_116974_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/sociologija#v1id-904759_116974_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -186,4 +185,4 @@ ECTS | DIPL(19325): Izborno (NASTAVNIČKI MODUL)
 => DIPL( 19325): Izborno (NASTAVNIČKI MODUL)  | Eng. raz. | Opterećenje | INFO  
 6.0 |  [Korelacijske vježbe i nastavna praksa (201262)](https://www.fhs.hr/predmet/kvnp) Ninčević, M.; Dadić, K. |  | 45 30M+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=gtSxQlso-gRwRes_AmnHA6XlDg7LKX9qVlcbm5m8s81u_OQo-DDKmHoEbvW7W2ejFmFF5GXxkwCxCMa9yAT3K51N1QQwuA5NTRGwfi80Dq_FmqAjW7z9gZ4C-YC1njSE5EfXhITm5ltaEr5XhHcUvg3xvUVWs3DDqzkfMTY2joafHj06YRpeYIGkbR61dlJbfFEp6w==&_v1flags=NMhDDDInETq7t6QI8g00EVcAkMofAFniQhLgYEAHiLtnL4Gp-dOZa6ARfe6P2uMAj8x8Cm_4KD5FmMssZedrlvQS8SPnDj2ZeCszjhL1sJ8HOf-OcT7glzTqj51kSHCrHypVZP1-SsbfJvNQ4mKgRDYNR8A5EhuuAcyfXmIIEiKZTZez&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

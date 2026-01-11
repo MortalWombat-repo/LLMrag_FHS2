@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/gfoc_b)
 
 ## Geographical Features of Croatia
-  * [Basic data](https://www.fhs.hr/en/course/gfoc_b#v1id-523777_630046_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/gfoc_b#v1id-523777_630046_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/gfoc_b#v1id-523777_630046_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/gfoc_b#v1id-523777_630046_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/gfoc_b#v1id-159941_916008_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/gfoc_b#v1id-159941_916008_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/gfoc_b#v1id-159941_916008_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/gfoc_b#v1id-159941_916008_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zoh_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gfoc_b)

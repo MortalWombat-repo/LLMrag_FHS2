@@ -7,5 +7,3 @@
 [Latinski jezik](https://www.fhs.unizg.hr/studiji/prijediplomski/dvopredmetni_studiji/latinski_jezik)
 [Povijest](https://www.fhs.unizg.hr/studiji/prijediplomski/dvopredmetni_studiji/povijest)
 [Sociologija](https://www.fhs.unizg.hr/studiji/prijediplomski/dvopredmetni_studiji/sociologija)
-  
-

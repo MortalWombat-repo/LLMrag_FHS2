@@ -1,7 +1,6 @@
 [Article Link](https://www.fhs.hr/znanost/najava_konferencija)
 
 ## 
-  
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/znanost/najava_konferencija?@=21tsa#news_131969)

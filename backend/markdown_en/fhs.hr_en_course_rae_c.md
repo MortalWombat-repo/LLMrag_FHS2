@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rae_c)
 
 ## Rationalism and Empiricism
-  * [Basic data](https://www.fhs.hr/en/course/rae_c#v1id-523825_747366_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rae_c#v1id-523825_747366_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rae_c#v1id-523825_747366_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rae_c#v1id-523825_747366_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rae_c#v1id-159980_190311_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rae_c#v1id-159980_190311_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rae_c#v1id-159980_190311_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rae_c#v1id-159980_190311_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rie_c) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rae_c)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/scap)
 
 ## Social Cognition and Perception
-  * [Basic data](https://www.fhs.hr/en/course/scap#v1id-523831_382607_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/scap#v1id-523831_382607_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/scap#v1id-523831_382607_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/scap#v1id-523831_382607_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/scap#v1id-159986_201712_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/scap#v1id-159986_201712_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/scap#v1id-159986_201712_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/scap#v1id-159986_201712_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ssp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/scap)

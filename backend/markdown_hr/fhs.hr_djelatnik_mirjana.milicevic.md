@@ -13,5 +13,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Hrvati u Bosni i Hercegovini (226638)](https://www.fhs.hr/predmet/hubh) - Nositelj
   * [Integracija Hrvatske i iseljeništva (226639)](https://www.fhs.hr/predmet/ihi) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

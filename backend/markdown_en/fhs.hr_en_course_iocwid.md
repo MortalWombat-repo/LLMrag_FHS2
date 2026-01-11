@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/iocwid)
 
 ## Integration of Croatia with its Diaspora
-  * [Basic data](https://www.fhs.hr/en/course/iocwid#v1id-523787_502972_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/iocwid#v1id-523787_502972_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/iocwid#v1id-523787_502972_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/iocwid#v1id-523787_502972_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/iocwid#v1id-159948_32411_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/iocwid#v1id-159948_32411_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/iocwid#v1id-159948_32411_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/iocwid#v1id-159948_32411_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ihi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/iocwid)

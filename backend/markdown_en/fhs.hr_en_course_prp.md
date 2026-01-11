@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/prp)
 
 ## Public Relations Practicum
-  * [Basic data](https://www.fhs.hr/en/course/prp#v1id-523822_720022_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/prp#v1id-523822_720022_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/prp#v1id-523822_720022_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/prp#v1id-523822_720022_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/prp#v1id-159977_566647_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/prp#v1id-159977_566647_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/prp#v1id-159977_566647_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/prp#v1id-159977_566647_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/posj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/prp)

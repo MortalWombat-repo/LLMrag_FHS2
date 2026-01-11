@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/kroatologija#v1id-904758_140467_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/kroatologija#v1id-904758_140467_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -259,4 +258,4 @@ ECTS | KRO-dipl (4425): Izborni kolegiji 2
 3.0 |  [Stilistika (201804)](https://www.fhs.hr/predmet/sti_a) * Vrban Zrinski, K. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=baBYdOlsjSaaHjXHYEfJNCd4Cby8Wq8Brv-BKd9XX_8NI3FxKiN6SnKYO0BClBrg2eEHIRV-s6i0EX91mo8s5fRKlSu3az4Uye0cw10UTjdAujXoHKXLhIwjPk_cnDXl-7mY6Dp4wmqy8UEsDHk_HwQQg6WSmogPtw0ZqodUClduJ6fUDo1O8qV5q7S_BhwdUHGfgQ==&_v1flags=vj7qi41M4ex5LMk7yza8jPlAQRi0frlHDIETW9yBjKaEqQiqZcn324OlvmBDKUl3bEAWTy6ij6N4snUeirFPpJoygFZ8AXF7oLK9kpnH76Hx0fLUhmNimjC66HoH9al5rvfnYvaH753UAkyWFvZbmXmRYkAAmW7vaAp2KORDP0N-v3k6&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Teorija književnosti u nastavi Hrvatskoga jezika (286083)](https://www.fhs.hr/predmet/tkunhj) Piskač, D. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=rMK1YVDPpQbF71_1CdQx9uj-AvlzfAofHb88MEkuqPPh8FmAF3mQ_paGWNiBX1f5ICyTqNAqe3km5TH4J9QTjR4HgVXU2lPFJhB4E-sB4dv3OQsC5l1EA6EGCPqs09shteubCSNClGvhdIDF7qhgbGCR0U4ndsT8OwT6dLTVpBWfH7g2s2tbCVs09odsnbxiFj9JIg==&_v1flags=O8FdCqI3IIqG_G9ry0rMK-fkX21ckJ82HfU6fjeBB3-7lmmReWBd-0-XW6oCbeNQuSHeXGvuWBIusXDpBJy3c_LnFOGSm4YWj2cedYkbP1qxtL60a6CNklJYOCPv-H0Nj1hHZqC3LYseDyLWpfwMXTsaG6SpW4TBFP-HQyhORxXEOjdl&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

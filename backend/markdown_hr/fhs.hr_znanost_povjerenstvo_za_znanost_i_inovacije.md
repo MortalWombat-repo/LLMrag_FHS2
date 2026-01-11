@@ -13,9 +13,8 @@ Sastav:
 
 Za obavljanje administrativnih poslova za potrebe Povjerenstva za znanost i inovacije  
 zadužena je Tea Cacović, mag. phil. et mag. soc.  
-  
+
 Zadnja promjena: 1. listopada 2025.
-  
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/0da0466483e8bbf8243c83bc55f4cd494581_icon.png) ](https://www.fhs.hr/znanost/povjerenstvo_za_znanost_i_inovacije?@=21sns#news_132176)

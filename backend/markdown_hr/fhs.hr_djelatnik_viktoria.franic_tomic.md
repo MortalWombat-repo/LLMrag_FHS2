@@ -25,15 +25,12 @@ ODSJEK ZA KROATOLOGIJU
   * [Povijest hrvatskoga kazališta (188085)](https://www.fhs.hr/predmet/phk_a) - Nositelj, Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Diplomski rad (64813)](https://www.fhs.hr/predmet/diprad_a) - Seminar
   * [Diplomski rad (215308)](https://www.fhs.hr/predmet/diprad_h) - Seminar
 
-
 **doktorski**
   * [Hrvatska kultura u ozračju humanizma, renesanse i baroka (261076)](https://www.fhs.hr/predmet/hkuohrb) - Nositelj
-
 
 #### Životopis
 Viktoria Franić Tomić rođena je 19. listopada 1978. u Metkoviću. Osnovnu školu i opću gimnaziju pohađala je u Pločama. Studij hrvatskog jezika i književnosti završila je 2005. na Sveučilištu u Zadru. Na Filozofskom fakultetu Sveučilišta u Splitu zaposlila se 2007. Poslijediplomski doktorski studij kroatistike završava na Filozofskom fakultetu Sveučilišta u Zagrebu obranivši u rujnu 2010. doktorski rad pod naslovom _Biografija i djela Marina Držića kao intertekstualni diskurs_. U znanstveno zvanje znanstvenog suradnika izabrana je 23. ožujka 2011. godine. U zvanje višeg znanstvenog suradnika izabrana je 09. svibnja 2013. godine. U zvanje znanstvene savjetnice izabrana je 19. ožujka 2021. Od 2013. godine do danas zaposlenica je Fakulteta hrvatskih studija Sveučilišta u Zagrebu. U znanstveno-nastavno zvanje docentice izabrana je 18. prosinca 2013. na Sveučilištu u Zagrebu (Vijeće društveno-humanističkog područja). U znanstveno-nastavno zvanje izvanredne profesorice izabrana je 18. prosinca 2018. Na Odjelu za kazališnu umjetnost Umjetničke akademije u Splitu predavala je više godina predmete Dramaturgija I, Dramaturgija II, Dramaturgija III, Dramaturgija IV. Rezultat njezina istraživačkog rada je i pronalazak najstarije hrvatske kazališne ilustracije (1518) u knjižnici gradića Bagnocavallo pokraj Ravenne

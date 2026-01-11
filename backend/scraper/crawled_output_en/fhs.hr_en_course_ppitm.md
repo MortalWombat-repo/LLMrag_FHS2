@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ppitm)
 
 ## Production process in the Media
-  * [Basic data](https://www.fhs.hr/en/course/ppitm#v1id-523820_987112_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ppitm#v1id-523820_987112_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ppitm#v1id-523820_987112_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ppitm#v1id-523820_987112_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ppitm#v1id-159976_939431_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ppitm#v1id-159976_939431_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ppitm#v1id-159976_939431_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ppitm#v1id-159976_939431_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppmp_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ppitm)

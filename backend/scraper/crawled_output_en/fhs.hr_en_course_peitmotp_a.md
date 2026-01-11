@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/peitmotp_a)
 
 ## Practical Exercises in the Methodology of Teaching [Psychology]
-  * [Basic data](https://www.fhs.hr/en/course/peitmotp_a#v1id-523814_790534_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/peitmotp_a#v1id-523814_790534_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/peitmotp_a#v1id-523814_790534_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/peitmotp_a#v1id-523814_790534_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/peitmotp_a#v1id-159971_625294_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/peitmotp_a#v1id-159971_625294_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/peitmotp_a#v1id-159971_625294_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/peitmotp_a#v1id-159971_625294_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvpmp_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peitmotp_a)
@@ -12,9 +12,9 @@
   
 ---|---  
 **ECTS:** |  5.0   
-**Lecturers in charge:** |  [Jelena Flego](https://www.fhs.hr/staff/jelena.flego), mag. psych.   
+**Lecturers in charge:** |  pred. [Jelena Flego](https://www.fhs.hr/staff/jelena.flego)   
   
-**Lecturers:** |  [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych. - Methodology exercises  
+**Lecturers:** |  pred. [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego) - Methodology exercises  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -54,10 +54,10 @@
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Regular studij - Psychology  
 >   
 Consultations schedule: 
-  * **[Jelena Flego](https://www.fhs.hr/staff/jelena.flego), mag. psych.**: 
+  * **pred.[Jelena Flego](https://www.fhs.hr/staff/jelena.flego)**: 
 Tuesdays 13.00-14.00h, room 207
 Location: 
-  * **[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych.**: 
+  * **pred.[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego)**: 
 Tuesdays 13.00-14.00h, room 207
 Location: 
 

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cotycr)
 
 ## Crimes of the Yugoslav Communist Regimes
-  * [Basic data](https://www.fhs.hr/en/course/cotycr#v1id-523757_875905_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cotycr#v1id-523757_875905_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cotycr#v1id-523757_875905_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cotycr#v1id-523757_875905_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cotycr#v1id-159925_225491_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cotycr#v1id-159925_225491_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cotycr#v1id-159925_225491_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cotycr#v1id-159925_225491_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/jkz) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cotycr)

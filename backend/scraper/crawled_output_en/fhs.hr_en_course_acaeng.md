@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/acaeng)
 
 ## Academic English
-  * [Basic data](https://www.fhs.hr/en/course/acaeng#v1id-523743_22945_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/acaeng#v1id-523743_22945_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/acaeng#v1id-523743_22945_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/acaeng#v1id-523743_22945_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/acaeng#v1id-159911_820003_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/acaeng#v1id-159911_820003_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/acaeng#v1id-159911_820003_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/acaeng#v1id-159911_820003_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akaeng) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acaeng)
@@ -17,7 +17,7 @@
 **Lecturers:** |  nasl. pred. Siniša Prekratić - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
-**English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
+**English level:** |  All teaching activities in the course will be held on English. This level includes courses with multiple groups (i.e., all teaching will be held strictly in Croatian for Croatian groups, and strictly in English for English groups).   
 **Load:**  
 ---  
 > ### 1. komponenta

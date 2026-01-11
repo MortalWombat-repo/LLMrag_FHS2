@@ -14,15 +14,12 @@ Objavljeno: _Sanja Blažević -_ _2. 7. 2025. u 12:49_
 [ Kultura sjećanja na ratne i poratne žrtve - drugi dio _[38,14 MiB]_ ](https://www.fhs.hr/_download/repository/Kultura%20sje%C4%87anja%20na%20ratne%20i%20poratne%20%C5%BErtve%20sken%202.pdf)
 Objavljeno: _Sanja Blažević -_ _2. 7. 2025. u 12:49_
 
-
 ## 
 Europska povijest počiva na pepelu totalitarnih režima. Područje slobode, sigurnosti i pravde u 20. stoljeću, “stoljeću ideologija”, bilo je najizazovnije stoljeće u čitavoj ljudskoj povijesti.  
 Nakon Prvog svjetskog rata, u vrijeme obilježeno gospodarskom krizom, na političku pozornicu stupile su nove diktature – posebno u zemljama srednje i istočne Europe. To je bilo vrijeme kad su se pojavili fašistički i nacionalsocijalistički režimi i, već od Oktobarske revolucije 1917., komunistički totalitarizam. Završetkom Drugog svjetskog rata i propašću fašizma i nacionalsocijalizma, komunistički totalitarizam preuzeo je značajke dominantnog režima u zemljama istočne i jugoistočne Europe. Dokinut je tek krajem 80-ih godina 20. stoljeća.  
 Totalitarni režimi koje je Europa doživjela u prošlom stoljeću obilježeni su masovnim ubojstvima i zločinima protiv čovječnosti. Uobičajen izraz za to je “grubo i sustavno kršenje temeljna ljudska prava”.   
 U razdoblju u kojem je komunistički režim bio jedini politički sustav, uspostavljen logikom ratnog pobjednika nakon Drugog svjetskog rata, a ne odabirom građana, hrvatsko stanovništvo izvrgnuto je likvidacijama, montiranim sudskim procesima, konfiskaciji imovine te raznim drugim oblicima diskriminacije. Svi koji nisu bili aktivni podupiratelji režima označeni su kao njegovi protivnici. Ovakve postupke doživjeli su izravno ili neizravno veliki broj Europljana koji su rođeni prije pada Berlinskog zida. Iako, postoje temeljne razlike, što treba precizno definirati.  
 Projekt "Europsko sjećanje za europsku budućnost: Komunistički zločini", ima za cilj rasvijetliti i osvijestiti specifična kršenja ljudskih prava provedena od strane komunističkog režima i njegovih protagonista, kao dominantne vojne i političke nomenklature na hrvatskim povijesnim prostorima u drugoj polovici 20. stoljeća. Cilj je posvetiti se konkretnim, pojedinačnim slučajevima kršenja ljudskih prava te ih staviti u ispravan povijesni kontekst. Projekt se provodi kontinuirano: svake dvije godine organizira se međunarodni znanstveni skup s novim istraživačkim usko fokusiranim temama, dok se paralelno izdaje zbornik s radovima izlagača, čime je uspostavljen ritam godišnjih aktivnosti.  
-
-  
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/727e466d16a2132063433edf903186892131_icon.jpg) ](https://www.fhs.hr/znanost/sluzba_za_znanost_i_projekte/znanstveni_skup_komunisticki_zlocini?@=21suh#news_132072)

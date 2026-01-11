@@ -6,18 +6,17 @@
   * [Nastava](https://www.fhs.hr/predmet/cafl1zng1#v1id-904793_83655_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/cafl1zng1#v1id-904793_83655_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/cafl1zng1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cafl1)
 **Šifra:** |  226944  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj) - Vježbe iz stranog jezika  
-  
+
 doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  U dogovoru sa studentima upisanim na predmetu, nastavnik će osigurati što veći broj elemenata nastave na engleskom jeziku, odnosno istovremeno i na engleskom i na hrvatskom za mješovite grupe (dvojezični nastavni materijali i dvojezični ispiti). Razina 2 također uključuje dodatni individualni rad sa stranim studentima (slično kao i razina 1) za nastavne elemente koji se drže na hrvatskom jeziku.   
 **Opterećenje:**  
@@ -79,18 +78,16 @@ doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj) - Sem
   6. Ustanoviti sličnosti i razlike između kulture hrvatskoga kao inoga jezika i kulture materinskoga jezika.
   7. Prepoznati i objasniti osnovne podatke o Hrvatskoj (zastava, grb, himna, državni praznici i blagdani) te svakodnevnom životu u Hrvatskoj (imena, prezimena, hrana, hobiji, stanovanje, javni prijevoz).
 
-  
 **Literatura:**  
   1. Hrvatski za početnike 1. Udžbenik i rječnik. Hrvatska sveučilišna naklada, Zagreb., Čilaš-Mikulić, Marica, Gulešić Machata, Milvia, Pasini, Dinka, Udier, Sanda Lucija, Hrvatska sveučilišna naklada, Zagreb, 2018. 
   2. Hrvatski za početnike 1. Vježbenica., Čilaš-Mikulić, Marica, Gulešić Machata, Milvia, Pasini, Dinka, Udier, Sanda Lucija, Hrvatska sveučilišna naklada, Zagreb., 2018. 
   3. Basic Croatian grammar: sounds, forms, word classes, Jelaska, Zrinka, Zagreb: Hrvatsko filološko društvo., 2016. 
 
-  
 **1. semestar**  
 ---  
 > **Courses for Erasmus+ student mobility** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar**  
 > **Courses for Erasmus+ student mobility** - Redovni studij - Kroatologija  
 >   
@@ -98,7 +95,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)**: 
 prema dogovoru uz prethodnu najavu na e-adresu aordulj@fhs.hr
 Lokacija: Objekt 78, soba 16 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/cafl1zng1?@=21gas#news_121494 "Arhiva obavijesti")

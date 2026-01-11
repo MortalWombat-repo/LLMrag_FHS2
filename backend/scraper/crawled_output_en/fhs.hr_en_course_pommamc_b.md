@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pommamc_b)
 
 ## Psychology of Mass Media and Mass Communication
-  * [Basic data](https://www.fhs.hr/en/course/pommamc_b#v1id-523821_1413_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pommamc_b#v1id-523821_1413_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pommamc_b#v1id-523821_1413_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pommamc_b#v1id-523821_1413_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pommamc_b#v1id-159976_270516_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pommamc_b#v1id-159976_270516_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pommamc_b#v1id-159976_270516_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pommamc_b#v1id-159976_270516_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pmmmk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pommamc_b)

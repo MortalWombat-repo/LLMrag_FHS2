@@ -20,13 +20,12 @@ Fakultet hrvatskih studija Sveučilišta u Zagrebu drži se sljedećih načela s
   * - Osobne podatke ne prenosimo izvan EU/EEA osim u svrhe izvršenja međunarodnih ugovora i organizacije međunarodnih konferencija o čemu vas posebno informiramo 
   * - Kontinuirano osiguravamo da su osobni podaci sigurno pohranjeni i zaštićeni.
 
-
 Važno je pročitati ovu našu Politiku privatnosti i nadamo se da ćete izdvojiti vrijeme i vašu pozornost. Trudili smo se da bude napisana što jasnije i da bude svakom razumljiva, sa željom da zadržimo vaše puno povjerenje u način kako postupamo s vašim osobnim podacima. 
 Ako ćete, nakon što je pročitate, imati daljnja pitanja o zaštiti osobnih podataka ili želite ostvariti bilo koje od svojih prava u zaštiti osobnih podataka, molimo obratite nam se putem kontakata:
 **Službenik za zaštitu podataka**
 **Igor Barlek, CIPP/E**
 **e-mail: bi@biconsult.hr**
-  
+
 Ova Politika privatnosti, kao i naša internetska stranica, dizajnirana je sa svrhom osiguranja visoke razine zaštite vaših osobnih podataka te će se kontinuirano ažurirati i unaprjeđivati.
 Ova Politika privatnosti ažurirana je 04. lipnja 2025. godine.
 ****
@@ -56,11 +55,9 @@ U skladu sa Zakonom o znanstvenoj djelatnosti i visokom obrazovanju i podzakonsk
   * - evidencije izdanih isprava o završetku studija te stečenih akademskih i stručnih naziva i akademskih stupnjeva,
   * - druge evidencije propisane zakonskim i podzakonskim propisima, provedbenim i općim aktima te pri tom prikuplja, obrađuje i pohranjuje osobne podatke:
 
-
   * - bivših i sadašnjih zaposlenika Fakulteta, profesora, docenata, predavača, asistenata i vanjskih suradnika,
   * - sadašnjih, bivših i potencijalnih studenata polaznika studijskih programa,
   * - članova Fakultetskog vijeća, Dekanskog kolegija i stalnih povjerenstva Fakultetskog vijeća,
-
 
 u skladu s načinima i rokovima određenima Zakonom o znanstvenoj djelatnosti i visokom obrazovanju i Zakonom o arhivskom gradivu i arhivima te pripadajućim podzakonskim i internim propisima.
 **Znanstvena istraživanja**
@@ -107,7 +104,6 @@ Ukoliko želite iskoristiti bilo koje od prethodno navedenih prava, budite slobo
   * poštom na adresu: Fakultet hrvatskih studija Sveučilišta u Zagrebu, Sveučilišni kampus Borongaj, Borongajska cesta 83d, 10000 Zagreb ili
   * emailom na dekanov.ured@fhs.hr.
 
-
 Na vaš ćemo zahtjev odgovoriti u najkraćem mogućem roku, a najkasnije mjesec dana od primitka vašeg zahtjeva. U slučaju nemogućnosti sigurne potvrde vašeg identiteta bit ćemo slobodni zatražiti dodatnu provjeru vašeg identiteta. 
 **​PRAVO NA PODNOŠENJE PRIGOVORA NADLEŽNOM TIJELU**
 U svakom trenutku možete uložiti prigovor izravno nadležnom nadzornom tijelu, posebice u zemlji EU-a u kojoj imate uobičajeno boravište, mjesto rada ili mjesto navodnog kršenja, ako smatrate da naša obrada vaših osobnih podataka nije zakonita. Izravni kontakti nadležnog nadzornog tijela u Republici Hrvatskoj su:
@@ -119,5 +115,3 @@ e-mail: azop@azop.hrWeb: www.azop.hr
 **  
 UNAPRJEĐENJE OVE POLITIKE PRIVATNOSTI**
 Zadržavamo pravo tekst ove Politike privatnosti povremeno prilagođavati i unaprjeđivati, prije svega u svrhu poštivanja zakonskih promjena, odnosno, promjena u svrhama i načinima obrade. Međutim, vaša prava koja proizlaze iz ove Politike privatnosti ili iz odgovarajućih zakonskih propisa nećemo ograničavati. U slučaju da dođe do promjena koja mogu utjecati na vaša prava, o tome ćemo vas obavijestiti pravovremeno i izravno na prikladan način.
-  
-

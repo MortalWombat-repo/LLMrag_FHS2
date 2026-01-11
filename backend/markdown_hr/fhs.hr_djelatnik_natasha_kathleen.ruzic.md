@@ -14,9 +14,7 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Hrvati u Australiji i Novom Zelandu (253374)](https://www.fhs.hr/predmet/huanz) - Seminar, Seminar
   * [Integracija Hrvatske i iseljeništva (226639)](https://www.fhs.hr/predmet/ihi) - Seminar
 
-
 **diplomski**
   * [Gospodarski potencijali iseljeništva (269804)](https://www.fhs.hr/predmet/gpi_a) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/emo)
 
 ## Emotions
-  * [Basic data](https://www.fhs.hr/en/course/emo#v1id-523774_3193_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/emo#v1id-523774_3193_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/emo#v1id-523774_3193_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/emo#v1id-523774_3193_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/emo#v1id-159935_898672_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/emo#v1id-159935_898672_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/emo#v1id-159935_898672_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/emo#v1id-159935_898672_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/emo_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/emo)
@@ -14,7 +14,7 @@
 **ECTS:** |  5.0   
 **Lecturers in charge:** |  doc. dr. sc. [Jelena Maričić](https://www.fhs.hr/staff/jelena.maricic)   
   
-**Lecturers:** |  dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  In agreement with the students enrolled in the course, the lecturer will provide as many teaching elements in English as possible, or in both English and Croatian for mixed groups (i.e., bilingual teaching materials and bilingual exams). Level 2 also includes additional individual consultations with foreign students (as in Level 1) for the teaching elements which will be held in Croatian.   
@@ -45,7 +45,7 @@ Consultations schedule:
   * **doc. dr. sc.[Jelena Maričić](https://www.fhs.hr/staff/jelena.maricic)**: 
 Tuesdays, from 4:00 PM to 5:00 PM
 Location: 
-  * **dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
+  * **doc. dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
 Monday: 11:00-12:00 AM
 2nd floor, room 206
 Location: 206 

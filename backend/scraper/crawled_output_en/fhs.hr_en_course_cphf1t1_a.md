@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cphf1t1_a)
 
 ## Croatian Political History from 1990 to 1995
-  * [Basic data](https://www.fhs.hr/en/course/cphf1t1_a#v1id-523759_58722_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cphf1t1_a#v1id-523759_58722_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cphf1t1_a#v1id-523759_58722_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cphf1t1_a#v1id-523759_58722_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cphf1t1_a#v1id-159926_39508_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cphf1t1_a#v1id-159926_39508_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cphf1t1_a#v1id-159926_39508_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cphf1t1_a#v1id-159926_39508_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hppo1d1g_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cphf1t1_a)

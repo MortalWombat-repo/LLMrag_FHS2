@@ -12,9 +12,7 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Psihologija menadžmenta (52976)](https://www.fhs.hr/predmet/psimen) - Nositelj
 
-
 **diplomski**
   * [Psihologija ličnosti (57111)](https://www.fhs.hr/predmet/psilic) - Nositelj, Seminar
-
 
 #### Znanstveni radovi (CroRIS)

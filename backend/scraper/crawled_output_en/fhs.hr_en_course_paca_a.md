@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/paca_a)
 
 ## Philosophical and Cultural Anthropology
-  * [Basic data](https://www.fhs.hr/en/course/paca_a#v1id-523809_661513_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/paca_a#v1id-523809_661513_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/paca_a#v1id-523809_661513_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/paca_a#v1id-523809_661513_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/paca_a#v1id-159967_193341_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/paca_a#v1id-159967_193341_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/paca_a#v1id-159967_193341_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/paca_a#v1id-159967_193341_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/fka_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/paca_a)

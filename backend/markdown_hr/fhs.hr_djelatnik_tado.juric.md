@@ -14,5 +14,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Korporativna demografija (269807)](https://www.fhs.hr/predmet/kordem_a) - Nositelj
   * [Useljenički modeli (253188)](https://www.fhs.hr/predmet/usemod) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

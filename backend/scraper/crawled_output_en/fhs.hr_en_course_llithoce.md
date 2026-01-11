@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/llithoce)
 
 ## Latin language in the history of Croatian education
-  * [Basic data](https://www.fhs.hr/en/course/llithoce#v1id-523796_991713_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/llithoce#v1id-523796_991713_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/llithoce#v1id-523796_991713_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/llithoce#v1id-523796_991713_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/llithoce#v1id-159958_745525_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/llithoce#v1id-159958_745525_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/llithoce#v1id-159958_745525_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/llithoce#v1id-159958_745525_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ljupho) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/llithoce)

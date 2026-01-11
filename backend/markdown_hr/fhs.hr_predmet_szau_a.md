@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/szau_a#v1id-904880_424457_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/szau_a#v1id-904880_424457_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/szau_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/als)
 **Šifra:** |  214637  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
@@ -41,7 +38,7 @@
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
@@ -49,7 +46,7 @@
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
@@ -62,7 +59,7 @@
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -77,7 +74,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)**: 
 Utorak, 11-12 sati
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/szau_a?@=21rf5#news_118563)

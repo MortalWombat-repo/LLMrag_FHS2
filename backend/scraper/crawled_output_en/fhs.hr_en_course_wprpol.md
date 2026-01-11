@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/wprpol)
 
 ## Wittgenstein: Philosophical Research [Philosophy of Language]
-  * [Basic data](https://www.fhs.hr/en/course/wprpol#v1id-523846_307428_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/wprpol#v1id-523846_307428_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/wprpol#v1id-523846_307428_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/wprpol#v1id-523846_307428_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/wprpol#v1id-159998_62272_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/wprpol#v1id-159998_62272_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/wprpol#v1id-159998_62272_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/wprpol#v1id-159998_62272_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/wfifj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/wprpol)

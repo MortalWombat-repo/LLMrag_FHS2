@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/ouhporndsd#v1id-904848_693047_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ouhporndsd#v1id-904848_693047_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ouhporndsd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/richftemptmt)
 **Šifra:** |  270149  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Svi elementi nastave na predmetu provode se na engleskom jeziku. Ova razina uključuje i predmete s više nastavnih grupa (u hrvatskoj grupi nastava je isključivo na hrvatskom jeziku, a u engleskoj grupi isključivo na engleskom jeziku).   
 **Opterećenje:**  
@@ -49,23 +48,20 @@
   4. Analizirati uzroke nemira, sukoba i ratova na području hrvatskih zemalja u periodu od ranonovovjekovnoga do suvremenoga doba
   5. Objasniti povijesnu uvjetovanost obrazaca ponašanja naroda i pojedinaca kao nositelja otpora
 
-  
 **Literatura:**  
   1. Povijest kontrarevolucije: hrvatska konzervativna misao od 1789. do 1989., Kljaić, Stipe, Naklada Pavičić, 2021. 
   2. Društvena previranja i bune u Hrvatskoj u XVI. i XVII. stoljeću, Klaić, Nada, Nolit, 1976. 
   3. Hrvatska u Jugoslaviji 1945. - 1991: od zajedništva do razlaza, Radelić, Zdenko, Školska knjiga; Hrvatski institut za povijest, 2008. 
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
 >   
 Termini konzultacija: 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ouhporndsd?@=21ndf#news_124254 "Arhiva obavijesti")

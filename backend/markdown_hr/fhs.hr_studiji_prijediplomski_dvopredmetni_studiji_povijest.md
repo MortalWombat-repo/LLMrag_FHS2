@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/povijest#v1id-904768_683515_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/povijest#v1id-904768_683515_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -445,4 +444,4 @@ ECTS | TZP (3503) - Akademski strani jezik
 4.0 |  [Akademski francuski (209486)](https://www.fhs.hr/predmet/akafra) Franić, I. |  | 60 15P+45SJ |  [__](javascript:show_window\('/.cms/predmet_info?_v1=rThR5_3W5gZjn0k8wam-mX7sdTzqM5NR4q8TxWM7UlX-M7H7kz3U-ePrLYih9UsVWvi2WnCyz0ZTpPAW0IwYzgtvizcnYZKknh8Es1Kvs1VveZHtpI2oiCfH5JE0GC8R1GeaBBIt54vYb1AASY6FdNNRLdMuTZFMalzNd1Aarfk1WAFunZom9oiTu3XxCcPiVO2msA==&_v1flags=eJZhu0d6jNGQSINY48LKFyEgJBqUjShZqAr7IUmGcvP3-8tn_jTF8evPUIghdgXCoCd_wUBsj9q-DIEoKrh0m1V7bFvLDGSGtezW4rkQ4SrDrHlqQlPf214YpGS3Fl5nV7bmH6lMVZl-ZxX_0Cy7vYrSFMVCwP5p8egJ1vm2qbWqD6o9&_lid=82933&_rand=0',%20''\))  
 4.0 |  [Akademski njemački (45829)](https://www.fhs.hr/predmet/akanje) Miškulin Saletović, L. |  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=GG5f6pp7gAgP_6RmgTBOsOIg7n90dWumhdeM0p-VQO32gBJkrFUOjc6Gp-FJVEITzELhNhKchXqV4mQzdBG_zoVxMPEA2AbDvJ_BI3QoNjFIUbqhiEb7hPwrZnPTkXC969r6P-rnKiQEG5EZznUtfHgmpU4-OT_SOnj0fydDHpnNzuarSVvP1uezMKhqMN9JOwyZSw==&_v1flags=eJzi7JhrjHgfnQP9AELvGyw0jT3HQFoIvrH7ynkejLg943ExWKf7Tta2j_pS18q_3IQk1xykxVCSlMLtUSHlfSV_KOU7X62n_9Qjvrf7tW_8lgUT63mjAEZzkbLpt2E6c6NiHrryPE3OvF_i8pJi59XJALeMvUjNRMPjxfVdq6sNyyYi&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

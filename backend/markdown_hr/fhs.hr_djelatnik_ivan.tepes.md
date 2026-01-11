@@ -13,5 +13,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Kulturni identiteti hrvatskoga iseljeništva (214011)](https://www.fhs.hr/predmet/kihi) - Seminar
   * [Povijest hrvatskoga iseljeništva (194392)](https://www.fhs.hr/predmet/phi_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

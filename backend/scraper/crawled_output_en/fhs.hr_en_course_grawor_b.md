@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/grawor_b)
 
 ## Graduate work
-  * [Basic data](https://www.fhs.hr/en/course/grawor_b#v1id-523778_728501_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/grawor_b#v1id-523778_728501_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/grawor_b#v1id-523778_728501_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/grawor_b#v1id-523778_728501_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/grawor_b#v1id-159942_635281_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/grawor_b#v1id-159942_635281_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/grawor_b#v1id-159942_635281_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/grawor_b#v1id-159942_635281_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_c) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/grawor_b)

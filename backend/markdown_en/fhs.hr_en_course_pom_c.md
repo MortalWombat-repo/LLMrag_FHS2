@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pom_c)
 
 ## Psychology of Memory
-  * [Basic data](https://www.fhs.hr/en/course/pom_c#v1id-523820_226079_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pom_c#v1id-523820_226079_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pom_c#v1id-523820_226079_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pom_c#v1id-523820_226079_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pom_c#v1id-159975_336520_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pom_c#v1id-159975_336520_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pom_c#v1id-159975_336520_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pom_c#v1id-159975_336520_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psipam_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pom_c)
@@ -14,7 +14,7 @@
 **ECTS:** |  6.0   
 **Lecturers in charge:** |  doc. dr. sc. [Alena Gizdić](https://www.fhs.hr/staff/alena.gizdic)   
   
-**Lecturers:** |  [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych. - Seminar  
+**Lecturers:** |  pred. [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -53,7 +53,7 @@
 > **Mandatory course** - Regular studij - Psychology  
 >   
 Consultations schedule: 
-  * **[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych.**: 
+  * **pred.[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego)**: 
 Tuesdays 13.00-14.00h, room 207
 Location: 
 

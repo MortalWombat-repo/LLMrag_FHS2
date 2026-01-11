@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/fps#v1id-904806_782894_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/fps#v1id-904806_782894_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/fps) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/apatatp)
 **Šifra:** |  214008  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Ivo Džinić](https://www.fhs.hr/djelatnik/ivo.dzinic)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Ivo Džinić](https://www.fhs.hr/djelatnik/ivo.dzinic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -54,10 +53,8 @@
 >  15. Zaključno predavanje: Hrvatska demografska zbilja u kontekstu filozofsko-teološka demografskoga diskursa  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -66,7 +63,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Ivo Džinić](https://www.fhs.hr/djelatnik/ivo.dzinic)**: 
 petkom od 11 do 12 sati
 Lokacija: Building 78, room 23 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/fps?@=21cf2#news_120131 "Arhiva obavijesti")

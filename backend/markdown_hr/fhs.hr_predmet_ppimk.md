@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ppimk#v1id-904861_156752_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ppimk#v1id-904861_156752_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppimk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mcraho)
 **Šifra:** |  38841  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,7 +29,6 @@
 > Uvesti studente u poznavanje povijesnog razvoja istraživanja medija i masovne komunikacije kod nas i u svijetu, te ih uputiti u njezinu sadašnju sistematiku kao i u različite pristupe tom istraživanju. U praktičnom dijelu studenti će obnoviti znanje metodologije društvenih znanosti, te se sami okušati u jednostavnim istraživanjima komunikatora, poruke, medija i recipijenta.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Kunczik, Michael. Zipfel Astrid. 2006. Uvod u publicističku znanost i komunikologiju. Zagreb: Zaklada Friedrich Ebert. 69-103; 129-155., 
   2. Trowler, Paul. 2002. Komunikacija i mediji. u: Sociologija: teme i perspektive, ur. Haralambos, Michael, Holborn, Martin. Zagreb: Golden marketing. 935-950., 
@@ -38,7 +36,6 @@
   4. Peruško, Zrinjka. Vozab, Dina. 2014. Povijest komunikacijskih i medijskih studija u Hrvatskoj: Politička misao u komparativnoj perspektivi, Politička misao, 51/1: 133-170., 
   5. Mataušić, Juraj Mirko. 2007. Komunikacijska znanosti. Definicije i područja istraživanja. Isti (ur.) Komunikacijske znanosti. Znanstvene grane i nazivlje, Zagreb: Hrvatski studiji. 9-36., 
 
-  
 **Preduvjeti za:**  
 > **Upis predmeta :**  
 >  Položen : [Akademska pismenost](https://www.fhs.hr/predmet/akapis_b)  
@@ -54,7 +51,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)**: 
 Srijedom, od 11 do 12 sati
 Lokacija: 103 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/ppimk?@=218tw#news_79632)

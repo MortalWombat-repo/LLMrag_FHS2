@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/popc)
 
 ## Psychology of profession choices
-  * [Basic data](https://www.fhs.hr/en/course/popc#v1id-523819_482006_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/popc#v1id-523819_482006_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/popc#v1id-523819_482006_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/popc#v1id-523819_482006_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/popc#v1id-159976_56559_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/popc#v1id-159976_56559_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/popc#v1id-159976_56559_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/popc#v1id-159976_56559_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/piz) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/popc)

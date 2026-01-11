@@ -29,7 +29,3 @@
   * [EU PROJEKTI INFO](http://www.eu-projekti.info/category/natjecaji-naslovna//)
   * [Basileus I, II, III and IV](http://www.basileus.ugent.be/index.asp?p=1135&a=1135)
   * [Erasmus+ vodič](http://ec.europa.eu/programmes/erasmus-plus/sites/erasmusplus/files/files/resources/erasmus-plus-programme-guide_en.pdf)
-
-
-  
-

@@ -30,10 +30,8 @@ Pristupnik koji je prvu razinu visokoga obrazovanja završio _u inozemstvu uz pr
   * • potvrdu da je predan zahtjev za priznavanje razdoblja studija u Ured za akademsko priznavanje inozemnih visokoškolskih kvalifikacija na Sveučilištu u Zagrebu, Trg Republike Hrvatske 14, 10000 Zagreb
   * • Rješenje o priznavanju inozemne visokoškolske kvalifikacije koje izdaje taj Ured
 
-
 [Upute vezane uz akademsko priznavanje ](https://www.unizg.hr/studiji-i-studiranje/upisi-stipendije-priznavanja/akademsko-priznavanje-inozemnih-visokoskolskih-kvalifikacija/)
   *   * Navedene isprave treba dostaviti Fakultetu hrvatskih studija, poštom ili osobno do 1. rujna 2025., a odsječna povjerenstva Fakulteta hrvatskih studija će do 15. rujna 2025. provesti usporedbu i odlučiti postoji li studijski ekvivalent kojim će se pristupnik ravnopravno natjecati na razredbenom postupku s ostalim pristupnicima. 
-
 
 **Rezultati razredbenoga postupka**
 ###### 
@@ -49,8 +47,5 @@ Na upis pristupnik treba donijeti potvrdu o uplati 30,00 eura za troškove upisa
 Podatke za uplatu za plaćanje internet bankarstvom možete preuzeti [ovdje](https://www.fhs.hr/images/50043072/troskovi%20upisa.pdf).
 Početak nastave za studente 1. godine sveučilišnih diplomskih studija na Fakultetu hrvatskih studija u ak. god. 2025./2026. biti će objavljen prema rasporedu predavanja objavljenom na mrežnim stranicama Fakulteta hrvatskih studija.
 
-
 2. Odluku o uvjetima upisa diplomskih studija u ak. god. 2025./2026. možete vidjeti [OVDJE.](https://www.fhs.hr/images/50043072/7.2.%20Odluka%20o%20prihvacanju%20uvjeta%20\(kriterija\)%20upisa%20u%201.%20godinu%20diplomskih%20studija%20u%20akademskoj%20godini%202025._2026..pdf)
 3. Odluku o raspodjeli upisnih kvota na diplomskim studijama u ak. god. 2025./2026. možete vidjeti [OVDJE.](https://www.fhs.hr/images/50043072/7.3.%20Odluka%20o%20prihvacanju%20kvota%20za%20upis%20na%20diplomske%20studije%20u%20akademskoj%20godini%202025._2026.%20\(1\).pdf)
-  
-

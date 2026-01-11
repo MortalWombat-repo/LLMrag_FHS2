@@ -14,11 +14,9 @@ Fakultet hrvatskih studija Sveučilišta u Zagreb provodit će upise **18. rujna
   5. ****STUDENTI IZ EU ILI IZVAN RH I EU (STRANCI) –**POTVRDU O OIBU STUDENTA I PRESLIKU PUTOVNICE**
   6. ******UPISNI BROJ** (pristupnik ga dobije u sustavu NISpVU prilikom potvrđivanja namjere upisa na VU)
 
-
 **STUDENTI KOJI SU RANIJE STUDIRALI I KOJIMA JE OVO PRVA ILI DRUGA PROMJENA STUDIJSKOG PROGRMA DUŽNI SU DODATNO DONIJETI:**
   7. **********POTVRDU O UPLATI ŠKOLARINE** (za studente koji studiraju drugi puta na istoj razini ili za studente strance) potvrdu o uplati cijelog iznosa školarine od 955,60 EUR ili potvrdu o uplati 1.rate (238,90 EUR) od 4. rate školarine s obzirom na to da studenti koji studiraju na istoj razini drugi put, prema Programskom ugovoru MZOM i Sveučilišta u Zagrebu moraju platiti puni iznos školarine, ukoliko nisu u prethodnoj akademskoj godini 2024./2025. ostvarili min. 55 ECTS bodova.
   8. ******ISPISNICU**(studenti koji ne upisuju prvi puta prvu godinu studija, dužni su priložiti ispisnicu s Fakulteta na kojem su prethodno studirali te trebaju odjaviti staru iksicu)
-
 
 **STUDENTI MOGU PREDATI DOKUMENTACIJU ZA UPIS, NO UPIS MOŽE BITI IZVRŠEN TEK UZ DOSTAVLJENU ISPISNICU S PROŠLOG FAKULTETA.**
 [Odluka o naknadama studenata, vanjskih suradnika i zaposlenika na Fakultetu hrvatskih studija (14.7.2025.)](https://www.fhs.hr/images/50043073/7.1.%20Odluka%20o%20naknadama%20studenata%20zaposlenika%20i%20vanjskih%20suradnika%20FHS.pdf)
@@ -49,7 +47,6 @@ Upoznajte se sa studijskim programima koji se izvode na Fakultetu hrvatskih stud
   * **[Psihologija](https://www.fhs.hr/smotra.fhs.hr/odsjek-za-psihologiju/) **(jednopredmetni), sveučlišni prijediplomski studij, trajanje 3 godine
   * [**Sociologija**](https://www.fhs.hr/smotra.fhs.hr/odsjek-za-sociologiju/) (jednopredmetni i dvopredmetni), sveučlišni prijediplomski studij, trajanje 3 godine
 
-
 Na Fakultetu hrvatskih studija Sveučilišta u Zagrebu nije moguće studirati u statusu izvanrednoga studenta.
 **Zašto upisati studij na Fakultetu hrvatskih studija**
 Fakultet hrvatskih studija Sveučilišta u Zagrebu zadnjih šest godina provodi istraživanje razloga upisa studenata prve godine prijediplomskih studija Fakulteta hrvatskih studija. Podaci analizirani od 2018. do 2023. godine pokazuju da je kod gotovo 60% upisanih studenata Fakultet hrvatskih studija bio njihov prvi izbor. Čak više od 80% upisanih studenata potvrđuje kako su uspjeli upisati željeni studijski smjer (svoj prvi studijski izbor) na Fakultetu hrvatskih studija što zasigurno doprinosi motivaciji studenata i kvaliteti nastavnoga procesa tijekom studiranja na našoj instituciji. Rezultati pokazuju kako među motivima za upis na Fakultet hrvatskih studija prevladavaju dobar temelj za osobni razvoj koji Fakultet pruža, interes studenata za predmete na studiju te kvaliteta nastavnoga programa.
@@ -65,7 +62,6 @@ Prvostupnici**[psihologije](https://www.fhs.unizg.hr/psihologija)** zapošljavaj
 Prvostupnici [**sociologije** ](https://www.fhs.unizg.hr/sociologija)zapošljavaju se u agencijama za istraživanje tržišta i ispitivanje javnoga mnijenja i konzultantskim tvrtkama za poslovno savjetovanje, budući da su metodološki osposobljeni analizirati i interpretirati društvene procese, vrijednosti i djelovanje te znaju razlikovati i primjenjivati istraživačke postupke u mjeri koja osigurava autonoman profesionalni angažman u institucijama ekonomskoga, političkoga i kulturnoga karaktera.
 Magistri [**demografije i hrvatskoga iseljeništva**](https://www.fhs.unizg.hr/demografija-i-hrvatsko-iseljenistvo) tijekom studija razvijaju znanja i sposobnosti vezane za stanovničku i iseljeničku problematiku, temeljem kojih pridonose razvoju svekolike hrvatske populacije. Ukupno razumijevanje stanovništva kao najvažnijega čimbenika svakoga društva i prostora omogućuje im zapošljavanje u sustavima nacionalne, regionalne i lokalne uprave, hrvatskim predstavništvima u inozemstvu, znanstveno-istraživačkim ustanovama, sigurnosnim sustavima i slično.
 
-
 [Dolazak na Znanstveno-učilišni kampus Borongaj ](https://www.fhs.hr/images/50014416/tam%20Obavijest%20o%20prijevozu%20na%20Kampus%20novo%205%207%2018docx.pdf)
 **[Informacije o dolasku na Fakultet hrvatskih studija SuZg javnim prijevozom](https://www.fhs.hr/images/50014416/TAM_%20Obavijest%20o%20prijevozu%20na%20Kampus%2014.6.19.%20webdocx.pdf)**
 **Kako do nas?**[(Karta)](https://www.fhs.unizg.hr/o_nama/gdje_smo)
@@ -73,7 +69,4 @@ Do Znanstveno – učilišnog kampusa Borongaj može se doći javnim prijevozom:
   * S Kvaternikovog trga odakle svakim danom, uključujući i nedljeljom i praznikom, prometuje redovna autobusna linija ZET-a broj 215: sići na stanici „Lozarinska“ i pješke kroz Savudrijsku ulicu doći do ulaza u Kampus i dalje do Hrvatskih studija.
   * Iz Ulice grada Gospića redovnom tramvajskom linijom broj 2, 3 ili 13: sići na stanici ”Čavićeva” odakle radnim danom prometuje redovna autobusna linija ZET-a broj 236: sići na zadnjoj stanici „Kampus Borongaj“;
 
-
 **Dodatne upite** o studijskim programima i uvjetima upisa možete poslati na e-mail: ** _razredbeni_postupak@fhs.hr; ili na tel. 01 2457628 ili 01 2457617_**
-  
-

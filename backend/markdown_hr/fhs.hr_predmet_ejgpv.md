@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/ejgpv#v1id-904800_630708_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ejgpv#v1id-904800_630708_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ejgpv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sapsie)
 **Šifra:** |  66554  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  v. pred. [Adrian Jadranko Beljo](https://www.fhs.hr/djelatnik/adrian_jadranko.beljo)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Opterećenje:**  
 ---  
@@ -26,28 +25,26 @@
 > Cilj je predmeta usvajanje tehnika i strategija potrebnih za vještinu slušanja na engleskome jeziku u akademskome okruženju te usvajanje govorničkih i prezentacijskih vještina na engleskom jeziku.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Hughes J., Mallett, A.; Successful Presentations; Oxford: Oxford University Press (2012), 
   2. Duncan, J., Parker A.; Open Forum 3: Academic Listening and Speaking; Oxford: Oxford University Press (2007), 
   3. Englesko-engleski rječnik po izboru studenata;, 
   4. Autentični materijali za slušanje i čitanje;, 
   5. 
-  
+
 **1. semestar**  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/ejgpv?@=21dil#news_82012)

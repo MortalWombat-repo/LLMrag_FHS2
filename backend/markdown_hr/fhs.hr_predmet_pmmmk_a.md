@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pmmmk_a#v1id-904856_590692_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pmmmk_a#v1id-904856_590692_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pmmmk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pommamc_b)
 **Šifra:** |  200713  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vucenovic)   
-  
+
 **Izvođači:** |  nasl. doc. [Viktorija Trninic](https://www.fhs.hr/djelatnik/viktorija.trninic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -36,23 +35,20 @@
   5. Primijeniti vještine usmenih i pismenih komunikacijskih i prezentacijskih vještina na hrvatskom jeziku (uz sažetak glavnih zaključaka na engleskom jeziku).
   6. Objasniti i razumjeti interdisciplinarnu narav psiholoških istraživanja
 
-  
 **Literatura:**  
   1. Media Today: Mass Communication in a Converging World., Turow, J., New York: Routlege, 2013. 
 
-  
 **Preporučena literatura:**  
   1. Komunikacija odgaja-odgoj komunicira: emocionalna i medijska pismenost., , Brusić, R., Ciboci, L., Kanižaj, I., Labaš, D., Mališa, J., Marković, N., Osmančević, L., Rovis Brandić, A. i Vučenović, D., Zagreb: Pragma, 2011.
   2. Djeca medija: od marginalizacije do senzacije., , Ciboci, L., Kanižaj, I. i Labaš, D., Zagreb: Matica hrvatska, 2011.
   3. Digitalna demencija: kako mi i naša djeca silazimo s uma., , Spitzer, M., Zagreb: Naklada Ljevak, 2018.
   4. Medij i mladi: prevencija ovisnosti o medijskoj manipulaciji., , Miliša, Z., Tolić, M i Vertovšek, N., Zagreb: Sveučilišna knjižara, 2009.
 
-  
 **1. semestar**  
 ---  
 > **PSI-dipl (4388): Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **PSI-dipl (4388): Izborni kolegiji** - Redovni studij - Psihologija  
 >   
@@ -60,7 +56,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vucenovic)**: 
 Utorak, 14:30 - 15:30
 Lokacija: 207 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/pmmmk_a?@=21851#news_115990 "Arhiva obavijesti")

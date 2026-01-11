@@ -12,5 +12,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Hrvatska likovna umjetnost (37464)](https://www.fhs.hr/predmet/hlu) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

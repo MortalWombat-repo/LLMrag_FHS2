@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/intbio#v1id-904823_683043_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/intbio#v1id-904823_683043_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/intbio) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/intbio)
 **Šifra:** |  214015  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -52,10 +51,8 @@
 >  15. Završno predavanje s diskusijom  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -64,7 +61,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)**: 
 Utorkom, 14:30 - 15:30
 Lokacija: 18 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/intbio?@=21cev#news_119809 "Arhiva obavijesti")

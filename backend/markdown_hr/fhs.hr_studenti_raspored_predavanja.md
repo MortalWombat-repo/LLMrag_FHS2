@@ -4,7 +4,6 @@
 ##### **Raspored nastave za zimski semestar akademske godine 2025./2026.**
 _**Napomena: Postoji mogućnost naknadnih izmjena termina nastave za pojedine kolegije**_
 [Sastavi svoj raspored](https://www.fhs.hr/images/50042863/Sastavi%20svoj%20raspored.docx)
-  
 
 ## Prijediplomski
   * [ Download ](https://www.fhs.hr/studenti/raspored_predavanja)
@@ -45,7 +44,6 @@ Uredio: _14. 10. 2025. u 07:55_
 Objavljeno: _29. 9. 2024. u 19:33_   
 Uredio: _6. 10. 2025. u 09:53_
 
-
 ## Diplomski
   * [ Download_(1) ](https://www.fhs.hr/studenti/raspored_predavanja)
     * ![](https://www.fhs.hr/_themes339/hrstud2024/default/icons_file/pdf32.png)
@@ -85,18 +83,14 @@ Uredio: _7. 10. 2025. u 11:20_
 Objavljeno: _29. 9. 2024. u 19:34_   
 Uredio: _7. 10. 2025. u 07:56_
 
-
 ## 
-  
+
 _Tlocrti glavne zgrade FHS i raspored predavaonica_
 ![](https://www.fhs.hr/images/50042863/Glavna_zgrada_objekt_63_priz%20\(2\).jpg) **PRIZEMLJE**
-  
 
 ![](https://www.fhs.hr/images/50042863/Glavna_zgrada_objekt_63_1.kat%20\(3\).jpg) **1. KAT**
 ![](https://www.fhs.hr/images/50042863/Glavna_zgrada_objekt_63_2.kat%20\(2\).jpg) **2. KAT**
 _Tlocrti zgrade Otoci FHS i raspored predavaonica_
 ![](https://www.fhs.hr/images/50042863/Screenshot_109.jpg) **ZGRADA OTOCI**
-  
-Fakultet hrvatskih studija na Google karti: 
-  
 
+Fakultet hrvatskih studija na Google karti:

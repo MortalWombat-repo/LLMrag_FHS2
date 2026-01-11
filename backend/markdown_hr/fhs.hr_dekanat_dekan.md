@@ -13,10 +13,6 @@ Dekan:
   * - donosi druge opće akte u skladu sa Statutom,
   * - imenuje stalna i privremena tijela za obavljanje poslova iz svoga djelokruga,
 
-
   * - obavlja i druge poslove utvrđene Zakonom, Statutom Sveučilišta, Statutom Fakulteta i drugim općim aktima.
 
-
 Dekan je odgovoran za zakonitost rada Fakulteta, provedbu Statuta i odluka sveučilišnih tijela na Fakultetu.
-  
-

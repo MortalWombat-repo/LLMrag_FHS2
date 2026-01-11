@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/latjez4#v1id-904834_289237_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/latjez4#v1id-904834_289237_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez4) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lat4)
 **Šifra:** |  38868  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Auditorne vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,13 +29,12 @@
 > Upoznavanje i svladavanje sintakse trovalentnih glagola, dijela konstrukcija glagolskih imena (akuzativ s infinitivom, apsolutni ablativ) i sintakse složene rečenice. Produbljivanje, primjena i učvršćivanje znanja morfologije i do tada naučene sintakse. Utvrđivanje i proširivanje znanja latinskoga leksika i frazeologije. Osposobljavanje za potpuno samostalno razumijevanje i prevođenje većine tekstova pisanih na klasičnom latinskom.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Demo, Šime; Latinski jezik 4 (interni priručnik);, 
   2. Divković, Mirko; Latinsko-hrvatski rječnik: za škole; više izdavača, 
   3. Marević, Jozo; Latinsko-hrvatski enciklopedijski rječnik, sv. I-II; Matica hrvatska (2000), 
   4.   5. 
-  
+
 **Preduvjeti za:**  
 > **Upis predmeta :**  
 >  Položen : [Latinski jezik 3](https://www.fhs.hr/predmet/latjez3)  
@@ -49,7 +47,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)**: 
 Utorkom 11:45-12:45 (uz prethodnu najavu)
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/latjez4?@=21byv#news_80752)

@@ -9,5 +9,3 @@ Glavne aktivnosti Znanstvenog zavoda Fakulteta hrvatskih studija:
 • priređivanje znanstvenih skupova, konferencija, okruglih stolova i radionica;  
 • provođenje znanstveno-nakladničke djelatnosti;  
 • organiziranje znanstveno-istraživačke djelatnosti s težištem na provedbi interdisciplinarnih empirijskih istraživanja.
-  
-

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sap)
 
 ## Stress and Psychotrauma
-  * [Basic data](https://www.fhs.hr/en/course/sap#v1id-523830_82814_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sap#v1id-523830_82814_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sap#v1id-523830_82814_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sap#v1id-523830_82814_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sap#v1id-159985_361064_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sap#v1id-159985_361064_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sap#v1id-159985_361064_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sap#v1id-159985_361064_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sip) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sap)

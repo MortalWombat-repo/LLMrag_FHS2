@@ -12,5 +12,4 @@ Fakultet hrvatskih studija
 **doktorski**
   * [Iz totalitarizma u demokraciju - društveno-povijesni kontekst tranzicije (260842)](https://www.fhs.hr/predmet/ituddkt_a) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

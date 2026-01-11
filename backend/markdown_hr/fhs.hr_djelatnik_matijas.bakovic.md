@@ -14,5 +14,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Jezik i kultura Hrvata u Bosni i Hercegovini (188089)](https://www.fhs.hr/predmet/jkhubh) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

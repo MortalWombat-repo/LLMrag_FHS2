@@ -20,7 +20,6 @@ Upoznajte se sa studijskim programima koji se izvode na Fakultetu hrvatskih stud
   * **[Psihologija](https://smotra.fhs.hr/odsjek-za-psihologiju/) **(jednopredmetni), sveučlišni prijediplomski studij, trajanje 3 godine
   * [**Sociologija**](https://smotra.fhs.hr/odsjek-za-sociologiju/) (jednopredmetni i dvopredmetni), sveučlišni prijediplomski studij, trajanje 3 godine
 
-
 Na Fakultetu hrvatskih studija Sveučilišta u Zagrebu nije moguće studirati u statusu izvanrednoga studenta.
 ##### Z**ašto upisati studij na Fakultetu hrvatskih studija**
 Fakultet hrvatskih studija Sveučilišta u Zagrebu zadnjih šest godina provodi istraživanje razloga upisa studenata prve godine prijediplomskih studija Fakulteta hrvatskih studija. Podaci analizirani od 2018. do 2023. godine pokazuju da je kod gotovo 60% upisanih studenata Fakultet hrvatskih studija bio njihov prvi izbor. Čak više od 80% upisanih studenata potvrđuje kako su uspjeli upisati željeni studijski smjer (svoj prvi studijski izbor) na Fakultetu hrvatskih studija što zasigurno doprinosi motivaciji studenata i kvaliteti nastavnoga procesa tijekom studiranja na našoj instituciji. Rezultati pokazuju kako među motivima za upis na Fakultet hrvatskih studija prevladavaju dobar temelj za osobni razvoj koji Fakultet pruža, interes studenata za predmete na studiju te kvaliteta nastavnoga programa.
@@ -41,7 +40,4 @@ Do Znanstveno – učilišnog kampusa Borongaj može se doći javnim prijevozom:
   * S Kvaternikovog trga odakle svakim danom, uključujući i nedljeljom i praznikom, prometuje redovna autobusna linija ZET-a broj 215: sići na stanici „Lozarinska“ i pješke kroz Savudrijsku ulicu doći do ulaza u Kampus i dalje do Hrvatskih studija.
   * Iz Ulice grada Gospića redovnom tramvajskom linijom broj 2, 3 ili 13: sići na stanici ”Čavićeva” odakle radnim danom prometuje redovna autobusna linija ZET-a broj 236: sići na zadnjoj stanici „Kampus Borongaj“;
 
-
 **Dodatne upite** o studijskim programima i uvjetima upisa možete poslati na e-mail: ** _razredbeni_postupak@fhs.hr; ili na tel. 01 2457628 ili 01 2457617._**
-  
-

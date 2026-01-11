@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hvpdr#v1id-904820_549088_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hvpdr#v1id-904820_549088_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hvpdr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cmhahw)
 **Šifra:** |  202851  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Mijo Beljo](https://www.fhs.hr/djelatnik/mijo.beljo)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -39,7 +36,6 @@ Termini konzultacija:
 Utorkom: 10.00 - 11.00
 Srijedom: 9.45 - 11.00
 Lokacija: 117 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hvpdr?@=21eav#news_119970)

@@ -6,17 +6,16 @@
   * [Nastava](https://www.fhs.hr/predmet/idr_d#v1id-904821_681562_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/idr_d#v1id-904821_681562_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/idr_d) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/prothe_b)
 **Šifra:** |  193872  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
 **Izvođači:** |  izv. prof. dr. sc. [Lovorka Brajković](https://www.fhs.hr/djelatnik/lovorka.brajkovic) - Seminar  
 doc. dr. sc. [Jelena Maričić](https://www.fhs.hr/djelatnik/jelena.maricic) - Seminar  
 izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vucenovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@ izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vuceno
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Psihologija  
@@ -47,7 +44,6 @@ Lokacija:
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vucenovic)**: 
 Utorak, 14:30 - 15:30
 Lokacija: 207 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/idr_d?@=216ga#news_115393 "Arhiva obavijesti")

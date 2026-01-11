@@ -23,7 +23,6 @@ ODSJEK ZA PSIHOLOGIJU
   * [Psihologija pamćenja (200126)](https://www.fhs.hr/predmet/psipam_a) - Seminar
   * [Uvod u psihologiju i psihologijske teorijske sustave (200121)](https://www.fhs.hr/predmet/uuppts_a) - Seminar
 
-
 **diplomski**
   * [Praktične vježbe predmetne metodike [Psihologija] (144738)](https://www.fhs.hr/predmet/pvpmp_b) - Nositelj, Metodičke vježbe
   * [Studentska praksa (200304)](https://www.fhs.hr/predmet/stupra_b) - Vježbe u praktikumu
@@ -31,5 +30,3 @@ ODSJEK ZA PSIHOLOGIJU
   * [Razvojna psihopatologija (213982)](https://www.fhs.hr/predmet/razpsi_c) - Seminar
   * [Razvojne poteškoće djece i mladih (214006)](https://www.fhs.hr/predmet/rpdm) - Seminar
   * [Razvoj u društvenom kontekstu (53863)](https://www.fhs.hr/predmet/rudk) - Seminar
-
-

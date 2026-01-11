@@ -16,5 +16,4 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Praktikum biološke psihologije (37803)](https://www.fhs.hr/predmet/pbp) - Vježbe u praktikumu
 
-
 #### Znanstveni radovi (CroRIS)

@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/diprad_e#v1id-904796_931001_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/diprad_e#v1id-904796_931001_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_e) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/masthe_a)
 **Šifra:** |  214702  
-  
+
 ---|---  
 **ECTS:** |  10.0   
 **Nositelji:** |   
@@ -24,7 +23,7 @@ doc. dr. sc. [Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumano
 prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad) - Seminar  
 prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek) - Seminar  
 izv. prof. dr. sc. [Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -37,10 +36,8 @@ izv. prof. dr. sc. [Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -67,7 +64,7 @@ Lokacija: 710 (zgrada 77)
 Srijedom od 11:15 do 12:15.
 Lokacija: 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
   * **prof. dr. sc.[Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad)**: 
@@ -76,13 +73,12 @@ Nastava u ljetnom semestru: ponedjeljak 8:00-9:30, 9:35-11:05.
 Nastava u zimskom semestru: ponedjeljak 8:00-12:40, utorak 8:00-11:05.
 Lokacija: 25 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
   * **izv. prof. dr. sc.[Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic)**: 
 Četvrtkom od 12.30-13.30
 Lokacija: 11 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/diprad_e?@=21cmg#news_120341 "Arhiva obavijesti")

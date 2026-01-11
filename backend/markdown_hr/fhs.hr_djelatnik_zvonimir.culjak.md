@@ -19,14 +19,11 @@ ODSJEK ZA FILOZOFIJU I KULTUROLOGIJU
   * [Ruđer Bošković (213978)](https://www.fhs.hr/predmet/rudjbos) - Nositelj
   * [Starija hrvatska filozofija (227467)](https://www.fhs.hr/predmet/shf) - Nositelj, Seminar
 
-
 **diplomski**
   * [Diplomski rad (214814)](https://www.fhs.hr/predmet/diprad_f) - Seminar
 
-
 **doktorski**
   * [Epistemologija (257937)](https://www.fhs.hr/predmet/epi_b) - Nositelj
-
 
 #### Znanstveni radovi (CroRIS)
 > Kantovi transcendentalni argumenti za Božje postojanje

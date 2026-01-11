@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/gags_a)
 
 ## Geopolitics and Global Security
-  * [Basic data](https://www.fhs.hr/en/course/gags_a#v1id-523776_915836_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/gags_a#v1id-523776_915836_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/gags_a#v1id-523776_915836_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/gags_a#v1id-523776_915836_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/gags_a#v1id-159940_864208_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/gags_a#v1id-159940_864208_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/gags_a#v1id-159940_864208_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/gags_a#v1id-159940_864208_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ggs_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gags_a)

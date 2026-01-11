@@ -7,5 +7,3 @@ izv. prof. dr. sc. [S](https://www.fhs.unizg.hr/djelatnik/vlatka.vukelic)[andro 
 [Tomislav Branđolica](https://www.fhs.hr/djelatnik/tomislav.brandjolica), mag. hist.
 [Ivo-Pavao Jazbec](https://www.fhs.hr/djelatnik/ivo-pavao.jazbec), mag. educ. philol. graec.
 [Mato Krajina](https://www.fhs.hr/djelatnik/mato.krajina), ing.
-  
-

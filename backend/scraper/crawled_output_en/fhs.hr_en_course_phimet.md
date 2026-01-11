@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/phimet)
 
 ## Philosophical methodology
-  * [Basic data](https://www.fhs.hr/en/course/phimet#v1id-523815_581605_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/phimet#v1id-523815_581605_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/phimet#v1id-523815_581605_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/phimet#v1id-523815_581605_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/phimet#v1id-159972_526911_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/phimet#v1id-159972_526911_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/phimet#v1id-159972_526911_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/phimet#v1id-159972_526911_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filmet) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/phimet)

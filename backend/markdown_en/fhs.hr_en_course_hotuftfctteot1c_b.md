@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hotuftfctteot1c_b)
 
 ## History of the USA from the First Colonies to the End of the 19th Century
-  * [Basic data](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-523786_488887_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-523786_488887_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-523786_488887_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-523786_488887_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-159947_958381_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-159947_958381_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-159947_958381_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hotuftfctteot1c_b#v1id-159947_958381_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psadopkdk1s_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hotuftfctteot1c_b)

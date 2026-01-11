@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hoegarifafvf_a)
 
 ## History of Egypt, Greece and Rome in Film Art - Facts vs. Fiction
-  * [Basic data](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-523784_302165_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-523784_302165_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-523784_302165_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-523784_302165_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-159944_994063_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-159944_994063_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-159944_994063_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hoegarifafvf_a#v1id-159944_994063_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pegrufucv_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoegarifafvf_a)

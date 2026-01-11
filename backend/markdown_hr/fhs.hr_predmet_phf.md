@@ -6,15 +6,14 @@
   * [Nastava](https://www.fhs.hr/predmet/phf#v1id-904850_787793_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/phf#v1id-904850_787793_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phf) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hocc)
 **Šifra:** |  61935  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima)   
 izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -78,7 +77,6 @@ izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.broz
   5. Upoznavanje s temeljnim razdobljima, pravcima, strujama, autorima i opusima u korpusu hrvatskoga filma te njihova europskog konteksta.
   6. Upoznavanje s doprinosom i udjelom hrvatske kinematografije u hrvatskoj kulturi i umjetnosti, a napose u vezama s književnošću.
 
-  
 **Literatura:**  
   1. Uvod u povijest hrvatskog igranog filma, Gilić, Nikica, Zagreb: Leykam international, 2010. 
   2. 101 godina filma u Hrvatskoj 1896-1997, Škrabalo, Ivo, Zagreb: Nakladni zavod Globus, 1998. 
@@ -86,20 +84,18 @@ izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.broz
   4. "Filmski modernizam u ideološkom i populističkom okruženju", Hrvatski filmski ljetopis, god. 15., br. 59, Turković, Hrvoje, 2009. 
   5. Klasici hrvatskog filma jugoslavenskog razdoblja, Pavičić, Jurica, Zagreb: Hrvatski filmski savez, 2017. 
 
-  
 **Preporučena literatura:**  
   1. Modernizam u hrvatskom igranom filmu: nacrt tipologije, , Šakić, Tomislav, Zagreb: Disput, 2016.
 
-  
 **1. semestar**  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **Obavezni predmet** - Redovni smjer - Znanstveni  
@@ -111,7 +107,6 @@ Lokacija:
   * **izv. prof. dr. sc.[Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic)**: 
 ponedjeljkom 14:30-15:30
 Lokacija: zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/a70050a0469b2f0573dd4c4812d0196d7395_icon.jpg) ](https://www.fhs.hr/predmet/phf?@=21j5y#news_79590)

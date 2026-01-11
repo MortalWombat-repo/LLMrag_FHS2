@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ogj2#v1id-904843_971688_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ogj2#v1id-904843_971688_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ogj2) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/elegre2)
 **Šifra:** |  130285  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Maja Matasović](https://www.fhs.hr/djelatnik/maja.matasovic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Maja Matasović](https://www.fhs.hr/djelatnik/maja.matasovic) - Lektorske vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -66,7 +65,6 @@
 >  U završnu ocjenu uključit će se redoviti rad na nastavi, pisanje domaćih zadaća i drugih samostalnih zadataka, te pismeni i usmeni ispit. Pismeni ispit moguće je zamijeniti pozitivnim polaganjem dva kolokvija tijekom semestra.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Zdravka Martinić-Jerčić, Priručnik u radu  
 M. Balme, G. Lawall, Athenaze. An introduction to Ancient Greek: Book I, 2. izd., Oxford 2003.  
@@ -75,7 +73,6 @@ S. Senc, Grčko-hrvatski rječnik, Zagreb, 1988. (reprint iz 1910.)
 Eusebius Hieronymus Stridonensis, De viribus illustribus, latine et graece  
 Novum testamentum, 
 
-  
 **Preporučena literatura:**  
   1. , Z. Martinić-Jerčić, D. Matković, Prometej, udžbenik za prve dvije godine učenja grčkog jezika, ŠK, 2003.  
 C.A.E. Luschnig, Introduction to Ancient Greek, A Literary Approach, 2. izd. Indianapolis/Cambridge, 2007.  
@@ -83,21 +80,20 @@ Z. Dukat, Gramatika grčkoga jezika, Zagreb, 2003.
 F. Montanari, Vocabolario della lingua greca, Milano, 2004.  
 E. Barić i dr., Hrvatska gramatika, Zagreb, 2003., , , .
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **LAT _DIPL_DVP ( 17064) - Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >   
-  
+
 **2. semestar**  
 > **LAT-dipl (7584): Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **LAT _DIPL_DVP ( 17064) - Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >  **LAT-dipl (7584): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >   
-  
+
 **4. semestar**  
 > **LAT _DIPL_DVP ( 17064) - Izborni kolegiji** - Redovni studij - Hrvatski latinitet  
 >  **LAT-dipl (7584): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -106,7 +102,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Maja Matasović](https://www.fhs.hr/djelatnik/maja.matasovic)**: 
 Utorkom 12,45-13,45h
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ogj2?@=20qtp#news_87653 "Arhiva obavijesti")

@@ -36,5 +36,3 @@
 32. Emma Filipović, zamjenica Iva Perić
 33. Gabrijel Jelić, zamjenica Iva Tomas
 Zadnja promjena: 1. listopada 2025.
-  
-

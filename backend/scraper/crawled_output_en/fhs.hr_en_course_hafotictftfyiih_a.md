@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hafotictftfyiih_a)
 
 ## History and function of the International Criminal Tribunal for the former Yugoslavia (ICTY) in Hague
-  * [Basic data](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-523781_188467_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-523781_188467_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-523781_188467_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-523781_188467_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-159943_179068_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-159943_179068_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-159943_179068_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hafotictftfyiih_a#v1id-159943_179068_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pdmkszbjuh_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hafotictftfyiih_a)

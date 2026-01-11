@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hubh#v1id-904820_185512_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hubh#v1id-904820_185512_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hubh) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cibah)
 **Šifra:** |  226638  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. [Mirjana Milićević](https://www.fhs.hr/djelatnik/mirjana.milicevic)   
-  
+
 **Izvođači:** |  [Martina Miljak](https://www.fhs.hr/djelatnik/martina.miljak), mag. educ. geogr. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -52,25 +51,22 @@
 >  15. II. kolokvij  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hubh?@=21g9l#news_121403 "Arhiva obavijesti")

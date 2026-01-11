@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/worpop_b)
 
 ## World Population
-  * [Basic data](https://www.fhs.hr/en/course/worpop_b#v1id-523846_331715_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/worpop_b#v1id-523846_331715_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/worpop_b#v1id-523846_331715_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/worpop_b#v1id-523846_331715_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/worpop_b#v1id-159998_468479_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/worpop_b#v1id-159998_468479_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/worpop_b#v1id-159998_468479_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/worpop_b#v1id-159998_468479_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/stasvi_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/worpop_b)

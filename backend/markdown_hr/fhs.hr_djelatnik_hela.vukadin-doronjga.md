@@ -13,5 +13,4 @@ ODSJEK ZA KROATOLOGIJU
   * [Hrvatski prostor i arhitektura (270385)](https://www.fhs.hr/predmet/hpa_a) - Nositelj, Seminar
   * [Krajolik i tradicija u hrvatskoj arhitekturi (270391)](https://www.fhs.hr/predmet/ktuha_a) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

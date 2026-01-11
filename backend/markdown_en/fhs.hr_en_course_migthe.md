@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/migthe)
 
 ## Migration theory
-  * [Basic data](https://www.fhs.hr/en/course/migthe#v1id-523805_369416_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/migthe#v1id-523805_369416_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/migthe#v1id-523805_369416_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/migthe#v1id-523805_369416_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/migthe#v1id-159965_278478_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/migthe#v1id-159965_278478_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/migthe#v1id-159965_278478_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/migthe#v1id-159965_278478_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/teomig) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/migthe)

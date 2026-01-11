@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **diplomski**
   * [Vještine psihologijskoga testiranja i klinički intervju (188782)](https://www.fhs.hr/predmet/vptki) - Vježbe u praktikumu
 
-
 #### Znanstveni radovi (CroRIS)

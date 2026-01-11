@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/p1s#v1id-904848_992264_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/p1s#v1id-904848_992264_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/p1s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/1ch)
 **Šifra:** |  38058  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -35,7 +34,6 @@
   7. interpretirati proces demokratizacije društva
   8. povezati stečena znanja s ciljem bolje kontekstualizacije i interpretacije nacionalne povijesti
 
-  
 **Literatura:**  
   1. Povijest svijeta od početaka do danas, Grupa autora, Zagreb, 1976. 
   2. Doba revolucije, str. 105-132., 161-212., Eric Hobsbawm, Školska knjiga, Zagreb, 1987. 
@@ -51,7 +49,6 @@
   12. Povijest Vatikana, Jacques Mercier, Barbat, Zagreb, 2001. 
   13. Diplomacija, Henry Kissinger, Zagreb, 2000. 
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -61,7 +58,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)**: 
 Srijedom od 11:15 do 12:15.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/p1s?@=21k4q#news_79625)

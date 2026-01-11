@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/diprad_b#v1id-904931_676750_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/diprad_b#v1id-904931_676750_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/grawor_a)
 **Šifra:** |  64818  
-  
+
 ---|---  
 **ECTS:** |  20.0   
 **Nositelji:** |   
@@ -25,7 +24,7 @@ nasl. prof. dr. sc. [Nenad Pokos](https://www.fhs.hr/djelatnik/nenad.pokos) - Se
 izv. prof. dr. sc. [Andreja Sršen](https://www.fhs.hr/djelatnik/andreja.srsen) - Seminar  
 doc. dr. sc. [Luka Šikić](https://www.fhs.hr/djelatnik/luka.sikic) - Seminar  
 nasl. doc. dr. sc. Sara Ursić - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -38,11 +37,10 @@ nasl. doc. dr. sc. Sara Ursić - Seminar
 > Diplomski rad je cjelovita, sveobuhvatna i visoko nezavisna obveza kojom student završava studij, te mora pokazati svoju sposobnost u analiziranju zadanoga problema ili tematike s teorijskog, praktičnog ili istraživačkog stajališta u onom znanstvenom polju ili grani u kojoj je ustrojen studij koji student završava. Cilj je predmeta da student pokaže poznavanje teme, sposobnost samostalnog istraživanja, korištenja literature i primjenu znanstvene i stručne metodologije.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mentor je dogovara sa svakim studentom ovisno o temi diplomskog rada.;, 
   2.   3.   4.   5. 
-  
+
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Sociologija  
@@ -75,7 +73,6 @@ Lokacija: 13
   * **doc. dr. sc.[Luka Šikić](https://www.fhs.hr/djelatnik/luka.sikic)**: 
 Četvtrkom od 15h-16h uz prethodnu najavu mailom.
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/diprad_b?@=20owr#news_82222 "Arhiva obavijesti")

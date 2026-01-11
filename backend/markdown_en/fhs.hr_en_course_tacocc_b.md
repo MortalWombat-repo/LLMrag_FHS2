@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tacocc_b)
 
 ## The Ancient Cities of Continental Croatia
-  * [Basic data](https://www.fhs.hr/en/course/tacocc_b#v1id-523839_660389_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tacocc_b#v1id-523839_660389_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tacocc_b#v1id-523839_660389_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tacocc_b#v1id-523839_660389_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tacocc_b#v1id-159992_907798_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tacocc_b#v1id-159992_907798_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tacocc_b#v1id-159992_907798_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tacocc_b#v1id-159992_907798_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/agkh_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tacocc_b)

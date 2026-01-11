@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/gissta#v1id-904806_999388_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/gissta#v1id-904806_999388_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gissta) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gisgaop)
 **Šifra:** |  214007  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Roko Mišetić](https://www.fhs.hr/djelatnik/roko.misetic)   
-  
+
 **Izvođači:** |  [Tomislav Belić](https://www.fhs.hr/djelatnik/tomislav.belic), mag. geogr. - Vježbe u praktikumu  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -54,16 +53,13 @@
 >  15. Predrok  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/gissta?@=21cgb#news_120096 "Arhiva obavijesti")

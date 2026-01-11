@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/zavrad#v1id-904890_187352_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/zavrad#v1id-904890_187352_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zavrad) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bawor)
 **Šifra:** |  38774  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |   
@@ -53,7 +52,7 @@ prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek) - Seminar
 izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vucenovic) - Seminar  
 izv. prof. dr. sc. [Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic) - Seminar  
 prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -66,11 +65,10 @@ prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima) - Semi
 > Preddiplomski rad je cjelovita i nezavisna obveza kojom student završava preddiplomski studij, te mora pokazati svoju sposobnost samostalnog korištenja literature u onom znanstvenom polju ili grani u kojoj je ustrojen studij koji student završava. Cilj je predmeta da student pokaže poznavanje teme, sposobnost samostalnog rada i korištenja literature, te primjenu prikladne metodologije. Student dvopredmetnog studija piše samo jedan završni rad na jednom od studija.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mentor je dogovara sa svakim studentom ovisno o temi završnog rada.;, 
   2.   3.   4.   5. 
-  
+
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija i kultura  
@@ -167,11 +165,11 @@ Lokacija: zgrada 77, ured 718
 Utorkom, 14:30 - 15:30
 Lokacija: 18 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/djelatnik/dario.vucenovic)**: 
@@ -183,7 +181,6 @@ Lokacija: 11
   * **prof. dr. sc.[Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima)**: 
 utorkom od 10 do 11, četvrtkom od 11 do 12 i po dogovoru (dzima@hrstud.hr)
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/zavrad?@=20ovt#news_77223 "Arhiva obavijesti")

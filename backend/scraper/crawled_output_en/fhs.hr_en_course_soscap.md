@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/soscap)
 
 ## Sociology of Social Control and Police
-  * [Basic data](https://www.fhs.hr/en/course/soscap#v1id-523836_315167_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/soscap#v1id-523836_315167_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/soscap#v1id-523836_315167_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/soscap#v1id-523836_315167_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/soscap#v1id-159991_806757_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/soscap#v1id-159991_806757_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/soscap#v1id-159991_806757_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/soscap#v1id-159991_806757_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sskpuhd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/soscap)

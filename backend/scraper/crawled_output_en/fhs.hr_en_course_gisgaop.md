@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/gisgaop)
 
 ## Geographic Information System (GIS) - Analysis of population
-  * [Basic data](https://www.fhs.hr/en/course/gisgaop#v1id-523778_301181_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/gisgaop#v1id-523778_301181_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/gisgaop#v1id-523778_301181_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/gisgaop#v1id-523778_301181_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/gisgaop#v1id-159942_261991_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/gisgaop#v1id-159942_261991_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/gisgaop#v1id-159942_261991_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/gisgaop#v1id-159942_261991_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gissta) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gisgaop)

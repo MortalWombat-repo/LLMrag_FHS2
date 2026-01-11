@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/croinc)
 
 ## Croatian Incunabulistics
-  * [Basic data](https://www.fhs.hr/en/course/croinc#v1id-523762_114062_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/croinc#v1id-523762_114062_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/croinc#v1id-523762_114062_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/croinc#v1id-523762_114062_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/croinc#v1id-159927_405669_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/croinc#v1id-159927_405669_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/croinc#v1id-159927_405669_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/croinc#v1id-159927_405669_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hrvink) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/croinc)
@@ -12,9 +12,9 @@
   
 ---|---  
 **ECTS:** |  3.0   
-**Lecturers in charge:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
   
-**Lecturers:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
+**Lecturers:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   

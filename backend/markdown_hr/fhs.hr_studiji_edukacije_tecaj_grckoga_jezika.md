@@ -13,7 +13,4 @@ Neke od kompetencija koje se stječu tečajem su:
   6. postizanje vještine uočavanja osnovnih karakteristika grčkoga teksta i stjecanje kompetencije za samostalno prevođenje jednostavnijih rečenica i kraćih tekstova s grčkoga na hrvatski jezik, te snalaženje (uz pomoć rječnika i gramatike) u jednostavnijim grčkim tekstovima;
   7. poznavanje pravila transkripcije i transliteracije.
 
-
 Za dodatne informacije studenti se mogu javiti izv. prof. dr. sc. Maji Matasović putem e-pošte [mmatasovic@fhs.hr](javascript:cms_mail\('mmatasovic','fhs.hr','',''\)) ili na broj telefona 01/ 2457 645
-  
-

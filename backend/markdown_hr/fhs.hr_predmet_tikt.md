@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/tikt#v1id-904881_315719_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/tikt#v1id-904881_315719_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/tikt) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/taiolt)
 **Šifra:** |  188073  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -123,10 +122,8 @@
 >  nost. Zagreb: Nakladni zavod Globus.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -135,7 +132,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic)**: 
 ponedjeljkom 14:30-15:30
 Lokacija: zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/tikt?@=21s7k#news_113842)

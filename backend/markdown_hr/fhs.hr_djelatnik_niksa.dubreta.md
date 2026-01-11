@@ -12,9 +12,7 @@ ODSJEK ZA SOCIOLOGIJU
 **prijediplomski**
   * [Sociologija rada i organizacije (214001)](https://www.fhs.hr/predmet/sro) - Nositelj, Seminar
 
-
 **diplomski**
   * [Sociologija uporabe droga (57201)](https://www.fhs.hr/predmet/sud) - Nositelj, Seminar
-
 
 #### Znanstveni radovi (CroRIS)

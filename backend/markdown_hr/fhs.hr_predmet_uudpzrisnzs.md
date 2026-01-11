@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/uudpzrisnzs#v1id-904884_957475_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/uudpzrisnzs#v1id-904884_957475_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uudpzrisnzs)
 **Šifra:** |  260846  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Eva Katarina Glazer](https://www.fhs.hr/djelatnik/eva_katarina.glazer)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Opterećenje:**  
 ---  
@@ -25,10 +24,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Izvanredni studij - Povijest  
@@ -38,7 +35,6 @@ Termini konzultacija:
 - četvrtkom 10.15-11.15 u kabinetu 011
 - e-poštom: eglazer@hrstud.hr
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/uudpzrisnzs?@=21lyc#news_123266 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/thehol)
 
 ## The Holocaust
-  * [Basic data](https://www.fhs.hr/en/course/thehol#v1id-523841_783752_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/thehol#v1id-523841_783752_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/thehol#v1id-523841_783752_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/thehol#v1id-523841_783752_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/thehol#v1id-159995_360000_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/thehol#v1id-159995_360000_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/thehol#v1id-159995_360000_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/thehol#v1id-159995_360000_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hol) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/thehol)

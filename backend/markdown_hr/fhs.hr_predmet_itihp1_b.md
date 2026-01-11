@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/itihp1_b#v1id-904824_632538_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/itihp1_b#v1id-904824_632538_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/itihp1_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/chst1_b)
 **Šifra:** |  202951  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)   
-  
+
 **Izvođači:** |  dr. sc. [Jure Trutanić](https://www.fhs.hr/djelatnik/jure.trutanic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,17 +29,15 @@
 **Ishodi učenja:**  
   1. Interpretirati i kritički iščitavati odabrane povijesne izvore
 
-  
 **Literatura:**  
   1. Hrvatska povijest 1918. - 1941., Šute, Ivica, Leykam international, 2019. 
 
-  
 **5. semestar**  
 ---  
 > **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >  **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >  **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
@@ -52,7 +49,6 @@ Lokacija: 103
   * **dr. sc.[Jure Trutanić](https://www.fhs.hr/djelatnik/jure.trutanic)**: 
 Četvrtkom od 13.15 do 14.15.
 Lokacija: S3 (zgrada knjižnice) 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/itihp1_b?@=21eec#news_116948)

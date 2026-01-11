@@ -12,5 +12,4 @@ ODSJEK ZA ODGOJNO-OBRAZOVNE ZNANOSTI
 **prijediplomski**
   * [Akademski talijanski (226939)](https://www.fhs.hr/predmet/akatal) - Vježbe iz stranog jezika
 
-
 #### Znanstveni radovi (CroRIS)

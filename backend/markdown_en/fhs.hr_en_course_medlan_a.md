@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/medlan_a)
 
 ## Media Language
-  * [Basic data](https://www.fhs.hr/en/course/medlan_a#v1id-523803_401581_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/medlan_a#v1id-523803_401581_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/medlan_a#v1id-523803_401581_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/medlan_a#v1id-523803_401581_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/medlan_a#v1id-159963_41782_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/medlan_a#v1id-159963_41782_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/medlan_a#v1id-159963_41782_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/medlan_a#v1id-159963_41782_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/jum) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/medlan_a)

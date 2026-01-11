@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/uuui#v1id-904887_85336_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/uuui#v1id-904887_85336_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uuui) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itai)
 **Šifra:** |  227468  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -62,37 +61,35 @@
 >  15. Završna rasprava  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar**  
 > **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
@@ -100,7 +97,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi)**: 
 Nakon predavanja uz obveznu raniju najavu mailom ili po dogovoru
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/uuui?@=21hm2#news_121088)

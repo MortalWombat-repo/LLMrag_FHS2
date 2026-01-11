@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/izbsus#v1id-904827_376295_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/izbsus#v1id-904827_376295_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/izbsus) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/elesys)
 **Šifra:** |  238021  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -71,10 +70,8 @@
 >  15. Vrjednovanje kolegija  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -83,7 +80,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac)**: 
 Ponedjeljak, 11:30 - 12:30h ili prema prethodnom dogovoru e-mailom.
 Lokacija: 710 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/izbsus?@=21j07#news_122277 "Arhiva obavijesti")

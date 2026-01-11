@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/lalhonc)
 
 ## Literary and Linguistic Heritage of Northwestern Croatia
-  * [Basic data](https://www.fhs.hr/en/course/lalhonc#v1id-523794_131973_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/lalhonc#v1id-523794_131973_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/lalhonc#v1id-523794_131973_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/lalhonc#v1id-523794_131973_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/lalhonc#v1id-159955_715368_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/lalhonc#v1id-159955_715368_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/lalhonc#v1id-159955_715368_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/lalhonc#v1id-159955_715368_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/knsh) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lalhonc)

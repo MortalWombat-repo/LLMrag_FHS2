@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/comapor)
 
 ## Culture of Memory and Places of Remembrance
-  * [Basic data](https://www.fhs.hr/en/course/comapor#v1id-523758_99643_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/comapor#v1id-523758_99643_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/comapor#v1id-523758_99643_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/comapor#v1id-523758_99643_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/comapor#v1id-159924_159941_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/comapor#v1id-159924_159941_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/comapor#v1id-159924_159941_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/comapor#v1id-159924_159941_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kpms) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/comapor)

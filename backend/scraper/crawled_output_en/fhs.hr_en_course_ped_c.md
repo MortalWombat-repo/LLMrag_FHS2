@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ped_c)
 
 ## Pedagogy
-  * [Basic data](https://www.fhs.hr/en/course/ped_c#v1id-523813_763223_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ped_c#v1id-523813_763223_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ped_c#v1id-523813_763223_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ped_c#v1id-523813_763223_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ped_c#v1id-159970_782906_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ped_c#v1id-159970_782906_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ped_c#v1id-159970_782906_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ped_c#v1id-159970_782906_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/opcped_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ped_c)
@@ -14,7 +14,7 @@
 **ECTS:** |  4.0   
 **Lecturers in charge:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/staff/katarina.dadic)   
   
-**Lecturers:** |  [Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Seminar  
+**Lecturers:** |  dr. sc. Martina Horvat - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -52,7 +52,7 @@
 >  **EDU(17065) Nastavnički modul - Obvezni kolegiji** - Regular studij - Sociology  
 >   
   
-**2. semester**  
+**2. semester** Not active  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Regular studij - Psychology  
 >   
   
@@ -60,13 +60,10 @@
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Regular studij - Psychology  
 >   
   
-**4. semester**  
+**4. semester** Not active  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Regular studij - Psychology  
 >   
 Consultations schedule: 
-  * **[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed.**: 
-Thursday, 11.00 - 12.00
-Location: Zgrada knjižnice 
 
 
 ## News

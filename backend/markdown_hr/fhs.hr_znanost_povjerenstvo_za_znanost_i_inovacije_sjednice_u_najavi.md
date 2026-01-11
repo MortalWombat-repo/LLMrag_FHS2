@@ -16,5 +16,3 @@
 17. sjednica Povjerenstva za znanost i inovacije - 6. prosinca 2024.
 16. sjednica Povjerenstva za znanost i inovacije - 3. prosinca 2024.
 15. sjednica Povjerenstva za znanost i inovacije - 29. studenog 2024.
-  
-

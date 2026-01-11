@@ -13,5 +13,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Javni nastup (213962)](https://www.fhs.hr/predmet/javnas) - Nositelj, Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

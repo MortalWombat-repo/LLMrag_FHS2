@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **diplomski**
   * [Forenzička psihijatrija (139805)](https://www.fhs.hr/predmet/forpsi_a) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

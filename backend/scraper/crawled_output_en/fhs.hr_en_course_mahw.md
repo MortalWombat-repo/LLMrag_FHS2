@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mahw)
 
 ## Media and Homeland War
-  * [Basic data](https://www.fhs.hr/en/course/mahw#v1id-523798_747555_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mahw#v1id-523798_747555_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mahw#v1id-523798_747555_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mahw#v1id-523798_747555_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mahw#v1id-159959_435516_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mahw#v1id-159959_435516_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mahw#v1id-159959_435516_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mahw#v1id-159959_435516_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mdr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mahw)

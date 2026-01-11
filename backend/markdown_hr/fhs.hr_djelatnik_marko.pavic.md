@@ -13,5 +13,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Oblici novinarske komunikacije (37896)](https://www.fhs.hr/predmet/onk) - Auditorne vježbe
   * [Digitalno novinarstvo (285536)](https://www.fhs.hr/predmet/dignov_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

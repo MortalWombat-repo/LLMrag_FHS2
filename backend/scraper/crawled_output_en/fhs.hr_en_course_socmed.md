@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/socmed)
 
 ## Social media
-  * [Basic data](https://www.fhs.hr/en/course/socmed#v1id-523832_818305_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/socmed#v1id-523832_818305_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/socmed#v1id-523832_818305_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/socmed#v1id-523832_818305_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/socmed#v1id-159988_294782_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/socmed#v1id-159988_294782_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/socmed#v1id-159988_294782_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/socmed#v1id-159988_294782_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/drumed) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/socmed)
@@ -12,8 +12,7 @@
   
 ---|---  
 **ECTS:** |  5.0   
-**Lecturers in charge:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/staff/ivana.greguric)   
-doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)   
+**Lecturers in charge:** |  doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)   
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   

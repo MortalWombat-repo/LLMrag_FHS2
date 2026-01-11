@@ -14,5 +14,4 @@ ODSJEK ZA PSIHOLOGIJU
   * [Psihološko savjetovanje (173598)](https://www.fhs.hr/predmet/psisav_a) - Seminar
   * [Rad s grupama (173686)](https://www.fhs.hr/predmet/rsg_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

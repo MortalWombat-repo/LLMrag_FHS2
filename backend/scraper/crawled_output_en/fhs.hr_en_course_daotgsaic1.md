@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/daotgsaic1)
 
 ## Demographic Aspects of the Greater Serbian aggression in Croatia 1990-1998
-  * [Basic data](https://www.fhs.hr/en/course/daotgsaic1#v1id-523765_388978_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/daotgsaic1#v1id-523765_388978_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/daotgsaic1#v1id-523765_388978_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/daotgsaic1#v1id-523765_388978_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/daotgsaic1#v1id-159930_921513_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/daotgsaic1#v1id-159930_921513_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/daotgsaic1#v1id-159930_921513_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/daotgsaic1#v1id-159930_921513_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dasanh1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/daotgsaic1)
@@ -32,48 +32,28 @@
   
 **1. semester** Not active  
 ---  
-> **KOM (2999) - izborni TZP** - Regular studij - Communication Studies  
->  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **POV (3517) - izborni TZP** - Regular studij - History  
->  **PSI (2980) - izborni TZP** - Regular studij - Psychology  
+> **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
 >   
   
 **2. semester** Not active  
-> **KOM (2999) - izborni TZP** - Regular studij - Communication Studies  
->  **KRO (3001) - izborni TZP** - Regular studij - Croatology  
->  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **POV (3517) - izborni TZP** - Regular studij - History  
->  **PSI (2980) - izborni TZP** - Regular studij - Psychology  
+> **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
 >   
   
 **3. semester** Not active  
-> **KOM (2999) - izborni TZP** - Regular studij - Communication Studies  
->  **KRO (3001) - izborni TZP** - Regular studij - Croatology  
->  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **POV (3517) - izborni TZP** - Regular studij - History  
->  **SOC (2960) - izborni TZP** - Regular studij - Sociology  
+> **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
 >   
   
 **4. semester** Not active  
-> **KOM (2999) - izborni TZP** - Regular studij - Communication Studies  
->  **KRO (3001) - izborni TZP** - Regular studij - Croatology  
+> **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
 >  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **POV (3517) - izborni TZP** - Regular studij - History  
->  **SOC (2960) - izborni TZP** - Regular studij - Sociology  
 >   
   
 **5. semester** Not active  
-> **KOM (2999) - izborni TZP** - Regular studij - Communication Studies  
->  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **POV (3517) - izborni TZP** - Regular studij - History  
->  **SOC (2960) - izborni TZP** - Regular studij - Sociology  
+> **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
 >   
   
 **6. semester** Not active  
-> **KOM (2999) - izborni TZP** - Regular studij - Communication Studies  
->  **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
->  **POV (3517) - izborni TZP** - Regular studij - History  
+> **DEM (17929) - Izborni predmeti** - Regular studij - Demography and Croatian Diaspora  
 >   
 Consultations schedule: 
 

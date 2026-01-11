@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cmhahw)
 
 ## Croatian Military History and Homeland War
-  * [Basic data](https://www.fhs.hr/en/course/cmhahw#v1id-523758_177540_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cmhahw#v1id-523758_177540_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cmhahw#v1id-523758_177540_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cmhahw#v1id-523758_177540_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cmhahw#v1id-159923_834595_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cmhahw#v1id-159923_834595_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cmhahw#v1id-159923_834595_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cmhahw#v1id-159923_834595_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hvpdr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cmhahw)

@@ -13,9 +13,7 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Uvod u razvojnu psihologiju (37808)](https://www.fhs.hr/predmet/uurp) - Nositelj
 
-
 **diplomski**
   * [Nasilje nad djecom i među djecom (239941)](https://www.fhs.hr/predmet/nndmd) - Nositelj
-
 
 #### Znanstveni radovi (CroRIS)

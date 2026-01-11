@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/buscom)
 
 ## Business Communication
-  * [Basic data](https://www.fhs.hr/en/course/buscom#v1id-523746_831111_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/buscom#v1id-523746_831111_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/buscom#v1id-523746_831111_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/buscom#v1id-523746_831111_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/buscom#v1id-159915_758740_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/buscom#v1id-159915_758740_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/buscom#v1id-159915_758740_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/buscom#v1id-159915_758740_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/poskom) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/buscom)

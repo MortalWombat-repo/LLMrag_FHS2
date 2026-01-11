@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/als)
 
 ## Active Learning Strategies
-  * [Basic data](https://www.fhs.hr/en/course/als#v1id-523743_10578_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/als#v1id-523743_10578_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/als#v1id-523743_10578_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/als#v1id-523743_10578_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/als#v1id-159911_295116_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/als#v1id-159911_295116_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/als#v1id-159911_295116_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/als#v1id-159911_295116_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/szau_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/als)

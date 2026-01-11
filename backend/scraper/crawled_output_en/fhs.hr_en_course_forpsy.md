@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/forpsy)
 
 ## Forensic Psychology
-  * [Basic data](https://www.fhs.hr/en/course/forpsy#v1id-523776_387476_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/forpsy#v1id-523776_387476_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/forpsy#v1id-523776_387476_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/forpsy#v1id-523776_387476_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/forpsy#v1id-159939_502898_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/forpsy#v1id-159939_502898_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/forpsy#v1id-159939_502898_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/forpsy#v1id-159939_502898_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/forpsi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/forpsy)

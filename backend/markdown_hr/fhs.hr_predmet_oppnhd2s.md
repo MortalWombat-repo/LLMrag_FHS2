@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/oppnhd2s#v1id-904846_774258_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/oppnhd2s#v1id-904846_774258_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/oppnhd2s)
 **Šifra:** |  264241  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  prof. dr. sc. [Ivica Miškulin](https://www.fhs.hr/djelatnik/ivica.miskulin)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Opterećenje:**  
 ---  
@@ -25,16 +24,13 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **GRUPA 3** - Izvanredni studij - Povijest  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/oppnhd2s?@=21mio#news_123669 "Arhiva obavijesti")

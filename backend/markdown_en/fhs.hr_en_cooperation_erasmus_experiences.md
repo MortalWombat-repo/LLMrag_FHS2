@@ -16,6 +16,11 @@
 [Saznaj više](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21uaq#news_133180)
 24.10.2025
 [More...](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21uaq#news_133180 "Read news: Welcome Day for Students from Indonesian Universities!")
+[ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21ujg#news_133180)
+#####  [Jana Lou from Bern, Switzerland](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21ujg#news_133180)
+My stay in Zagreb, winter semester 2024. 
+[Saznaj više](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21ujg#news_133180)
+17.11.2025
 [ ![...](https://www.fhs.hr/_news/icons/efdf5e2fcf23b44ce8118e72d9a47cd74604_icon.jpg) ](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21ubu#news_133180)
 #####  [Meeting of Outgoing and Incoming Erasmus+ Students](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21ubu#news_133180)
 [Saznaj više](https://www.fhs.hr/en/cooperation/erasmus_experiences?@=21ubu#news_133180)

@@ -14,9 +14,7 @@ ODSJEK ZA PSIHOLOGIJU
   * [Neurobiology of behavioral disturbances and psychiatric disorders (144875)](https://www.fhs.hr/predmet/nobdapd) - Nositelj
   * [Praktikum biološke psihologije (37803)](https://www.fhs.hr/predmet/pbp) - Nositelj
 
-
 **diplomski**
   * [Izrada diplomskoga rada (126008)](https://www.fhs.hr/predmet/idr_b) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

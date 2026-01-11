@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/mns#v1id-904840_234420_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mns#v1id-904840_234420_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mns) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mots)
 **Šifra:** |  53909  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,15 +26,12 @@
 > Cilj je predmeta upoznati studenta s nastavom kao vrlo složenim sustavom posredovanja znanja i vještina na tri metodičke razine: a) razina nastavne metodike posredovat će teoriju nastave uopće, odnosno, općevažeća načela i postupke primjenjive unutar različitih predmeta i nastavnih situacija te složenog komunikacijskog odnosa nastavnika i učenika te nastavnog okruženja kao takvog; b) područna metodika kao suženija specifikacija nastavnih postupaka svojstvenih pojedinom području ili područjima (humanističke znanosti, društvene znanosti), c) predmetna metodika koncentrirana maksimalno na specifične sadržaje i ciljeve pojedinih nastavnih predmeta te adekvatne metodičke postupke.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Pranjić, M.; Nastavna metodika u riječi i slici; Hrvatski studiji Sveučilišta u Zagrebu (2013), 
 
-  
 **Preporučena literatura:**  
   1. , Kyriacou, Chris; Temeljna nastavna umijeća,; Zagreb: Educa., , , .
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Sociologija  
@@ -47,7 +43,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)**: 
 petkom od 8.00 do 9.00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/mns?@=21ieo#news_80318)

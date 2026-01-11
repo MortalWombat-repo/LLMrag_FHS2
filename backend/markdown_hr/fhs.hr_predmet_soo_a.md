@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/soo_a#v1id-904875_825981_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/soo_a#v1id-904875_825981_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/soo_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/soe)
 **Šifra:** |  211173  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Sociologija  
@@ -38,7 +35,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)**: 
 petkom od 8.00 do 9.00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/soo_a?@=21r9d#news_121179)

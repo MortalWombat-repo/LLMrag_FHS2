@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ptsaci)
 
 ## Psychological Testing Skills and Clinical Interview
-  * [Basic data](https://www.fhs.hr/en/course/ptsaci#v1id-523824_436102_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ptsaci#v1id-523824_436102_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ptsaci#v1id-523824_436102_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ptsaci#v1id-523824_436102_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ptsaci#v1id-159979_151343_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ptsaci#v1id-159979_151343_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ptsaci#v1id-159979_151343_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ptsaci#v1id-159979_151343_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/vptki) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ptsaci)

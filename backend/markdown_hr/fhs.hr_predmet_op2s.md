@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/op2s#v1id-904846_40189_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/op2s#v1id-904846_40189_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/op2s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/2ch)
 **Šifra:** |  38065  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,7 +26,6 @@
 > Ciljevi predmeta su prikazivanje uzroka, tijeka i posljedica osnovnih političkih i društvenih procesa te događaja u 20. stoljeću. Naglasak se stavlja na metodologijske posebnosti pri istraživanju i razumijevanju povijesti 20. stoljeća. U radu sa studentskim grupama interdisciplinarno će se obraditi različiti globalni fenomeni koji su obilježili 20. stoljeće; primjerice totalitarizme, međunarodno pravo, megagradove i sl.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Gu nther Bo ing; Povijest svijeta, Zagreb, (poglavlja koja se odnose na kraj 19. i 20. stoljeće); Naprijed, Zagreb (1990), 
   2. S. Sharma; Svjetska privreda; Narodne novine, Zagreb (1990), 
@@ -35,7 +33,6 @@
   4. A. J. P. Taylor; Uzroci Drugog svjetskog rata, Zagreb, 1994.; Znanje, Zagreb (1994), 
   5. S. P. Huntington; Sukob civilizacija; Cambridge University Press, London (1997), 
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -45,7 +42,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)**: 
 Srijedom, od 11 do 12 sati
 Lokacija: 103 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/op2s?@=216oc#news_79968)

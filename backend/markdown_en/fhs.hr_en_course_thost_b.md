@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/thost_b)
 
 ## The History of Social Theory
-  * [Basic data](https://www.fhs.hr/en/course/thost_b#v1id-523841_700432_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/thost_b#v1id-523841_700432_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/thost_b#v1id-523841_700432_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/thost_b#v1id-523841_700432_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/thost_b#v1id-159995_538115_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/thost_b#v1id-159995_538115_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/thost_b#v1id-159995_538115_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/thost_b#v1id-159995_538115_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pst_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/thost_b)

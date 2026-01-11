@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Globalna strategija (226637)](https://www.fhs.hr/predmet/glostr) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

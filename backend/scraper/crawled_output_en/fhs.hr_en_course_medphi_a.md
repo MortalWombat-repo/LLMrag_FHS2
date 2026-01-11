@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/medphi_a)
 
 ## Medieval Philosophy
-  * [Basic data](https://www.fhs.hr/en/course/medphi_a#v1id-523804_825502_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/medphi_a#v1id-523804_825502_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/medphi_a#v1id-523804_825502_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/medphi_a#v1id-523804_825502_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/medphi_a#v1id-159963_386315_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/medphi_a#v1id-159963_386315_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/medphi_a#v1id-159963_386315_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/medphi_a#v1id-159963_386315_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/srefil) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/medphi_a)

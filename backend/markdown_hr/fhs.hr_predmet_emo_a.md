@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/emo_a#v1id-904800_299064_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/emo_a#v1id-904800_299064_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/emo_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/emo)
 **Šifra:** |  37811  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Jelena Maričić](https://www.fhs.hr/djelatnik/jelena.maricic)   
-  
+
 **Izvođači:** |  dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  U dogovoru sa studentima upisanim na predmetu, nastavnik će osigurati što veći broj elemenata nastave na engleskom jeziku, odnosno istovremeno i na engleskom i na hrvatskom za mješovite grupe (dvojezični nastavni materijali i dvojezični ispiti). Razina 2 također uključuje dodatni individualni rad sa stranim studentima (slično kao i razina 1) za nastavne elemente koji se drže na hrvatskom jeziku.   
 **Opterećenje:**  
@@ -30,13 +29,11 @@
 > Upoznati studente sa sustavnim pregledom znanstvenih pojmova i spoznaja iz područja emocija te s razvojem, obogaćivanjem i primjenom znanstvenog pojma emocija. Poseban naglasak stavit će se na primjenu teorijskih spoznaja psihologije emocija u svakodnevnom životu i profesionalnoj praksi.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Oatley, K.; Jenkins, J. (2003.) Razumijevanje emocija.Jastrebarsko: Naklada Slap;, 
   2. Čudina-Obradović, M.; Obradović, J. (2006.) Utjecaj roditelja na socijalno.-emocionalni razvoj i motivaciju djeteta. U: M. Čudina Obradović; J. Obradović (2006.) Psihologija braka i obitelji. Zagreb: Golden marketing - Tehnička knjiga.;, 
   3. Radovi prezentirani na seminarima;, 
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Psihologija  
@@ -47,10 +44,9 @@ utorkom od 16.00 do 17.00 h
 Lokacija: 
   * **dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
 Ponedjeljak: 11:00-12:00h, uz najavu e-mailom  
-  
+
 2. kat, soba 206
 Lokacija: 206 
-
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/78d97f11a235e6732d48cdb139ded1412822_icon.jpg) ](https://www.fhs.hr/predmet/emo_a?@=20sm5#news_82033)

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pktuhk#v1id-904854_929749_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pktuhk#v1id-904854_929749_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pktuhk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pacticl)
 **Šifra:** |  239801  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic)   
-  
+
 **Izvođači:** |  dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,26 +28,24 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
@@ -60,7 +57,6 @@ Lokacija: zgrada knjižnice
   * **dr. sc.[Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata)**: 
 Prema dogovoru
 Lokacija: J2 (zgrada knjižnice) 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pktuhk?@=21sst#news_122242)

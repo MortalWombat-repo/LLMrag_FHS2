@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/qrmics)
 
 ## Quantitative Research Methods in Communication Sciences
-  * [Basic data](https://www.fhs.hr/en/course/qrmics#v1id-523824_882263_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/qrmics#v1id-523824_882263_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/qrmics#v1id-523824_882263_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/qrmics#v1id-523824_882263_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/qrmics#v1id-159979_810856_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/qrmics#v1id-159979_810856_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/qrmics#v1id-159979_810856_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/qrmics#v1id-159979_810856_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kmiuk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/qrmics)

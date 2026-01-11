@@ -20,8 +20,4 @@ Prodekan za znanost:
   * - obavlja i druge poslove utvrđene Statutom Fakulteta i drugim općim aktima i po dekanovoj povjerbi;  
 o svojem radu kontinuirano izvješćuje dekana i Dekanski kolegij, Fakultetskomu vijeću podnosi godišnje izvješće.  
 
-
-
 Zadnja promjena: 1. listopada 2025.
-  
-

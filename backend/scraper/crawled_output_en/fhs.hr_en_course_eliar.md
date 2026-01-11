@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/eliar)
 
 ## Everyday Life in Ancient Rome
-  * [Basic data](https://www.fhs.hr/en/course/eliar#v1id-523773_35045_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/eliar#v1id-523773_35045_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/eliar#v1id-523773_35045_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/eliar#v1id-523773_35045_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/eliar#v1id-159936_414683_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/eliar#v1id-159936_414683_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/eliar#v1id-159936_414683_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/eliar#v1id-159936_414683_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/svarim) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/eliar)

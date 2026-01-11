@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cct)
 
 ## Croatian Cultural Tourism
-  * [Basic data](https://www.fhs.hr/en/course/cct#v1id-523750_536332_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cct#v1id-523750_536332_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cct#v1id-523750_536332_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cct#v1id-523750_536332_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cct#v1id-159916_718029_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cct#v1id-159916_718029_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cct#v1id-159916_718029_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cct#v1id-159916_718029_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkt) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cct)

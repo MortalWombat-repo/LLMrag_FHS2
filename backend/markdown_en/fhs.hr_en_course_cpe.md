@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cpe)
 
 ## Croatian Political Emigration
-  * [Basic data](https://www.fhs.hr/en/course/cpe#v1id-523759_43088_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cpe#v1id-523759_43088_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cpe#v1id-523759_43088_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cpe#v1id-523759_43088_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cpe#v1id-159925_229051_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cpe#v1id-159925_229051_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cpe#v1id-159925_229051_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cpe#v1id-159925_229051_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hpi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cpe)

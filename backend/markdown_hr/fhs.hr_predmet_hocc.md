@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hocc#v1id-904817_336542_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hocc#v1id-904817_336542_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hocc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hocc_a)
 **Šifra:** |  144304  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  prof. dr. sc. [Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  U dogovoru sa studentima upisanim na predmetu, nastavnik će osigurati što veći broj elemenata nastave na engleskom jeziku, odnosno istovremeno i na engleskom i na hrvatskom za mješovite grupe (dvojezični nastavni materijali i dvojezični ispiti). Razina 2 također uključuje dodatni individualni rad sa stranim studentima (slično kao i razina 1) za nastavne elemente koji se drže na hrvatskom jeziku.   
 **Opterećenje:**  
@@ -154,7 +153,6 @@
 >  Students with disabilities may request this document and other materials related to this class in alternate formats: Braille, large print, audio tape, or computer disk. Please contact your instructor for more information.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Fine, J. V. (2006). When Ethnicity Did Not Matter in The Balkans: A Study Of Identity in Pre : Nationalist Croatia, Dalmatia, and Slavonia in The Medieval And Early : Modern Periods. Ann Arbor, Michigan: University of Michigan Press.  
 Davison, David; Gaffney, Vince; Marin, Emilio (2006), Dalmatia: Research in the Roman Province 1970 : 2001. Google books.   
@@ -175,7 +173,7 @@ Babic, Ivan; Stanko Guldescu (1964), Croatia Land, People, Culture. Vol. 1. Cana
 Bachich, Willy A. (1970), Maritime History of the Eastern Adriatic. Croatia Land, People, Culture. Vol. II. Toronto and Buffalo: University of Toronto.  
 Aksamija, Nadija. (2004). Between Humanism and the Counter : Reformation: Villa and Villeggiatura in Renaissance Ragusa. Princeton University. (ProQuest Dissertations and Theses)  
 Amat, Darinka M. (1970). History of Early Printing in Croatia. (ProQuest)  
-  
+
 Bédé, Jean Albert; William Benbow Edgerton. (1980). Columbia Dictionary of Modern European Literature. New York: Columbia UP.  
 Bellamy, Alex J. (2003). The Formation of Croatian National Identity: Centuries : Old Dream? N.p.: Manchester UP. (Google Scholar) Coleman, J.A. (2007). The Dictionary of Mythology. London: Arcturus Publishing Limited.  
 Cornis : Pope, Marcel; John Neubauer. (2004). History of the Literary Cultures of East : Central Europe: Junctures and Disjunctures in the 19th and 20th Centuries. Vol. 3. N.p.: John Benjamins. (Google Scholar)Despalatovic, Elinor Murray. (1992). Gaj Croatia is not yet lost, 1832 : 33 : the ideology of Gaj, Ljudevit in the Preparatory Period of the Croatian National Revival in American Historical Review 97.2. (Web of knowledge)  
@@ -185,30 +183,29 @@ Kadic, Ante. (1959). Croatian Renaissance. Studies in the Renaissance 6. (JSTOR)
 Krekić, Bariša. (1995). On the Latino : Slavic Cultural Symbiosis in Late Medieval and Renaissance Dalmatia and Dubrovnik. Viator 26, no. 1.  
 Powell, Barry B. (2012). Classical Myth. New York. Pearson. Wallace, Jennifer. (1998). A History of Illyria. Greece 5.2. (Scopus), 
 
-  
 **1. semestar**  
 ---  
 > **Courses for Erasmus+ student mobility** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **Courses for Erasmus+ student mobility** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **3. semestar**  
 > **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **5. semestar**  
 > **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
@@ -216,7 +213,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac)**: 
 Srijeda od 14:30 do 15:30
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hocc?@=20sbl#news_110480 "Arhiva obavijesti")

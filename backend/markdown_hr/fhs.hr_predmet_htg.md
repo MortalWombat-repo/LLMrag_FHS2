@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/htg#v1id-904819_283725_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/htg#v1id-904819_283725_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/htg) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ctm)
 **Šifra:** |  270286  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  nasl. doc. dr. sc. [Lidija Bajuk](https://www.fhs.hr/djelatnik/lidija.bajuk)   
-  
+
 **Izvođači:** |  nasl. doc. dr. sc. [Lidija Bajuk](https://www.fhs.hr/djelatnik/lidija.bajuk) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -41,7 +40,6 @@
   9. Nabrojati hrvatsku tradicijsku glazbu kao nematerijalno kulturno dobro pod nacionalnom zaštitom
   10. Nabrojati hrvatsku tradicijsku glazbu kao nematerijalno kulturno dobro pod svjetskom zaštitom
 
-  
 **Literatura:**  
   1. "Hrvati i njihova narodna kultura". U: Hrvatska tradicijska kultura na razmeđi svjetova i epoha, Belaj, Vitomir, Barbat Zagreb, 2001. 
   2. "Tradicijska glazba". U: Hrvatska tradicijska kultura na razmeđi svjetova i epoha., Marošević, Grozdana, Barbat Zagreb, 2001. 
@@ -49,7 +47,6 @@
   4. "Folklorni ples". U: Hrvatska tradicijska kultura na razmeđi svjetova i epoha, Zebec, Tvrtko, Barbat Zagreb, 2001. 
   5. "Autorsko i srodna prava u glazbi..." U: Zbornik Hrvatskog društva za autorsko pravo 13-14, Matanovac Vučković, Romana i Hrvoje Maratović, Hrvatsko društvo za autorsko pravo Zagreb, 2016. 
 
-  
 **Preporučena literatura:**  
   1. Međimurska popevka (izabrana poglavlja)., , Bajuk, Lidija, Naklada Ljevak Zagreb, 2020.
   2. Hrvatska tradicijska glazba (CD)., , Ceribašić, Naila i Joško Ćaleta, IEF Zagreb, 2000.
@@ -60,39 +57,37 @@
   7. Zvuk. Zvek. Zvon. Glazbala u hrvatskom folkloru., , Vojnović Traživuk, Branka, Etnografski muzej Split, 2015.
   8. Reinterpreting (national) intangible heritage: how do we present ourselves? In: Dance, Narratives, Heritage. Ed. E. Ivancich Dunin.., , Zebec, Tvrtko, ICTM Study Group on Ethnochoreology, IEF Zagreb, 2015.
 
-  
 **1. semestar**  
 ---  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **3. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **5. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/htg?@=21ndw#news_124430 "Arhiva obavijesti")

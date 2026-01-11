@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hoocitcc_b)
 
 ## Heritage of Other Cultures in the Croatian Culture
-  * [Basic data](https://www.fhs.hr/en/course/hoocitcc_b#v1id-523784_461119_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hoocitcc_b#v1id-523784_461119_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hoocitcc_b#v1id-523784_461119_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hoocitcc_b#v1id-523784_461119_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hoocitcc_b#v1id-159948_97113_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hoocitcc_b#v1id-159948_97113_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hoocitcc_b#v1id-159948_97113_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hoocitcc_b#v1id-159948_97113_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ndkuhk_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoocitcc_b)

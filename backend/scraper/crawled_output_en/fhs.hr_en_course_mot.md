@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mot)
 
 ## Motivation
-  * [Basic data](https://www.fhs.hr/en/course/mot#v1id-523806_729101_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mot#v1id-523806_729101_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mot#v1id-523806_729101_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mot#v1id-523806_729101_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mot#v1id-159964_673759_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mot#v1id-159964_673759_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mot#v1id-159964_673759_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mot#v1id-159964_673759_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mot) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mot)

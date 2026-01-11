@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/epi_a)
 
 ## Epistemology
-  * [Basic data](https://www.fhs.hr/en/course/epi_a#v1id-523773_392060_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/epi_a#v1id-523773_392060_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/epi_a#v1id-523773_392060_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/epi_a#v1id-523773_392060_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/epi_a#v1id-159936_994489_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/epi_a#v1id-159936_994489_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/epi_a#v1id-159936_994489_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/epi_a#v1id-159936_994489_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/epi_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/epi_a)

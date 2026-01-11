@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/slit2c_a)
 
 ## State Leaders in the 20th century
-  * [Basic data](https://www.fhs.hr/en/course/slit2c_a#v1id-523832_700305_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/slit2c_a#v1id-523832_700305_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/slit2c_a#v1id-523832_700305_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/slit2c_a#v1id-523832_700305_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/slit2c_a#v1id-159987_553991_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/slit2c_a#v1id-159987_553991_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/slit2c_a#v1id-159987_553991_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/slit2c_a#v1id-159987_553991_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dxs_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/slit2c_a)

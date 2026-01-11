@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/oolitpp)
 
 ## Overview of Latinity in the Post-Renaissance Period
-  * [Basic data](https://www.fhs.hr/en/course/oolitpp#v1id-523809_518208_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/oolitpp#v1id-523809_518208_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/oolitpp#v1id-523809_518208_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/oolitpp#v1id-523809_518208_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/oolitpp#v1id-159967_836240_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/oolitpp#v1id-159967_836240_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/oolitpp#v1id-159967_836240_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/oolitpp#v1id-159967_836240_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppl) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/oolitpp)

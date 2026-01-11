@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/bawor)
 
 ## BA work
-  * [Basic data](https://www.fhs.hr/en/course/bawor#v1id-523747_880333_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/bawor#v1id-523747_880333_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/bawor#v1id-523747_880333_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/bawor#v1id-523747_880333_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/bawor#v1id-159915_320531_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/bawor#v1id-159915_320531_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/bawor#v1id-159915_320531_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/bawor#v1id-159915_320531_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zavrad) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bawor)
@@ -32,9 +32,9 @@ doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic) 
 doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Seminar  
 izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac) - Seminar  
 izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic) - Seminar  
-doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
+izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
 prof. dr. sc. [Mirko Lukaš](https://www.fhs.hr/djelatnik/mirko.lukas) - Seminar  
-doc. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/djelatnik/marica.marinovic_golubic) - Seminar  
+izv. prof. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/djelatnik/marica.marinovic_golubic) - Seminar  
 izv. prof. dr. sc. [Maja Matasović](https://www.fhs.hr/djelatnik/maja.matasovic) - Seminar  
 prof. dr. sc. [Renato Matić](https://www.fhs.hr/djelatnik/renato.matic) - Seminar  
 izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic) - Seminar  

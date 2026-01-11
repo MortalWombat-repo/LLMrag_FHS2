@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/its_c)
 
 ## Introduction to Sociology
-  * [Basic data](https://www.fhs.hr/en/course/its_c#v1id-523790_593631_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/its_c#v1id-523790_593631_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/its_c#v1id-523790_593631_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/its_c#v1id-523790_593631_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/its_c#v1id-159952_641872_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/its_c#v1id-159952_641872_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/its_c#v1id-159952_641872_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/its_c#v1id-159952_641872_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uus_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/its_c)
@@ -12,7 +12,7 @@
   
 ---|---  
 **ECTS:** |  5.0   
-**Lecturers in charge:** |  doc. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/staff/marica.marinovic_golubic)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/staff/marica.marinovic_golubic)   
   
 **Lecturers:** |  dr. sc. [Marija Zelić](https://www.fhs.hr/djelatnik/marija.zelic) - Seminar  
   

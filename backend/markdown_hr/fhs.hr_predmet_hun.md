@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hun#v1id-904821_319422_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hun#v1id-904821_319422_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hun) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cig)
 **Šifra:** |  238013  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija) - Predavanja  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -34,18 +33,15 @@
   4. objasniti stratešku važnost iseljeništva na primjeru hrvatskoga iseljeništva u SR Njemačkoj
   5. definirati važnost iseljeništva u razvojnim konceptima Hrvatske
 
-  
 **Literatura:**  
   1. The Economics of Immigration, Cynthia Bansak, Nicole Simpson, Madeline Zavodny, Routledge, 2015. 
   2. Suvremeni migracijski procesi između Koprivnice i Savezne Republike Njemačke, Balija, M., Podravina, 22 (43), 2023. 
 
-  
 **Preporučena literatura:**  
   1. Iseljavanje Hrvata u Njemačku; Gubimo li Hrvatsku?, , Tado Jurić, Školska knjiga, 2018.
   2. Hrvati u Njemačkoj, Hrvatske iseljeničke teme, , Pavao Jonjić, Institut za migracije i narodnosti, 1997.
   3. Motivi, čimbenici i konačnost povratnih migracija iz Njemačke u Hrvatsku, , Balija, M., Hrvatski geografski glasnik, 85 (2), 2023.
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -54,7 +50,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: ured 716 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hun?@=21izo#news_122340 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rpa)
 
 ## Roman prose(Golden Age)
-  * [Basic data](https://www.fhs.hr/en/course/rpa#v1id-523829_839579_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rpa#v1id-523829_839579_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rpa#v1id-523829_839579_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rpa#v1id-523829_839579_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rpa#v1id-159984_741869_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rpa#v1id-159984_741869_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rpa#v1id-159984_741869_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rpa#v1id-159984_741869_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rpzv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rpa)
@@ -12,9 +12,9 @@
   
 ---|---  
 **ECTS:** |  3.0   
-**Lecturers in charge:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
   
-**Lecturers:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Exercises  
+**Lecturers:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Exercises  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   

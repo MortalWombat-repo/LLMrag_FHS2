@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/digact)
 
 ## Digital activism
-  * [Basic data](https://www.fhs.hr/en/course/digact#v1id-523769_677317_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/digact#v1id-523769_677317_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/digact#v1id-523769_677317_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/digact#v1id-523769_677317_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/digact#v1id-159934_60417_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/digact#v1id-159934_60417_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/digact#v1id-159934_60417_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/digact#v1id-159934_60417_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/digakt) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/digact)
@@ -12,8 +12,7 @@
   
 ---|---  
 **ECTS:** |  5.0   
-**Lecturers in charge:** |  izv. prof. dr. sc. [Dario Pavić](https://www.fhs.hr/staff/dario.pavic)   
-doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)   
+**Lecturers in charge:** |  doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)   
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -44,9 +43,6 @@ doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)
 > **KOM-dipl (5043): ZNANSTVENO ISTRAŽIVANJE MASOVNIH KOMUNIKACIJA** - Regular studij - Communication Studies  
 >   
 Consultations schedule: 
-  * **izv. prof. dr. sc.[Dario Pavić](https://www.fhs.hr/staff/dario.pavic)**: 
-Office hours on Thursdays, 11:30-12.30 (11:30 AM to 12:30 PM)
-Location: 17 
 
 
 ## News

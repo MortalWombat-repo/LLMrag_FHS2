@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cva)
 
 ## Croatian Fine Art
-  * [Basic data](https://www.fhs.hr/en/course/cva#v1id-523765_509712_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cva#v1id-523765_509712_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cva#v1id-523765_509712_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cva#v1id-523765_509712_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cva#v1id-159930_804656_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cva#v1id-159930_804656_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cva#v1id-159930_804656_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cva#v1id-159930_804656_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hlu) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cva)

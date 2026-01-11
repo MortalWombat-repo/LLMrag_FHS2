@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Povijest medijske komunikacije u Hrvatskoj (28467)](https://www.fhs.hr/predmet/pmkuh) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

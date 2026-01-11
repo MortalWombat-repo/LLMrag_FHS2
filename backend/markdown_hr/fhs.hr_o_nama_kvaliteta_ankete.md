@@ -139,5 +139,3 @@
 [ Studentski-zbor-Fakulteta-hrvatskih-studija-anketa-o-zadovoljstvu-fakultetom _[285 KiB]_ ](https://www.fhs.hr/_download/repository/Download_%281%29_1/Studentski-zbor-Fakulteta-hrvatskih-studija-anketa-o-zadovoljstvu-fakultetom.pdf)
     * ![](https://www.fhs.hr/_themes339/hrstud2024/default/icons_file/pdf32.png)
 [ Studentski-zbor-Fakulteta-hrvatskih-studija-rezultati-ankete-o-zadovoljstvu-fakultetom _[1,26 MiB]_ ](https://www.fhs.hr/_download/repository/Download_%281%29_1/Studentski-zbor-Fakulteta-hrvatskih-studija-rezultati-ankete-o-zadovoljstvu-fakultetom.pdf)
-
-

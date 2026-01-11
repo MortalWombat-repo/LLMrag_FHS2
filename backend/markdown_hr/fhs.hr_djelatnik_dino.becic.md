@@ -13,9 +13,7 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Računalni programi u demografiji (269748)](https://www.fhs.hr/predmet/rpud_a) - Vježbe u praktikumu
   * [Prostor i stanovništvo (253803)](https://www.fhs.hr/predmet/pis) - Seminar, Seminar
 
-
 **diplomski**
   * [Korporativna demografija (269807)](https://www.fhs.hr/predmet/kordem_a) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

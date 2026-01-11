@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/emeawh)
 
 ## Early Modern European and World History
-  * [Basic data](https://www.fhs.hr/en/course/emeawh#v1id-523773_230979_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/emeawh#v1id-523773_230979_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/emeawh#v1id-523773_230979_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/emeawh#v1id-523773_230979_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/emeawh#v1id-159936_360687_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/emeawh#v1id-159936_360687_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/emeawh#v1id-159936_360687_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/emeawh#v1id-159936_360687_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/oprd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/emeawh)

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hdkpdkxs#v1id-904808_310918_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hdkpdkxs#v1id-904808_310918_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hdkpdkxs) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/csachbteot1c)
 **Šifra:** |  188070  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,20 +28,17 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
 >   
 Termini konzultacija: 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hdkpdkxs?@=21tbh#news_114374)

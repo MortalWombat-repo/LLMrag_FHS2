@@ -6,22 +6,21 @@
   * [Nastava](https://www.fhs.hr/predmet/akapis_a#v1id-904791_551307_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/akapis_a#v1id-904791_551307_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akapis_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acalit_a)
 **Šifra:** |  129992  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum)   
 izv. prof. dr. sc. [Vladimira Rezo](https://www.fhs.hr/djelatnik/vladimira.rezo)   
 doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)   
 doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Vladimira Rezo](https://www.fhs.hr/djelatnik/vladimira.rezo) - Predavanja  
-  
+
 [Jakov Erdeljac](https://www.fhs.hr/djelatnik/jakov.erdeljac), mag. phil. - Lektorske vježbe  
 doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Lektorske vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -36,13 +35,11 @@ doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Lektors
 > Usvajanje temeljnih standarda akademskog pisanja: logičkih, stilističkih, pravopisno-gramatičkih, grafičkih, bibliografskih, etičkih.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Janović, T.; Akademsko pisanje, nastavni materijal, power-point-prezentacija; Zagreb: Hrvatski studiji Sveučilišta u Zagrebu (2012), 
   2. Janović, T.; Citiranje, parafraziranje i upućivanje na izvore u akademskim tekstovima, skripta; Zagreb: Hrvatski studiji Sveučilišta u Zagrebu (2012), 
   3. Oraić Tolić, D.; Akademsko pismo; Zagreb: Naklada Ljevak (2011), 
 
-  
 **1. semestar**  
 ---  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
@@ -53,7 +50,7 @@ doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Lektors
 >  **TZP (17087) za jednopredmetne studije** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
@@ -63,7 +60,7 @@ doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Lektors
 >  **TZP (17087) za jednopredmetne studije** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
@@ -71,7 +68,7 @@ doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Lektors
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Povijest  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
@@ -79,14 +76,14 @@ doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Lektors
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Povijest  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Latinski jezik  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Povijest  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Latinski jezik  
@@ -106,7 +103,6 @@ Lokacija: Objekt 78, soba 16
   * **[Jakov Erdeljac](https://www.fhs.hr/djelatnik/jakov.erdeljac), mag. phil.**: 
 Četvrtkom od 17:35 do 18:35
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/akapis_a?@=21u18#news_88192)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/csa)
 
 ## Croatian Stage Art
-  * [Basic data](https://www.fhs.hr/en/course/csa#v1id-523763_43889_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/csa#v1id-523763_43889_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/csa#v1id-523763_43889_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/csa#v1id-523763_43889_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/csa#v1id-159928_825961_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/csa#v1id-159928_825961_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/csa#v1id-159928_825961_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/csa#v1id-159928_825961_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hsu) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/csa)
@@ -31,6 +31,13 @@
 
   
 **Literature:**  
+  1. Uvod u teatrologiju, Batušić, N., Zagreb: Grafički zavod Hrvatske, 1991. 
+  2. Gluma, stručni priručnik za ideologiju i praktičnu primjenu hrvatske pučke glume, Freudenreich, A., Zagreb: Izdanje zadruge Sklad, 1934. 
+  3. Glumac i kazalište, Gavella, B., Novi Sad: Sterijino pozorje, 1967. 
+  4. Hrvatsko glumište, Gavella, B., Zagreb: Grafički zavod Hrvatske, 1982. 
+  5. Osnove teorije filma, Peterlić, A., Zagreb: Hrvatska sveučilišna naklada, 2001. 
+  6. O metafori u redateljskom postupku Ivice Kunčevića, Varošanec, G., Zagreb: Novi prolog, 1988. 
+  7. Pravila igre: Od prve ideje do prvog dramskog teksta, Zajec, T., Zagreb: V.B.Z., 2012. 
 
   
 **1. semester** Not active  

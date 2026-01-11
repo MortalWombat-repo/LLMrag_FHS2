@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/medman)
 
 ## Media Management
-  * [Basic data](https://www.fhs.hr/en/course/medman#v1id-523803_198441_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/medman#v1id-523803_198441_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/medman#v1id-523803_198441_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/medman#v1id-523803_198441_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/medman#v1id-159964_21542_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/medman#v1id-159964_21542_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/medman#v1id-159964_21542_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/medman#v1id-159964_21542_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/medmen) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/medman)

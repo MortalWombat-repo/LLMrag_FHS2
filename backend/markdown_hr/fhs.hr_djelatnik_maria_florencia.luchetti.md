@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Hrvati u Južnoj Americi (214018)](https://www.fhs.hr/predmet/huja) - Seminar, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

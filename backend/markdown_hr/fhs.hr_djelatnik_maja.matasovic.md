@@ -24,7 +24,6 @@ ODSJEK ZA HRVATSKI LATINITET
   * [Uvod u latinsku filologiju (37549)](https://www.fhs.hr/predmet/uulf) - Nositelj, Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Hrvatski humanistički ep (86902)](https://www.fhs.hr/predmet/hhe) - Nositelj
   * [Hrvatski latinisti u Književnoj republici (200539)](https://www.fhs.hr/predmet/hlukr) - Nositelj, Seminar
@@ -32,10 +31,8 @@ ODSJEK ZA HRVATSKI LATINITET
   * [Diplomski rad (215173)](https://www.fhs.hr/predmet/diprad_g) - Seminar
   * [Diplomski rad (215308)](https://www.fhs.hr/predmet/diprad_h) - Seminar
 
-
 **Predmet**
   * [Diplomski rad ()](https://www.fhs.hr/predmet/diprad_d) - Seminar
-
 
 #### Životopis
 Maja Matasović (r. Rupnik) rođena je 1979. g. u Zagrebu gdje je završila studij klasične filologije na Filozofskom fakultetu 2002. g. Na poslijediplomskom znanstvenom studiju lingvistike obranila je 2005. g. kvalifikacijski rad Opis starogrčkih polivalentnih glagola prema Gramatici uloga i referenci, a 2011. g. doktorsku disertaciju Analiza najstarijih latinskih posuđenica u hrvatskom u kontekstu ranih kontakata Romana i Slavena, izrađenu pod vodstvom mentora akademika Augusta Kovačeca i prof. dr. sc. Mate Križmana.  

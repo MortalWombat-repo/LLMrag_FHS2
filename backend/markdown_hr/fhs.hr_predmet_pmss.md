@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pmss#v1id-904931_466778_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pmss#v1id-904931_466778_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pmss) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pmoms)
 **Šifra:** |  144759  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -35,10 +34,8 @@
 >  *Upoznati instrumente praćenja i njihovo korištenje  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -46,7 +43,7 @@
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >   
-  
+
 **4. semestar**  
 > **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -56,7 +53,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)**: 
 Srijedom od 13 do 14 sati, soba br. 106
 Lokacija: 106 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pmss?@=21a8f#news_110319)

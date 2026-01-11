@@ -27,5 +27,3 @@ Molimo pristupnike koji trebaju pristupiti **Psihologijskom testiranju** , a koj
 Prijave se provode putem aplikacije Postani student (NISpVU), zaključno s. **petkom 20. lipnja 2025.**(nakon tog roka prijave više nisu moguće).
 **Dodatne upite** o TAM-u, Psihologijskom testiranju, studijskim programima i uvjetima upisa možete poslati na e-mail: razredbeni_postupak@fhs.hr.
 _*Napominjemo da zadržavamo pravo izmjene termina održavanja TAM-a i Psihologijskog testiranja (isključivo zbog mogućega izvanrednoga pomicanja termina Državne mature, epidemijskih, ili sličnih slučajeva više sile). Obavijesti o eventualnim promjenama, obavijesti o tehničkim pojedinostima provedbe TAM-a i Psihologijskog testiranja te raspored pristupnika po dvoranama za testiranje bit će dostupni na mrežnim stranicama Fakulteta hrvatskih studija:_
-  
-

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hoct_a)
 
 ## History of Croatian Theatre
-  * [Basic data](https://www.fhs.hr/en/course/hoct_a#v1id-523783_746608_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hoct_a#v1id-523783_746608_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hoct_a#v1id-523783_746608_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hoct_a#v1id-523783_746608_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hoct_a#v1id-159945_124564_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hoct_a#v1id-159945_124564_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hoct_a#v1id-159945_124564_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hoct_a#v1id-159945_124564_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoct_a)

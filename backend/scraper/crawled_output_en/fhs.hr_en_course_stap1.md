@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/stap1)
 
 ## Sociological Topics and Perspectives 1
-  * [Basic data](https://www.fhs.hr/en/course/stap1#v1id-523837_766848_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/stap1#v1id-523837_766848_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/stap1#v1id-523837_766848_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/stap1#v1id-523837_766848_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/stap1#v1id-159991_852594_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/stap1#v1id-159991_852594_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/stap1#v1id-159991_852594_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/stap1#v1id-159991_852594_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/stp1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/stap1)

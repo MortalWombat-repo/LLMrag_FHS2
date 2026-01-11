@@ -4,7 +4,6 @@
 Marina Ivelić, oec., voditeljica |  |   
 ---|---|---  
 |  |   
-  
 
 ## Financijski izvještaji
   * [ Financijski planovi ](https://www.fhs.hr/dekanat/sluzba_za_racunovodstvo_i_financije)
@@ -106,5 +105,3 @@ Marina Ivelić, oec., voditeljica |  |
 [ Informacija o trosenju sredstava za veljacu 2024.-objava 11.3.2024 _[22,94 KiB]_ ](https://www.fhs.hr/_download/repository/Informacija%20o%20trosenju%20sredstava%20za%20veljacu%202024.-objava%2011.3.2024.xlsx)
       * ![](https://www.fhs.hr/_themes339/hrstud2024/default/icons_file/unknown32.png)
 [ Informacija o trosenju sredstava za sijecanj 2024.-objava 20.2.2024 _[16,87 KiB]_ ](https://www.fhs.hr/_download/repository/Informacija%20o%20trosenju%20sredstava%20za%20sijecanj%202024.-objava%2020.2.2024.xlsx)
-
-

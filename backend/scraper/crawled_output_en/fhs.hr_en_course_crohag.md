@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/crohag)
 
 ## Croatian Hagiography
-  * [Basic data](https://www.fhs.hr/en/course/crohag#v1id-523760_763229_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/crohag#v1id-523760_763229_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/crohag#v1id-523760_763229_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/crohag#v1id-523760_763229_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/crohag#v1id-159927_133092_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/crohag#v1id-159927_133092_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/crohag#v1id-159927_133092_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/crohag#v1id-159927_133092_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hrvhag) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/crohag)
@@ -12,7 +12,7 @@
   
 ---|---  
 **ECTS:** |  3.0   
-**Lecturers in charge:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   

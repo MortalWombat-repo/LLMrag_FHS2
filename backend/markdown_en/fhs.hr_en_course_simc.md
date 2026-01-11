@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/simc)
 
 ## Semiotics in Mass Communication
-  * [Basic data](https://www.fhs.hr/en/course/simc#v1id-523832_591810_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/simc#v1id-523832_591810_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/simc#v1id-523832_591810_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/simc#v1id-523832_591810_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/simc#v1id-159986_892321_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/simc#v1id-159986_892321_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/simc#v1id-159986_892321_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/simc#v1id-159986_892321_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sumk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/simc)

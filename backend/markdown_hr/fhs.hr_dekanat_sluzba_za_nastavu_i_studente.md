@@ -31,5 +31,3 @@ Poslijediplomska referada
 [bnedic@fhs.hr ](javascript:cms_mail\('bnedic','fhs.hr','',''\))- kontakt za osobe koje su studirale dodiplomske studije, provjeru vjerodostojnosti diploma i izjednačavanje akademkog naziva.
 ##### 
 ##### [**Dokumenti i obrasci**](https://www.fhs.unizg.hr/intranet_studenti/dokumenti-i-obrasci)
-  
-

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/grawor_c)
 
 ## Graduate work
-  * [Basic data](https://www.fhs.hr/en/course/grawor_c#v1id-523779_745818_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/grawor_c#v1id-523779_745818_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/grawor_c#v1id-523779_745818_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/grawor_c#v1id-523779_745818_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/grawor_c#v1id-159942_370860_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/grawor_c#v1id-159942_370860_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/grawor_c#v1id-159942_370860_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/grawor_c#v1id-159942_370860_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_i) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/grawor_c)
@@ -20,7 +20,7 @@ prof. dr. sc. [Irena Cajner Mraović](https://www.fhs.hr/djelatnik/irena.cajner_
 izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic) - Seminar  
 prof. dr. sc. Neven Hrvatić - Seminar  
 izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac) - Seminar  
-doc. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/djelatnik/marica.marinovic_golubic) - Seminar  
+izv. prof. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/djelatnik/marica.marinovic_golubic) - Seminar  
 prof. dr. sc. [Renato Matić](https://www.fhs.hr/djelatnik/renato.matic) - Seminar  
 izv. prof. dr. sc. [Dario Pavić](https://www.fhs.hr/djelatnik/dario.pavic) - Seminar  
 doc. dr. sc. [Ivan Perkov](https://www.fhs.hr/djelatnik/ivan.perkov) - Seminar  

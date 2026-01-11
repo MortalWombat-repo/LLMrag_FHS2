@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Novi koncept države (214016)](https://www.fhs.hr/predmet/nkd) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

@@ -12,5 +12,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Morfologija hrvatskoga jezika (188064)](https://www.fhs.hr/predmet/mhj) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

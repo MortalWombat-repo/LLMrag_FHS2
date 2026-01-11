@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Marketinške komunikacije i publicitet (28502)](https://www.fhs.hr/predmet/mkp) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

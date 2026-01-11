@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Pravni aspekti iseljeništva i povratništva (269751)](https://www.fhs.hr/predmet/paip_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

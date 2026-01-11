@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tpote)
 
 ## The Philosophy of the Enlightenment
-  * [Basic data](https://www.fhs.hr/en/course/tpote#v1id-523842_61632_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tpote#v1id-523842_61632_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tpote#v1id-523842_61632_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tpote#v1id-523842_61632_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tpote#v1id-159995_596653_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tpote#v1id-159995_596653_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tpote#v1id-159995_596653_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tpote#v1id-159995_596653_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filpro) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tpote)

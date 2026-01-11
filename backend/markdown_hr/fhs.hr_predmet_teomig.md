@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/teomig#v1id-904879_472365_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/teomig#v1id-904879_472365_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/teomig) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/migthe)
 **Šifra:** |  194394  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  nasl. doc. [Snježana Gregurović](https://www.fhs.hr/djelatnik/snjezana.gregurovic)   
-  
+
 **Izvođači:** |  nasl. doc. [Snježana Gregurović](https://www.fhs.hr/djelatnik/snjezana.gregurovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -57,24 +56,20 @@
 >  15. Globalne migracije  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mesić, Milan (2002). Međunarodne migracije, tokovi i teorije. Zagreb: Zavod za sociologiju Filozofskoga fakulteta, 
   2. Koser, K. (2007), International Migration. A very short Introduction. Oxford: Oxford University Press., 
   3. Rogić, I. i Čizmić, I. (2011). Modernizacija u Hrvatskoj i hrvatska odselidba. Zagreb: Institut društvenih znanosti Ivo Pilar., 
 
-  
 **Preporučena literatura:**  
   1. , Božić, S. (2012) Društveni oblici dijaspore. U: Institucionalizacija hrvatske dijaspore: oblici migrantskog udruživanja-primjeri iz Europe, Južne Amerike i Australije,ur. Božić, Saša. Zagreb: Jesenski i Turk, 9-25., , , .
   2. , Bućin, Rajka - Marijana Jukić - Tatjana Šarić (2015). Katalog izložbe Hrvatsko iseljeništvo kroz fondove i zbirke HDA (od kraja 19. stoljeća do Drugog svjetskog rata). Odabrane teme, Zagreb: Hrvatski državni arhiv., , , .
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/teomig?@=2179r#news_115505 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clh)
 
 ## Croatian Latin Historiography
-  * [Basic data](https://www.fhs.hr/en/course/clh#v1id-523754_844556_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clh#v1id-523754_844556_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clh#v1id-523754_844556_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clh#v1id-523754_844556_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clh#v1id-159921_540211_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clh#v1id-159921_540211_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clh#v1id-159921_540211_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clh#v1id-159921_540211_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hlh) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clh)

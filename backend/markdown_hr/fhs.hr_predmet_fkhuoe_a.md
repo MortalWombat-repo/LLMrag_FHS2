@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/fkhuoe_a#v1id-904805_167774_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/fkhuoe_a#v1id-904805_167774_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/fkhuoe_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/paccitec)
 **Šifra:** |  201781  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,26 +28,24 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
@@ -57,7 +54,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic)**: 
 Srijedom od 13:00 do 14:00
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/fkhuoe_a?@=21rx9#news_116489)

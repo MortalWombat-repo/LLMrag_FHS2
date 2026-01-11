@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/latjez5#v1id-904834_565805_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/latjez5#v1id-904834_565805_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez5) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lat5)
 **Šifra:** |  61850  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |   
@@ -28,18 +27,16 @@
 >  Studenti će se osposobiti kroz aktivno čitanje tekstova reprezentativnih autora na seminaru za samostalan rad i za jezično-stilsku analizu na izvornom proznom tekstu na latinskom jeziku.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Cezar, Livije, Petronije, Apulej, Ciceron.; Odabrani tekstovi latinskih proznih pisaca; http://www.thelatinlibrary.com/, 
   2. Materijali na webu (Merlin) i materijali podijeljeni na satovima;, 
   3.   4.   5. 
-  
+
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Latinski jezik  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/latjez5?@=20owl#news_80745 "Arhiva obavijesti")

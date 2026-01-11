@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/kir#v1id-904828_730092_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kir#v1id-904828_730092_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kir) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ceare)
 **Šifra:** |  227470  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -75,31 +74,29 @@
 >  15. Zaključna razmatranja - vrjednovanje postignuća na predmetu.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
@@ -107,7 +104,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)**: 
 Utorak 14-15h 
 Lokacija: 18 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/kir?@=21tbl#news_121347)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/bio_a)
 
 ## Bioethics
-  * [Basic data](https://www.fhs.hr/en/course/bio_a#v1id-523746_788285_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/bio_a#v1id-523746_788285_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/bio_a#v1id-523746_788285_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/bio_a#v1id-523746_788285_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/bio_a#v1id-159914_871571_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/bio_a#v1id-159914_871571_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/bio_a#v1id-159914_871571_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/bio_a#v1id-159914_871571_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/bio_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bio_a)

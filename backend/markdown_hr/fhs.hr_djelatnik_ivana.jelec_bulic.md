@@ -13,5 +13,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Imidž, upravljanje ugledom i lobiranje (57248)](https://www.fhs.hr/predmet/iuul) - Nositelj
   * [Praktikum odnosa s javnošću (64753)](https://www.fhs.hr/predmet/posj) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

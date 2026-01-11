@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ccavm_b)
 
 ## Computer-mediated Communication and Virtual Management
-  * [Basic data](https://www.fhs.hr/en/course/ccavm_b#v1id-523749_868060_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ccavm_b#v1id-523749_868060_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ccavm_b#v1id-523749_868060_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ccavm_b#v1id-523749_868060_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ccavm_b#v1id-159917_316700_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ccavm_b#v1id-159917_316700_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ccavm_b#v1id-159917_316700_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ccavm_b#v1id-159917_316700_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ccavm_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ccavm_b)

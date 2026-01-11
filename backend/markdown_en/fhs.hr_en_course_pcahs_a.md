@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pcahs_a)
 
 ## Practical Counselling and Helping Skills
-  * [Basic data](https://www.fhs.hr/en/course/pcahs_a#v1id-523813_289090_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pcahs_a#v1id-523813_289090_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pcahs_a#v1id-523813_289090_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pcahs_a#v1id-523813_289090_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pcahs_a#v1id-159969_482174_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pcahs_a#v1id-159969_482174_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pcahs_a#v1id-159969_482174_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pcahs_a#v1id-159969_482174_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/vuppp_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pcahs_a)

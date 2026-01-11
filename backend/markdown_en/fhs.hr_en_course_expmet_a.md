@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/expmet_a)
 
 ## Experimental Methods
-  * [Basic data](https://www.fhs.hr/en/course/expmet_a#v1id-523775_133449_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/expmet_a#v1id-523775_133449_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/expmet_a#v1id-523775_133449_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/expmet_a#v1id-523775_133449_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/expmet_a#v1id-159938_436794_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/expmet_a#v1id-159938_436794_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/expmet_a#v1id-159938_436794_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/expmet_a#v1id-159938_436794_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/eksmet_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/expmet_a)

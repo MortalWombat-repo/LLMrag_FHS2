@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/anomod_a)
 
 ## ANOVA Models
-  * [Basic data](https://www.fhs.hr/en/course/anomod_a#v1id-523743_682688_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/anomod_a#v1id-523743_682688_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/anomod_a#v1id-523743_682688_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/anomod_a#v1id-523743_682688_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/anomod_a#v1id-159911_369512_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/anomod_a#v1id-159911_369512_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/anomod_a#v1id-159911_369512_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/anomod_a#v1id-159911_369512_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mav_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/anomod_a)

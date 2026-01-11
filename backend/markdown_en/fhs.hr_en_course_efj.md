@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/efj)
 
 ## English for Journalists
-  * [Basic data](https://www.fhs.hr/en/course/efj#v1id-523771_660071_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/efj#v1id-523771_660071_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/efj#v1id-523771_660071_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/efj#v1id-523771_660071_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/efj#v1id-159936_10267_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/efj#v1id-159936_10267_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/efj#v1id-159936_10267_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/efj#v1id-159936_10267_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ejun) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/efj)

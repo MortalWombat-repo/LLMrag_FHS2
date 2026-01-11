@@ -22,12 +22,10 @@ En la Facultad de Estudios Croatas de la Universidad de Zagreb pueden estudiarse
   * Titulación simple (sólo una carrera): Ciencias de la comunicación, Idioma y cultura croata, Historia, Psicología, Sociología.
   * Doble titulación (combinación de dos carreras entre las siguientes): Demografía y emigración croata, Filosofía y cultura, Ciencias de la Comunicación, Idioma y cultura croata, Historia y Sociología.
 
-
 _**Inscripciones para acceder al proceso de selección:**_
 Los solicitantes presentan sus solicitudes y envían una carta de motivación para la admisión en el primer año de estudios de grado:
   * en el primer término hasta el martes 1 de julio de 2025 a las 23.59 horas según la hora de verano de Europa Central. 
   * en el segundo término hasta el lunes 5 de septiembre de 2025 a las 23.59 horas según la hora de verano de Europa Central.
-
 
 Las solicitudes se reciben a través de la Oficina Central de Inscripciones en la dirección web [/www.postani-student.hr](https://www.fhs.hr/www.postani-student.hr/)
 La carta de motivación se envía a [hrvatiizvanrh@fhs.hr](javascript:cms_mail\('hrvatiizvanrh','fhs.hr','',''\)) hasta el martes 1 de julio de 2025 a las 23.59 horas según la hora de verano de Europa Central en el primer término, y hasta el lunes 5 de septiembre de 2025 a las 23.59 horas según la hora de verano de Europa Central en el segundo término.
@@ -39,10 +37,8 @@ Los elementos de evaluación para la admisión de los solicitantes serán:
 Los solicitantes que cumplan con los requisitos de inscripción mencionados anteriormente pasarán a la entrevista de motivación y la evaluación del conocimiento del idioma croata. La entrevista se llevará a cabo por videollamada o en persona en la Facultad de Estudios Croatas, Borongajska cesta 83d, Zagreb, entre el 2 y el 4 de julio de 2025 en el primer término, y entre el 11 y el 13 de septiembre de 2025 en el segundo término.
 La lista provisional de clasificación de los solicitantes se publicará el 9 de julio de 2025 a las 14.00 horas en la página web de [Postani student](https://www.fhs.hr/www.postani-student.hr/Ucilista/Default.aspx).
 La lista final de clasificación de los solicitantes se publicará el 16 de julio de 2025 después de las 15 horas en la página web de [Postani student](https://www.fhs.hr/www.postani-student.hr/Ucilista/Default.aspx).
-  
+
 **_Plazos de inscripción para todos los solicitantes que han adquirido el derecho de inscribirse:_**
 Las inscripciones para el primer año de los estudios universitarios de pregrado en la Facultad de Estudios Croatas en el periodo de verano serán del 17 al 22 de julio de 2025.
 Para obtener más información sobre los programas de estudio, visite: [/oldwww/studiji](https://www.fhs.hr/oldwww/studiji)
 Para obtener ayuda para completar la solicitud y recopilar la documentación requerida, contáctese con [hrvatiizvanrh@fhs.hr](javascript:cms_mail\('hrvatiizvanrh','fhs.hr','',''\))
-  
-

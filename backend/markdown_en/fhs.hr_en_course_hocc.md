@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hocc)
 
 ## History of Croatian Cinema
-  * [Basic data](https://www.fhs.hr/en/course/hocc#v1id-523782_109590_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hocc#v1id-523782_109590_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hocc#v1id-523782_109590_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hocc#v1id-523782_109590_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hocc#v1id-159945_636951_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hocc#v1id-159945_636951_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hocc#v1id-159945_636951_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hocc#v1id-159945_636951_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phf) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hocc)

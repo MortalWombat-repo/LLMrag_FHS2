@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/itp_c)
 
 ## Introduction to Publishing
-  * [Basic data](https://www.fhs.hr/en/course/itp_c#v1id-523789_213466_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/itp_c#v1id-523789_213466_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/itp_c#v1id-523789_213466_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/itp_c#v1id-523789_213466_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/itp_c#v1id-159951_902434_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/itp_c#v1id-159951_902434_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/itp_c#v1id-159951_902434_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/itp_c#v1id-159951_902434_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uun_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itp_c)

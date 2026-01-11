@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/wwiiff)
 
 ## World War II in feature film
-  * [Basic data](https://www.fhs.hr/en/course/wwiiff#v1id-523846_338483_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/wwiiff#v1id-523846_338483_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/wwiiff#v1id-523846_338483_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/wwiiff#v1id-523846_338483_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/wwiiff#v1id-159999_138612_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/wwiiff#v1id-159999_138612_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/wwiiff#v1id-159999_138612_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/wwiiff#v1id-159999_138612_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dsrnif) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/wwiiff)

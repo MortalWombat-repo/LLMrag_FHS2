@@ -13,5 +13,4 @@ ODSJEK ZA PSIHOLOGIJU
   * [Psihologija medija i masovne komunikacije (64750)](https://www.fhs.hr/predmet/pmmmk) - Seminar
   * [Psihologija medija i masovne komunikacije (200713)](https://www.fhs.hr/predmet/pmmmk_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

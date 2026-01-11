@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clorar)
 
 ## Croatian Literature of Romanticism and Realism
-  * [Basic data](https://www.fhs.hr/en/course/clorar#v1id-523754_986105_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clorar#v1id-523754_986105_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clorar#v1id-523754_986105_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clorar#v1id-523754_986105_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clorar#v1id-159922_187202_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clorar#v1id-159922_187202_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clorar#v1id-159922_187202_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clorar#v1id-159922_187202_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkrr_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clorar)

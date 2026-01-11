@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/difpsy)
 
 ## Differential Psychology
-  * [Basic data](https://www.fhs.hr/en/course/difpsy#v1id-523767_817666_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/difpsy#v1id-523767_817666_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/difpsy#v1id-523767_817666_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/difpsy#v1id-523767_817666_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/difpsy#v1id-159933_451784_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/difpsy#v1id-159933_451784_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/difpsy#v1id-159933_451784_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/difpsy#v1id-159933_451784_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/difpsi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/difpsy)

@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/diprad_a#v1id-904931_993678_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/diprad_a#v1id-904931_993678_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/grawor)
 **Šifra:** |  64813  
-  
+
 ---|---  
 **ECTS:** |  20.0   
 **Nositelji:** |   
@@ -24,7 +23,7 @@ izv. prof. dr. sc. [Vladimira Rezo](https://www.fhs.hr/djelatnik/vladimira.rezo)
 prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek) - Seminar  
 nasl. prof. dr. sc. [Sanja Vulić Vranković](https://www.fhs.hr/djelatnik/sanja.vulic_vrankovic) - Seminar  
 prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -37,15 +36,12 @@ prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima) - Semi
 > Diplomski rad je cjelovita, sveobuhvatna i visoko nezavisna obveza kojom student završava studij, te mora pokazati svoju sposobnost u analiziranju zadanoga problema ili tematike s teorijskog, praktičnog ili istraživačkog stajališta u onom znanstvenom polju ili grani u kojoj je ustrojen studij koji student završava. Cilj je predmeta da student pokaže poznavanje teme, sposobnost samostalnog istraživanja, korištenja literature i primjenu znanstvene i stručne metodologije.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mentor je dogovara sa svakim studentom ovisno o temi diplomskog rada.;, 
 
-  
 **Preporučena literatura:**  
   1. , Dubravka Oraić Tolić; Akademsko pismo; Academica (2011), str. 681, , , .
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -70,17 +66,16 @@ Lokacija:
 Konzultacije ponedjeljkom, 11:00 - 12:00, soba 013.
 Lokacija: 013 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
   * **nasl. prof. dr. sc.[Sanja Vulić Vranković](https://www.fhs.hr/djelatnik/sanja.vulic_vrankovic)**: 
-  
+
 Utorkom od 15.40 do 16.40.
 Lokacija: 
   * **prof. dr. sc.[Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima)**: 
 utorkom od 10 do 11, četvrtkom od 11 do 12 i po dogovoru (dzima@hrstud.hr)
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/diprad_a?@=20vxw#news_82215)

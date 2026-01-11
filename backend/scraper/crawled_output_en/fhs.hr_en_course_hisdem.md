@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hisdem)
 
 ## Historical demography
-  * [Basic data](https://www.fhs.hr/en/course/hisdem#v1id-523781_152199_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hisdem#v1id-523781_152199_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hisdem#v1id-523781_152199_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hisdem#v1id-523781_152199_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hisdem#v1id-159945_68560_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hisdem#v1id-159945_68560_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hisdem#v1id-159945_68560_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hisdem#v1id-159945_68560_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/povdem) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hisdem)

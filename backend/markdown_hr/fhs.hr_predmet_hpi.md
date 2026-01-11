@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hpi#v1id-904816_639194_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hpi#v1id-904816_639194_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hpi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cpe)
 **Šifra:** |  226643  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -59,16 +58,13 @@
 >  15. Organizacijska uloga hrvatskoga iseljeništva u uspostavi višestranačja u Republici Hrvatskoj.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hpi?@=21g9k#news_121361 "Arhiva obavijesti")

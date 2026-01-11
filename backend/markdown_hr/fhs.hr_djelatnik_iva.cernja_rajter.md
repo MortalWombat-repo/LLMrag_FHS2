@@ -15,14 +15,11 @@ ODSJEK ZA PSIHOLOGIJU
   * [Modeli analize varijance (214080)](https://www.fhs.hr/predmet/mav_a) - Nositelj
   * [Statistika za komunikacijske znanosti (28469)](https://www.fhs.hr/predmet/szkz) - Nositelj, Seminar
 
-
 **diplomski**
   * [Praktikum - metode istraživanja masovne komunikacije (144890)](https://www.fhs.hr/predmet/pmimk_a) - Nositelj, Vježbe u praktikumu
 
-
 #### Znanstveni radovi (CroRIS)
 #### Izabrane publikacije
-  
 
 Černja Rajter, I., Galić, Z., Kuzman, I. & Šverko, I. (2019) Odrednice i ishodi angažiranosti u studiju. Društvena istraživanja : časopis za opća društvena pitanja, 28(4), 607-625 doi:10.5559/di.28.4.03.  
 

@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **diplomski**
   * [Diplomatski i konzularni poslovi (269809)](https://www.fhs.hr/predmet/dkp_a) - Predavanja
 
-
 #### Znanstveni radovi (CroRIS)

@@ -18,5 +18,3 @@ Postupak reakreditacije koji u petogodišnjim ciklusima provodi Agencija za znan
 [Jutarnji list, 9. 11. 2015.](https://www.fhs.hr/images/50039585/Tanja%20Rudez_komentar.pdf)
 GRAFIČKI PRIKAZ OCJENA KVALITETE VISOKIH UČILIŠTA KOJA PROVODE PROGRAME U DRUŠTVENOM I HUMANISTIČKOM PODRUČJU (iz Sinteze [reakreditacije provedene u akademskoj godini 2013./14.](https://www.fhs.hr/images/50039585/Sinteza%20drustveno%20i%20humanisticko%20podrucje%202013_2014.pdf), str. 18)
 ![](https://www.fhs.hr/images/50039585/Dijagram.png)
-  
-

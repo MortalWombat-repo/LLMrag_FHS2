@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/lacotcitd)
 
 ## Literature and Culture of the Croats in the Diaspora
-  * [Basic data](https://www.fhs.hr/en/course/lacotcitd#v1id-523793_390931_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/lacotcitd#v1id-523793_390931_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/lacotcitd#v1id-523793_390931_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/lacotcitd#v1id-523793_390931_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/lacotcitd#v1id-159955_377269_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/lacotcitd#v1id-159955_377269_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/lacotcitd#v1id-159955_377269_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/lacotcitd#v1id-159955_377269_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kkhud) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lacotcitd)
@@ -12,7 +12,9 @@
   
 ---|---  
 **ECTS:** |  5.0   
-**Lecturers in charge:** |  izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/staff/domagoj.brozovic)   
+**Lecturers in charge:** |  nasl. prof. dr. sc. [Sanja Vulić Vranković](https://www.fhs.hr/staff/sanja.vulic_vrankovic)   
+  
+**Lecturers:** |  nasl. prof. dr. sc. [Sanja Vulić Vranković](https://www.fhs.hr/djelatnik/sanja.vulic_vrankovic) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -44,9 +46,14 @@
 > **Mandatory course** - Regular smjer - Science Stream  
 >   
 Consultations schedule: 
-  * **izv. prof. dr. sc.[Domagoj Brozović](https://www.fhs.hr/staff/domagoj.brozovic)**: 
-monday 14:30-15:30
-Location: zgrada knjižnice 
+  * **nasl. prof. dr. sc.[Sanja Vulić Vranković](https://www.fhs.hr/staff/sanja.vulic_vrankovic)**: 
+  
+Tuesdays from 15.40 to 16.40.
+Location: 
+  * **nasl. prof. dr. sc.[Sanja Vulić Vranković](https://www.fhs.hr/djelatnik/sanja.vulic_vrankovic)**: 
+  
+Tuesdays from 15.40 to 16.40.
+Location: 
 
 
 ## News

@@ -13,5 +13,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Demografske mjere i modeli (269723)](https://www.fhs.hr/predmet/dmm_a) - Vježbe u praktikumu
   * [GIS-analiza stanovništva (214007)](https://www.fhs.hr/predmet/gissta) - Vježbe u praktikumu
 
-
 #### Znanstveni radovi (CroRIS)

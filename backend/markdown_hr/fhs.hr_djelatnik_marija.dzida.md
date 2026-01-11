@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Psihologija odrasle dobi i starenja (38640)](https://www.fhs.hr/predmet/pods) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/polgeo_a#v1id-904857_730647_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/polgeo_a#v1id-904857_730647_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/polgeo_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/polgeo_a)
 **Šifra:** |  200712  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  nasl. prof. dr. sc. [Nenad Pokos](https://www.fhs.hr/djelatnik/nenad.pokos)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -39,7 +36,7 @@
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -49,7 +46,7 @@
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -59,7 +56,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -69,7 +66,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -78,7 +75,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -87,7 +84,6 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/polgeo_a?@=21846#news_116018 "Arhiva obavijesti")

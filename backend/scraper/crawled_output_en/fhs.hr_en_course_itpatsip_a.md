@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/itpatsip_a)
 
 ## Introduction to Psychology and Theoretical Systems in Psychology
-  * [Basic data](https://www.fhs.hr/en/course/itpatsip_a#v1id-523789_918908_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/itpatsip_a#v1id-523789_918908_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/itpatsip_a#v1id-523789_918908_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/itpatsip_a#v1id-523789_918908_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/itpatsip_a#v1id-159951_511992_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/itpatsip_a#v1id-159951_511992_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/itpatsip_a#v1id-159951_511992_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/itpatsip_a#v1id-159951_511992_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uuppts_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itpatsip_a)
@@ -14,7 +14,7 @@
 **ECTS:** |  5.0   
 **Lecturers in charge:** |  doc. dr. sc. [Alena Gizdić](https://www.fhs.hr/staff/alena.gizdic)   
   
-**Lecturers:** |  [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych. - Seminar  
+**Lecturers:** |  pred. [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -56,7 +56,7 @@
 > **Mandatory course** - Regular studij - Psychology  
 >   
 Consultations schedule: 
-  * **[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych.**: 
+  * **pred.[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego)**: 
 Tuesdays 13.00-14.00h, room 207
 Location: 
 

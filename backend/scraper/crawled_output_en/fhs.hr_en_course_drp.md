@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/drp)
 
 ## Demographic Revitalization Patterns
-  * [Basic data](https://www.fhs.hr/en/course/drp#v1id-523770_125289_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/drp#v1id-523770_125289_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/drp#v1id-523770_125289_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/drp#v1id-523770_125289_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/drp#v1id-159934_516094_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/drp#v1id-159934_516094_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/drp#v1id-159934_516094_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/drp#v1id-159934_516094_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dro) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/drp)

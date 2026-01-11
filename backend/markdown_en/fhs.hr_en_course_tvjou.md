@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tvjou)
 
 ## TV Journalism
-  * [Basic data](https://www.fhs.hr/en/course/tvjou#v1id-523845_612606_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tvjou#v1id-523845_612606_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tvjou#v1id-523845_612606_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tvjou#v1id-523845_612606_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tvjou#v1id-159997_620931_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tvjou#v1id-159997_620931_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tvjou#v1id-159997_620931_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tvjou#v1id-159997_620931_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/telnov) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tvjou)

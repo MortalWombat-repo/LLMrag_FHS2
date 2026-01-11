@@ -13,7 +13,4 @@
 
   * [**Ana Petak, mag. psych.**](https://www.fhs.hr/images/50041855/Zivotopis%20Ana%20Petak.pdf)
 
-
 **[](https://www.fhs.hr/www.hrstud.unizg.hr/djelatnik/rona.busljeta_kardum)**
-  
-

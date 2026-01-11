@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/esiua#v1id-904802_322372_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/esiua#v1id-904802_322372_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/esiua) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/epoida)
 **Šifra:** |  78702  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -67,7 +66,6 @@
 >  Ocjenjuje se esej, sudjelovanje u nastavi i ispitno znanje (40 10 50).  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. M. Križman, Antička svjedočanstva o Istri. "ZNŽakan Juri", Pula, 1997.  
 S. Jurković, Atlas zapadne obale Istre. Histria antiqua 1 (1995.) 87-188.  
@@ -76,20 +74,17 @@ M. Suić, Antički grad na istočnoj jadranskoj obali, Zagreb, 2003.
 R. Matijašić, Gospodarstvo antičke Istre. "ZN Žakan Juri", Pula,1998.  
 A. Starac, Unutrašnjost Histrije u vremenu rimske vlasti, Histria archaeologica, 26 (1995[i.e. 1997]), 58-106, 
 
-  
 **Preporučena literatura:**  
   1. , M. Sanader, Antički gradovi u Hrvatskoj. "Školska knjiga", Zagreb,1992.  
 A. Starac, Rimska Pula - društveni život, Histria archaeologica 27, Pula, 1996. 93-152  
 A. Škegro, Gospodarstvo rimske provincije Dalmacije. "Hrvatski studiji", Zagreb 1999., , , .
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **POV (17189) - Izborni predmeti: Starovjekovna povijest** - Redovni studij - Povijest  
 >  **POV (17189) - Izborni predmeti: Starovjekovna povijest** - Redovni studij - Povijest  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/esiua?@=20p91#news_82061 "Arhiva obavijesti")

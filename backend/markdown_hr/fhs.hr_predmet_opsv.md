@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/opsv#v1id-904846_897702_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/opsv#v1id-904846_897702_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/opsv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/meh)
 **Šifra:** |  38043  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Marko Jerković](https://www.fhs.hr/djelatnik/marko.jerkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,14 +26,13 @@
 > Osnovni cilj ovog kolegija je dati studentima temljno znanje o povijesti srednjeg vijeka, te ih upoznati s glavnim političkim, institucionalnim, društvenim, gospodarskim, kulturnim i religioznim gibanjima srednjega vijeka. Pored svladavanja temeljne faktografije, studenti će se prije svega poticati na komparativno razmišljanje i razvijanje senzibiliteta za dugotrajne povijesne procese. Student će moći uočiti specifičnosti srednjovjekovlja, ali će također uočavati i kontinuitete i diskontinuitete od srednjovjekovnog doba do ranomodernog, pa i modernog doba. Cilj je kolegija također obraditi teme iz srednjovjekovne povijesti koje su nedostatno obrađene u literaturi ili je njihovo tumačenje zastarjelo.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Goldstein, Ivo Grgin, Borislav, Europa i Sredozemlje u srednjem vijeku, Zagreb: Novi Liber, 2006.;, 
   2. Le Goff, Jacques, Civilizacija srednjovjekovnog Zapada, Golden marketing, Zagreb, 1998.;, 
   3. Lopez, Roberto, Rođenje Evrope: st. V-XIV, Školska knjiga, Zagreb, 1978.;, 
   4. Ostrogorski, Georgije, Povijest Bizanta, Golden marketing, Zagreb, 2002.;, 
   5. 
-  
+
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -44,7 +42,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Marko Jerković](https://www.fhs.hr/djelatnik/marko.jerkovic)**: 
 Ponedjeljak, 13.00-14.00
 Lokacija: 103 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/opsv?@=21jzl#news_79947)

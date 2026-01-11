@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hpu1s#v1id-904817_973964_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hpu1s#v1id-904817_973964_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hpu1s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/chit1c)
 **Šifra:** |  38059  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -33,13 +32,11 @@
   5. usporediti navedene događaje s Proljećem naroda 1848.
   6. definirati pojmove: neoapsolutizam, obnova parlamentarizma, Nagodba, utjecaj Istočnog pitanja, oblici modernizacije, religijske sastavnice u hrvatskom društvu.
 
-  
 **Literatura:**  
   1. Mirko (ur.) Valentić, Lovorka (ur.) Čoralić; Povijest Hrvata. Druga knjiga, str. 343-651.; Školska knjiga, Zagreb (2005), 
   2. Hrvatski narodni preporod-Ilirski pokret; Školska knjiga, Zagreb (1988), 
   3. Jaroslav Šidak; Studije iz hrvatske povijesti XIX. stoljeća; Sveučilište u Zagrebu, Zagreb (1973), 
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -49,7 +46,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)**: 
 Srijedom od 11:15 do 12:15.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hpu1s?@=21fgf#news_81459)

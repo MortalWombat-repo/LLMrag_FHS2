@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/meh)
 
 ## Medieval European History
-  * [Basic data](https://www.fhs.hr/en/course/meh#v1id-523803_274249_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/meh#v1id-523803_274249_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/meh#v1id-523803_274249_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/meh#v1id-523803_274249_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/meh#v1id-159963_304945_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/meh#v1id-159963_304945_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/meh#v1id-159963_304945_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/meh#v1id-159963_304945_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/opsv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/meh)

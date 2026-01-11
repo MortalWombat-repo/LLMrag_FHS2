@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mirkrl_a)
 
 ## Miroslav Krleža
-  * [Basic data](https://www.fhs.hr/en/course/mirkrl_a#v1id-523804_793732_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mirkrl_a#v1id-523804_793732_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mirkrl_a#v1id-523804_793732_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mirkrl_a#v1id-523804_793732_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mirkrl_a#v1id-159964_535672_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mirkrl_a#v1id-159964_535672_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mirkrl_a#v1id-159964_535672_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mirkrl_a#v1id-159964_535672_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mirkrl_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mirkrl_a)

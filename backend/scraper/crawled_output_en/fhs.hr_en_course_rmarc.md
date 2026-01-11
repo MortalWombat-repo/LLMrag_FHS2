@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rmarc)
 
 ## Research, Measurement and Restraining Corruption.
-  * [Basic data](https://www.fhs.hr/en/course/rmarc#v1id-523828_744755_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rmarc#v1id-523828_744755_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rmarc#v1id-523828_744755_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rmarc#v1id-523828_744755_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rmarc#v1id-159982_709817_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rmarc#v1id-159982_709817_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rmarc#v1id-159982_709817_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rmarc#v1id-159982_709817_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/imsk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rmarc)

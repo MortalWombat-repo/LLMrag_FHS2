@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/irmal)
 
 ## Image, Reputation Management and Lobbying
-  * [Basic data](https://www.fhs.hr/en/course/irmal#v1id-523788_352862_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/irmal#v1id-523788_352862_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/irmal#v1id-523788_352862_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/irmal#v1id-523788_352862_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/irmal#v1id-159950_584230_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/irmal#v1id-159950_584230_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/irmal#v1id-159950_584230_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/irmal#v1id-159950_584230_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/iuul) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/irmal)

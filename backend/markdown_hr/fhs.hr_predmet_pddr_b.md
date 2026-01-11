@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pddr_b#v1id-904850_455267_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pddr_b#v1id-904850_455267_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pddr_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hodatdr_b)
 **Šifra:** |  214655  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)   
-  
+
 **Izvođači:** |  dr. sc. [Jure Trutanić](https://www.fhs.hr/djelatnik/jure.trutanic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -56,30 +55,27 @@
   7. Ocijeniti važnost Dubrovačke Republike kao hrvatske povijesne afirmacije.
   8. Objasniti posljedice sloma Dubrovačke Republike na razvoj grada
 
-  
 **Literatura:**  
   1. Povijest Dubrovnika, "Povijest Dubrovnika" obrađuje povijest Dubrovačke Republike i Dubrovnika, od antike do suvremenoga doma. Autor je minuciozno pristupio obradi relevantnih izvora kako bi pokrio dubrovačku povijest iz svih aspekata., Harris, Robin, Golden marketing, 2006. 
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >  **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >   
-  
+
 **4. semestar**  
 > **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >  **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >   
 Termini konzultacija: 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
   * **dr. sc.[Jure Trutanić](https://www.fhs.hr/djelatnik/jure.trutanic)**: 
 Četvrtkom od 13.15 do 14.15.
 Lokacija: S3 (zgrada knjižnice) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/pddr_b?@=21cfe#news_119242 "Arhiva obavijesti")

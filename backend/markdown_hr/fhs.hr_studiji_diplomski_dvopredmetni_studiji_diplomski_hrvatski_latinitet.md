@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/hrvatski_latinitet#v1id-904757_469922_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/hrvatski_latinitet#v1id-904757_469922_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -133,4 +132,4 @@ ECTS | LAT _DIPL_DVP ( 17064) - Izborni kolegiji
 3.0 |  [Latinski jezik u povijesti hrvatskoga odgoja i obrazovanja (200540)](https://www.fhs.hr/predmet/ljupho) |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=53BeqZv4YxX1YEz4PTNWqcFM7wqP3umOlTcAH5MmNDBjk0kFwgOyBiPGwvxLHgRu_6Z3S8dNxnLgAsKfXXVUbrKl0ZrXsFPliGtX0kiB5flCjd57-S76BO7sa_GGjmYrJiV0un55lRV65o-5zFFiep222cZCBOdyOB-WNwAitqylaSvY2XSkL7vjAdAYaMDx0ZS4gg==&_v1flags=dZR3o0-vhK3Q4O2QoPy44S3eHDUptoDqTO77BLz80VDdJ1-7IWIfS6mNh3JS0_X5PNrsl6zOD9wHdvp1duYDAiG0gZNDfScAxFg9l2EQoD64iUpRBHwEW3dotRDVhoCS0pOQUgj0NISa6EQ_SD98zTSsLSUw6l-zkBKMl8HYoxn3J2Oa&_lid=82933&_rand=0',%20''\))  
 5.0 |  [Osnove grčkoga jezika II (130285)](https://www.fhs.hr/predmet/ogj2) Matasović, M. |  | 30 15LK+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=CovX3Pdg7yri3BwokH0QGEUIF_TQ3t76gqgD9T1OdZXlpxkorYVOVhFYd7LzhOKWMTpbXVDi3RQkBIwoK8fbCH95NGaCWLxMMvOukTMTsqh3EVgDdMBsi2FFKYote7kr-6dWBxS9kKvK3JPWCaoVtTZ4iImF-H1YfoFjpDYER_hWBI7RwUbmaVytJCProZo36ipSMw==&_v1flags=4RH8fr_hmBKmHyJtGC7ImsyxSJO9LzMnxOu40coIBTU9snRJ_T0ySmgB7HUgOuxxiBL1QxH3eYlqQ2_lCZBH5I8cjOxB_VE5lqIyP39ax2PJniHfaENCzHjYq79IApYmGqPkLpB0hfEXX8aDGbXmx-pVE_T6sfzzMHuW1FYIcjCKQqc4&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

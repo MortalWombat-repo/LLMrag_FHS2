@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hudp2s#v1id-904821_277536_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hudp2s#v1id-904821_277536_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hudp2s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/citshot2c)
 **Šifra:** |  38067  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,11 +26,10 @@
 > Ciljevi predmeta okrenuti su učenju važnih događaja i osoba koje su obilježile hrvatsku povijest druge polovine 20. stoljeća. Pri tome studenti razvijaju osjećaj važnosti za predmetno razdoblje, bolje ga shvaćaju te postaju kompetentniji za njegovo razumijevanje i buduće podučavanje.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Zdenko RADELIĆ; Hrvatska u Jugoslaviji 1941.-1991: od zajedništva do razlaza; Školska knjiga, Zagreb (2006), 
   2.   3.   4.   5. 
-  
+
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -39,10 +37,9 @@
 >   
 Termini konzultacija: 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hudp2s?@=21mz5#news_81452)

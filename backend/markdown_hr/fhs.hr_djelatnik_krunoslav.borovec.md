@@ -12,5 +12,4 @@ ODSJEK ZA SOCIOLOGIJU
 **diplomski**
   * [Devijantnost na radnom mjestu (269857)](https://www.fhs.hr/predmet/dnrm_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

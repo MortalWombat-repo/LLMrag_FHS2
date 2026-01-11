@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/kmiuk_a#v1id-904830_37922_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kmiuk_a#v1id-904830_37922_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kmiuk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/qrmics_a)
 **Šifra:** |  118528  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivan Burić](https://www.fhs.hr/djelatnik/ivan.buric)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivan Burić](https://www.fhs.hr/djelatnik/ivan.buric) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  U dogovoru sa studentima upisanim na predmetu, nastavnik će osigurati što veći broj elemenata nastave na engleskom jeziku, odnosno istovremeno i na engleskom i na hrvatskom za mješovite grupe (dvojezični nastavni materijali i dvojezični ispiti). Razina 2 također uključuje dodatni individualni rad sa stranim studentima (slično kao i razina 1) za nastavne elemente koji se drže na hrvatskom jeziku.   
 **Opterećenje:**  
@@ -30,7 +29,6 @@
 > Cilj kolegija je studente upoznati s osnovnim kvalitativnim metodama koje se koriste u znanstvenom istraživanju medija i komunikacija kroz teorijska predavanja te produbiti stečeno teorijsko znanje o metodama u okviru seminara.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Aleksandar Halmi (1996) Kvalitativna metodologija u društvenim znanostima. Zagreb: Pravni fakultet u Zagrebu.  
 Poglavlja 3. Hermeneutika - teorija kvalitativnog mišljenja, str 61-80. Poglavlje 7. Fenomenologija, etnometodologija i interpretativna praksa, str. 239- 247., 
@@ -52,16 +50,15 @@ Poglavlje 2. A Structure o fin-depth, Phenomenological Interviewing, str 15-27.
 Poglavlje 7. Interviewing as a Realtionship, str 95 -109  
 Poglavlje 8. Analyzing, Interpreting and Sharing Intervju Material, str 112 - 130, 
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM-dipl (5043): ZNANSTVENO ISTRAŽIVANJE MASOVNIH KOMUNIKACIJA** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar**  
 > **KOM-dipl (5043): ZNANSTVENO ISTRAŽIVANJE MASOVNIH KOMUNIKACIJA** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM-dipl (5043): ZNANSTVENO ISTRAŽIVANJE MASOVNIH KOMUNIKACIJA** - Redovni studij - Komunikologija  
 >   
@@ -69,7 +66,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivan Burić](https://www.fhs.hr/djelatnik/ivan.buric)**: 
 Ponedjeljak, 11.00 - 12.00
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/kmiuk_a?@=21rn3#news_80850)

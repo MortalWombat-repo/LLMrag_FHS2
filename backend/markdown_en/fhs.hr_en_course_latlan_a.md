@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/latlan_a)
 
 ## Latin Language
-  * [Basic data](https://www.fhs.hr/en/course/latlan_a#v1id-523795_784202_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/latlan_a#v1id-523795_784202_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/latlan_a#v1id-523795_784202_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/latlan_a#v1id-523795_784202_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/latlan_a#v1id-159958_244124_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/latlan_a#v1id-159958_244124_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/latlan_a#v1id-159958_244124_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/latlan_a#v1id-159958_244124_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez_d) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latlan_a)
@@ -12,10 +12,10 @@
   
 ---|---  
 **ECTS:** |  3.0   
-**Lecturers in charge:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
 prof. dr. sc. [Šime Demo](https://www.fhs.hr/staff/sime.demo)   
   
-**Lecturers:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Proofreading exercises  
+**Lecturers:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Proofreading exercises  
 dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata) - Proofreading exercises  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  

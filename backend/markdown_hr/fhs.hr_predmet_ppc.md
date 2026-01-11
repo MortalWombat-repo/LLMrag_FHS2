@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/ppc#v1id-904859_915079_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ppc#v1id-904859_915079_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/patfc)
 **Šifra:** |  93907  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Eva Katarina Glazer](https://www.fhs.hr/djelatnik/eva_katarina.glazer)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  U dogovoru sa studentima upisanim na predmetu, nastavnik će osigurati što veći broj elemenata nastave na engleskom jeziku, odnosno istovremeno i na engleskom i na hrvatskom za mješovite grupe (dvojezični nastavni materijali i dvojezični ispiti). Razina 2 također uključuje dodatni individualni rad sa stranim studentima (slično kao i razina 1) za nastavne elemente koji se drže na hrvatskom jeziku.   
 **Opterećenje:**  
@@ -27,7 +26,6 @@
 > Upoznavanje studenata s najstarijim razdobljima povijesti čovječanstva, uz naglasak na najstariju prošlost zemalja u kojima se odvijala i hrvatska povijest, te s prošlošću i kulturom najstarijih civilizacija Starog Istoka.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Pritchard (ur.); Goldstein (priredio); Biblijski atlas the Times; Cankarjeva založba, Ljubljana (1990), 
   2. Dimitrijević et al.; Prapovijest; Naprijed, Zagreb (1998), 
@@ -37,7 +35,6 @@
   6. Matijašić, R. Povijest hrvatskih zemalja u antici do Dioklecijana, 1.svezak, Leykam, Zagreb, 2009 - odabrana poglavlja, 
   7. Velika ilustrirana povijest svijeta, sv. 1-3, Otokar Keršovani, Rijeka, 1974.-1976, 
 
-  
 **Preporučena literatura:**  
   1. , Kuhrt, A.; The Ancient Near East c. 3000-330 BC, I-II; Routledge, London (2007), , , .
   2. , Du Ry C. J., Narodi drevnog Istoka, u: Umjetnost u slici, Otokar Keršovani-Rijeka, 1970., , , .
@@ -50,7 +47,6 @@
   9. , Višić M., Književnost drevnog Bliskog istoka, Naprijed, Zagreb, 1993., , , .
   10. , Višić M., Zakonici drevne Mezopotamije, Sarajevo 1988., , , .
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -61,7 +57,6 @@ Termini konzultacija:
 - četvrtkom 10.15-11.15 u kabinetu 011
 - e-poštom: eglazer@hrstud.hr
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ppc?@=20p6j#news_79303 "Arhiva obavijesti")

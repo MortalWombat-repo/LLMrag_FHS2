@@ -14,5 +14,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Stanovništvo svijeta (253109)](https://www.fhs.hr/predmet/stasvi_b) - Nositelj, Seminar
   * [Diplomski rad (253189)](https://www.fhs.hr/predmet/diprad_j) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

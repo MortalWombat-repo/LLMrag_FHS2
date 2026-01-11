@@ -21,13 +21,11 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Psihologija rada (28729)](https://www.fhs.hr/predmet/psirad) - Nositelj
 
-
 **diplomski**
   * [Izrada psihologijskoga istraživanja (201199)](https://www.fhs.hr/predmet/ipi_b) - Nositelj, Seminar
   * [Psihologija ponašanja u organizaciji (53867)](https://www.fhs.hr/predmet/ppuo) - Nositelj, Seminar
   * [Suvremene prakse u upravljanju ljudskim potencijalima (289593)](https://www.fhs.hr/predmet/spuulp) - Nositelj, Seminar
   * [Teorija psihologijskih testova (57115)](https://www.fhs.hr/predmet/tpt) - Nositelj
-
 
 #### Životopis
 Maša Tonković Grabovac rođena je u Zagrebu¸ gdje je završila osnovno i srednjoškolsko obrazovanje. Godine 2007. diplomirala je psihologiju na Odsjeku za psihologiju Filozofskog fakulteta Sveučilišta u Zagrebu, a 2013. i doktorirala s temom „Motivacijske i situacijske odrednice lažiranja odgovora na upitnicima ličnosti u selekcijskoj situaciji“ pod mentorstvom prof. dr. Željka Jerneića. Uz doktorski studij psihologije, pohađala je petnaestak znanstvenih i stručnih edukacija u zemlji i inozemstvu, najčešće vezanih uz područje psihologije rada, strukturalno modeliranje i ostale složene analize podataka, vještine znanstvene komunikacije te kognitivno-bihevioralnu terapiju i druge tehnike savjetovanja.

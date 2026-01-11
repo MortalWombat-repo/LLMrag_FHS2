@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/masthe_c)
 
 ## Master thesis
-  * [Basic data](https://www.fhs.hr/en/course/masthe_c#v1id-523801_100916_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/masthe_c#v1id-523801_100916_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/masthe_c#v1id-523801_100916_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/masthe_c#v1id-523801_100916_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/masthe_c#v1id-159960_766506_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/masthe_c#v1id-159960_766506_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/masthe_c#v1id-159960_766506_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/masthe_c#v1id-159960_766506_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_g) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/masthe_c)
@@ -15,7 +15,7 @@
 **Lecturers in charge:** |   
 **Lecturers:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Seminar  
 izv. prof. dr. sc. [Marko Jerković](https://www.fhs.hr/djelatnik/marko.jerkovic) - Seminar  
-doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
+izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Seminar  
 izv. prof. dr. sc. [Maja Matasović](https://www.fhs.hr/djelatnik/maja.matasovic) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  

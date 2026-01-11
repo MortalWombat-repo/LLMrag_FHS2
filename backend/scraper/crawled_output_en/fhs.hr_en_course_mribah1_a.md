@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mribah1_a)
 
 ## Military-political relations in Bosnia and Herzegovina 1990-1995
-  * [Basic data](https://www.fhs.hr/en/course/mribah1_a#v1id-523807_827052_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mribah1_a#v1id-523807_827052_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mribah1_a#v1id-523807_827052_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mribah1_a#v1id-523807_827052_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mribah1_a#v1id-159967_323665_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mribah1_a#v1id-159967_323665_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mribah1_a#v1id-159967_323665_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mribah1_a#v1id-159967_323665_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/voubh1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mribah1_a)

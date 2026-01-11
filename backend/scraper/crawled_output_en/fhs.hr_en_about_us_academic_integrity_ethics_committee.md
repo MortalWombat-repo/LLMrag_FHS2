@@ -15,9 +15,9 @@ Borongajska cesta 83d
 10000 Zagreb, Croatia
 A student submitting work should discuss the ethical aspects of the research with their supervisor, who will assess whether additional consent from the Ethics Committee is needed. If required, the student should provide a draft of their research, including a detailed description of the procedure (not exceeding two pages) and the participant consent form.
 **Members**
-  1. Assist. Prof. Matija Mato Škerbić, PhD, Deputy Chair
-  2. Assoc. Prof. Lovorka Brajković, PhD, Member
-  3. Ružica Bešlić Grbešić, Librarian, Member
+  1. Assoc. Prof. Lovorka Brajković, PhD, Chair; Assist. Prof. Marko Kardum, PhD, Deputy Chair
+  2. Full Prof. Viktoria Franić Tomić, PhD, Member; Assoc. Prof. Vladimira Rezo, Deputy Member
+  3. Ružica Bešlić Grbešić, Librarian, Member; Dinka Rezić, Deputy Member
 
 
 The Ethics Committee also includes two members appointed from the student body when an issue pertains to student behavior or is of immediate importance to students.
@@ -37,6 +37,6 @@ In its work, the Ethics Committee:
 
 
 “The Ethics Committee of the Faculty of Croatian Studies at the University of Zagreb addresses the requests of the Faculty Council, the Dean, and unresolved student disputes from the departmental ethics committees” (Decision of the 10th Dean’s Council meeting of June 18, 2020, item 6.1). Therefore, supervisors and students are advised to seek consent for research related to student work from the ethics committee of their department.
-**Last updated** : October 1, 2021.
+**Last updated** : November 28, 2025.
   
 

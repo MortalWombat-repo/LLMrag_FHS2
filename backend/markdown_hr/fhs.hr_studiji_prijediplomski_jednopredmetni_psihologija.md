@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/psihologija#v1id-904771_584658_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/psihologija#v1id-904771_584658_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -458,4 +457,4 @@ ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO
 5.0 |  [Teorijski sustavi i modeli u psihologiji ličnosti (38643)](https://www.fhs.hr/predmet/tsmupl) Mlačić, B. |  | 45 30P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=UxQqi-2m0MXP287-LO075m_ScyegcFJ4fq_9i7e0CNmAeQlEHlNeR9sVyEJfNWX6ey16DKNA00pVaiTr2dH6EaXqMyAk8zeruIJ8Ejs34DrnZULGQ0krvGGj_EJNjXRQbefoDtNma2WGb1Tw2yJbedoZfm8jvu54ewLTO06yiZGB_P_JCEypCmqvCZOzvxSGkNV-SQ==&_v1flags=0qv619Gc7aW9stIZ3kR9x9OxXNcPaZIuZrc7BPWEbyS4C_w6C5nDNLTEkKXVcxBdwFz9nKcMxqv-l0yl6PjwKodAblOoFz3X53guCWQxge2cghMKkdn053a9I9eK0DXd_RZE-VvwMtwyxur455Zi0E1hLqx6nU__p2HlD6y41ecCvI_k&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Uvod u kliničku psihologiju (38645)](https://www.fhs.hr/predmet/uukp) Vučenović, D. |  | 30 30P |  [__](javascript:show_window\('/.cms/predmet_info?_v1=vopCB9ez-99IMSfzFwMa3ODsyw40BnbdXzW8qklQrL0MnUxLx7-jMgUK-meHVr69PXiuxfHJRZKW677FBLVEi7UCB-Ibgd39-hlSerTMtW6x3NXTovlixHkpIxHYcGwL4pQPfmmzxuPDUGMcQYPxxXzbGwSe-4vx5nz_nm1Rs9Gfni91idTUpX0wKGrGNE7ufVDCDg==&_v1flags=yOW4UvtvljjELKtNVq33VxbNv4wNwbjL3xw1cZr6z8fdo-g0Z_eK4HbGCKQTVosGJzzFUPRpmp81UL1PkgLTc5cxbYbIFsRLqvYfO_gP5QGmg4M5E3M7jaeejasR4DRoRrQFkkgnWfUYqom7rpJP7-vsl-U9StdePdTWWUeMdgQ4wd8b&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

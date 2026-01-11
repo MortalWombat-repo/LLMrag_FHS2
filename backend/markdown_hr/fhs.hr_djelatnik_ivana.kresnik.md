@@ -19,11 +19,9 @@ ODSJEK ZA KROATOLOGIJU
   * [Sintaksa hrvatskoga jezika (188074)](https://www.fhs.hr/predmet/shj_a) - Nositelj, Seminar
   * [Uređivanje teksta (187990)](https://www.fhs.hr/predmet/uretek) - Nositelj, Seminar
 
-
 **diplomski**
   * [Književnojezično nasljeđe sjeverozapadne Hrvatske (270278)](https://www.fhs.hr/predmet/knsh) - Nositelj, Seminar
   * [Diplomski rad (215308)](https://www.fhs.hr/predmet/diprad_h) - Seminar
-
 
 #### Životopis
 Ivana Kresnik hrvatska je jezikoslovka koja se bavi poviješću hrvatskoga jezika u svim njegovim razdobljima, od početaka hrvatske pismenosti do danas, s osobitim usmjerenjem na razdoblje novovjekovlja u sjeverozapadnoj i kontinentalnoj Hrvatskoj. U svojim istraživanjima primjenjuje potpuno jezikoslovne metode istraživanja, koje u kombinaciji sa sociolingvističkim, povijesnim, pravno-političkim i gospodarskim okolnostima omogućavaju objektivne uvide u hrvatsku jezičnu i povijesnu stvarnost. U objavljenim radovima, samostalno i sa suradnicima, pridonijela je rasvjetljavanju mnogih pitanja u vezi s poviješću gramatičkih opisa hrvatskoga jezika i leksikografije, kajkavskim književnim jezikom, razvojem jezične norme na hrvatskom jeziku, pa i hrvatskom gospodarskom povijesti.

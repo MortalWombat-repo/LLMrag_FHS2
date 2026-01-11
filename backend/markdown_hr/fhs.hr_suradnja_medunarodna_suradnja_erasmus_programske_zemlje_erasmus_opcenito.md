@@ -20,7 +20,6 @@ Ured za međunarodnu suradnju Sveučilišta u Zagrebu:
 Renata Hranjec(Ms), Institutional Coordinator International Relations Office University of Zagreb Email: erasmus.coordinator@unizg.hr 
 Postal address: Trg Republike Hrvatske14 
 HR-10000 Zagreb, Croatia 
-  
 
 ## Erasmus općenito
 Ciljevi programa Erasmus+
@@ -33,7 +32,6 @@ Erasmus+ donosi niz novina u odnosu na svoje programske prethodnike. Najvažnije
   * bolja povezanost s potrebama tržišta rada
   * veća EU dodana vrijednost.
 
-
 Objedinjavanje aktivnosti koje pripadaju istim područjima kao i veća strateška usmjerenost na ciljeve javnih politika odražavaju se i u strukturi programa Erasmus+.
 Programom Erasmus+ obuhvaćeno je pet glavnih područja obrazovanja i osposobljavanja, kao i područje mladih. Više informacija o načinima sudjelovanja u svakom pojedinom području potražite na pripadajućim poveznicima:
   * [odgoj i opće obrazovanje](https://www.fhs.hr/www.mobilnost.hr/hr/sadrzaj/programi/erasmus/erasmus-odgoj-i-opce-obrazovanje/) - za osoblje i institucije
@@ -42,7 +40,6 @@ Programom Erasmus+ obuhvaćeno je pet glavnih područja obrazovanja i osposoblja
   * [obrazovanje odraslih](https://www.fhs.hr/www.mobilnost.hr/hr/sadrzaj/programi/erasmus/erasmus-obrazovanje-odraslih/) - za osoblje, institucije i poduzeća
   * [područje europskih integracija](https://www.fhs.hr/www.mobilnost.hr/hr/sadrzaj/programi/erasmus/program-jean-monnet/) - za akademsko i istraživačko osoblje i institucije
   * [područje mladih](https://www.fhs.hr/www.mobilnost.hr/hr/sadrzaj/programi/erasmus/erasmus-mladi/) - za mlade osobe te osobe koje rade s mladima.
-
 
 Za više informacija o načinu sudjelovanju u mrežama i inicijativama potražite na pripadajućim poveznicama:
 - [eTwinning](https://www.fhs.hr/www.mobilnost.hr/hr/sadrzaj/programi/mreze-i-inicijative/etwinning/)
@@ -59,7 +56,6 @@ Za dodjelu financijske potpore, ovisno o aktivnosti, prijavljuju se **ustanove i
   * Intenzivni programi od 2 do 6 tjedana
   * Pripremni posjeti od 1 do 5 dana
 
-
 ERASMUS
   * Erasmus sveučilišna povelja [eng](http://www.mobilnost.hr/prilozi/05_1258993779_Erasmus_sveucilisna_povelja_en.pdf) [hrv](http://www.mobilnost.hr/prilozi/05_1259329105_Erasmus_sveucilisna_povelja_hr.pdf)
   * Mobilnost studenata - studijski boravak [eng](http://www.mobilnost.hr/prilozi/05_1260357728_Erasmus_Student_Mobility_for_Studies.pdf) [hrv](http://www.mobilnost.hr/prilozi/05_1260352237_Erasmus_studijski_boravak_studenti_hr.pdf)
@@ -69,7 +65,4 @@ ERASMUS
   * Organizacija mobilnosti [eng](http://www.mobilnost.hr/prilozi/05_1258993704_Erasmus_organizacija_mobilnosti_en.pdf) [hrv](http://www.mobilnost.hr/prilozi/05_1258993704_Erasmus_organizacija_mobilnosti_en.pdf)
   * Pripremni posjeti [eng](http://www.mobilnost.hr/prilozi/05_1258993717_Erasmus_pripremni_posjeti_en.pdf) [hrv](http://www.mobilnost.hr/prilozi/05_1259329028_Erasmus_pripremni_posjeti_hr.pdf)
 
-
 [Popis financiranih Erasmus+ projekata](https://www.fhs.hr/www.mobilnost.hr/hr/sadrzaj/programi/erasmus/popis-financiranih-erasmus-projekata/)
-  
-

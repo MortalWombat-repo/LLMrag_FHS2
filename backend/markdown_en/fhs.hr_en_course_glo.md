@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/glo)
 
 ## Glottodidactics
-  * [Basic data](https://www.fhs.hr/en/course/glo#v1id-523777_577442_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/glo#v1id-523777_577442_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/glo#v1id-523777_577442_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/glo#v1id-523777_577442_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/glo#v1id-159942_191419_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/glo#v1id-159942_191419_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/glo#v1id-159942_191419_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/glo#v1id-159942_191419_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/glo) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/glo)

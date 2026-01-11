@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/bosb)
 
 ## Basics of social behavior
-  * [Basic data](https://www.fhs.hr/en/course/bosb#v1id-523746_754328_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/bosb#v1id-523746_754328_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/bosb#v1id-523746_754328_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/bosb#v1id-523746_754328_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/bosb#v1id-159914_963536_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/bosb#v1id-159914_963536_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/bosb#v1id-159914_963536_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/bosb#v1id-159914_963536_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/osp_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bosb)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sowao)
 
 ## Sociology of work and organization
-  * [Basic data](https://www.fhs.hr/en/course/sowao#v1id-523837_655774_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sowao#v1id-523837_655774_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sowao#v1id-523837_655774_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sowao#v1id-523837_655774_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sowao#v1id-159991_423211_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sowao#v1id-159991_423211_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sowao#v1id-159991_423211_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sowao#v1id-159991_423211_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sro) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sowao)

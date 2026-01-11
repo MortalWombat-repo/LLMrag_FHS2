@@ -12,7 +12,6 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Komunikacijski menadžment (201677)](https://www.fhs.hr/predmet/kommen) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)
 > Semantičko objavljivanje te usporedba entiteta prve skupine između SPAR ontologija FaBiO-a i FRBR DL-a te bibliografskih ontologija FaBiO i BIBFRAME
 > Rječnik hrvatskoga knjižničarskog nazivlja = Croatian dictionary of librarianship = Kroatisches Wörterbuch des Bibliothekswesens

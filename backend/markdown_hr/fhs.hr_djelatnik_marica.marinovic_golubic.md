@@ -23,7 +23,6 @@ ODSJEK ZA SOCIOLOGIJU
   * [Uvod u sociologiju (172495)](https://www.fhs.hr/predmet/uus_a) - Nositelj
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Kvalitativne metode istraživanja (214136)](https://www.fhs.hr/predmet/kvamet_b) - Nositelj, Vježbe u praktikumu
   * [Kvalitativne metode istraživanja (285804)](https://www.fhs.hr/predmet/kmi_d) - Nositelj, Vježbe u praktikumu
@@ -31,6 +30,5 @@ ODSJEK ZA SOCIOLOGIJU
   * [Studentska praksa (269863)](https://www.fhs.hr/predmet/stupra_c) - Vježbe u praktikumu
   * [Diplomski rad (64818)](https://www.fhs.hr/predmet/diprad_b) - Seminar
   * [Diplomski rad (211192)](https://www.fhs.hr/predmet/diprad_i) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

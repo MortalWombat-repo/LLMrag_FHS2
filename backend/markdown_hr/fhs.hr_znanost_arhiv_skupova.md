@@ -147,6 +147,4 @@
 2007. |  |  Tihi pregaoci: fra Stjepan Zlatović  
 |  |  Petar Krstitelj Baćić i njegovo vrijeme  
 2006. |  |  Josip Hamm i njegovo djelo  
-2005. |  |  Međunarodni znanstveni skup o Vatroslavu Jagiću  
-  
-
+2005. |  |  Međunarodni znanstveni skup o Vatroslavu Jagiću

@@ -13,5 +13,4 @@ ODSJEK ZA SOCIOLOGIJU
   * [Hrvatsko društvo i vjerske slobode (200602)](https://www.fhs.hr/predmet/hdvs) - Nositelj
   * [Ljudska prava (177435)](https://www.fhs.hr/predmet/ljupra_a) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

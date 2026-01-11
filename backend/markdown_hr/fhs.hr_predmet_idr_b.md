@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/idr_b#v1id-904821_891572_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/idr_b#v1id-904821_891572_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/idr_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/prothe)
 **Šifra:** |  126008  
-  
+
 ---|---  
 **ECTS:** |  18.0   
 **Nositelji:** |   
@@ -23,7 +22,7 @@ nasl. doc. dr. sc. [Igor Marinić](https://www.fhs.hr/djelatnik/igor.marinic) - 
 prof. dr. sc. [Zdravko Petanjek](https://www.fhs.hr/djelatnik/zdravko.petanjek) - Seminar  
 nasl. izv. prof. dr. sc. Miroslav Rajter - Seminar  
 nasl. prof. dr. sc. [Iva Šverko](https://www.fhs.hr/djelatnik/iva.sverko) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -36,11 +35,10 @@ nasl. prof. dr. sc. [Iva Šverko](https://www.fhs.hr/djelatnik/iva.sverko) - Sem
 > Diplomski rad je cjelovita, sveobuhvatna i visoko nezavisna obveza kojom student završava studij, te mora pokazati svoju sposobnost u analiziranju zadanoga problema ili tematike s teorijskog, praktičnog ili istraživačkog stajališta u onom znanstvenom polju ili grani u kojoj je ustrojen studij koji student završava. Cilj je predmeta da student pokaže poznavanje teme, sposobnost samostalnog istraživanja, korištenja literature i primjenu znanstvene i stručne metodologije.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mentor je dogovara sa svakim studentom ovisno o temi diplomskog rada.;, 
   2.   3.   4.   5. 
-  
+
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Psihologija  
@@ -58,7 +56,6 @@ Lokacija: 025
   * **doc. dr. sc.[Jelena Maričić](https://www.fhs.hr/djelatnik/jelena.maricic)**: 
 utorkom od 16.00 do 17.00 h
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/idr_b?@=20pnl#news_83107 "Arhiva obavijesti")

@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/indfil#v1id-904824_569350_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/indfil#v1id-904824_569350_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/indfil) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/indphi)
 **Šifra:** |  213958  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivan Andrijanić](https://www.fhs.hr/djelatnik/ivan.andrijanic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -52,20 +51,17 @@
 >  3.-5. tema:Vrijeme, mjesto kristalizacije i ustroj korpusa Veda. Početci indijske misaonosti u vedskim zbirkama.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **FIL-DIPL (17983) - Istočne filozofije i kulture** - Redovni studij - Filozofija  
 >   
-  
+
 **4. semestar**  
 > **FIL-DIPL (17983) - Istočne filozofije i kulture** - Redovni studij - Filozofija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/indfil?@=21cmi#news_119837 "Arhiva obavijesti")

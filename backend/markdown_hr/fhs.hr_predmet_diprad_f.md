@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/diprad_f#v1id-904797_277717_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/diprad_f#v1id-904797_277717_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_f) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/masthe_b)
 **Šifra:** |  214814  
-  
+
 ---|---  
 **ECTS:** |  10.0   
 **Nositelji:** |   
@@ -21,7 +20,7 @@ doc. dr. sc. [Marko Kardum](https://www.fhs.hr/djelatnik/marko.kardum) - Seminar
 izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic) - Seminar  
 izv. prof. dr. sc. [Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi) - Seminar  
 doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -34,10 +33,8 @@ doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.sk
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -69,7 +66,6 @@ Lokacija:
   * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)**: 
 Utorkom, 14:30 - 15:30
 Lokacija: 18 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/diprad_f?@=21cmh#news_120348 "Arhiva obavijesti")

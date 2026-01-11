@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/intpri#v1id-904824_310301_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/intpri#v1id-904824_310301_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/intpri) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/intapp)
 **Šifra:** |  238019  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Jadranka Polović](https://www.fhs.hr/djelatnik/jadranka.polovic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Jadranka Polović](https://www.fhs.hr/djelatnik/jadranka.polovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -103,16 +102,13 @@
 >  15. Otvorena pitanja (nacionalni identitet, demografska budućnost zemlje, RH kao zemlja ponovnoga useljavanja ili selektivna migracija)  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/intpri?@=21j13#news_122291 "Arhiva obavijesti")

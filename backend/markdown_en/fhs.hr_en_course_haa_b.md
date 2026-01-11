@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/haa_b)
 
 ## History and Archeology
-  * [Basic data](https://www.fhs.hr/en/course/haa_b#v1id-523781_584661_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/haa_b#v1id-523781_584661_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/haa_b#v1id-523781_584661_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/haa_b#v1id-523781_584661_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/haa_b#v1id-159942_414782_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/haa_b#v1id-159942_414782_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/haa_b#v1id-159942_414782_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/haa_b#v1id-159942_414782_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pia_d) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/haa_b)

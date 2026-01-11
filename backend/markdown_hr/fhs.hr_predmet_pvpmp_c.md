@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pvpmp_c#v1id-904865_866976_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pvpmp_c#v1id-904865_866976_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvpmp_c) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peitmoth_a)
 **Šifra:** |  144736  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum) - Metodičke vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,13 +29,11 @@
 > Temeljni je cilj predmeta praktično osposobiti studente za rad u osnovnim i srednjim školama. Očekuje se da studenti praktično primjene, održavajući samostalno nastavne sate, znanja stečena iz Pedagogije, Didaktike i Metodike (nastave povijesti). Cilj je da studenti ovladaju osnovnim nastavnim metodama i oblicima koristeći pri tome suvremene medije te da u što većoj mjeri primjenjuju kao nastavni oblik samostalan rad učenika kroz osmišljavanje kreativnih radionica.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Nacionalni okvirni kurikulum za predškolski odgoj i obrazovanje te opće obvezno i srednjoškolsko obrazovanje; Ministarstvo znanosti, obrazovanja i športa RH (2011), str. 290, 
   2. Ispitni katalog iz povijesti;, 
   3. Katalog odobrenih udžbenika za određenu školsku godinu;, 
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni smjer - Nastavnički  
@@ -49,7 +46,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)**: 
 Utorak, 11-12 sati
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pvpmp_c?@=21s70#news_110746)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cromor)
 
 ## Croatian Morphology
-  * [Basic data](https://www.fhs.hr/en/course/cromor#v1id-523762_374553_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cromor#v1id-523762_374553_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cromor#v1id-523762_374553_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cromor#v1id-523762_374553_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cromor#v1id-159926_552730_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cromor#v1id-159926_552730_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cromor#v1id-159926_552730_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cromor#v1id-159926_552730_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mhj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cromor)

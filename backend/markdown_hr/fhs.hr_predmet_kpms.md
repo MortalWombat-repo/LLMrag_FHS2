@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/kpms#v1id-904832_433558_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kpms#v1id-904832_433558_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kpms) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/comapor)
 **Šifra:** |  227641  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Vlatka Vukelić](https://www.fhs.hr/djelatnik/vlatka.vukelic)   
-  
+
 **Izvođači:** |  dr. sc. [Nikolina Šimetin Šegvić](https://www.fhs.hr/djelatnik/nikolina.simetin_segvic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -64,22 +63,20 @@
 >  15. Zaključno predavanje, rekapitulacija  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
@@ -87,7 +84,7 @@
 >  **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
@@ -95,12 +92,12 @@
 >  **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
@@ -112,7 +109,6 @@ Lokacija: 11
 zimski semestar: utorkom 11,15-12,15
 ljetni semestar: srijedom 13,00-14,00
 Lokacija: knjižnica, soba 1 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/kpms?@=21g9x#news_121326 "Arhiva obavijesti")

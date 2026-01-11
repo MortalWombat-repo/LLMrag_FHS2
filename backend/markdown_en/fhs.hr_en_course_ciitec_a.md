@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ciitec_a)
 
 ## Croatian identity in the European Context
-  * [Basic data](https://www.fhs.hr/en/course/ciitec_a#v1id-523753_721384_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ciitec_a#v1id-523753_721384_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ciitec_a#v1id-523753_721384_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ciitec_a#v1id-523753_721384_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ciitec_a#v1id-159919_693345_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ciitec_a#v1id-159919_693345_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ciitec_a#v1id-159919_693345_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ciitec_a#v1id-159919_693345_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hiuek_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ciitec_a)

@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **diplomski**
   * [Korporativne komunikacije (125909)](https://www.fhs.hr/predmet/korkom_a) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

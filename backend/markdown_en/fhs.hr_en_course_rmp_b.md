@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rmp_b)
 
 ## Research Methods Practicum
-  * [Basic data](https://www.fhs.hr/en/course/rmp_b#v1id-523828_970538_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rmp_b#v1id-523828_970538_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rmp_b#v1id-523828_970538_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rmp_b#v1id-523828_970538_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rmp_b#v1id-159982_419452_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rmp_b#v1id-159982_419452_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rmp_b#v1id-159982_419452_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rmp_b#v1id-159982_419452_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/piim_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rmp_b)
@@ -14,7 +14,7 @@
 **ECTS:** |  5.0   
 **Lecturers in charge:** |  izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)   
   
-**Lecturers:** |  dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
 [Klara Saganić](https://www.fhs.hr/djelatnik/klara.saganic), mag. psych. - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
@@ -60,7 +60,7 @@ Consultations schedule:
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)**: 
 Tuesday 2:30 PM - 3:30 PM
 Location: 207 
-  * **dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
+  * **doc. dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
 Monday: 11:00-12:00 AM
 2nd floor, room 206
 Location: 206 

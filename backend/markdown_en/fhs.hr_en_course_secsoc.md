@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/secsoc)
 
 ## Security Sociology
-  * [Basic data](https://www.fhs.hr/en/course/secsoc#v1id-523831_998681_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/secsoc#v1id-523831_998681_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/secsoc#v1id-523831_998681_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/secsoc#v1id-523831_998681_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/secsoc#v1id-159985_850350_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/secsoc#v1id-159985_850350_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/secsoc#v1id-159985_850350_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/secsoc#v1id-159985_850350_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/socsig) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/secsoc)

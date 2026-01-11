@@ -10,5 +10,3 @@ Akti i obrasci:
 - [obrazac Zahtjeva za službeno putovanje](https://www.fhs.hr/images/50042842/Obrazac%20-%20Zahtjev%20za%20sluzbeno%20putovanje.pdf)[ ](https://www.fhs.hr/images/50042842/Zahtjev%20za%20sluzbeno%20putovanje.pdf)  
 - [Pravila za službeno putovanje ](https://www.fhs.unizg.hr/pravila_o_sluzbenim_putovanjima)  
 - [obrazac Zahtjeva za odobrenje financiranja troškova znanstvenog rada zaposlenika FHS-a](https://www.fhs.hr/images/50042842/Obrazac_Zahtjev%20za%20odobrenje%20financiranja%20troskova%20znanstvenog%20rada%20zaposlenika%20FHS-a.pdf)
-  
-

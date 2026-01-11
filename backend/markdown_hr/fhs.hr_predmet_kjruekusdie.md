@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/kjruekusdie#v1id-904828_436971_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kjruekusdie#v1id-904828_436971_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kjruekusdie) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/caldiekusdie)
 **Šifra:** |  213980  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. emer. dr. sc. [Zygfryd Eckardt Gehrmann](https://www.fhs.hr/djelatnik/zygfryd_eckardt.gehrmann)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -55,26 +54,24 @@
 >  15. Primjer Hrvatske: Bilanca implementacije europske jezične politike  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
@@ -83,7 +80,6 @@ Termini konzultacija:
   * **prof. emer. dr. sc.[Zygfryd Eckardt Gehrmann](https://www.fhs.hr/djelatnik/zygfryd_eckardt.gehrmann)**: 
 utorak 10-11
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/kjruekusdie?@=21eqo#news_119662)

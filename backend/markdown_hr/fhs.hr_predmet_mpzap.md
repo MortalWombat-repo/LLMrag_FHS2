@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/mpzap#v1id-904840_874190_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mpzap#v1id-904840_874190_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mpzap) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mohsaal)
 **Šifra:** |  130892  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,15 +29,12 @@
 > Cilj kolegija: Razvijanje sposobnosti i vještina vezane uz osnovnu metodologiju znanstvenog rada i istraživanja u povijesnim znanostima, prikupljana izvora i literature vezane uz razne povijesne teme, obrade i analize istih, te izradu raznih vrsta znanstvenih radova uz primjenu informacijskih tehnologija.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Metodologija znanstvenog rada i akademska pismenost (PowerPoint prezentacije), Tomorad, Mladen, Hrvatski studiji, 2015. 
 
-  
 **Preporučena literatura:**  
   1. Uvod u studij povijesti: historiografski praktikum, , Nikolić, Zrinka, Leykam International, 2008.
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -49,7 +45,6 @@ Ponedjeljak 7:30-8:00 (prema dogovoru) i nakon predavanja te prema dogovoru.
 Nastava u ljetnom semestru: ponedjeljak 8:00-9:30, 9:35-11:05.
 Nastava u zimskom semestru: ponedjeljak 8:00-12:40, utorak 8:00-11:05.
 Lokacija: 25 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/mpzap?@=21rza#news_87716)

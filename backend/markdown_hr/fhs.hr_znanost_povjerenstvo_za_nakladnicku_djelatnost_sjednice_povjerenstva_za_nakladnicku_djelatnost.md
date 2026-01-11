@@ -8,5 +8,3 @@
 [4. sjednica Povjerenstva za nakladničku djelatnost](https://www.fhs.hr/images/50043252/Zapisnik%204.%20sjednice%20Povjerenstva%20za%20nakladnicku%20djelatnost.pdf)
 [3. sjednica Povjerenstva za nakladničku djelatnost](https://www.fhs.hr/images/50043252/Zapisnik%203.%20sjednice%20Povjerenstva%20za%20nakladnicku%20djelatnost.pdf)
 [2. sjednica Povjerenstva za nakladničku djelatnost](https://www.fhs.hr/images/50043252/Zapisnik%202.%20sjednice%20Povjerenstva%20za%20nakladnicku%20djelatnost.pdf)
-  
-

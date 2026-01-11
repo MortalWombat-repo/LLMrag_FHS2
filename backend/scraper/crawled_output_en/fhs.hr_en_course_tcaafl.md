@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tcaafl)
 
 ## Teaching Croatian as a Foreign Language
-  * [Basic data](https://www.fhs.hr/en/course/tcaafl#v1id-523839_356013_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tcaafl#v1id-523839_356013_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tcaafl#v1id-523839_356013_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tcaafl#v1id-523839_356013_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tcaafl#v1id-159993_43956_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tcaafl#v1id-159993_43956_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tcaafl#v1id-159993_43956_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tcaafl#v1id-159993_43956_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phkij) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tcaafl)

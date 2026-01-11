@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/komunikologija#v1id-904768_683416_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/komunikologija#v1id-904768_683416_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -609,4 +608,4 @@ ECTS | TZP (3503) - Akademski strani jezik
 4.0 |  [Akademski francuski (209486)](https://www.fhs.hr/predmet/akafra) Franić, I. |  | 60 15P+45SJ |  [__](javascript:show_window\('/.cms/predmet_info?_v1=h1AJTdOwDkN4i_GxHGNUIqUUDN89ssaWl67DQzCpfnvi_FoqnNfejjDdGs_RkbkK5erFKc7jTQmpLpGeAbUTCaq9F30fOw7S4ZxyAhcNuXEccFBuYD7JRfphgA_wJfSs1nf18LNuchNoecWhNE-E0NcWSgihf5h4a40qbEtBG5sWpegwZ23Ag5nA_cQnMDqngi3Akw==&_v1flags=NxUhMqrjcJ66U1Y6wgmpcSl3gqvIfXqH5sKS6nYdsvE3W8i-WksYfoOX0JTvC4ygcgwVKgvxK9dTbYkLSppdNGe1Ind08_FsQgm830y72G7RUQ8Udm9VAgkyOxuxl23CAjq4th_7k4H3alG8Qo5AvrYTyunXdjLIMU8JXWp-JcXCUyHQ&_lid=82933&_rand=0',%20''\))  
 4.0 |  [Akademski njemački (45829)](https://www.fhs.hr/predmet/akanje) Miškulin Saletović, L. |  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Udl3aacawx9LExC4yscIVtZ_O4d_XDk4-thm-OFPQBVJKuNuqZvl-4yEIuBx3GWwvQUNLm1i12Ui9VvVl7T9136sxNqyLcm0KatsGC1YbzwfE_grdGMFiH4OkoGHK9_8N1xRWjpnLI2CbDbcWj7KDd4jh6E9OJgtG_6-ckJS6lm0d2V2IO7MqsR0U-5JDHfnC0lr1A==&_v1flags=voGnSQmTNUfJMU1x7L0VFbLcvqgttZf-rT6BpCXXZjRmwVeoCBAp_IaYOpIx0q4OLHyz5Se3nE1gknh-hVv1xqYXH4N8kQzNzz4bb4f7ESgbb4RfOwXinmWobDCgi6QvT4NJHYTEHwc816srwsWgXtjZ5EaN3Ibq0Uso9eeFv5-6iaLy&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

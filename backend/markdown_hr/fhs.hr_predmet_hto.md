@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hto#v1id-904820_127999_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hto#v1id-904820_127999_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hto) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ctac)
 **Šifra:** |  270277  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  nasl. doc. dr. sc. [Lidija Bajuk](https://www.fhs.hr/djelatnik/lidija.bajuk)   
-  
+
 **Izvođači:** |  nasl. doc. dr. sc. [Lidija Bajuk](https://www.fhs.hr/djelatnik/lidija.bajuk) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -41,7 +40,6 @@
   9. Nabrojati i ukratko opisati hrvatske običaje kao nematerijalno kulturno dobro pod svjetskom zaštitom
   10. Načini obrade, očuvanja, predstavljanja i interpretacije etnografskoga gradiva
 
-  
 **Literatura:**  
   1. Tradicijska glazba. U: Hrvatska tradicijska kultura na razmeđi svjetova i epoha. Ur. Z. Vitez i A. Muraj., Marošević, Grozdana, Barbat Zagreb, 2001. 
   2. Autorsko i srodna prava u glazbi. Neke refleksije o sadašnjosti i budućnosti. U: Zbornik Hrvatskog društva za autorsko pravo 13-14., Matanovac Vučković, Romana i Hrvoje Maratović, Hrvatsko društvo za autorsko pravo Zagreb, 2016. 
@@ -50,7 +48,6 @@
   5. Folklorni ples. U: Hrvatska tradicijska kultura na razmeđi svjetova i epoha. Ur. Z. Vitez i A. Muraj., Zebec, Tvrtko, Barbat Zagreb, 2001. 
   6. Istraživanje običaja. Pojmovi i termini. Narodna umjetnost 24., više autora, IEF Zagreb, 1987. 
 
-  
 **Preporučena literatura:**  
   1. Hrvatska tradicijska kultura u nastavi. U: Potisnute teme u umjetnosti i humanistici. Zbornik radova posvećen profesoru emeritusu Vladimiru P. Gossu. Ur. D. Dujmović i P. Karković Takalić, , Bajuk, Lidija, Filozofski fakultet Sveučilišta u Rijeci, 2022.
   2. Hrvati i njihova narodna kultura. U: Hrvatska tradicijska kultura na razmeđi svjetova i epoha. Ur. Z. Vitez i A. Muraj., , Belaj, Vitomir, Barbat Zagreb, 2001.
@@ -61,29 +58,27 @@
   7. Izmišljanje tradicije. U: Kultura pamćenja i historija. Ur. M. Brkljačić., , Hobsbawm, Eric, Golden marketing i Tehnička knjiga, Zagreb, 2006.
   8. Sažetak. U: Narodni plesni običaji u Hrvata., , Ivančan, Ivan, HMI i IEF, Zagreb, 1996.
 
-  
 **1. semestar**  
 ---  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hto?@=21nei#news_124390 "Arhiva obavijesti")

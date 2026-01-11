@@ -11,7 +11,7 @@ glavnoga urednika i članova uredništva Kroatologije i drugih časopisa Fakulte
 nizova fakultetskih izdanja, razmatra izvješća o radu urednika i uredništava i obavlja druge  
 zadaće koje mu povjere Fakultetsko vijeće, Dekanski kolegij, čelnik ustanove i prodekan  
 za poslovanje.  
-  
+
 1. izv. prof. dr. sc. Marko Jerković, po službi,   
 2. Glavni tajnik, po službi  
 3. Branko Ivanda, prof., član,  
@@ -19,11 +19,8 @@ za poslovanje.
 5. izv. prof. dr. sc. Vlatka Vukelić, članica,  
 6. doc. dr. sc. Danijel Jurković, član,  
 7. doc. dr. sc. Vlatko Smiljanić, član.  
-  
+
 Za obavljanje administrativnih poslova za potrebe Povjerenstva za nakladničku djelatnosti  
 zadužuje se Tomislav Rapić, mag. educ. hist.  
-  
-  
-Zadnja promjena: 1. listopada 2025.
-  
 
+Zadnja promjena: 1. listopada 2025.

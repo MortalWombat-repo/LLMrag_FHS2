@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/phi_a#v1id-904851_82494_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/phi_a#v1id-904851_82494_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phi_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoce)
 **Šifra:** |  194392  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic)   
-  
+
 **Izvođači:** |  dr. sc. [Ivan Tepeš](https://www.fhs.hr/djelatnik/ivan.tepes) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -62,24 +61,20 @@
 >  15. Nastavničko vrjednovanje rada na kolegiju  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Iseljena Hrvatska, Čizmić, Ivan; Sopta, Marin; Šakić, Vlado "Iseljena Hrvatska", Golden marketing - Tehnička knjiga, Zagreb, 2005., Ivan Čizmić, Marin Sopta, Vlado Šakić, Golden marketing - Tehnička knjiga, Zagreb, 2005. 
   2. Holjevac, Većeslav, "Hrvati izvan domovine", Zagreb, 1967., 
   3. Stanković, Vladimir "Katolička Crkva i Hrvati izvan domovine", Zagreb, 1985., 
 
-  
 **Preporučena literatura:**  
   1. , Antić, Ljubomir, "Hrvati u Južnoj Americi do godine 1914.", Zagreb, 1991., , , .
   2. , Bauer, Ernest, "Život je kratak san. Uspomene 1910-1985.", Barcelona-München, 1986., , , .
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/phi_a?@=2179s#news_115512 "Arhiva obavijesti")

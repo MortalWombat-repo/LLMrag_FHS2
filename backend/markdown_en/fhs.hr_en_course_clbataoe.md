@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clbataoe)
 
 ## Croatian Literary Baroque and the Ages of Enlightenment
-  * [Basic data](https://www.fhs.hr/en/course/clbataoe#v1id-523755_384955_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clbataoe#v1id-523755_384955_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clbataoe#v1id-523755_384955_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clbataoe#v1id-523755_384955_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clbataoe#v1id-159920_373768_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clbataoe#v1id-159920_373768_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clbataoe#v1id-159920_373768_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clbataoe#v1id-159920_373768_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkbp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clbataoe)
@@ -44,7 +44,7 @@
 > **PSI (2980) - izborni TZP** - Regular studij - Psychology  
 >   
   
-**2. semester**  
+**2. semester** Not active  
 > **PSI (2980) - izborni TZP** - Regular studij - Psychology  
 >   
   

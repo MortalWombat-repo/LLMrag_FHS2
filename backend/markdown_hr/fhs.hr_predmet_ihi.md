@@ -6,17 +6,16 @@
   * [Nastava](https://www.fhs.hr/predmet/ihi#v1id-904821_945235_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ihi#v1id-904821_945235_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ihi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/iocwid)
 **Šifra:** |  226639  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. [Mirjana Milićević](https://www.fhs.hr/djelatnik/mirjana.milicevic)   
-  
+
 **Izvođači:** |  dr. sc. [Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor) - Seminar  
 dr. sc. [Natasha Kathleen Ružić](https://www.fhs.hr/djelatnik/natasha_kathleen.ruzic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -53,10 +52,8 @@ dr. sc. [Natasha Kathleen Ružić](https://www.fhs.hr/djelatnik/natasha_kathleen
 >  15. Vrjednovanje predmeta  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -65,7 +62,6 @@ Termini konzultacija:
   * **dr. sc.[Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor)**: 
 Četvrtkom od 11 do 12 ili prema dogovoru.
 Lokacija: 710 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ihi?@=21g9m#news_121354 "Arhiva obavijesti")

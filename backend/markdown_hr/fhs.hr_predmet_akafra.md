@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/akafra#v1id-904790_916895_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/akafra#v1id-904790_916895_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akafra) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acafre)
 **Šifra:** |  209486  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  prof. dr. sc. [Ivana Franić](https://www.fhs.hr/djelatnik/ivana.franic)   
-  
+
 **Izvođači:** |  [Stephane Paul Michel](https://www.fhs.hr/djelatnik/stephane_paul.michel), mag. ling. - Vježbe iz stranog jezika  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -64,10 +63,8 @@
 >  15. Slavni francuski režiseri i skladatelji.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
@@ -83,7 +80,7 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -100,7 +97,7 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -115,7 +112,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -130,7 +127,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -141,7 +138,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -152,7 +149,6 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/akafra?@=219y7#news_117796 "Arhiva obavijesti")

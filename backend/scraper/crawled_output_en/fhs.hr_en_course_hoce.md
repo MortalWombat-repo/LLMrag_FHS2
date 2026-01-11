@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hoce)
 
 ## History of Croatian Emigration
-  * [Basic data](https://www.fhs.hr/en/course/hoce#v1id-523782_434310_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hoce#v1id-523782_434310_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hoce#v1id-523782_434310_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hoce#v1id-523782_434310_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hoce#v1id-159944_870964_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hoce#v1id-159944_870964_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hoce#v1id-159944_870964_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hoce#v1id-159944_870964_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phi_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoce)

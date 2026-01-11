@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/kmi_b#v1id-904829_83543_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kmi_b#v1id-904829_83543_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kmi_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/qrm_a)
 **Šifra:** |  144629  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  izv. prof. dr. sc. [Dario Pavić](https://www.fhs.hr/djelatnik/dario.pavic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Dario Pavić](https://www.fhs.hr/djelatnik/dario.pavic) - Vježbe u praktikumu  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,7 +29,6 @@
 > Cilj predmeta je upoznati studente s logikom i metodama kvantitativnih istraživanja u sociologiji i drugim društvenim znanostima, posebice s anketom i analizom sadržaja kao najučestalijim kvantitativnim istraživačkim metodama.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Lamza-Posavec, V. (2010), Kvantitativne metode istraživanja (skripta), Zagreb: Hrvatski studiji, str. 1-115.;, 
   2. Lamza-Posavec, V. (2004), Metode društvenih istraživanja (Skripta), Zagreb: Hrvatski studiji, str. 71-172.;, 
@@ -38,7 +36,6 @@
   4. Babbie, E. (2002), The practice of social research, Belmont: Wadsworth Publishing Company, str. 159-199, 233-262, 267-289.;, 
   5. Schutt, R. K. (1996), Investigating the Social World, The Proces and Practice of Research, Thousand Oaks: Pine Forge Press, Sage Publications Company, str. 3-305.;, 
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni smjer - Znanstveni  
@@ -47,7 +44,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Dario Pavić](https://www.fhs.hr/djelatnik/dario.pavic)**: 
 Konzultacije četvrtkom od 11:30h do 12:30h
 Lokacija: 17 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/kmi_b?@=21cxw#news_110823)

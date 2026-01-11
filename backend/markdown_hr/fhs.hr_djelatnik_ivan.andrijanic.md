@@ -12,5 +12,4 @@ ODSJEK ZA FILOZOFIJU I KULTUROLOGIJU
 **diplomski**
   * [Indijska filozofija (213958)](https://www.fhs.hr/predmet/indfil) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

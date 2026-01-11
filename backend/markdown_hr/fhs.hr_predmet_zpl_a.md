@@ -6,18 +6,17 @@
   * [Nastava](https://www.fhs.hr/predmet/zpl_a#v1id-904931_600662_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/zpl_a#v1id-904931_600662_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zpl_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/plg_a)
 **Šifra:** |  144810  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Seminar  
-  
+
 prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Lektorske vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -33,7 +32,6 @@ prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Lektorske v
 > Upoznavanje studenata s književnim žanrovima europskog i hrvatskog poslijerenesansnog latiniteta i njihovim predstavnicima.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. D. Novaković; "Hrvatski latinizam u XVII. stoljeću", Hrvatska i Europa. Kultura, znanost i umjetnost, sv. III (ur. I. Golub), 551-563.; Pkolska knjiga, Zagreb (2003), 
   2. P. Knezović; "Pregled hrvatskog latiniteta od sabora u Cetingradu 1527. do sabora u Požunu 1790." Hrvatsko-mađarski odnosi 1102.-1918., 191-198.; Hrvatski institut za povijest, Zagreb (2004), 
@@ -41,12 +39,10 @@ prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Lektorske v
   4. Ruđer Bošković; De solis ac lunae defectibus; http://www.ffzg.unizg.hr/klafil/croala/, 
   5. Ignjat Đurđević; Christo Domino nato, idillium; http://www.ffzg.unizg.hr/klafil/croala/, 
 
-  
 Termini konzultacija: 
   * **prof. dr. sc.[Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)**: 
 Utorkom 11:45-12:45 (uz prethodnu najavu)
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/zpl_a?@=21a4k#news_110662)

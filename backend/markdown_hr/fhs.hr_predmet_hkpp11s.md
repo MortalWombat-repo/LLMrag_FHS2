@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hkpp11s#v1id-904814_76392_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hkpp11s#v1id-904814_76392_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkpp11s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ccaphot1a1c)
 **Šifra:** |  37448  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,15 +29,12 @@
 > Cilj kolegija je upoznati studente s osnovnim podacima i povijesnim procesima koji su se odvijali na prostoru Hrvatske u 18. i 19. stoljeću, upoznati ih s osnovnom problematikom proučavanja hrvatske kulturne i političke povijesti, te ih pripremiti za samostalno rasuđivanje o osobama, događajima i procesima hrvatske kulturne i političke povijesti 18. i 19. stoljeća.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. ur. Mirko Valentić, Lovorka Čoralić; Povijest Hrvata, Od kraja 15. stoljeća do kraja Prvoga svjetskog rata; Školska knjiga, Zagreb (2005), 
 
-  
 **Preporučena literatura:**  
   1. , ur. I. Golub,; Hrvatska i Europa. Kultura, znanost i umjetnost sv.III: barok i prosvjetiteljstvo (XVII-XVIII. stoljeće),; Školska knjiga (2003), str. 500, , , .
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -47,7 +43,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic)**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: zgrada 77, ured 718 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hkpp11s?@=21lv6#news_81515)

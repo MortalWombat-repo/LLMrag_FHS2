@@ -29,7 +29,4 @@ Prodekan za nastavu i studente:
   * - o svojem radu kontinuirano izvješćuje dekana i Dekanski kolegij,
   * Fakultetskomu vijeću podnosi godišnje izvješće.
 
-
 Zadnja promjena: 29. rujna 2024.
-  
-

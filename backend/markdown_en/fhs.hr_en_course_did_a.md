@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/did_a)
 
 ## Didactics
-  * [Basic data](https://www.fhs.hr/en/course/did_a#v1id-523768_406012_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/did_a#v1id-523768_406012_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/did_a#v1id-523768_406012_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/did_a#v1id-523768_406012_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/did_a#v1id-159933_757233_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/did_a#v1id-159933_757233_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/did_a#v1id-159933_757233_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/did_a#v1id-159933_757233_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/did) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/did_a)

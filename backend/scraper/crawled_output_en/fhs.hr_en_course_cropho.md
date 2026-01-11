@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cropho)
 
 ## Croatian Phonology
-  * [Basic data](https://www.fhs.hr/en/course/cropho#v1id-523762_801814_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cropho#v1id-523762_801814_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cropho#v1id-523762_801814_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cropho#v1id-523762_801814_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cropho#v1id-159928_113775_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cropho#v1id-159928_113775_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cropho#v1id-159928_113775_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cropho#v1id-159928_113775_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/fhj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cropho)

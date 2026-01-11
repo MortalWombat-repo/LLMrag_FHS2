@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/stupla_b)
 
 ## Student Placements
-  * [Basic data](https://www.fhs.hr/en/course/stupla_b#v1id-523838_804792_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/stupla_b#v1id-523838_804792_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/stupla_b#v1id-523838_804792_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/stupla_b#v1id-523838_804792_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/stupla_b#v1id-159993_107702_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/stupla_b#v1id-159993_107702_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/stupla_b#v1id-159993_107702_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/stupla_b#v1id-159993_107702_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/stupra_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/stupla_b)
@@ -15,7 +15,7 @@
 **Lecturers in charge:** |  doc. dr. sc. [Jelena Maričić](https://www.fhs.hr/staff/jelena.maricic)   
 izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)   
   
-**Lecturers:** |  [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych. - Practicum  
+**Lecturers:** |  pred. [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego) - Practicum  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -49,7 +49,7 @@ Location:
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)**: 
 Tuesday 2:30 PM - 3:30 PM
 Location: 207 
-  * **[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych.**: 
+  * **pred.[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego)**: 
 Tuesdays 13.00-14.00h, room 207
 Location: 
 

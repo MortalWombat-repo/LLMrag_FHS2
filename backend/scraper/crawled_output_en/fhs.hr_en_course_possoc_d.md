@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/possoc_d)
 
 ## Pos-Industrial Society
-  * [Basic data](https://www.fhs.hr/en/course/possoc_d#v1id-523820_293634_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/possoc_d#v1id-523820_293634_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/possoc_d#v1id-523820_293634_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/possoc_d#v1id-523820_293634_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/possoc_d#v1id-159977_140886_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/possoc_d#v1id-159977_140886_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/possoc_d#v1id-159977_140886_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/possoc_d#v1id-159977_140886_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/posdru_d) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/possoc_d)

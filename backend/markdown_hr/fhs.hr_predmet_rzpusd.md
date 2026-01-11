@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/rzpusd#v1id-904870_239313_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/rzpusd#v1id-904870_239313_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rzpusd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/oallajims)
 **Šifra:** |  248689  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -26,17 +25,14 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar** Ne predaje se  
 ---  
 > **POV (17190) - Izborni predmeti: Srednjovjekovna povijest** - Redovni studij - Povijest  
 >  **POV (17190) - Izborni predmeti: Srednjovjekovna povijest** - Redovni studij - Povijest  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/rzpusd?@=21jvr#news_122604 "Arhiva obavijesti")

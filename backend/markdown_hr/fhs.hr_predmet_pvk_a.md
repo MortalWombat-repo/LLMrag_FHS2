@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/pvk_a#v1id-904865_641344_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pvk_a#v1id-904865_641344_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/homb_a)
 **Šifra:** |  202897  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -33,29 +32,27 @@
   5. moći razlikovati osobitosti krajiškoga uređenja i društva u dijakronijskoj perspektivi
   6. moći interpretirati nastale razlike u prostoru i društvu Hrvatske ovisno o civilnoj (ban, Sabor ), odnosno vojnoj jurisdikciji (car odnosno gradačko i bečko Dvorsko ratno vijeće)
 
-  
 **Literatura:**  
   1. Hrvatsko slavonska Vojna krajina i Hrvati pod vlašću Osmanskoga Carstva u ranome novom vijeku, Holjevac, Željko; Moačanin, Nenad, Leykam International, 2007. 
   2. Banska Hrvatska i Vojna krajina od prosvijećenog apsolutizma do 1848. godine, Iveljić, Iskra, Leykam International, 2010. 
 
-  
 **1. semestar**  
 ---  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
@@ -65,7 +62,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)**: 
 Srijedom od 11:15 do 12:15.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pvk_a?@=21lbd#news_116808)

@@ -8,7 +8,6 @@ Portal će se obogaćivati novim materijalima i rubrikama pa vas pozivamo da svo
 Urednice
 Rona Bušljeta Kardum, Monika Komušanac i Lidija Bogović
 ![](https://www.fhs.hr/images/50042933/Div_Logo-01%20\(1\).jpg)
-  
 
 ## Obavijesti
 [ ![...](https://www.fhs.hr/_news/icons/29e56359bd92db20bea3d8b867ce7bc11734_icon.jpg) ](https://www.fhs.hr/studiji/edukacije/div?@=21s7u#news_131820)

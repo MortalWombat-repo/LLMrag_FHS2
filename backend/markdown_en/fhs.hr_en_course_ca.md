@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ca)
 
 ## Cultural Anthropology
-  * [Basic data](https://www.fhs.hr/en/course/ca#v1id-523746_355048_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ca#v1id-523746_355048_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ca#v1id-523746_355048_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ca#v1id-523746_355048_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ca#v1id-159915_749845_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ca#v1id-159915_749845_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ca#v1id-159915_749845_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ca#v1id-159915_749845_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kulant) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ca)

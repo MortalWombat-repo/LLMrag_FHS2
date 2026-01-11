@@ -12,7 +12,6 @@ ODSJEK ZA SOCIOLOGIJU
 **prijediplomski**
   * [Psihijatrija i društvo (200703)](https://www.fhs.hr/predmet/pid) - Nositelj
 
-
 #### Životopis
 Rođen je 1986. u Zagrebu. Studirao je i 2016. godine diplomirao filozofiju (znanstveni smjer) na Filozofskom fakultetu Sveučilišta u Zagrebu te stekao titulu magistra filozofije. Iste je godine upisao poslijediplomski doktorski studij filozofije na Filozofskom fakultetu Sveučilišta u Zagrebu, u sklopu kojega je uspješno obranio doktorsku disertaciju _Ekoetika Alda Leopolda u perspektivi integrativne bioetike_ (mentor: prof. dr. sc. Hrvoje Jurić).
 Od 2017. godine zaposlen je kao stručni suradnik u Sveučilišnom centru za integrativnu bioetiku Sveučilišta u Zagrebu, gdje obnaša i dužnost tajnika. Suradnik je Znanstvenog centra izvrsnosti za integrativnu bioetiku i voditelj njegova Znanstveno-istraživačkog odbora za bioetiku i psihu.
@@ -31,11 +30,9 @@ Izlagao je na više od pedeset međunarodnih i domaćih znanstvenih skupova te s
   * Međunarodni simpozij _Biotechnological Human Enhancement: Social and Ethical Issues_ ; Moskva, 2017.; organizator: Međunarodno društvo za kliničku bioetiku; izlaganje: „Issues of Modern Psychiatry Observed through Methodology of Integrative Bioethics“;
   * Međunarodni simpozij _XI. Mediteranski korijeni filozofije_ ; Split, 2017.; organizatori: Hrvatsko filozofsko društvo i Odsjek za filozofiju Filozofskog fakulteta Sveučilišta u Splitu; izlaganje: „Anamneza klasične mediteranske _psyche_ “.
 
-
 Održao je i dva pozvana predavanja u inozemstvu:
   * 15. svibnja 2019. na Odsjeku za filozofiju Sveučilišta u Ljubljani, u sklopu kolegija „Etika“ (nositelj: prof. dr. sc. Matjaž Potrč), održao je predavanje „Moral Issues of Contemporary Psychiatry Synthesized through the Platform of Integrative Bioethics“;
   * 21. listopada 2019. na Institutu za filozofiju i društvenu teoriju u Beogradu održao je predavanje „Rubovi psihofenomenološkog prostora u doba ekrana i digitalnih medija?“.
-
 
 Među dosad objavljenim znanstvenim radovima izdvajaju se:
   * „Integrative Bioethics as the Phenomenology of Life“, u: Susi Ferarelo (ur.), _Phenomenology of Bioethics: Technoethics and LivedExperience_ , Dordrecht: Springer, 2021. (u tisku);
@@ -44,7 +41,6 @@ Među dosad objavljenim znanstvenim radovima izdvajaju se:
   * „Petrićev argument o cjelovitosti u kontekstu suvremene psihologije“, _Filozofska istraživanja_ ,__ 39 (2019) 2, str. 635–649;
   * „Paradogma of the Psychic Entropy of Evil and Palingenesis of Alloneness“, _Synthesis philosophica_ , 32 (2017) 1, str. 32–50;
   * „Život kao medij smrti?“, _In medias res: časopis filozofiju medija_ , 8 (2019) 1, str. 2181–2194
-
 
 Objavio je i niz stručnih radova, među kojima se izdvajaju problemski prikazi sljedećih knjiga: Theodor Itten, Ron Roberts, _Nova politika doživljaja_ (_Filozofska istraživanja_ , 39 /2019/ 1, str. 268–273); Thomas Fuchs, _Ecology of the Brain: The Phenomenology and Biology of the Embodied Mind_ (_Synthesis philosophica_ , 38 /2018/ 2, str. 555–567); te Matjaž Potrč, _Pojave i psihologija_(_Filozofska istraživanja_ , 38 /2018/ 3, str. 667–686).
 Od akademske godine 2019./2020. na Fakultetu hrvatskih studija Sveučilišta u Zagrebu, u svojstvu vanjskog suradnika, izvoditelj je kolegija „Psihijatrija i društvo“ (nositeljica kolegija: prof. dr. sc. Lovorka Brajković) te kolegija „Integrativna bioetika, okoliš i društvo“ (nositelj: kolegija: prof. dr. sc. Ante Čović). U akademskoj godini 2020./2021. je vanjski suradnik na Odsjeku za filozofiju Filozofskog fakulteta Sveučilišta u Zagrebu, gdje izvodi kolegij „Etika i psiha“ (nositelj kolegija: prof. dr. sc. Hrvoje Jurić).

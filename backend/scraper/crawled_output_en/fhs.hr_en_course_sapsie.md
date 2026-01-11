@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sapsie)
 
 ## Speaking and Presentation Skills in English
-  * [Basic data](https://www.fhs.hr/en/course/sapsie#v1id-523830_754587_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sapsie#v1id-523830_754587_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sapsie#v1id-523830_754587_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sapsie#v1id-523830_754587_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sapsie#v1id-159985_528119_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sapsie#v1id-159985_528119_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sapsie#v1id-159985_528119_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sapsie#v1id-159985_528119_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ejgpv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sapsie)

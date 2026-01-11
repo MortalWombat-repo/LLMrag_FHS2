@@ -20,7 +20,6 @@ u razdoblju 1. listopada 2020. – 28. veljače 2021
 [Prezentacija Erasmus university Rotterdam](https://www.fhs.hr/images/50041635/PPT%20E%20UNIC.pptx)
 [Projekt Pop -up city labs](https://www.fhs.hr/www.unic.eu/city-labs)
 ![](https://www.fhs.hr/images/50041635/unicd.png)
-  
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/suradnja/unic?@=21rgi#news_131891 "Arhiva obavijesti")

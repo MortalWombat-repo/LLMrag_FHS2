@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clotma_a)
 
 ## Croatian Literature of the Middle Ages
-  * [Basic data](https://www.fhs.hr/en/course/clotma_a#v1id-523756_15847_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clotma_a#v1id-523756_15847_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clotma_a#v1id-523756_15847_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clotma_a#v1id-523756_15847_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clotma_a#v1id-159922_812360_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clotma_a#v1id-159922_812360_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clotma_a#v1id-159922_812360_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clotma_a#v1id-159922_812360_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hks_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clotma_a)

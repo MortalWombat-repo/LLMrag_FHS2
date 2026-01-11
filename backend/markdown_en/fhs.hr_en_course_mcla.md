@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mcla)
 
 ## Media Law
-  * [Basic data](https://www.fhs.hr/en/course/mcla#v1id-523801_330969_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mcla#v1id-523801_330969_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mcla#v1id-523801_330969_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mcla#v1id-523801_330969_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mcla#v1id-159962_357982_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mcla#v1id-159962_357982_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mcla#v1id-159962_357982_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mcla#v1id-159962_357982_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pamk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mcla)
@@ -12,8 +12,9 @@
   
 ---|---  
 **ECTS:** |  4.0   
-**Lecturers in charge:** |  izv. prof. dr. sc. [Vladimira Rezo](https://www.fhs.hr/staff/vladimira.rezo)   
-doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)   
+**Lecturers in charge:** |  doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)   
+  
+**Lecturers:** |  doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/djelatnik/vanesa.varga) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -50,9 +51,6 @@ doc. dr. sc. [Vanesa Varga](https://www.fhs.hr/staff/vanesa.varga)
 >  **Mandatory course** - Regular studij - Communication Studies  
 >   
 Consultations schedule: 
-  * **izv. prof. dr. sc.[Vladimira Rezo](https://www.fhs.hr/staff/vladimira.rezo)**: 
-Mondays 11:00 AM - 12:00 AM, room 013.
-Location: 013 
 
 
 ## News

@@ -12,5 +12,4 @@ Fakultet hrvatskih studija
 **doktorski**
   * [Odrazi povijesnih prijepora na hrvatsko društvo 21. stoljeća (264241)](https://www.fhs.hr/predmet/oppnhd2s) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

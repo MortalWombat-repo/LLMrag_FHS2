@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/macthe)
 
 ## Macrosociological Theories
-  * [Basic data](https://www.fhs.hr/en/course/macthe#v1id-523798_318427_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/macthe#v1id-523798_318427_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/macthe#v1id-523798_318427_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/macthe#v1id-523798_318427_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/macthe#v1id-159959_847170_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/macthe#v1id-159959_847170_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/macthe#v1id-159959_847170_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/macthe#v1id-159959_847170_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/makteo) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/macthe)
@@ -12,7 +12,7 @@
   
 ---|---  
 **ECTS:** |  7.0   
-**Lecturers in charge:** |  doc. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/staff/marica.marinovic_golubic)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/staff/marica.marinovic_golubic)   
   
 **Lecturers:** |  dr. sc. [Marija Zelić](https://www.fhs.hr/djelatnik/marija.zelic) - Seminar  
   

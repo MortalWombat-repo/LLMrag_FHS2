@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hp1#v1id-904817_631806_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hp1#v1id-904817_631806_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hp1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ch1c)
 **Šifra:** |  38056  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,14 +26,12 @@
 > Cilj kolegija je upoznati studente s osnovnim podacima i povijesnim procesima koji su se odvijali na prostoru Hrvatske od 16. do 18. stoljeća, upoznati ih s osnovnom problematikom proučavanja hrvatske novovjekovne povijesti, te ih pripremiti za samostalno rasuđivanje o osobama, događajima i procesima hrvatske povijesti između 16. i 18. stoljeća.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Mirko (ur.) Valentić, Lovorka (ur.) Čoralić; Povijest Hrvata, Od kraja 15. stoljeća do kraja Prvoga svjetskog rata; Školska knjiga, Zagreb (2005), 
   2. N. Budak; Hrvatska i Slavonija u ranome novom vijeku; LEYKAM INTERNATIONAL D.O.O., ZAGREB (2007), 
   3. J. Vrandečić, M. Bertoša; Dalmacija, Dubrovnik i Istra u ranome novom vijeku; LEYKAM INTERNATIONAL D.O.O., ZAGREB (2007), 
   4. Ž. Holjevac, N. Moačanin; Hrvatsko-slavonska vojna krajina i Hrvati pod vlašću Osmanskog carstva u ranome novom vijeku; LEYKAM INTERNATIONAL D.O.O., ZAGREB (2007), 
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -42,10 +39,9 @@
 >   
 Termini konzultacija: 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hp1?@=21sbe#news_81466)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hatof)
 
 ## History and Theory of Film
-  * [Basic data](https://www.fhs.hr/en/course/hatof#v1id-523781_411547_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hatof#v1id-523781_411547_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hatof#v1id-523781_411547_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hatof#v1id-523781_411547_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hatof#v1id-159943_425638_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hatof#v1id-159943_425638_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hatof#v1id-159943_425638_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hatof#v1id-159943_425638_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ptf) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hatof)

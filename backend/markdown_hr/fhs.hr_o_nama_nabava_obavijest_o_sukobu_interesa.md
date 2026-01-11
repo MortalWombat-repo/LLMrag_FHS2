@@ -9,7 +9,4 @@ Temeljem čl. 80. st. 2. Zakona o javnoj nabavi (Narodne novine, broj 120/16) Sv
   5. MATRIKULA KOMUNIKACIJE obrt za usluge, Brune Berislavića 14, 21000 Split, OIB 19489921574
   6. PRIMUS SELECTA j.d.o.o., Admirala J. Šubića od Cezana 25i, 23000 Zadar, OIB 20393302197
 
-
 Zadnja izmjena 27. ožujka 2025.
-  
-

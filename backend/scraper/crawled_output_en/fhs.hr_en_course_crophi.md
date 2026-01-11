@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/crophi)
 
 ## Croatian Philosophy
-  * [Basic data](https://www.fhs.hr/en/course/crophi#v1id-523762_126026_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/crophi#v1id-523762_126026_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/crophi#v1id-523762_126026_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/crophi#v1id-523762_126026_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/crophi#v1id-159928_332827_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/crophi#v1id-159928_332827_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/crophi#v1id-159928_332827_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/crophi#v1id-159928_332827_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shf) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/crophi)

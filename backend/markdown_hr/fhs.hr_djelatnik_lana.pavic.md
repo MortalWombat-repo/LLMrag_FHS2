@@ -12,10 +12,8 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Povijest socijalnih teorija (253953)](https://www.fhs.hr/predmet/pst_b) - Seminar
 
-
 **diplomski**
   * [Profesija novinar (praktikum) (57212)](https://www.fhs.hr/predmet/pnp) - Vježbe u praktikumu
   * [Proizvodni proces medija (praktikum) (230991)](https://www.fhs.hr/predmet/ppmp_a) - Vježbe u praktikumu
-
 
 #### Znanstveni radovi (CroRIS)

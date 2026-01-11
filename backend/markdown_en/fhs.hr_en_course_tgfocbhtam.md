@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tgfocbhtam)
 
 ## The Great Figures of Christianity: Between History, Tradition, and Myth
-  * [Basic data](https://www.fhs.hr/en/course/tgfocbhtam#v1id-523840_493566_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tgfocbhtam#v1id-523840_493566_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tgfocbhtam#v1id-523840_493566_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tgfocbhtam#v1id-523840_493566_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tgfocbhtam#v1id-159994_204169_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tgfocbhtam#v1id-159994_204169_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tgfocbhtam#v1id-159994_204169_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tgfocbhtam#v1id-159994_204169_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ulipkiptmgfocbhtam) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tgfocbhtam)
@@ -14,7 +14,7 @@
 **ECTS:** |  3.0   
 **Lecturers in charge:** |  doc. dr. sc. [Eva Katarina Glazer](https://www.fhs.hr/staff/eva_katarina.glazer)   
   
-**Lecturers:** |  dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -61,7 +61,7 @@ Consultations schedule:
 - Thursday, 10:15 AM - 11:15 AM, room 011
 - email to: eglazer@hrstud.hr
 Location: 
-  * **dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
+  * **doc. dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
 Consultations: Tuesdays 12:15 - 13:15 pm
 Location: 103 
 

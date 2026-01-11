@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cmcid)
 
 ## Croatian minority communities in Diaspora
-  * [Basic data](https://www.fhs.hr/en/course/cmcid#v1id-523758_157750_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cmcid#v1id-523758_157750_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cmcid#v1id-523758_157750_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cmcid#v1id-523758_157750_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cmcid#v1id-159923_296046_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cmcid#v1id-159923_296046_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cmcid#v1id-159923_296046_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cmcid#v1id-159923_296046_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/himz) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cmcid)

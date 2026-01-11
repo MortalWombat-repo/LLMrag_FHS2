@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/ulp#v1id-904884_729823_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ulp#v1id-904884_729823_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ulp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hrm_b)
 **Šifra:** |  227542  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  nasl. v. pred. mr. sc. [Zoran Komar](https://www.fhs.hr/djelatnik/zoran.komar)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -64,20 +63,17 @@
 >  15. Strateško upravljanje ljudskim potencijalima  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **PSI-dipl (4388): Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar**  
 > **PSI-dipl (4388): Izborni kolegiji** - Redovni studij - Psihologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ulp?@=21gb4#news_121095 "Arhiva obavijesti")

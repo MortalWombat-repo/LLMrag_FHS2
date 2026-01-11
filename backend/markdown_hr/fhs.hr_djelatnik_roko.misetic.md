@@ -16,5 +16,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Prostor i stanovništvo (253803)](https://www.fhs.hr/predmet/pis) - Nositelj, Nositelj
   * [Računalni programi u demografiji (269748)](https://www.fhs.hr/predmet/rpud_a) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

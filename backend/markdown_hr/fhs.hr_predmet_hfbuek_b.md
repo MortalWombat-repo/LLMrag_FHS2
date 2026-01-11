@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hfbuek_b#v1id-904809_702238_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hfbuek_b#v1id-904809_702238_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hfbuek_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cphitec_a)
 **Šifra:** |  214813  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -38,7 +35,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Željka Metesi Deronjić](https://www.fhs.hr/djelatnik/zeljka.metesi_deronjic)**: 
 Srijedom od 13:00 do 14:00
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hfbuek_b?@=21lac#news_119991)

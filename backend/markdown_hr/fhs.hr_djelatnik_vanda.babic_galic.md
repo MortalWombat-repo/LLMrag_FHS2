@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Hrvatski kulturni turizam (213951)](https://www.fhs.hr/predmet/hkt) - Nositelj, Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

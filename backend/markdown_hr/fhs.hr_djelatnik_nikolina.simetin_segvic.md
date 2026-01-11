@@ -20,10 +20,8 @@ ODSJEK ZA POVIJEST
   * [Vukovarska bitka: vojni i politički aspekti (270365)](https://www.fhs.hr/predmet/vbvpa_a) - Seminar
   * [Zanat povjesničara (284998)](https://www.fhs.hr/predmet/zanpov) - Seminar
 
-
 **diplomski**
   * [Povijest in motion: terenska nastava (285011)](https://www.fhs.hr/predmet/pimtn) - Terenske vježbe
   * [Arhivistika za povjesničare (202954)](https://www.fhs.hr/predmet/azp_b) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

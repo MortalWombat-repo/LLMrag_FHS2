@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/povdem#v1id-904859_245454_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/povdem#v1id-904859_245454_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/povdem) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hisdem)
 **Šifra:** |  194400  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -57,17 +56,14 @@
 >  15. Zaključno predavanje, rekapitulacija gradiva  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Vladimir Stipetić i Nenad Vekarić, Povijesna demografija Hrvatske. Zagreb-Dubrovnik: Zavod za povijesne znanosti HAZU u Dubrovniku, 2004., 
   2. Nenad Vekarić, "Metoda 'reprezentativne kapi' i genealoška metoda u povijesnoj demografiji", Povijesni prilozi 29/39 (2010): 23-38., 
   3. Miroslav Bertoša, "Matične knjige - arhivsko vrelo o demografskim previranjima predindustrijske Europe", Vjesnik Državnog arhiva u Rijeci 41-42 (2000.), str. 315-352., 
 
-  
 **Preporučena literatura:**  
   1. , Početak demografske tranzicije u Hrvatskoj (zbornik). Zagreb-Dubrovnik: Zavod za povijesne znanosti HAZU u Dubrovniku, 2009., , , .
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -76,7 +72,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Danijel Jurković](https://www.fhs.hr/djelatnik/danijel.jurkovic)**: 
 Srijedom, od 11 do 12 sati
 Lokacija: 103 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/povdem?@=2179y#news_115519 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/bobp_a)
 
 ## Basics of Biological Psychology
-  * [Basic data](https://www.fhs.hr/en/course/bobp_a#v1id-523747_417488_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/bobp_a#v1id-523747_417488_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/bobp_a#v1id-523747_417488_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/bobp_a#v1id-523747_417488_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/bobp_a#v1id-159915_754817_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/bobp_a#v1id-159915_754817_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/bobp_a#v1id-159915_754817_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/bobp_a#v1id-159915_754817_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/obp_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bobp_a)

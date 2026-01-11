@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tcpitfhot2c)
 
 ## The Croatian People in the First Half of the 20th Century
-  * [Basic data](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-523841_51784_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-523841_51784_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-523841_51784_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-523841_51784_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-159994_278331_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-159994_278331_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-159994_278331_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tcpitfhot2c#v1id-159994_278331_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hnupp2s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tcpitfhot2c)

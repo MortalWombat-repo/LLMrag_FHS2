@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/povijest#v1id-904758_290874_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/povijest#v1id-904758_290874_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -299,4 +298,4 @@ ECTS | POV-dipl (4411): Izborni kolegiji
 3.0 |  [Vizualna kultura (285822)](https://www.fhs.hr/predmet/vizkul) * |  -  | 30 30P |  [__](javascript:show_window\('/.cms/predmet_info?_v1=OpzaS5cghVNKtTq3y7xAUiw9H0avQGMTfwDGtdMNlQAx_fEK4puwBBhhK2cwd6jxtQnVY1-0tHLA9uYPCu4nuEEPPwJIQELgGmdWTSg-IorCbOaMCe2DrHdO64ua6kiv6pbAadAtOwIBEyrsea4q1CBkGdnxuFwbQy05owLOGNdY86kqyuxD7QJtpswO43kdA3QZtQ==&_v1flags=Hjk4LjpL-PQnRpBqWW7CW2LM7YeZGkx5hw2zDYx6-Oa4JTUy9_8rJbamgxOAtZy_PLMRr4Yv2zcYH6uoSJwNqJwlGO2Z6krp5ciz1Du3MjnQfFAfL6wkcdua48WViJdcvZdSdiDtEDCdOPq1PfS7tkgYT7Uqdft7KTKqHHlT8djgVAyH&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Vojno-politički odnosi u Bosni i Hercegovini 1990.-1995. (270208)](https://www.fhs.hr/predmet/voubh1) * Beljo, M. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=KvNQKo5iBVuhhS7-ZRHRxdXu9PIEHQmhn-hawNHQpyADZauovpm7JKQ52Z_CkzgDOtBk-gYuPw9YlsMWVKHfqG4Gfh_WEsj2izCeoTvBl2RIBDjulDPtPljEGVzByzS1JjRrogEmbG93NoBSOufDhrKWJaM_ijP7J2G0xvcgndXbWROeCnD0y8r29JOSLSxAbXQK0Q==&_v1flags=m3B6YRyF6vQvf_45rKVken1VIWJvXdgR2jDyQNVpGxT-15V11rH0llZsmC0hLJKaA_bctJXd4qKP4K6oESR19Wg0ExyOGD3Iy26D7m3h_3puAqEHr0QOnn6WnYJhz-dq1HJEHB4IeAxOAAAC89xbG3T28HfOrRLTDIP9V043muD_0Wp4&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

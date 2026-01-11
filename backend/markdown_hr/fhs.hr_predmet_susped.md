@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/susped#v1id-904879_696748_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/susped#v1id-904879_696748_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/susped) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sysped)
 **Šifra:** |  226202  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |   
@@ -26,36 +25,33 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **4. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/susped?@=21gaw#news_121130 "Arhiva obavijesti")

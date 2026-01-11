@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/wfifj#v1id-904890_358250_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/wfifj#v1id-904890_358250_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/wfifj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/wprpol)
 **Šifra:** |  85405  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Tomislav Janović](https://www.fhs.hr/djelatnik/tomislav.janovic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Tomislav Janović](https://www.fhs.hr/djelatnik/tomislav.janovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Opterećenje:**  
 ---  
@@ -61,14 +60,12 @@
 >  Wittgenstein, L., Plava i smeđa knjiga, Zagreb: Globus, 2009.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Wittgenstein, L., Filozofijska istraživanja, Zagreb: Globus, 1998.  
 Lycan, W., Filozofija jezika: suvremen uvod, Zagreb: Hrvatski studiji, 2011.  
 Miščević, N., ?Ludwig Wittgenstein?, u M. Galović, ur., Suvremena filozofija II, Zagreb: Školska knjiga, 1996.  
 Kripke, S., Wittgenstein on Rules and Private Language, Cambridge, MA: Harvard University Press, 1982., 
 
-  
 **Preporučena literatura:**  
   1. , Glock, H. J., A Wittgenstein Dictionary, Oxford: Blackwell, 1995.  
 McGinn, M., Wittgenstein and the Philosophical Investigations, London: Routledge, 1997.  
@@ -76,20 +73,19 @@ Stern, D. G., Wittgenstein's Philosophical Investigations ? An Introduction, Cam
 Wittgenstein, L., Tractatus logico-philosophicus, Zagreb: Moderna vremena, 2003.  
 Wittgenstein, L., Plava i smeđa knjiga, Zagreb: Globus, 2009., , , .
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
-  
+
 **4. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
-  
+
 **6. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >   
@@ -98,7 +94,6 @@ Termini konzultacija:
 studenti filozofije: srijeda, 10 - 11 sati (soba 117)
 studenti komunikologije: ponedjeljak, 13 - 14 sati (soba 117)
 Lokacija: 117 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/wfifj?@=21kyj#news_122677 "Arhiva obavijesti")

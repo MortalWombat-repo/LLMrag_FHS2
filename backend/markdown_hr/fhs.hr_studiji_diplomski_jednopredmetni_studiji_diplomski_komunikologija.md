@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/komunikologija#v1id-904758_948861_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/komunikologija#v1id-904758_948861_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -342,4 +341,4 @@ ECTS | KOM-dipl (5043): ZNANSTVENO ISTRAŽIVANJE MASOVNIH KOMUNIKACIJA
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
 30.0 |  [Diplomski rad (64886)](https://www.fhs.hr/predmet/diprad_c) |  | 0  |  [__](javascript:show_window\('/.cms/predmet_info?_v1=dGoS7afFFpXlF-y2TJVR8FKxMd3jOoadWWCBQR7u_ro-oA5Bg4KdhVZZ0LkzP4pKvFSVd_0giGpw3os86OcsyUVsMquGe2FZHRj5FSoiVxsD1M-3DDDSxJL9ub187r9oPCLKFu5j9ZZLhSa0aj1lWdKHKOEhKTWZ9aNnZGbA-JdK9KXP2kVdqf98q-STge-scrDrhw==&_v1flags=TFzagsum7ilR98mHd-OzXamdgJKk_xk0UHqu3umMyNsQ5aDp6egdDVvXYry7gn8y1b0ixaSlDx5a6EggP--Ykp12Qix-VuxUsC5EU0uUA6M2HttoSLe_sMGk28LyL-MdQpWLrbRjgNvOLmjCgOjEAWr7FWLrVGRkoS4VwpthpvSDKSmD&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

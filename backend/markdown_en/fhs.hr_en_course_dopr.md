@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/dopr)
 
 ## Development of psychological research
-  * [Basic data](https://www.fhs.hr/en/course/dopr#v1id-523769_543648_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/dopr#v1id-523769_543648_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/dopr#v1id-523769_543648_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/dopr#v1id-523769_543648_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/dopr#v1id-159933_361640_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/dopr#v1id-159933_361640_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/dopr#v1id-159933_361640_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/dopr#v1id-159933_361640_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ipi_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/dopr)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ccm)
 
 ## Croatian Catholic Missions
-  * [Basic data](https://www.fhs.hr/en/course/ccm#v1id-523750_46210_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ccm#v1id-523750_46210_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ccm#v1id-523750_46210_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ccm#v1id-523750_46210_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ccm#v1id-159917_155635_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ccm#v1id-159917_155635_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ccm#v1id-159917_155635_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ccm#v1id-159917_155635_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkm) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ccm)

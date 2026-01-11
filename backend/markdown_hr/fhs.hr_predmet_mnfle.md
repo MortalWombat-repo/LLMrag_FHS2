@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/mnfle#v1id-904840_394121_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mnfle#v1id-904840_394121_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mnfle) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/motplae)
 **Šifra:** |  214635  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -38,7 +35,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)**: 
 Utorkom, 14:30 - 15:30
 Lokacija: 18 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/mnfle?@=21ci8#news_119480 "Arhiva obavijesti")

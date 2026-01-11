@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mcpa)
 
 ## Mass Communication: Political Aspects
-  * [Basic data](https://www.fhs.hr/en/course/mcpa#v1id-523802_181998_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mcpa#v1id-523802_181998_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mcpa#v1id-523802_181998_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mcpa#v1id-523802_181998_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mcpa#v1id-159962_164162_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mcpa#v1id-159962_164162_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mcpa#v1id-159962_164162_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mcpa#v1id-159962_164162_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pamk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mcpa)
@@ -13,6 +13,8 @@
 ---|---  
 **ECTS:** |  5.0   
 **Lecturers in charge:** |  doc. dr. sc. [Tomislav Janović](https://www.fhs.hr/staff/tomislav.janovic)   
+  
+**Lecturers:** |  doc. dr. sc. [Tomislav Janović](https://www.fhs.hr/djelatnik/tomislav.janovic) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  In agreement with the students enrolled in the course, the lecturer will provide as many teaching elements in English as possible, or in both English and Croatian for mixed groups (i.e., bilingual teaching materials and bilingual exams). Level 2 also includes additional individual consultations with foreign students (as in Level 1) for the teaching elements which will be held in Croatian.   
@@ -52,6 +54,10 @@
 >   
 Consultations schedule: 
   * **doc. dr. sc.[Tomislav Janović](https://www.fhs.hr/staff/tomislav.janovic)**: 
+students of Philosophy: Wednesday 10 AM - 11 AM (room 117)
+students of Communication Studies: Monday 1 PM - 2 PM (room 117)
+Location: 117 
+  * **doc. dr. sc.[Tomislav Janović](https://www.fhs.hr/djelatnik/tomislav.janovic)**: 
 students of Philosophy: Wednesday 10 AM - 11 AM (room 117)
 students of Communication Studies: Monday 1 PM - 2 PM (room 117)
 Location: 117 

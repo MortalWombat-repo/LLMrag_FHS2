@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/eitcd)
 
 ## Education in the Croatian Diaspora
-  * [Basic data](https://www.fhs.hr/en/course/eitcd#v1id-523772_824467_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/eitcd#v1id-523772_824467_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/eitcd#v1id-523772_824467_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/eitcd#v1id-523772_824467_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/eitcd#v1id-159936_886793_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/eitcd#v1id-159936_886793_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/eitcd#v1id-159936_886793_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/eitcd#v1id-159936_886793_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ooui) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/eitcd)

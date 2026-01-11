@@ -12,5 +12,4 @@ ODSJEK ZA SOCIOLOGIJU
 **diplomski**
   * [Nasilje djece i maloljetnika (202473)](https://www.fhs.hr/predmet/ndm_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

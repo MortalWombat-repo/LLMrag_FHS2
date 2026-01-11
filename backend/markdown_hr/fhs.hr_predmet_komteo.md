@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/komteo#v1id-904831_168650_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/komteo#v1id-904831_168650_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/komteo) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cmt)
 **Šifra:** |  228067  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -72,10 +71,8 @@
 >  15. Zaključna razmatranja - vrjednovanje postignuća na predmetu.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -84,7 +81,7 @@
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -93,7 +90,7 @@
 >  **PSI (2980) - izborni TZP** - Redovni studij - Psihologija  
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -102,7 +99,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -111,7 +108,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -119,7 +116,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -130,7 +127,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)**: 
 Utorak 14-15h 
 Lokacija: 18 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/komteo?@=21sbm#news_121333)

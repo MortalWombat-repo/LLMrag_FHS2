@@ -18,5 +18,3 @@
 [Singapore Statement on Research Integrity (2010)](http://www.singaporestatement.org/downloads/singpore%20statement_A4size.pdf)
 [European Code of Conduct for Research Integrity (2011)](https://www.fhs.hr/images/50014335/Code_Conduct_ResearchIntegrity.pdf)
 [Responsible Conduct in the Global Research Enterprise (2012)](https://www.fhs.hr/images/50014335/ResponsibleConductintheGlobalResearchEnterprise.pdf)
-  
-

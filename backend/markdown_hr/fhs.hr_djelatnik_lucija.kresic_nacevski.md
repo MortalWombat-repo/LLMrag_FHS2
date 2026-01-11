@@ -34,21 +34,17 @@ ODSJEK ZA HRVATSKI LATINITET , ODSJEK ZA POVIJEST
   * [Uvod u pomoćne povijesne znanosti (153264)](https://www.fhs.hr/predmet/uuppz_a) - Nositelj
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Latinska paleografija i epigrafija (86899)](https://www.fhs.hr/predmet/lpe_a) - Nositelj, Lektorske vježbe, Seminar
   * [Osnove grčkoga jezika (200545)](https://www.fhs.hr/predmet/ogj_b) - Nositelj, Lektorske vježbe
   * [Povijest hrvatske knjige i knjižnica (286130)](https://www.fhs.hr/predmet/phkk) - Nositelj, Seminar
   * [Diplomski rad (215173)](https://www.fhs.hr/predmet/diprad_g) - Seminar
 
-
 **doktorski**
   * [Latinska srednjovjekovna baština na hrvatskom teritoriju (290177)](https://www.fhs.hr/predmet/lsbnht) - Nositelj
 
-
 **Predmet**
   * [Diplomski rad ()](https://www.fhs.hr/predmet/diprad_d) - Seminar
-
 
 #### Životopis
 Rođena je 1981. u Splitu. Nakon klasične gimnazije diplomirala je studij klasične filologije na Filozofskome fakultetu Sveučilišta u Zagrebu 2005.god. Na Odsjeku za informacijske znanosti 2011. diplomirala je bibliotekarstvo. Doktorirala je 2015.god. na PDS Medijevistike s temom _Jezično-paleografska analiza kodeksa Passionale MR 164_. Od 2004. do 2008.god. bila je zaposlena u Nacionalnoj i sveučilišnoj knjižnici (Zbirka rukopisa i starih knjiga) na redakturi bibliografije hrvatskog latinizma Šime Jurića i reviziji neolatinističkog fonda Zbirke. Od 2008. zaposlena je na mjestu znanstvene novakinje i asistentice na projektu Pavla Knezovića Književnojezični latinizam u franjevačkoj baštini na Hrvatskim studijima Sveučilišta u Zagrebu. Na Odsjeku za hrvatski latinitet Fakulteta hrvatskih studija sudjelovala je u nastavi dvadesetak predmeta. Od 2020. zaposlena je na radnom mjestu docenta. Bila je voditeljica/suradnica na nekoliko institucionalnih i kompetitivnih projekata. Interesi i istraživanja: srednjovjekovni latinitet i latinska paleografija, hrvatska hagiografija na latinskome jeziku, biblijski latinski i grčki jezik, povijest knjige i kodikologija srednjega vijeka, latinska prigodničarska poezija 19og stoljeća. 

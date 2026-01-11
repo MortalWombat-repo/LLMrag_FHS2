@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/lat3)
 
 ## Latin 3
-  * [Basic data](https://www.fhs.hr/en/course/lat3#v1id-523793_667027_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/lat3#v1id-523793_667027_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/lat3#v1id-523793_667027_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/lat3#v1id-523793_667027_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/lat3#v1id-159955_137476_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/lat3#v1id-159955_137476_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/lat3#v1id-159955_137476_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/lat3#v1id-159955_137476_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez3) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lat3)

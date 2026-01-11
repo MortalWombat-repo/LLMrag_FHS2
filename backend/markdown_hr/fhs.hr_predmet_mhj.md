@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/mhj#v1id-904838_84769_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mhj#v1id-904838_84769_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mhj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cromor)
 **Šifra:** |  188064  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Mario Grčević](https://www.fhs.hr/djelatnik/mario.grcevic)   
-  
+
 **Izvođači:** |  [Marina Čubrić](https://www.fhs.hr/djelatnik/marina.cubric), prof. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -42,7 +39,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Mario Grčević](https://www.fhs.hr/djelatnik/mario.grcevic)**: 
 petak, 11.30 - 12.30
 Lokacija: Zgrada 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/mhj?@=21e8k#news_114122)

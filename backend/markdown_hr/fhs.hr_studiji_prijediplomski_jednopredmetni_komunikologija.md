@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/komunikologija#v1id-904769_439509_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/komunikologija#v1id-904769_439509_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -969,4 +968,4 @@ ECTS | KOM (5033): ODNOSI S JAVNOŠĆU
 5.0 |  [Odnosi s javnošću u djelatnostima (285541)](https://www.fhs.hr/predmet/osjud_a) * Jurković, D. |  | 30 30S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=YB4uMFZMPr15rrPhmSnkmz0MDIfRtJk9QXIzKauzkBfYlDQNhp44QHPe6ul5lU1MHZkm1u7CVtQKEmF93Ekm7Xo0LP7O8dpag8ABxLcIZSjvAyom9x0fKdJJx578bPZV7rAVyDyEMzlUOO66N53SEdjhWH9PKZxFWeV-ak5VudWbvROtbjm3B74nUTwk2jtbiEuMqA==&_v1flags=XnpZJVZRlmG7jMg4FWkS_-tr41CoAkfUCuZE0f7dv161DoaqhDxKR-55U6IxYw28fS3MZ1vZIObi4SGmAMQtw466Dh8zO9s_XUU-lP4t6A9hZ5grhBNGSC9os2Rsg4rCy4vVam1dMDHvvqifLOktS_Nib3uPXNQFEqRN3Q6CgQDsOtCB&_lid=82933&_rand=0',%20''\))  
 5.0 |  [Tehnike u odnosima s javnošću (285540)](https://www.fhs.hr/predmet/tuosj_a) * Burić, I. |  | 30 30S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=ma2ZBzAyFP1OBrZ6eY9WCa5kcsS5EY_Pv05pGPJlM7L59k58cY33SC-Qng-UDxnmaZ_k64nmhQPvm3c9z3pHSXgzwCdjEn_K7qGjT43gfqhOIdlZHaslC8LvT3kPn-Um4TUj4W0cFfUPZIAWrNC2492TpnZi8ZFx83ooEuesf8nGbPj_832CWTrRwSYkOxAX7RaPYw==&_v1flags=Sbua9DtbW257aQFipP0ySY8lvmWw9DwE_aASHXrmxg3ETDBw3YI0MDLQq46DCZKabc7P_xPX1_gPbt23ObYqFUTfFKs4og2Jm6rOgfC8LGIdXBXIu3raqulrdA5FyvsUbkiSmGl5Dekswgej-Ci8h8X4su24xaidVxA8L4QZlgSgJS2P&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

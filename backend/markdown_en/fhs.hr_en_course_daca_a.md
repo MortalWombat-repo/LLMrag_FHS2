@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/daca_a)
 
 ## Diplomatic and Consular Affairs
-  * [Basic data](https://www.fhs.hr/en/course/daca_a#v1id-523766_24859_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/daca_a#v1id-523766_24859_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/daca_a#v1id-523766_24859_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/daca_a#v1id-523766_24859_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/daca_a#v1id-159930_838427_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/daca_a#v1id-159930_838427_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/daca_a#v1id-159930_838427_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/daca_a#v1id-159930_838427_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dkp_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/daca_a)

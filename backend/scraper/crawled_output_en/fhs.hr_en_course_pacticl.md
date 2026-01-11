@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pacticl)
 
 ## Pagan and Christian Themes in Croatian Literature
-  * [Basic data](https://www.fhs.hr/en/course/pacticl#v1id-523809_712601_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pacticl#v1id-523809_712601_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pacticl#v1id-523809_712601_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pacticl#v1id-523809_712601_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pacticl#v1id-159966_781937_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pacticl#v1id-159966_781937_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pacticl#v1id-159966_781937_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pacticl#v1id-159966_781937_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pktuhk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pacticl)

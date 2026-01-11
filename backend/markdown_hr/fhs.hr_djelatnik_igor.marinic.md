@@ -14,5 +14,4 @@ ODSJEK ZA PSIHOLOGIJU
   * [Stres i psihotrauma (144889)](https://www.fhs.hr/predmet/sip) - Nositelj
   * [Izrada diplomskoga rada (126008)](https://www.fhs.hr/predmet/idr_b) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

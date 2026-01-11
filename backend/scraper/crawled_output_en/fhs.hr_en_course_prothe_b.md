@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/prothe_b)
 
 ## Production Thesis
-  * [Basic data](https://www.fhs.hr/en/course/prothe_b#v1id-523821_883398_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/prothe_b#v1id-523821_883398_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/prothe_b#v1id-523821_883398_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/prothe_b#v1id-523821_883398_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/prothe_b#v1id-159977_854762_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/prothe_b#v1id-159977_854762_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/prothe_b#v1id-159977_854762_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/prothe_b#v1id-159977_854762_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/idr_d) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/prothe_b)

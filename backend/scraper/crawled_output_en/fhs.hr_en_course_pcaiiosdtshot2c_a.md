@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a)
 
 ## Popular culture and its influence on society during the second half of the 20th century
-  * [Basic data](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-523813_325799_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-523813_325799_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-523813_325799_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-523813_325799_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-159970_368421_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-159970_368421_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-159970_368421_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a#v1id-159970_368421_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pktnunddp2s_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pcaiiosdtshot2c_a)

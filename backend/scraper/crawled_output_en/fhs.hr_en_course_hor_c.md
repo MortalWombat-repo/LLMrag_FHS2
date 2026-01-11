@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hor_c)
 
 ## History of Russia
-  * [Basic data](https://www.fhs.hr/en/course/hor_c#v1id-523785_406506_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hor_c#v1id-523785_406506_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hor_c#v1id-523785_406506_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hor_c#v1id-523785_406506_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hor_c#v1id-159948_239506_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hor_c#v1id-159948_239506_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hor_c#v1id-159948_239506_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hor_c#v1id-159948_239506_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/povrus_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hor_c)

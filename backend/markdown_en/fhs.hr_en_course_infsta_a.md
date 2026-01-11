@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/infsta_a)
 
 ## Inferential Statistics
-  * [Basic data](https://www.fhs.hr/en/course/infsta_a#v1id-523786_190912_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/infsta_a#v1id-523786_190912_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/infsta_a#v1id-523786_190912_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/infsta_a#v1id-523786_190912_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/infsta_a#v1id-159949_155818_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/infsta_a#v1id-159949_155818_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/infsta_a#v1id-159949_155818_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/infsta_a#v1id-159949_155818_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/infsta_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/infsta_a)

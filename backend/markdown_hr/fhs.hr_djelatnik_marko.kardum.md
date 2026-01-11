@@ -20,15 +20,12 @@ ODSJEK ZA FILOZOFIJU I KULTUROLOGIJU
   * [Uvod u filozofiju (214818)](https://www.fhs.hr/predmet/uuf_a) - Nositelj
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Diplomski rad (214814)](https://www.fhs.hr/predmet/diprad_f) - Seminar
-
 
 **doktorski**
   * [Estetika (258065)](https://www.fhs.hr/predmet/est_a) - Predavanja
   * [Hermeneutika (258229)](https://www.fhs.hr/predmet/her) - Predavanja
-
 
 #### Znanstveni radovi (CroRIS)
 > On the Advantage and Disadvantage of Mimêsis for Life

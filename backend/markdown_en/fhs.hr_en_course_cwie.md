@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cwie)
 
 ## Croatian Woman in Emigration
-  * [Basic data](https://www.fhs.hr/en/course/cwie#v1id-523765_546996_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cwie#v1id-523765_546996_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cwie#v1id-523765_546996_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cwie#v1id-523765_546996_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cwie#v1id-159930_331100_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cwie#v1id-159930_331100_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cwie#v1id-159930_331100_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cwie#v1id-159930_331100_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hzui) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cwie)

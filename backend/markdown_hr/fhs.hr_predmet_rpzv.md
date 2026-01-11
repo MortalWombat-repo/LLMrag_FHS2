@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/rpzv#v1id-904869_45123_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/rpzv#v1id-904869_45123_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rpzv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rpa)
 **Šifra:** |  37575  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/djelatnik/lucija.kresic_nacevski) - Auditorne vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,20 +29,18 @@
 > Upoznavanje s glavnim predstavnicima proze zlatnoga vijeka rimske književnosti. Osposobljavanje za samostalan rad na izvornom proznom latinskom tekstu (književna i jezična analiza te razvijanje strategija prevođenja s latinskoga na hrvatski) na odabranim ulomcima djela reprezentativnih rimskih prozaika navedenoga perioda Cicerona i Salustija. Produbljivanje, primjena i učvršćivanje znanja sintakse. Utvrđivanje i proširivanje znanja latinskoga leksika i frazeologije.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Tekstovi koji se čitaju na nastavi: M. Tullius Cicero: Pro A. Licinio Archia poeta oratio C. Sallustius Crispus: Bellum Catilinae (1-30);, 
   2. Ispitna lektira koju studenti pripremaju sami: M. Tullius Cicero: Oratio in L. Catilinam prima C. Sallustius Crispus: Bellum Iugurthinum (5-10, 31, 85) M. Tullius Cicero: Cato Maior de senectute;, 
   3. Divković, Mirko; Latinsko-hrvatski rječnik: za škole; Naprijed (1997), 
   4. Marević, Josip; Latinsko-hrvatski enciklopedijski rječnik, sv. I-II; Matica hrvatska (2000), 
   5. 
-  
+
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Latinski jezik  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/rpzv?@=21a6l#news_78511)

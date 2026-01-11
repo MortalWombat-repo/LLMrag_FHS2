@@ -6,18 +6,17 @@
   * [Nastava](https://www.fhs.hr/predmet/latpat#v1id-904834_466482_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/latpat#v1id-904834_466482_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latpat) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latpat)
 **Šifra:** |  37578  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Marko Jerković](https://www.fhs.hr/djelatnik/marko.jerkovic)   
-  
+
 **Izvođači:** |  dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata) - Seminar  
-  
+
 dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata) - Auditorne vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -33,14 +32,13 @@ dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croa
 > Upoznavanje studenata s piscima i djelima starokršćanske književnosti na latinskom jeziku. Radom na izvornim tekstovima steći znanja za prepoznavanje osobitosti patrističkih tekstova glede svjetonazora i leksika, zatim detaljnom analizom odabranih tekstova Jeronimova prijevoda Novog zavjeta napraviti inventar leksičkih i sintaktičkih osobitosti vulgarnog latinskog izraza. Steći dostatna znanja za prepoznavanje osobitosti latinske starokršćanske ili patrističke književnosti.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Pavić- T. Z. Tenšek: Patrologija, Kršćanska sadašnjost, Zagreb, 1933.;, 
   2. V. Vratović, Rimska književnost, Biakova, Zagreb, 2008., 185-220.;, 
   3. Lektira na latinskom: Euangelium secundum Lucam. 19 - 21 1. Acta apostolorum: c. 15 - 18. i 27. 28. Minutii Felicis, Octavius, 1 10. Hieronymi Epistulae: IV (Ad Florentium), VI (Ad Iulianum diaconum), XIV (Ad Heliodorum monachum), XVI (Ad Damasum papam), XXII (Ad Eustochium de custodia virginitatis, c. 1 5 i c. 30).;, 
   4. Lektira na hrvatskom: Augustin, Aurelije: Ispovijesti, (knj. I. i II.), Kršćanska sadašnjost, Zagreb, (sva izdanja) Laktancije, Lucije Cecilije Firmijan: O smrti progonitelja, Književni krug, Split, 2005. Jeronim: Život svetog Pavla prvog pustinjaka.;, 
   5. 
-  
+
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Latinski jezik  
@@ -52,7 +50,6 @@ Lokacija: 103
   * **dr. sc.[Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata)**: 
 Prema dogovoru
 Lokacija: J2 (zgrada knjižnice) 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/latpat?@=21ej3#news_80794)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ecohis_a)
 
 ## Economic History of Croatian Modern Society
-  * [Basic data](https://www.fhs.hr/en/course/ecohis_a#v1id-523771_393147_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ecohis_a#v1id-523771_393147_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ecohis_a#v1id-523771_393147_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ecohis_a#v1id-523771_393147_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ecohis_a#v1id-159936_450972_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ecohis_a#v1id-159936_450972_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ecohis_a#v1id-159936_450972_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ecohis_a#v1id-159936_450972_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gphmd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ecohis_a)

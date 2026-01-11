@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/diprad_h#v1id-904796_636442_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/diprad_h#v1id-904796_636442_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_h) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/masthe_d)
 **Šifra:** |  215308  
-  
+
 ---|---  
 **ECTS:** |  10.0   
 **Nositelji:** |   
@@ -23,7 +22,7 @@ prof. dr. sc. [Davor Piskač](https://www.fhs.hr/djelatnik/davor.piskac) - Semin
 izv. prof. dr. sc. [Karolina Vrban Zrinski](https://www.fhs.hr/djelatnik/karolina.vrban_zrinski) - Seminar  
 nasl. prof. dr. sc. [Sanja Vulić Vranković](https://www.fhs.hr/djelatnik/sanja.vulic_vrankovic) - Seminar  
 prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -36,10 +35,8 @@ prof. dr. sc. [Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima) - Semi
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -67,13 +64,12 @@ Lokacija:
 četvrtkom od 13 do 14 sati (uz prethodni dogovor na e-adresu)
 Lokacija: zgrada Knjižnice, S1 
   * **nasl. prof. dr. sc.[Sanja Vulić Vranković](https://www.fhs.hr/djelatnik/sanja.vulic_vrankovic)**: 
-  
+
 Utorkom od 15.40 do 16.40.
 Lokacija: 
   * **prof. dr. sc.[Dubravka Zima](https://www.fhs.hr/djelatnik/dubravka.zima)**: 
 utorkom od 10 do 11, četvrtkom od 11 do 12 i po dogovoru (dzima@hrstud.hr)
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/diprad_h?@=21cj3#news_120362 "Arhiva obavijesti")

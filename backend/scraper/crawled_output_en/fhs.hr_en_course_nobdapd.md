@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/nobdapd)
 
 ## Neurobiology of behavioral disturbances and psychiatric disorders
-  * [Basic data](https://www.fhs.hr/en/course/nobdapd#v1id-523807_623764_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/nobdapd#v1id-523807_623764_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/nobdapd#v1id-523807_623764_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/nobdapd#v1id-523807_623764_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/nobdapd#v1id-159966_802300_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/nobdapd#v1id-159966_802300_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/nobdapd#v1id-159966_802300_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/nobdapd#v1id-159966_802300_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/nobdapd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/nobdapd)

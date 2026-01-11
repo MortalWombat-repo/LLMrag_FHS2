@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/integrirani#v1id-904768_314057_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/integrirani#v1id-904768_314057_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -200,7 +199,6 @@ ECTS | DEM (17929) - Izborni predmeti
   * [3.sem](https://www.fhs.hr/studiji/integrirani#v1id-904768_314057_2_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/integrirani#v1id-904768_314057_2_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -377,4 +375,4 @@ ECTS | DEM (17929) - Izborni predmeti
 2.0 |  [Tranzicija, država, dijaspora (226934)](https://www.fhs.hr/predmet/tdd) * Polović, J. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=xYitL3r2sqxwwZnjMvOleMHOCLBQYcpGn8I788WO1ReJ6tJD9Y8wetDJUq5_8ifwKVWO3XKQPrLfY3dt78IXuydaLAaJOGY2vmQJFriCMjUyXCEdhjbc2nn4hJVXrOKRkK06LAY_O0eDCs_79p-VaY69oC8lTOFvTLa-fpWtb1YO7UFmP1ESLR7MQl4-wkhLMeY9tA==&_v1flags=HrFpfQmgQP1uo23HwboX7HXofTZf4QlE0qvizzjxL79GwTbkGnubb_bUXSRWe0GRCbp8uauEUnksfZStoll01FMluiyjW2b-vUAeZWwdMj37KxX8tSTUNrSNlE1om6UEZUmnh3xIAtppNjuSbr41v4TL-Yt3yotsEQaK9VnP90iMNNXz&_lid=82933&_rand=0',%20''\))  
 2.0 |  [Znameniti Hrvati u svijetu (226933)](https://www.fhs.hr/predmet/zhus) Balija, M. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=pR6DwPUruzjHmEfrPjh6CQwkxpHQ2noaAjB_QVl70qdeb3FUvE3PWqMzTu1cnRLzjwrRhT2enpNdzRRTHVHHa1q1yXb9Wwh4wxWUyLm6283DidbY7EPGlvJymoNBOeXy0yZCwvfAODxFtnN7aqmOU1zaGHSDzgwQYmH0usPmiKynr9MahqPp67YwEsr5UTUm1KOLfw==&_v1flags=UMRpG0JxCa8R46OTLC7BaMjnoVqd6aSmxgoKzqKz_OV52ySlOHxX96V_7Jez9Uc6YsD6cKmVCESKpJXWs-woUzVAi4B6RTfBjyc2SCyhppAHMj0vRvDsQKUL-sdQyzHt_YwVRnMNRt4NExEA09I1QQ_68rQyUTF_PmrSWdMU6MJv6Wsl&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

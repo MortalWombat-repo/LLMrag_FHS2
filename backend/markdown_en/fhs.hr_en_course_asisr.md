@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/asisr)
 
 ## Applied statistics in social research
-  * [Basic data](https://www.fhs.hr/en/course/asisr#v1id-523747_850218_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/asisr#v1id-523747_850218_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/asisr#v1id-523747_850218_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/asisr#v1id-523747_850218_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/asisr#v1id-159915_202150_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/asisr#v1id-159915_202150_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/asisr#v1id-159915_202150_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/asisr#v1id-159915_202150_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psudi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/asisr)

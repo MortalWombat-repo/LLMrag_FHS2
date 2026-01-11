@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/zhl#v1id-904889_762834_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/zhl#v1id-904889_762834_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zhl) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clg)
 **Šifra:** |  200535  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Hrvatski latinitet  
@@ -41,7 +38,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)**: 
 Utorkom 11:45-12:45 (uz prethodnu najavu)
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/zhl?@=21byt#news_115752)

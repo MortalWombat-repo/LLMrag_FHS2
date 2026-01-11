@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mappaie)
 
 ## Military and Postwar Psychology-Croatian and International Experiences
-  * [Basic data](https://www.fhs.hr/en/course/mappaie#v1id-523801_94328_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mappaie#v1id-523801_94328_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mappaie#v1id-523801_94328_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mappaie#v1id-523801_94328_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mappaie#v1id-159961_29938_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mappaie#v1id-159961_29938_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mappaie#v1id-159961_29938_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mappaie#v1id-159961_29938_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/vppmi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mappaie)

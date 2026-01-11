@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Odnosi s javnošću u djelatnostima (285541)](https://www.fhs.hr/predmet/osjud_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

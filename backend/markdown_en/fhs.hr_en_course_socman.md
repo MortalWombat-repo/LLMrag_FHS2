@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/socman)
 
 ## Social Management
-  * [Basic data](https://www.fhs.hr/en/course/socman#v1id-523833_133378_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/socman#v1id-523833_133378_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/socman#v1id-523833_133378_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/socman#v1id-523833_133378_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/socman#v1id-159988_781946_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/socman#v1id-159988_781946_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/socman#v1id-159988_781946_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/socman#v1id-159988_781946_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/drumen) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/socman)

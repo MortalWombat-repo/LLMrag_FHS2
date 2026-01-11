@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/thocfkmtfc)
 
 ## The history of Communism from Karl Marx to Fidel Castro
-  * [Basic data](https://www.fhs.hr/en/course/thocfkmtfc#v1id-523841_751142_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/thocfkmtfc#v1id-523841_751142_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/thocfkmtfc#v1id-523841_751142_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/thocfkmtfc#v1id-523841_751142_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/thocfkmtfc#v1id-159996_33686_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/thocfkmtfc#v1id-159996_33686_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/thocfkmtfc#v1id-159996_33686_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/thocfkmtfc#v1id-159996_33686_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pkokmdfc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/thocfkmtfc)

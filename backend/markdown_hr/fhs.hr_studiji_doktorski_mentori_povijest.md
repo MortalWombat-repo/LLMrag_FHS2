@@ -26,7 +26,7 @@
 **dr. sc. Janja Sekula Gibač, znanstvena suradnica:** Domagoj Štefančić
 **doc. dr. sc. Anto Mikić:** Mirela Lenković
 **izv. prof. dr. sc. Wollfy Krašić** : Goran Komerički, Iva Kajfeš  
-  
+
 **prof. dr. sc. Stjepan Ćosić:** Mato Mikičić, Genc Prelvukaj, Ana Veselić, Mihaela Marić, Valentino Rajković
 **izv. prof. dr. sc. Vlatka Vukelić:** Marko Paradžik (drugi mentor), Zrinka Ettinger Starčić, Eva Kirchmayer Bilić, Dubravka Trgovec, Marijan Paljević (prvi mentor), Martina Tarbuk, Bruno Bogović
 **doc. dr. sc. Tomislav Anić:** Aleksandra Bednjanec Vuković
@@ -42,10 +42,9 @@
 **dr. sc. Ante Nazor, znanstveni savjetnik:** Tomislav Šulj (u mirovanju), Izabela Jakarić Vonić (u mirovanju)
 **izv. prof. dr. sc. Mladen Puškarić:** Jurij Borna Jurčević
 **dr. sc. Jakša Raguž, znanstveni suradnik:** Marijan Mandić   
-  
+
 **izv. prof. dr. sc. Darko Vitek:** Marta Ivković (u mirovanju)
 **dr. sc. Zlata Živaković-Kerže, znanstvena savjetnica:** Mario Jager
-  
 
 ## Repozitorij
 Repozitorij je prazan

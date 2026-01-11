@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/kroatologija#v1id-904769_396600_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/kroatologija#v1id-904769_396600_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -689,4 +688,4 @@ ECTS | TZP (3557) - Akademski strani jezik
 4.0 |  [Akademski francuski (209486)](https://www.fhs.hr/predmet/akafra) Franić, I. |  | 60 15P+45SJ |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Gl3d-Frwg8MQN5jvWEemkApQMJyAFU8ODH37Kytpgqk2qqSVjLgQwt0ZWeggNY7rtc3lah1T9M0by6nUoDlM2e6yx6KJp3wlST-whljzl58ObqDWdXF70q1xLwyrlgcKhO1H6V_MB3n04YyflZ94kvfzCCApCpjJB9FvYyds_-Lr28k-LYT34Z3p0LPqF30i4WqGVA==&_v1flags=1sCJ_pirUWUwoUgfDAxJQVvrF3PUV-m-Srl8EMlSWHYLCCGi3EpLkmo97MwjD0aPSlAsDEDA_ky4qTPy3ykAf80JhEilzspX58C4V0AOeqPCiwcbr6K_vxYzLSk875t2n0Q7Vxy1lDF2FIW8gJt1sK2gNdGwRv0719BfmPabQvXlp6uU&_lid=82933&_rand=0',%20''\))  
 4.0 |  [Akademski njemački (45829)](https://www.fhs.hr/predmet/akanje) Miškulin Saletović, L. |  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Y35u0MjmK9cViChINVwJDJzKkz3MUM4esGoJwJxTV8fBqwCIEZZwCWGKJVVUf-PWKSLz2uX-8P7bJubEqYLC8EebvZDQK4n1fK3mXbXDCWzEJxXVVhmHG6PNdgNqPXuVmTiFA94fszs1106xqvWJN3QE5DRxNsFVG7_fjB9TUfbjiB08fzOak6T1eD0T9s27LFsOtg==&_v1flags=z66Z8XY6xHclTcRjunpGZ2WIrAE_EoqirZzI0whUOlTHwAd0HEF78jyusG8qy-AZAMfTNsvlWEk9gEG9Pliy7iPvB5u0f2mqVzIikYIsUpOd3h9Z7c2y4ok57_TMVKebNebvIY0lPF21u8vy6Se7kNktIciW-GwkVKt_qeufaKdrfRNt&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

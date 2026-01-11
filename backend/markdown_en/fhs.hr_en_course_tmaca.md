@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tmaca)
 
 ## The Media: A Critical Approach
-  * [Basic data](https://www.fhs.hr/en/course/tmaca#v1id-523841_49524_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tmaca#v1id-523841_49524_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tmaca#v1id-523841_49524_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tmaca#v1id-523841_49524_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tmaca#v1id-159995_192022_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tmaca#v1id-159995_192022_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tmaca#v1id-159995_192022_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tmaca#v1id-159995_192022_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dpk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tmaca)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sohrm_a)
 
 ## Sociology of Human Resources Management
-  * [Basic data](https://www.fhs.hr/en/course/sohrm_a#v1id-523837_803423_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sohrm_a#v1id-523837_803423_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sohrm_a#v1id-523837_803423_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sohrm_a#v1id-523837_803423_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sohrm_a#v1id-159989_730502_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sohrm_a#v1id-159989_730502_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sohrm_a#v1id-159989_730502_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sohrm_a#v1id-159989_730502_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sulp_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sohrm_a)

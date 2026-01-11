@@ -13,7 +13,6 @@ ODSJEK ZA SOCIOLOGIJU
 **diplomski**
   * [Risk Society (269955)](https://www.fhs.hr/predmet/drs) - Nositelj
 
-
 #### Životopis
 Profesor dr. Joost van Loon (rođen 11. ožujka 1967., Dordrecht, Nizozemska) profesor je opće sociologije i sociološke teorije na Katoličkom sveučilištu Eichstätt-Ingolstadt, gdje radi od 2010. Od 2015. do 2021. izabrani je dekan Fakulteta povijesnih i društvenih znanosti.
 Doktorirao je sociologiju na Sveučilištu Lancaster (1996., pod mentorstvom Scotta Lasha), magistrirao sociologiju na Sveučilištu Carleton u Ottawi (1991., s odlikovanjem) i doktorirao sociologiju na Sveučilištu Erasmus u Rotterdamu (cum laude, 1991.).

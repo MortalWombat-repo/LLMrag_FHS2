@@ -27,15 +27,12 @@ ODSJEK ZA FILOZOFIJU I KULTUROLOGIJU
   * [Uvod u kulturologiju (214820)](https://www.fhs.hr/predmet/uuk_b) - Nositelj
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Filozofija mita i religije (187904)](https://www.fhs.hr/predmet/fmr) - Nositelj, Seminar
   * [Diplomski rad (214814)](https://www.fhs.hr/predmet/diprad_f) - Seminar
 
-
 **doktorski**
   * [Hermeneutika (258229)](https://www.fhs.hr/predmet/her) - Nositelj
-
 
 #### Životopis
 Rođen 1975. godine u Vinkovcima. Osnovnu školu završio u Bošnjacima, a srednju u Županji i Zagrebu. Po završetku teološkoga obrazovanja na Teologiji u Đakovu – tada pripojenom učilištu Katoličkog bogoslovnog fakulteta Sveučilišta u Zagrebu – 2000. upisao poslijediplomski studij na Katoličkom teološkom fakultetu Sveučilišta u Beču i 2005. postigao akademski stupanj doktora humanističkih znanosti – teologija. Doktorsku disertaciju izradio pod mentorstvom poznatog bečkog pastoralnog teologa prof. dr. sc. Paula Michaela Zulehnera. Godine 2008. upisao poslijediplomski doktorski studij filozofije na Filozofskom fakultetu Sveučilišta u Zagrebu, te ga uspješno završio obranom doktorske teze 2014. godine. Doktorsku disertaciju „Mit u socijalno-političkoj misli Ernsta Cassirera“ napisao pod mentorstvom prof. dr. sc. Hotimira Burgera. Radio je na nekoliko visokih učilišta u Republici Hrvatskoj, a od 2018. godine je zaposlen na Odsjeku za filozofiju i kulturologiju Fakulteta hrvatskih studija Sveučilišta u Zagrebu. Stanuje u Velikoj Gorici.

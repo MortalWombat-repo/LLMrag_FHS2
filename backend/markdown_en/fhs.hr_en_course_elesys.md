@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/elesys)
 
 ## Electoral Systems
-  * [Basic data](https://www.fhs.hr/en/course/elesys#v1id-523771_973057_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/elesys#v1id-523771_973057_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/elesys#v1id-523771_973057_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/elesys#v1id-523771_973057_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/elesys#v1id-159936_604082_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/elesys#v1id-159936_604082_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/elesys#v1id-159936_604082_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/elesys#v1id-159936_604082_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/izbsus) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/elesys)

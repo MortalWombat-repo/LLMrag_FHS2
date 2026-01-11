@@ -4,6 +4,4 @@
 [Branko Ivanda](https://www.fhs.hr/djelatnik/branko.ivanda), prof., voditelj | [e-pošta](javascript:cms_mail\('bivanda','fhs.hr','',''\)) | 245 7612  
 ---|---|---  
 |  |   
-|  |   
-  
-
+|  |

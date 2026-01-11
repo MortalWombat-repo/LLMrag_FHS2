@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mcrm)
 
 ## Mass Communication Research Methodology
-  * [Basic data](https://www.fhs.hr/en/course/mcrm#v1id-523802_874272_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mcrm#v1id-523802_874272_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mcrm#v1id-523802_874272_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mcrm#v1id-523802_874272_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mcrm#v1id-159963_83357_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mcrm#v1id-159963_83357_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mcrm#v1id-159963_83357_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mcrm#v1id-159963_83357_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mimk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mcrm)

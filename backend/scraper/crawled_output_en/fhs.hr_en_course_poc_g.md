@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poc_g)
 
 ## Psychology of Communication
-  * [Basic data](https://www.fhs.hr/en/course/poc_g#v1id-523817_89373_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poc_g#v1id-523817_89373_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poc_g#v1id-523817_89373_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poc_g#v1id-523817_89373_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poc_g#v1id-159974_511936_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poc_g#v1id-159974_511936_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poc_g#v1id-159974_511936_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poc_g#v1id-159974_511936_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psikom_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poc_g)

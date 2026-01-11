@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mohsaal)
 
 ## Methodology of Historical Science and Academic Literacy
-  * [Basic data](https://www.fhs.hr/en/course/mohsaal#v1id-523805_494234_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mohsaal#v1id-523805_494234_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mohsaal#v1id-523805_494234_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mohsaal#v1id-523805_494234_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mohsaal#v1id-159964_70447_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mohsaal#v1id-159964_70447_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mohsaal#v1id-159964_70447_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mohsaal#v1id-159964_70447_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mpzap) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mohsaal)

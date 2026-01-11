@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/povijest#v1id-904759_93707_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/povijest#v1id-904759_93707_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -324,4 +323,4 @@ ECTS | POV-dipl (4411): Izborni kolegiji
 3.0 |  [Vojno-politički odnosi u Bosni i Hercegovini 1990.-1995. (270208)](https://www.fhs.hr/predmet/voubh1) * Beljo, M. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=XxCpDWxGpj_FlF7RrtvoJsl9df0SbeIf61Z5zLrQsorPnMaxv3ZINLNiaSjKPWD8l9XosAVdD_9bXBw5heVHGCFnXqU___89IWYAj5NGwD5VzFaXnMRuRI6WKEZtXUqPR0zDCn4EnOmA3h1PVfEbp5d1TI1IouroknPu8qMHM-G0GGNANPAI7DT_gbgvIoHyBhJ8pg==&_v1flags=ZG_0M3NCCddWNhIVSbf7nsMh3NfTeCrDFtKZETpDFbDYKLNTc1ecb-rHFn3ZA0-v2r_7Xb9v_PtjvU3swTl26aoBCeuz0lXUh8yGYRuGunT2g24_8hspdwa-H0K6De76f6rTEeUxMVg7M5UdSPvioumqG3c3JEfJR6b9Z9hZGmAd0LpN&_lid=82933&_rand=0',%20''\))  
 4.0 |  [Zavičajna povijest (285824)](https://www.fhs.hr/predmet/zavpov) * Smiljanić, V. |  | 45 15T+30S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Vv2489FeTluY6JVMV41LJDZmMSgnPo_WlhS-1hnPmroX-hYdOp5LRN2qRsyGBzH6DL6qFzv9o7eiDmz9hu4COo2G_EIoMoKJ8bCC9YYNUJl7lqlOUONnVACM7gACH80D9j-lZfxrXLGOItJaNSeXRvbWF6t1jP-4KBn36PEyLDnns_x1N4PKWQaFgpdUyIiYDSpFEw==&_v1flags=DSoNrWem7lcfmSXlY9f7BIQd0l2Z_QyRRuVMqdqvVi0bRg15KZdy6YNY55Vfy_YmSC3t9oGD9KK4pv9HCdHzlq4QDbkIUh0qZxU3OYYBDAzFzDeWgF5MxJ6SQp5_2G3vKKv9R5tiFcFjHzo8x_cfVfKKLTepAa5BeS727QDwSjC-xeai&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

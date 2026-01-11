@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rgrawat2c)
 
 ## Research Group - Researching and Writing about the 20th Century
-  * [Basic data](https://www.fhs.hr/en/course/rgrawat2c#v1id-523827_979603_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rgrawat2c#v1id-523827_979603_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rgrawat2c#v1id-523827_979603_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rgrawat2c#v1id-523827_979603_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rgrawat2c#v1id-159982_432529_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rgrawat2c#v1id-159982_432529_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rgrawat2c#v1id-159982_432529_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rgrawat2c#v1id-159982_432529_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/isipp2s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rgrawat2c)

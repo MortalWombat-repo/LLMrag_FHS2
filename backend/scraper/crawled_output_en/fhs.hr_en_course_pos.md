@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pos)
 
 ## Psychology of Sexuality
-  * [Basic data](https://www.fhs.hr/en/course/pos#v1id-523820_195675_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pos#v1id-523820_195675_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pos#v1id-523820_195675_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pos#v1id-523820_195675_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pos#v1id-159977_72612_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pos#v1id-159977_72612_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pos#v1id-159977_72612_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pos#v1id-159977_72612_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psispo_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pos)

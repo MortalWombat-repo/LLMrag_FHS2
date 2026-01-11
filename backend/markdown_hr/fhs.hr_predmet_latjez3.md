@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/latjez3#v1id-904834_258522_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/latjez3#v1id-904834_258522_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez3) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lat3)
 **Šifra:** |  38867  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Auditorne vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,13 +29,12 @@
 > Upoznavanje i svladavanje sintakse konjunktiva, slaganja vremena, dijela konstrukcija glagolskih imena (nominativ s infinitivom, gerund i gerundiv, perifrastične konjugacije) i sintakse padeža. Produbljivanje, primjena i učvršćivanje znanja morfologije. Utvrđivanje i proširivanje znanja latinskoga leksika i frazeologije. Osposobljavanje za djelomično samostalno razumijevanje i prevođenje tekstova pisanih na klasičnom latinskom.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Demo, Šime; Latinski jezik 3 (interni priručnik);, 
   2. Divković, Mirko; Latinsko-hrvatski rječnik: za škole; više izdavača, 
   3. Marević, Jozo; Latinsko-hrvatski enciklopedijski rječnik, sv. I-II; Matica hrvatska (2000), 
   4.   5. 
-  
+
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Latinski jezik  
@@ -45,7 +43,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)**: 
 Utorkom 11:45-12:45 (uz prethodnu najavu)
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/latjez3?@=21a4i#news_80759)

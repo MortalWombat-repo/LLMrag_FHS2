@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/isipp2s#v1id-904823_588567_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/isipp2s#v1id-904823_588567_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/isipp2s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rgrawat2c)
 **Šifra:** |  96375  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  doc. dr. sc. [Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,24 +26,22 @@
 > Glavni ciljevi predmeta leže u obučavanju studenata za praktični rad istraživanja i pisanja. Predmet je organiziran kao svojevrsna radionica kroz koju polaznici dobivaju nova i proširuju dotadašnja znanja koja im pomažu u sastavljanju završnog rada. Upoznavanjem sa arhivskim gradivom, objavljenim izvorima i literaturom općenito, te proširivanjem znanja o mogućnostima znanstvenog rada u Hrvatskoj nastojat će se pomoći studentima da bolje koncipiraju pismene radove, primjene valjane metode u istraživanju i u konačnici napišu što bolje svoj završni rad.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Nikolić-Jakus, Zrinka; Uvod u studij povijesti: Historiografski praktikum; Leykam international, Zagreb (2008), 
   2. Gross, Mirjana; Suvremena historiografija: korijeni, postignuća, traganja; Novi Liber, Zagreb (2001), 
   3. Gačić, Milica; Pisanje znanstvenih i stručnih radova; Školska knjiga, Zagreb (2012), 
   4. Novak, Božidar; Hrvatsko novinstvo u 20. stoljeću; Golden marketing - Tehnička knjiga, Zagreb (2005), 
   5. 
-  
+
 **3. semestar**  
 ---  
 > **POV-dipl (5390): Istraživačke skupine** - Redovni smjer - Znanstveni  
 >   
 Termini konzultacija: 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/isipp2s?@=21jtm#news_81151)

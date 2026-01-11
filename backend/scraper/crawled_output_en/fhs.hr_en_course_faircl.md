@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/faircl)
 
 ## Female Authorship in recent Croatian Literature
-  * [Basic data](https://www.fhs.hr/en/course/faircl#v1id-523774_968887_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/faircl#v1id-523774_968887_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/faircl#v1id-523774_968887_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/faircl#v1id-523774_968887_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/faircl#v1id-159939_909035_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/faircl#v1id-159939_909035_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/faircl#v1id-159939_909035_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/faircl#v1id-159939_909035_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zaunhk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/faircl)

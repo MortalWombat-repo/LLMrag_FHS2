@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/acafre)
 
 ## Academic French
-  * [Basic data](https://www.fhs.hr/en/course/acafre#v1id-523743_296786_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/acafre#v1id-523743_296786_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/acafre#v1id-523743_296786_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/acafre#v1id-523743_296786_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/acafre#v1id-159911_665507_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/acafre#v1id-159911_665507_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/acafre#v1id-159911_665507_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/acafre#v1id-159911_665507_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akafra) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acafre)

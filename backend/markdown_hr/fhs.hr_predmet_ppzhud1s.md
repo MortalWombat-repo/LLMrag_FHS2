@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ppzhud1s#v1id-904862_186116_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ppzhud1s#v1id-904862_186116_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppzhud1s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoplcitl1c)
 **Šifra:** |  270165  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,27 +28,25 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **POV-dipl (4411): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **POV-dipl (4411): Izborni kolegiji** - Redovni studij - Povijest  
@@ -59,7 +56,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)**: 
 Srijedom od 11:15 do 12:15.
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ppzhud1s?@=21ncr#news_124302 "Arhiva obavijesti")

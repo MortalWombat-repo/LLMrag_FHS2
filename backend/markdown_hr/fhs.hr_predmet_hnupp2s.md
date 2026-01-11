@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hnupp2s#v1id-904815_8086_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hnupp2s#v1id-904815_8086_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hnupp2s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tcpitfhot2c)
 **Šifra:** |  188122  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -28,13 +27,11 @@
 >  Način polaganja ispita: Pomoću dva kolokvija-eseja studenti će se moći riješiti dijelova kasnijeg usmenog ispita. Oni koji ne polože kolokvij ili nisu zadovoljni njegovom ocjenom, pristupaju u terminima naznačenima ispitnim rokovima usmenom ispitu. Potvrde da je predmet odslušan (potpisi) dijele se na posljednjem predavanju.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Hrvatske granice 1918.-1993., Boban, Ljubo, Školska knjiga, Zagreb, 1995. 
   2. Hrvatska 1918-2008., Goldstein, Ivo, Zagreb, 2008. 
   3. Povijest Jugoslavije (1918.-1991.), Matković, Hrvoje, Zagreb, 1998. 
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -42,10 +39,9 @@
 >   
 Termini konzultacija: 
   * **doc. dr. sc.[Vladimir Šumanović](https://www.fhs.hr/djelatnik/vladimir.sumanovic)**: 
-  
+
 Srijedom od 12:45 do 13:45 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hnupp2s?@=21rra#news_114262)

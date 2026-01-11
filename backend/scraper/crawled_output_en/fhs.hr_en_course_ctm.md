@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ctm)
 
 ## Croatian Traditional Music
-  * [Basic data](https://www.fhs.hr/en/course/ctm#v1id-523764_559330_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ctm#v1id-523764_559330_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ctm#v1id-523764_559330_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ctm#v1id-523764_559330_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ctm#v1id-159929_715257_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ctm#v1id-159929_715257_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ctm#v1id-159929_715257_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ctm#v1id-159929_715257_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/htg) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ctm)

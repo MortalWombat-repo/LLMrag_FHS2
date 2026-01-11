@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/psihologija#v1id-904758_949794_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/jednopredmetni_studiji_diplomski/psihologija#v1id-904758_949794_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -249,4 +248,4 @@ ECTS | PSI-dipl. (7596): Izborni predmeti II. godina
 3.0 |  [Suvremene prakse u upravljanju ljudskim potencijalima (289593)](https://www.fhs.hr/predmet/spuulp) * Tonković Grabovac, M. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=pDosYrQvDgbmntPWNcTGB8ZdYHifoTMreVxb6uDhJz2oLqpB6t_hSn7sdTxVoYqCbyQzid27dJuT8LSYMMBHqfe-G6pXmrJ0kzMcB9oxUuB6UMgW24tPoKGK-D6bsOcebbpCFpkZkWEbGG8LcOfI8RztmUj0z8TJtNuZQyNCZ7AEq0fTlLFBGM_iUdeeqSxAeMQAPg==&_v1flags=XuQqdcAI9hSNYE7Ov1p3bO5FS3DoY4Fl3KuTypVb1LFLcFCG_T87M8VAaEEKW2U78GPIXNe_2ejBCa7KUu9PCmI9VWlkYGrQkCtzSbc7GQbs9XlR5wL-Z714B3zDk3bicem6x8VuMxCMm08ycn9JGHPsoxwrkYL0nX04nDaVaABSH7CF&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Vještine u pružanju psihološke pomoći (173685)](https://www.fhs.hr/predmet/vuppp_a) * Maričić, J. |  | 30 30S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=lNa6yoEL0bFgFus5q-6RmZyEDMxyXlmHMWShz1QHz-EYpHldNqAPaJHp-8BWSN4TS4PYA95W9KAAnv79cK6AlJqJFri46rEHWfApyXBwFm6aA_Jr1JbJOtk1jRZcmEbJT_EW9g46PJbLK1Ru63la2T8syEOZsKGCNPcef5axp717xc-7_lhKhQavXpFVgk-pMCqwwA==&_v1flags=-Qoyent8vITGDEgjoOfwVE5iuTbnfT6_Doz2Cbzq2jEZkEfG_h3nV8Bg6WyoK8Q_shEK7FaFoplchuzap_trsYaOGH3vmZu3I4tA_yAVFaVjXRH1pVIj1mH16iYf8YmSHPTPmITynizMFC9uRVXtTHxVjdmkAfSKDqblGgeBs0uMytpt&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

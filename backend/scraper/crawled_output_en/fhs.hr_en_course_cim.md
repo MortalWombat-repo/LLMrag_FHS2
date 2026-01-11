@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cim)
 
 ## Contemporary International Migration
-  * [Basic data](https://www.fhs.hr/en/course/cim#v1id-523753_270496_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cim#v1id-523753_270496_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cim#v1id-523753_270496_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cim#v1id-523753_270496_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cim#v1id-159920_688930_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cim#v1id-159920_688930_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cim#v1id-159920_688930_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cim#v1id-159920_688930_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/smm) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cim)

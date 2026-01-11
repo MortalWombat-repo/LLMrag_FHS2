@@ -25,9 +25,7 @@
 [102. izvanredna elektronička sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042851/1.3.%20Zapisnik%20102.%20izvanredne%20elektronicke%20sjednice%20FV.pdf) – 21. – 25. kolovoza 2025.   
 [103. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042851/1.2.%20Zapisnik%20103.%20sjednice%20FV.pdf) – 11. rujna 2025  
 104. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija – 22. rujna 2025.  
-  
-  
-  
+
 **Akademska godina 2023./2024.**
   * [67. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.2._Zapisnik_67._sjednice_Fakultetskoga_vijeca.pdf) - 4.–6. listopada 2023.
   * [68. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.1.%20Zapisnik%2068.%20sjednice%20Fakultetskoga%20vijeca.pdf) - 16. listopada 2023.
@@ -46,7 +44,6 @@
   * [80. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.4.%20Zapisnik%2080.%20elektronicke%20sjednice.pdf) – 25. – 28. lipnja 2024.
   * [81. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.5.%20Zapisnik%2081.%20elektronicke%20sjednice.pdf) – 22. – 24. srpnja 2024.  
 [82. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042851/1.1.%20Zapisnik%2082.%20sjednice%20Fakultetskoga%20vijeca.pdf) – 16. rujna 2024.
-
 
 **Akademska godina 2022./2023.**  
 
@@ -71,7 +68,6 @@
   * [65. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.1.%20Ovjera_zapisnik_65.%20FV.pdf) – 13. rujna 2023.
   * [66. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.1._Zapisnik_66._sjednice_Fakultetskoga_vijeca.pdf) – 27. rujna 2023.
 
-
 **Akademska godina 2021./2022.**  
 
   * [31. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_31.FV_25.10.2021.pdf) – 25. listopada 2021.
@@ -91,7 +87,6 @@
   * [44. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.1.%20Zapisnik_44_FV_16.9.2022_ovjera.pdf) – 16. rujna 2022.
   * [45. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_45_FV_26.9.2022.pdf) – 23. – 26. rujna 2022.
   * [46. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/1.2%20Zapisnik_46_FV_30.9.2022_ovjera.pdf) – 28. – 30. rujna 2022.
-
 
 **Akademska godina 2020./2021.**
   * [12. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_12.sjednice_21.10.2020.pdf) – 19. – 21. listopada 2020.
@@ -114,7 +109,6 @@
   * [29. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_29_FV_6.9.2021.pdf) – 6. rujna 2021.
   * [30. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_30.FV_29.9.2021.pdf) – 29. rujna 2021.
 
-
 **Akademska godina 2019./2020.**
   * [1. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_1.sjednice_18.12.2019.pdf) – 18. prosinca 2019.
   * [2. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_2.sjednice_27.1.2020.pdf) – 27. siječnja 2020.
@@ -128,13 +122,11 @@
   * [10. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_10.sjednice_7.9.2020.pdf) – 7. rujna 2020.
   * [11. sjednica Fakultetskoga vijeća Fakulteta hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_11.sjednice_28_30.9.2020.pdf) – 28. – 30. rujna 2020.
 
-
 **Akademska godina 2019./2020.**
   * [1. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_7.10.2019.pdf) – 3. – 7. listopada 2019.
   * [2. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_28.10.2019.pdf) – 28. listopada 2019.
   * [3. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/oldwww/obavijesti?@=219aw) – 14. studenoga 2019.
   * [4. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_25.11.2019.pdf) – 25. studenoga 2019.
-
 
 **Akademska godina 2018./2019.**  
 
@@ -152,7 +144,6 @@
   * [12. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_12.7.2019.pdf) – 12. srpnja 2019.
   * [13. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_20.9.2019.pdf) – 20. rujna 2019.
 
-
 **Akademska godina 2017./2018.**  
 
   * [1. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_26.10.2017.pdf) – 26. listopada 2017.
@@ -169,7 +160,6 @@
   * [12. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_12.9.2018.pdf) – 12. rujna 2018.
   * [13. sjednica privremenoga Znanstveno-nastavnoga vijeća](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_28.9.2018.pdf) – 28. rujna 2018.
 
-
 **Akademska godina 2016./2017.**  
 
   * [1. elektronička sjednica Znanstveno-nastavnoga vijeća (sveučilišnoga centra) Hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_28.10.2016.pdf) – 26.–28. listopada 2016.
@@ -184,7 +174,3 @@
   * [4. sjednica privremenoga Znanstveno-nastavnoga vijeća Hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_12.7.2017.pdf) – 12. srpnja 2017.
   * [3. elektronička sjednica privremenoga Znanstveno-nastavnoga vijeća Hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_7.9.2017.pdf) – 5.-7. rujna 2017.
   * [5. sjednica privremenoga Znanstveno-nastavnoga vijeća Hrvatskih studija](https://www.fhs.hr/images/50042408/Zapisnik_ZNV_28.9.2017.pdf) – 28. rujna 2017.
-
-
-  
-

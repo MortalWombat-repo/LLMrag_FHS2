@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/akaeng#v1id-904790_815700_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/akaeng#v1id-904790_815700_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akaeng) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acaeng)
 **Šifra:** |  45642  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  v. pred. dr. sc. [Lucia Miškulin Saletović](https://www.fhs.hr/djelatnik/lucia.miskulin_saletovic)   
-  
+
 **Izvođači:** |  nasl. pred. Siniša Prekratić - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Opterećenje:**  
 ---  
@@ -28,14 +27,12 @@
 > Ciljevi predmeta su osposobiti studente za samostalno služenje stranom stručnom literaturom i pisanje radova na akademskom engleskom jeziku, te razviti samostalnost u unaprjeđivanju jezične kompetencije uz pomoć dostupnih izvora i priručnika.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Miškulin Saletović, L., Vojković Estatiev, V.; Beljo, A.; English Academic Vocabulary for Social Sciences and Humanities; Zagreb: Hrvatski studiji Sveučilišta u Zagrebu (2012), 
   2. Philpot, S.; Curnick, L.; Academic Skills: Reading, Writing and Study Skills; Oxford: Oxford University Press (2007), 
   3. Gramatika engleskoga jezika po izboru studenata akademski tekst po izboru studenata;, 
   4. Englesko-engleski rječnik po izboru studenata;, 
 
-  
 **1. semestar**  
 ---  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
@@ -50,7 +47,7 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -62,7 +59,7 @@
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -74,7 +71,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Filozofija i kultura  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
@@ -86,7 +83,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Kroatologija  
@@ -95,7 +92,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (3503) - Akademski strani jezik** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **TZP (3503) - Akademski strani jezik** - Redovni studij - Komunikologija  
 >  **TZP (3557) - Akademski strani jezik** - Redovni studij - Kroatologija  
@@ -105,10 +102,9 @@
 >   
 Termini konzultacija: 
   * **v. pred. dr. sc.[Lucia Miškulin Saletović](https://www.fhs.hr/djelatnik/lucia.miskulin_saletovic)**: 
-  
+
 Petak 12:40 do 13:40, ili prema dogovoru uz prethodnu najavu e-poštom 
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/akaeng?@=21h5n#news_82810)

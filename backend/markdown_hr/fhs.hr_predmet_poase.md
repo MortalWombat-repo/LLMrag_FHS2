@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/poase#v1id-904857_131940_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/poase#v1id-904857_131940_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/poase) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ftaaoec)
 **Šifra:** |  158244  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/djelatnik/mladen.tomorad)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -46,12 +45,10 @@
   3. identificirati uzročno-posljedične veze razvoja staroegipatske arhitekture
   4. analizirati te usporediti pogrebne običaje starih Egipćana i drugih naroda stare povijesti te njihovu arhitekturu
 
-  
 **Literatura:**  
   1. Staroegipatska civilizacija sv. I: Povijest i kultura starog Egipta, Tomorad, Mladen, Hrvatski studiji, 2016. 
   2. Stari Egipat - Povijest i kultura, Poglavlja: 13. Slikarstvo, kiparstvo, arhitektura; 14. Vjera starih Egipćana, 15. Pogrebni običaji starih Egipćana, Tomorad, Mladen, Školska knjiga, 2023. 
 
-  
 **1. semestar**  
 ---  
 > **POV (17189) - Izborni predmeti: Starovjekovna povijest** - Redovni studij - Povijest  
@@ -63,7 +60,6 @@ Ponedjeljak 7:30-8:00 (prema dogovoru) i nakon predavanja te prema dogovoru.
 Nastava u ljetnom semestru: ponedjeljak 8:00-9:30, 9:35-11:05.
 Nastava u zimskom semestru: ponedjeljak 8:00-12:40, utorak 8:00-11:05.
 Lokacija: 25 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/poase?@=21m05#news_111449)

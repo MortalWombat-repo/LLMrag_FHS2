@@ -29,6 +29,4 @@
 22. lipnja 2026. (ponedjeljak) |  _Dan antifašističke borbe_ (blagdan)  
 5. kolovoza 2026. (srijeda) |  _Dan pobjede i domovinske zahvalnosti_ i _Dan hrvatskih branitelja_ (blagdan)  
 15. kolovoza 2026. (subota) |  _Velika Gospa_ (blagdan)  
-24. kolovoza (ponedjeljak) – 4. rujna (petak) 2026. |  Redoviti jesenski ispitni rok  
-  
-
+24. kolovoza (ponedjeljak) – 4. rujna (petak) 2026. |  Redoviti jesenski ispitni rok

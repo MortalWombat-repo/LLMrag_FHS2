@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/vpssi#v1id-904889_477183_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/vpssi#v1id-904889_477183_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/vpssi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/psfswd)
 **Šifra:** |  86437  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |   
@@ -92,10 +91,8 @@
 >  4) pohađa superviziju.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -106,7 +103,7 @@
 >  **PSI (1860) - Izborni kolegiji** - Redovni studij - Psihologija  
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -116,7 +113,7 @@
 >  **PSI (1860) - Izborni kolegiji** - Redovni studij - Psihologija  
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -128,7 +125,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -140,7 +137,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -151,7 +148,7 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **FIL (1826): Izborni kolegiji** - Redovni studij - Filozofija i kultura  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -162,7 +159,6 @@
 >  **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/vpssi?@=20pkn#news_77293 "Arhiva obavijesti")

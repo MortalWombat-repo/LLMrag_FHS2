@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/povijest#v1id-904770_649233_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni/povijest#v1id-904770_649233_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -807,4 +806,4 @@ ECTS | POV (3517) - izborni TZP
 5.0 |  [Vršnjačka potpora studentima s invaliditetom (86437)](https://www.fhs.hr/predmet/vpssi) |  | 120 15P+105PK |  [__](javascript:show_window\('/.cms/predmet_info?_v1=5gyPxWZTA2SyGwIh2Wii4y3SLa698zFApMeIjtbdO9lnPO6BjAxSf_9Es9g9arOALDJaHoTfCISy_dEO355Rz7-oTM7mJlhAfAZDjqnLXE2VAVnL2FiOhoxmcFbHIsRN80g1OpBW8cDMcCeIiCBhnM_fsNS4eRZeB0D6-G1FqK7Iesk8qYNBylG9nM1gk5yR2XT3Yg==&_v1flags=RYv3C__NTH56MIcPTDVleEb1Qv0tdtKxAiYK6JnSYIc7emni8Qu3jTvmRnt9uLajHpRfrjVeROeWds958y63l_0Kl9BZdSSHeFesH6QL5k5qNPHVHpmW6pEq65n_QpmYk70_QreBc64MN5C1r4S3nloycQF_09llsZy3qm3nnAKOkhpz&_lid=82933&_rand=0',%20''\))  
 2.0 |  [Zemljopisna obilježja Hrvatske (188087)](https://www.fhs.hr/predmet/zoh_a) * Komušanac, M. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Qlz0rIV8xqemVJOINl8FlWrX5SXLoFcFMvAWV8SGPsyKNbKpmtTKaZO6ectq_baK-fHUoCw10JFQkj34Hkc7YU1K7WA8rVa-Vv0ginZjc8eETnurLSn8ugijzE5z8KmPjQ7SanbBrJ0Ejwo2NN0hJFflbBJIrsgyGdyRQ21vCdW6iIUS4CsNgAUqlkFX6TS9DhuLOg==&_v1flags=EejQNDXyyDaJC6qWibfea5RVbEqUl3X0XgnZanKj9tAq_3oS6QAaYWKoZcnuJKq_cU5WFWe_XZUP5dJr_HQm1MlsWR5QSmvs-fxLpyi9bMKZMKiY7cvT5bjHDQWHvGm4ee6xxfKv7zcxD1UVSvR4dedHlsvVyR8QtJR_Xnn3OFExgPv9&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

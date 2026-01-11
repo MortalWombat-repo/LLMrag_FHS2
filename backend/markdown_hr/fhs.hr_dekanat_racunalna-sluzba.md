@@ -6,7 +6,7 @@ Ivan Kordić, voditelj računalne službe |  |
 |  |   
 |  |   
 Uredovno vrijeme za rad sa studentima: ponedjeljak - petak od 09 do 14 sati
-  
+
 Poštovani, ako šaljete e-poštu zato što trebate pomoć, molimo rabite adresu:
 **[informaticar@fhs.hr](javascript:cms_mail\('informaticar','fhs.hr','',''\))**
 AAI@EduHr elektronički identitet
@@ -37,5 +37,3 @@ Podatke o korištenju vašeg elektroničkog identiteta čuvamo 24 mjeseca (kako 
 Po gubitku prava na e-identitet vaše osobne podatke brišemo iz LDAP imenika nakon najviše 90 dana.
 Koja su vaša prava?
 Vaša su prava, sukladno uvjetima iz Opće uredbe o zaštiti podataka, pravo na pristup osobnim podacima koje prikupljamo, pravo na brisanje (zaborav), pravo na ograničenje obrade, pravo na prenosivost podataka te pravo na ispravak osobnih podataka ukoliko su oni neispravni ili su izmijenjeni.
-  
-

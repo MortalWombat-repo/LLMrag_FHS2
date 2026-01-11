@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Teorija migracija (194394)](https://www.fhs.hr/predmet/teomig) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

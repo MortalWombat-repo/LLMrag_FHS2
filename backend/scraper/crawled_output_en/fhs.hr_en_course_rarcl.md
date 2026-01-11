@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rarcl)
 
 ## Croatian Literature of Romanticism and Realism
-  * [Basic data](https://www.fhs.hr/en/course/rarcl#v1id-523825_713262_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rarcl#v1id-523825_713262_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rarcl#v1id-523825_713262_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rarcl#v1id-523825_713262_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rarcl#v1id-159980_381703_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rarcl#v1id-159980_381703_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rarcl#v1id-159980_381703_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rarcl#v1id-159980_381703_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkrr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rarcl)

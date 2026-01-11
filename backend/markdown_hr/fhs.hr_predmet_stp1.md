@@ -6,15 +6,14 @@
   * [Nastava](https://www.fhs.hr/predmet/stp1#v1id-904876_691824_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/stp1#v1id-904876_691824_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/stp1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/stap1)
 **Šifra:** |  269820  
-  
+
 ---|---  
 **ECTS:** |  7.0   
 **Nositelji:** |  prof. dr. sc. [Renato Matić](https://www.fhs.hr/djelatnik/renato.matic)   
 doc. dr. sc. [Ivan Perkov](https://www.fhs.hr/djelatnik/ivan.perkov)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -28,10 +27,8 @@ doc. dr. sc. [Ivan Perkov](https://www.fhs.hr/djelatnik/ivan.perkov)
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **Preduvjeti za:**  
 > **Polaganje predmeta :**  
 >  Položen : [Uvod u sociologiju](https://www.fhs.hr/predmet/uus_a)  
@@ -48,7 +45,6 @@ Lokacija:
   * **doc. dr. sc.[Ivan Perkov](https://www.fhs.hr/djelatnik/ivan.perkov)**: 
 Srijeda (15.00 - 17.00 h) i po dogovoru e-mailom
 Lokacija: 010 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/stp1?@=21nds#news_124062 "Arhiva obavijesti")

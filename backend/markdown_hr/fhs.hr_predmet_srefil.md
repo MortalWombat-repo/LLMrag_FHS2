@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/srefil#v1id-904875_122173_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/srefil#v1id-904875_122173_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/srefil) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/medphi_a)
 **Šifra:** |  227453  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  prof. dr. sc. [Anto Gavrić](https://www.fhs.hr/djelatnik/anto.gavric)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -61,16 +60,13 @@
 >  15. Aktualnost srednjovjekovne filozofije  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija i kultura  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/srefil?@=21ga8#news_121151 "Arhiva obavijesti")

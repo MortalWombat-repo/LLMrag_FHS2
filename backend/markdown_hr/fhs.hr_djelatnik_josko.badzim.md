@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **diplomski**
   * [Stanovništvo, migracije i nacionalna sigurnost (253140)](https://www.fhs.hr/predmet/smns) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/hgb#v1id-904809_846553_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hgb#v1id-904809_846553_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hgb)
 **Šifra:** |  290178  
-  
+
 ---|---  
 **ECTS:** |  15.0   
 **Nositelji:** |  prof. emer. dr. sc. [Alojz Jembrih](https://www.fhs.hr/djelatnik/alojz.jembrih)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Opterećenje:**  
 ---  
@@ -25,20 +24,17 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Izvanredni studij - Kroatologija  
 >   
-  
+
 **3. semestar**  
 > **Obavezni predmet** - Izvanredni studij - Kroatologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hgb?@=21u10#news_133125 "Arhiva obavijesti")

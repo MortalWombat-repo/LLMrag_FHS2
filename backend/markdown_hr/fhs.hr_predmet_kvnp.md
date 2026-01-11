@@ -6,21 +6,20 @@
   * [Nastava](https://www.fhs.hr/predmet/kvnp#v1id-904833_205722_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kvnp#v1id-904833_205722_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kvnp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cpitmot_c)
 **Šifra:** |  201262  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)   
 izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)   
-  
+
 **Izvođači:** |  [Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Seminar  
-  
+
 izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic) - Metodičke vježbe  
 [Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Metodičke vježbe  
 doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic) - Metodičke vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -34,23 +33,21 @@ doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic) -
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar**  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar**  
 > **Obavezni predmet** - Redovni studij - Filozofija  
 >  **Obavezni predmet** - Redovni studij - Hrvatski latinitet  
@@ -76,7 +73,6 @@ Lokacija:
   * **[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed.**: 
 četvrtkom od 11.00 do 12.00 sati 
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/kvnp?@=21sjw#news_116123)

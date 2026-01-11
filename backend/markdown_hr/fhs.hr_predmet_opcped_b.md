@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/opcped_b#v1id-904846_637927_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/opcped_b#v1id-904846_637927_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/opcped_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ped_c)
 **Šifra:** |  144706  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic)   
-  
+
 **Izvođači:** |  [Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -39,7 +38,6 @@
   8. Nakon izvršavanja svih programom predviđenih obveza student/studentica će moći definirati i objasniti smisao i područje obiteljske pedagogije.
   9. Nakon izvršavanja svih programom predviđenih obveza student/studentica će moći interpetirati osnove međukulturnoga odgoja i obrazovanja.
 
-  
 **Literatura:**  
   1. Uvod u pedagogiju, Gisecke, H., Zagreb: Educa., 1993. 
   2. Pedagogija, Matijević M., Bilić V., Opić, S., Zagreb: Školska knjiga., 2016. 
@@ -47,7 +45,6 @@
   4. Didaktika i kurikulum, Cindrić, M., Miljković, D., Strugar, V, Zagreb: Učiteljski fakultet, 2016. 
   5. Teorije znanosti o odgoju., Eckard. K., Zedler, P., Zagreb: Educa, 1998. 
 
-  
 **1. semestar**  
 ---  
 > **EDU(17065) Nastavnički modul - Obvezni kolegiji** - Redovni studij - Filozofija  
@@ -60,15 +57,15 @@
 >  **DIPL(18141): Izborno (NASTAVNIČKI MODUL)** - Redovni smjer - Znanstveni  
 >  **DIPL(18141): Izborno (NASTAVNIČKI MODUL)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar**  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar**  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar**  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
@@ -79,7 +76,6 @@ Lokacija:
   * **[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed.**: 
 četvrtkom od 11.00 do 12.00 sati 
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/opcped_b?@=21d1t#news_110333)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/stuint)
 
 ## Student's Internship
-  * [Basic data](https://www.fhs.hr/en/course/stuint#v1id-523839_218957_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/stuint#v1id-523839_218957_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/stuint#v1id-523839_218957_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/stuint#v1id-523839_218957_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/stuint#v1id-159992_158429_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/stuint#v1id-159992_158429_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/stuint#v1id-159992_158429_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/stuint#v1id-159992_158429_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/stupra_c) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/stuint)
@@ -16,7 +16,7 @@
   
 **Lecturers:** |  doc. dr. sc. [Erik Brezovec](https://www.fhs.hr/djelatnik/erik.brezovec) - Practicum  
 dr. sc. [Ana Marija Dunaj](https://www.fhs.hr/djelatnik/ana_marija.dunaj) - Practicum  
-doc. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/djelatnik/marica.marinovic_golubic) - Practicum  
+izv. prof. dr. sc. [Marica Marinović Golubić](https://www.fhs.hr/djelatnik/marica.marinovic_golubic) - Practicum  
 izv. prof. dr. sc. [Dario Pavić](https://www.fhs.hr/djelatnik/dario.pavic) - Practicum  
 doc. dr. sc. [Ivan Perkov](https://www.fhs.hr/djelatnik/ivan.perkov) - Practicum  
   

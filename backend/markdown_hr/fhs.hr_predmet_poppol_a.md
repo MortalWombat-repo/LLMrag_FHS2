@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/poppol_a#v1id-904858_605020_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/poppol_a#v1id-904858_605020_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/poppol_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poppol_a)
 **Šifra:** |  269767  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -35,14 +34,12 @@
   4. Analizirati efekte mjera obiteljske politike na fertilitet
   5. Identificirati učinkovit tip populacijske politike demografski ugroženim zemljama
 
-  
 **Literatura:**  
   1. Stanovništvo i razvoj, Wertheimer-Baletić, A., MATE, Zagreb, 1999. 
   2. Demografska teorija, razvoj stanovništva Hrvatske i populacijska politika (izbor radova), Wertheimer-Baletić, A., Izdavačka kuća Meridijani, 2017. 
   3. A Concise History of World Population. 5th Edition, Livi-Bacci, M., Wiley-Blackwell, 2012. 
   4. World Population Policies: Their Origin, Evolution and Impact, May, J.F., Springer, 2012. 
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -51,7 +48,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: ured 716 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/poppol_a?@=21nd3#news_124014 "Arhiva obavijesti")

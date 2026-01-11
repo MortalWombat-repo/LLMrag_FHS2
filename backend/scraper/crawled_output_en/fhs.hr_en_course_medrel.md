@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/medrel)
 
 ## Media Relations
-  * [Basic data](https://www.fhs.hr/en/course/medrel#v1id-523803_791074_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/medrel#v1id-523803_791074_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/medrel#v1id-523803_791074_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/medrel#v1id-523803_791074_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/medrel#v1id-159963_314055_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/medrel#v1id-159963_314055_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/medrel#v1id-159963_314055_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/medrel#v1id-159963_314055_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/osm) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/medrel)

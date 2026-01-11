@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/latjez6#v1id-904833_926801_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/latjez6#v1id-904833_926801_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez6) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lat6)
 **Šifra:** |  61853  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |   
@@ -27,12 +26,11 @@
 > Temeljni cilj predmeta je upoznati osnovnu stilističku terminologiju te pružiti što cjelovitiju sliku stilskih osobitosti reprezentativnih djela rimske poezije (predstavnika elegije Tibula i Propercija, predstavnika komedije Terencija, didaktičkog epa Lukrecija i predstavnika satire Juvenala. Studenti će se osposobiti kroz aktivno čitanje tekstova reprezentativnih autora na seminaru za samostalan rad i za jezično-stilsku analizu na izvornom tekstu na latinskom jeziku.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Tibul, Propercije, Lukrecije, Juvenal, Terencije.; Odabrani tekstovi rimske poezije; http://www.thelatinlibrary.com/, 
   2. Materijali na webu (Merlin) i materijali podijeljeni na satovima;, 
   3.   4.   5. 
-  
+
 **Preduvjeti za:**  
 > **Upis predmeta :**  
 >  Položen : [Latinski jezik 5](https://www.fhs.hr/predmet/latjez5)  
@@ -42,7 +40,6 @@
 > **Obavezni predmet** - Redovni studij - Latinski jezik  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/latjez6?@=20owp#news_80738 "Arhiva obavijesti")

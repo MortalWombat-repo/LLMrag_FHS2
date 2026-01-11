@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/camp)
 
 ## How Language Works: Introduction into Pragmatics
-  * [Basic data](https://www.fhs.hr/en/course/camp#v1id-523748_888892_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/camp#v1id-523748_888892_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/camp#v1id-523748_888892_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/camp#v1id-523748_888892_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/camp#v1id-159915_430997_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/camp#v1id-159915_430997_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/camp#v1id-159915_430997_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/camp#v1id-159915_430997_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kzp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/camp)
@@ -17,7 +17,7 @@
 **Lecturers:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Practicum  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
-**English level:** |  All teaching activities in the course will be held on English. This level includes courses with multiple groups (i.e., all teaching will be held strictly in Croatian for Croatian groups, and strictly in English for English groups).   
+**English level:** |  In agreement with the students enrolled in the course, the lecturer will provide as many teaching elements in English as possible, or in both English and Croatian for mixed groups (i.e., bilingual teaching materials and bilingual exams). Level 2 also includes additional individual consultations with foreign students (as in Level 1) for the teaching elements which will be held in Croatian.   
 **Load:**  
 ---  
 > ### 1. komponenta

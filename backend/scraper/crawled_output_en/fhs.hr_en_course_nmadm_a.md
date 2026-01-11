@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/nmadm_a)
 
 ## New Media and Digital Marketing
-  * [Basic data](https://www.fhs.hr/en/course/nmadm_a#v1id-523808_274931_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/nmadm_a#v1id-523808_274931_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/nmadm_a#v1id-523808_274931_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/nmadm_a#v1id-523808_274931_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/nmadm_a#v1id-159966_594671_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/nmadm_a#v1id-159966_594671_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/nmadm_a#v1id-159966_594671_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/nmadm_a#v1id-159966_594671_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/nmdm_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/nmadm_a)

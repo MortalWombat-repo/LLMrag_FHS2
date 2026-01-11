@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/meatm)
 
 ## Modern English and the Media
-  * [Basic data](https://www.fhs.hr/en/course/meatm#v1id-523803_87054_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/meatm#v1id-523803_87054_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/meatm#v1id-523803_87054_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/meatm#v1id-523803_87054_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/meatm#v1id-159963_33778_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/meatm#v1id-159963_33778_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/meatm#v1id-159963_33778_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/meatm#v1id-159963_33778_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sejumk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/meatm)

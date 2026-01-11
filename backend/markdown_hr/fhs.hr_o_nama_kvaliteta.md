@@ -7,7 +7,4 @@ Osnovna načela [Standarda i smjernica za osiguravanje kvalitete na Europskom pr
   * **- Osiguravanje kvalitete potiče razvoj kulture kvalitete.**
   * **- Osiguravanje kvalitete uzima u obzir potrebe i očekivanja studenata, svih drugih dionika i društva**
 
-
 [Standards and Guidelines for Quality Assurance in the European Higher Education Area (ESG)](https://ehea.info/media.ehea.info/file/ESG/00/2/ESG_2015_616002.pdf)
-  
-

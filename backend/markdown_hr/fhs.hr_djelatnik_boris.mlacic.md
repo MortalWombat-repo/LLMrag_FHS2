@@ -13,5 +13,4 @@ ODSJEK ZA PSIHOLOGIJU
   * [Diferencijalna psihologija (28722)](https://www.fhs.hr/predmet/difpsi) - Nositelj
   * [Teorijski sustavi i modeli u psihologiji ličnosti (38643)](https://www.fhs.hr/predmet/tsmupl) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/croort)
 
 ## Croatian orthography
-  * [Basic data](https://www.fhs.hr/en/course/croort#v1id-523761_890187_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/croort#v1id-523761_890187_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/croort#v1id-523761_890187_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/croort#v1id-523761_890187_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/croort#v1id-159927_908074_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/croort#v1id-159927_908074_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/croort#v1id-159927_908074_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/croort#v1id-159927_908074_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hrvpra) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/croort)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cisa)
 
 ## Croats in South America
-  * [Basic data](https://www.fhs.hr/en/course/cisa#v1id-523754_127251_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cisa#v1id-523754_127251_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cisa#v1id-523754_127251_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cisa#v1id-523754_127251_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cisa#v1id-159920_681060_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cisa#v1id-159920_681060_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cisa#v1id-159920_681060_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cisa#v1id-159920_681060_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/huja) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cisa)

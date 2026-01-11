@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/arafil#v1id-904792_447969_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/arafil#v1id-904792_447969_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/arafil) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/araphi)
 **Šifra:** |  213957  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -25,20 +24,17 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar** Ne predaje se  
 ---  
 > **FIL-DIPL (17983) - Istočne filozofije i kulture** - Redovni studij - Filozofija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **FIL-DIPL (17983) - Istočne filozofije i kulture** - Redovni studij - Filozofija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/arafil?@=21ci9#news_120733 "Arhiva obavijesti")

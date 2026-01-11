@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cnr)
 
 ## Croatian National Rulers
-  * [Basic data](https://www.fhs.hr/en/course/cnr#v1id-523757_647685_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cnr#v1id-523757_647685_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cnr#v1id-523757_647685_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cnr#v1id-523757_647685_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cnr#v1id-159924_404126_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cnr#v1id-159924_404126_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cnr#v1id-159924_404126_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cnr#v1id-159924_404126_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hnv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cnr)

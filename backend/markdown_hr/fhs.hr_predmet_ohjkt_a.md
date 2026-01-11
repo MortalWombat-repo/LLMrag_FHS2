@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ohjkt_a#v1id-904845_429341_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ohjkt_a#v1id-904845_429341_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ohjkt_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bclc_d)
 **Šifra:** |  188068  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,12 +28,10 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Hrvatski školski pravopis usklađen sa zaključcima Vijeća za normu hrvatskoga standardnoga jezika, Babić, Stjepan; Ham, Sanda; Moguš, Milan, Školska knjiga, 2008. 
   2. Gramatika hrvatskoga jezika: Priručnik za osnovno jezično obrazovanje, Težak, Stjepko; Babić, Stjepan, Školska knjiga, 2009. 
 
-  
 **1. semestar**  
 ---  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
@@ -46,7 +43,7 @@
 >  **TZP (17087) za jednopredmetne studije** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -59,7 +56,7 @@
 >  **TZP (17087) za jednopredmetne studije** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -69,7 +66,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **TZP (1888) - (obvezni) TZP** - Redovni studij - Filozofija i kultura  
 >  **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
@@ -80,7 +77,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
@@ -89,7 +86,7 @@
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **TZP (1888) - (obvezni) TZP** - Redovni studij - Komunikologija  
@@ -102,7 +99,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik)**: 
 Petkom u 10 sati.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/ohjkt_a?@=21t9l#news_114080)

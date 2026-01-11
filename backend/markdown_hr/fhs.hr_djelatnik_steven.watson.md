@@ -13,7 +13,6 @@ ODSJEK ZA SOCIOLOGIJU
 **diplomski**
   * [Phenomenological Sociology (269958)](https://www.fhs.hr/predmet/fsps) - Nositelj
 
-
 #### Životopis
 Steven Watson izvanredni je profesor transdisciplinarnih studija na Fakultetu obrazovanja Sveučilišta u Cambridgeu i član Wolfson Collegea. Njegovo se istraživanje temelji na konceptu autopoietičke ekologije, okviru koji ponovno promišlja trajnost i promjenu kao rekurzivne procese značenja, materije i tehnologije. Umjesto da znanje, društvo ili prirodu promatra kao čvrste temelje, autopoietička ekologija istražuje kako se sustavi neprestano obnavljaju kroz interakciju. Ovaj pristup nudi način promatranja obrazovanja, demokracije i društva u uvjetima ubrzane složenosti, klimatskih promjena i generativne umjetne inteligencije.
 Autopoietička ekologija istodobno je intelektualni okvir i praktična orijentacija. Za kritičku teoriju ona otvara put izvan esencijalizma i redukcionizma: ne pita što sustav „jest“ u svojoj biti, nego kako nastavlja postojati kroz vlastite operacije i odnose. U tom smislu pruža jezik za razumijevanje načina na koje institucije, javnosti i tehnologije opstaju bez potrebe za stabilnim temeljima ili univerzalnim istinama. Sugerira da održivost manje znači obnavljanje izgubljenih cjelina, a više njegovanje održivih povezanosti između sustava — bilo obrazovnih, građanskih, ekoloških ili tehnoloških. Ambiciozna je u svojem dosegu: to je teorija trajnosti bez temelja, koherentnosti bez biti i odnosa bez fuzije.
@@ -27,7 +26,6 @@ Trenutni projekti:
   * Principal Investigator, Horizon Europe MSCA Staff Exchange project  _I-CIVIC: Innovating Civic Engagement_ (2025–2029).
   * Convenor, [Cambridge Generative AI in Education Conference 2025](https://www.linkedin.com/company/cambridge-generative-ai-in-education-conference-2025/?viewAsMember=true) (27–29 October, Hilton Cambridge).
 
-
 Recentna istraživanja:
   1. Watson, S. (2025). [All operations are autopoietic: A processual ontology of self-sustaining action](https://www.researchgate.net/publication/392326482_All_Operations_Are_Autopoietic_A_Processual_Ontology_of_Self-Sustaining_Action).  _Preprint_.
   2. Watson, S. (2025). [Observing the environment of technology](https://doi.org/10.1002/sres.3050).  _Systems Research and Behavioral Science, 42_(2), 423–433.
@@ -39,6 +37,5 @@ Recentna istraživanja:
   8. Marschall, G., Watson, S., Kimber, E., & Major, L. (2024). [A transdisciplinary study of a novice mathematics teacher’s instructional decision-making](https://doi.org/10.1007/s10857-024-09597-0).  _Journal of Mathematics Teacher Education_ , 1–26.
   9. Watson, S. (2021). [New Right 2.0: Teacher populism on social media in England](https://doi.org/10.1002/berj.3688).  _British Educational Research Journal, 47_(2), 299–315.
   10. Major, L., & Watson, S. (2018). [Using video to support in-service teacher professional development: The state of the field, limitations and possibilities](https://doi.org/10.1080/1475939X.2017.1421670).  _Technology, Pedagogy and Education, 27_(1), 49–68.
-
 
 #### Znanstveni radovi (CroRIS)

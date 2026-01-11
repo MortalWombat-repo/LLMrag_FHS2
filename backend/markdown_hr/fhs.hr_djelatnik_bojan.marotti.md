@@ -13,5 +13,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Međujezični dodiri i ustroj hrvatskoga jezika (190408)](https://www.fhs.hr/predmet/mduhj) - Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

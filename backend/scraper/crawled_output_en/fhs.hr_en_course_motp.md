@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/motp)
 
 ## Methods of Teaching Psychology
-  * [Basic data](https://www.fhs.hr/en/course/motp#v1id-523806_159730_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/motp#v1id-523806_159730_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/motp#v1id-523806_159730_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/motp#v1id-523806_159730_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/motp#v1id-159965_278858_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/motp#v1id-159965_278858_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/motp#v1id-159965_278858_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/motp#v1id-159965_278858_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mnp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/motp)

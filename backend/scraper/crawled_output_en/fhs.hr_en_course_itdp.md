@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/itdp)
 
 ## Introduction to Developmental Psychology
-  * [Basic data](https://www.fhs.hr/en/course/itdp#v1id-523790_551093_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/itdp#v1id-523790_551093_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/itdp#v1id-523790_551093_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/itdp#v1id-523790_551093_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/itdp#v1id-159951_910164_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/itdp#v1id-159951_910164_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/itdp#v1id-159951_910164_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/itdp#v1id-159951_910164_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uurp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itdp)

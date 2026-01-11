@@ -20,7 +20,3 @@ Objavljeni zbornici:
   * [_Zbornik o Stipanu Margitiću_](https://www.fhs.hr/images/50043114/Margitic_merged.pdf), Zagreb 2015.
   * [_Zbornik o Sebastijanu Sladi_ ,](https://www.fhs.hr/images/50043114/Slade.pdf) Zagreb 2016.
   * _[Zbornik o Jerolimu Lipovčiću](https://www.fhs.hr/images/50043114/Lipovcic_merged.pdf), _Zagreb 2018.
-
-
-  
-

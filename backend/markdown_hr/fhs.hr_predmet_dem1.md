@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/dem1#v1id-904793_872311_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/dem1#v1id-904793_872311_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dem1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/dem1)
 **Šifra:** |  194388  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Monika Komušanac](https://www.fhs.hr/djelatnik/monika.komusanac)   
-  
+
 **Izvođači:** |  [Borna Mažar](https://www.fhs.hr/djelatnik/borna.mazar), mag. geogr. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -57,11 +56,9 @@
 >  21. i dalje Izlaganje seminarskoga rada i osvrt na njega.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. "Stanovništvo i razvoj", Wertheimer-Baletić, Alica. Stanovništvo i razvoj, MATE, Zagreb, 1999., Wertheimer-Baletić, Alica, MATE, 1999. 
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -73,7 +70,6 @@ Lokacija: 710 (zgrada 77)
   * **[Borna Mažar](https://www.fhs.hr/djelatnik/borna.mazar), mag. geogr.**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: 716 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/dem1?@=2179n#news_115582 "Arhiva obavijesti")

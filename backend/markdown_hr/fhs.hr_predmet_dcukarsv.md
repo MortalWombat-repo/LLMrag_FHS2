@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/dcukarsv#v1id-904793_359118_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/dcukarsv#v1id-904793_359118_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dcukarsv) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cbcilaatema)
 **Šifra:** |  209791  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Eva Katarina Glazer](https://www.fhs.hr/djelatnik/eva_katarina.glazer)   
-  
+
 **Izvođači:** |  dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -28,10 +27,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **POV (17190) - Izborni predmeti: Srednjovjekovna povijest** - Redovni studij - Povijest  
@@ -45,7 +42,6 @@ Lokacija:
   * **dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
 Konzultacije utorkom od 12 i 15 do 13 i 15h. 
 Lokacija: 103 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/dcukarsv?@=21ezo#news_118211)

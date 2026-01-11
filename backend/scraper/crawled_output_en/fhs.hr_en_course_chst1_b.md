@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/chst1_b)
 
 ## Croatian History - Selected Topics 1929-1941
-  * [Basic data](https://www.fhs.hr/en/course/chst1_b#v1id-523754_207721_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/chst1_b#v1id-523754_207721_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/chst1_b#v1id-523754_207721_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/chst1_b#v1id-523754_207721_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/chst1_b#v1id-159919_574130_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/chst1_b#v1id-159919_574130_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/chst1_b#v1id-159919_574130_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/chst1_b#v1id-159919_574130_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/itihp1_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/chst1_b)

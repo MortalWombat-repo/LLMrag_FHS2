@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/oprd#v1id-904846_685255_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/oprd#v1id-904846_685255_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/oprd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/emeawh)
 **Šifra:** |  38054  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -27,7 +26,6 @@
 > Temeljni ciljevi predmeta jesu približiti studentima ranonovovjekovlje na jednostavan i pregledan način, ukazati im na isprepletenost događaja i procesa na europskoj i svjetskoj razini toga razdoblja (apsolutizam, vjerska previranja, znanstvena revolucija, vještice i sl.) te ih potaknuti na komparativna razmišljanja o kulturno-političkim dodirima i susretima na globalnoj razini.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Gerard du Ry van Beest Holle (gl. ur.); Velika ilustrirana povijest Svijeta, sv. 11 1454.-1600.; Otokar Keršovani, Rijeka (1977), 
   2. Gerard du Ry van Beest Holle (gl. ur.); Velika ilustrirana povijest Svijeta, sv. 12 1600.-1714.; Otokar Keršovani, Rijeka (1977), 
@@ -35,7 +33,6 @@
   4. Slaven Bertoša; Svjetska povijest modernoga doba (XVI.-XIX. stoljeće) s posebnim osvrtom na Apeninski poluotok; Profil International, Zagreb (2004), 
   5. P. J. Adler, R. L. Pouwels (ur.); World Civilizations, 283-428.; Wadsworth Cengage Learning (2010), 
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Povijest  
@@ -43,10 +40,9 @@
 >   
 Termini konzultacija: 
   * **prof. dr. sc.[Darko Vitek](https://www.fhs.hr/djelatnik/darko.vitek)**: 
-  
+
 srijedom od 15,00 do 16,00 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/oprd?@=21djf#news_79954)

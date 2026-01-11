@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/filpov_b#v1id-904804_805015_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/filpov_b#v1id-904804_805015_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filpov_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poh_b)
 **Šifra:** |  187889  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija i kultura  
@@ -38,7 +35,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)**: 
 Utorak 14-15h 
 Lokacija: 18 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/filpov_b?@=21tbp#news_114430)

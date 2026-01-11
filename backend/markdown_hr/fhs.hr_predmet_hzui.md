@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hzui#v1id-904822_80213_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hzui#v1id-904822_80213_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hzui) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cwie)
 **Šifra:** |  238015  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic)   
-  
+
 **Izvođači:** |  dr. sc. [Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -89,10 +88,8 @@
 >  15. Rekapitulacija sadržaja kolegija  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -101,7 +98,6 @@ Termini konzultacija:
   * **dr. sc.[Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor)**: 
 Četvrtkom od 11 do 12 ili prema dogovoru.
 Lokacija: 710 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hzui?@=21izt#news_122319 "Arhiva obavijesti")

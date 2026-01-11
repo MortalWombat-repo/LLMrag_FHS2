@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hidr#v1id-904810_151181_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hidr#v1id-904810_151181_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hidr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ceathw)
 **Šifra:** |  238018  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -60,16 +59,13 @@
 >  15. Hrvatska budućnost između domovine i imovine; nekomu metak a nekomu imetak.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hidr?@=21j1i#news_122305 "Arhiva obavijesti")

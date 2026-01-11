@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/eij)
 
 ## Ethics in Journalism
-  * [Basic data](https://www.fhs.hr/en/course/eij#v1id-523771_621992_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/eij#v1id-523771_621992_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/eij#v1id-523771_621992_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/eij#v1id-523771_621992_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/eij#v1id-159936_95736_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/eij#v1id-159936_95736_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/eij#v1id-159936_95736_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/eij#v1id-159936_95736_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/noveti) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/eij)

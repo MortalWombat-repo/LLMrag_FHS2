@@ -15,7 +15,6 @@ ODSJEK ZA PSIHOLOGIJU
   * [Emocije (37811)](https://www.fhs.hr/predmet/emo_a) - Nositelj
   * [Kvalitativne metode (86411)](https://www.fhs.hr/predmet/kvamet) - Nositelj, Seminar
 
-
 **diplomski**
   * [Psihoterapijski pravci (53871)](https://www.fhs.hr/predmet/psipra) - Nositelj, Seminar
   * [Socijalna spoznaja i percepcija (57109)](https://www.fhs.hr/predmet/ssp) - Nositelj
@@ -23,6 +22,5 @@ ODSJEK ZA PSIHOLOGIJU
   * [Vještine u pružanju psihološke pomoći (173685)](https://www.fhs.hr/predmet/vuppp_a) - Nositelj
   * [Izrada diplomskoga rada (126008)](https://www.fhs.hr/predmet/idr_b) - Seminar
   * [Izrada diplomskoga rada (193872)](https://www.fhs.hr/predmet/idr_d) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

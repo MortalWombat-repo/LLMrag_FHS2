@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/did#v1id-904795_428213_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/did#v1id-904795_428213_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/did) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/did_a)
 **Šifra:** |  96487  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,12 +29,11 @@
 > Cilj kolegija je upoznati studente s didaktikom kao teorijom učenja i poučavanja, drugim predmetima istraživanja didaktike kako kroz povijest tako i danas, didaktičkom epistemologijom, društveno-humanističkim osnovama didaktike te nadasve didaktičkim postupkom u nastavi koji se strukturira kroz planiranje, izvođenje i evaluiranje nastave.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Pranjić, M; Didaktika: povijest, osnove, profiliranje, postupak; Golden marketing - Tehnička knjiga - Hrvatski studiji Sveučilišta u Zagrebu (2005), 
   2. Profesorova predavanja koja svake godine donose novine s područja didaktičke publicistike i najnovijih razmišljanja o pojedinom didaktičkom problemu vezanom za nastavu, nastavnika, učenika, nastavne planove i programe itd.;, 
   3.   4.   5. 
-  
+
 **1. semestar**  
 ---  
 > **EDU(17065) Nastavnički modul - Obvezni kolegiji** - Redovni studij - Filozofija  
@@ -48,15 +46,15 @@
 >  **DIPL(18141): Izborno (NASTAVNIČKI MODUL)** - Redovni smjer - Znanstveni  
 >  **DIPL(18141): Izborno (NASTAVNIČKI MODUL)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar**  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **PSI-dipl (4390): Izborno (NASTAVNIČKI MODUL)** - Redovni studij - Psihologija  
 >   
@@ -64,7 +62,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)**: 
 Srijedom od 13 do 14 sati, soba br. 106
 Lokacija: 106 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/did?@=21l91#news_82264)

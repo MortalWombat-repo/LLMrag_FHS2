@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **diplomski**
   * [Mediji i bioetika (64815)](https://www.fhs.hr/predmet/mib) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

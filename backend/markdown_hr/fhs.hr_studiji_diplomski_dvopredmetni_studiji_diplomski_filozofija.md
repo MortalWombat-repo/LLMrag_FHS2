@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/filozofija#v1id-904757_312499_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/filozofija#v1id-904757_312499_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -138,4 +137,4 @@ ECTS | FIL-DIPL (17983) - Istočne filozofije i kulture
 3.0 |  [Arapska filozofija (213957)](https://www.fhs.hr/predmet/arafil) * |  | 30 30P |  [__](javascript:show_window\('/.cms/predmet_info?_v1=I73za1gcBXVdkDFN6fG5BzIHRE1dEG9z0DZoiDPaJ2_3g6rXkHAiHibzhBQpk_JcU1286TMBsQChya6N-rCjUb1KJdey0D42s83ievsJnBJ4zIg_rZ4rYLYdkKkWHuE2rxVcDrhVJZ77GEYqMUMjsCTgiB23NUy9Qc4zeT7P-MBKfbCIpc73nAyCZX9IEDZLeUUg-Q==&_v1flags=msnElzfRUO6t7U_OGHpkVo_BPmYIqtLt1Cglp7ro4Ip1BWh1gSJ_9KVLOO38X_rCSlDZMlPOp2vaHD4j4sSIPB5g8AcOG7rIO_v7vl4sH9XQvjG1OL9Ky1vICWi8X7neeOhEGAK3mISBdtq_Z04_irVenXyZeWvF0jQNKIC9WGhF9oSp&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Indijska filozofija (213958)](https://www.fhs.hr/predmet/indfil) Andrijanić, I. |  | 30 30P |  [__](javascript:show_window\('/.cms/predmet_info?_v1=6aRfxIcd2lPOiIwj78ezz8bR-BYe_sFvC2FfrX5KDStrI0JOtFqBMgschWWBfdNkpI498iotRs-Xf2EhEZO9Ql8o2UKvMPVtuZolOxqefpAMwAB8Dc6Mm9q1UuYe9C4jGmd0H0XPmebLhOgBXaJq26Whfks1EidOo8khbOq0QIyhz4T7edr4ZXK2N213Hg6HS0Mvyg==&_v1flags=emdNhg89TG_UMHqnrExnwcdJp-jY-VJCoF3Gz0qfcLR2ps9nwmOSyFWn31GxXLe_4KVv11SyCsJSW_ojRUDKlPzuRSHZiukR5-fcGIYLX2jCSmE92ySh_xqDCpAcG16zGy0X7vPX5Loytwd8tmtv21xewV3lwWdhQyls1CqnQ712zf45&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

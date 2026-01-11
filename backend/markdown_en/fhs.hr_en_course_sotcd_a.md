@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sotcd_a)
 
 ## Sociology of the Croatian Diaspora
-  * [Basic data](https://www.fhs.hr/en/course/sotcd_a#v1id-523836_562188_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sotcd_a#v1id-523836_562188_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sotcd_a#v1id-523836_562188_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sotcd_a#v1id-523836_562188_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sotcd_a#v1id-159991_43258_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sotcd_a#v1id-159991_43258_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sotcd_a#v1id-159991_43258_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sotcd_a#v1id-159991_43258_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shd_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sotcd_a)

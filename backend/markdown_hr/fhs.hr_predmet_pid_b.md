@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/pid_b#v1id-904852_643676_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pid_b#v1id-904852_643676_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pid_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pas_b)
 **Šifra:** |  285532  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |   
@@ -26,36 +25,33 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **SOC (1770) - Izborni kolegiji (2.)** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/pid_b?@=21tv5#news_132487 "Arhiva obavijesti")

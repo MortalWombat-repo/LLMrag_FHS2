@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hcocc)
 
 ## Historical Cartography of Croatian countries
-  * [Basic data](https://www.fhs.hr/en/course/hcocc#v1id-523780_965585_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hcocc#v1id-523780_965585_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hcocc#v1id-523780_965585_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hcocc#v1id-523780_965585_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hcocc#v1id-159944_619857_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hcocc#v1id-159944_619857_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hcocc#v1id-159944_619857_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hcocc#v1id-159944_619857_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pkhz) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hcocc)

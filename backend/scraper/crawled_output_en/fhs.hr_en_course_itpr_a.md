@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/itpr_a)
 
 ## Introduction to Public Relations
-  * [Basic data](https://www.fhs.hr/en/course/itpr_a#v1id-523789_477799_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/itpr_a#v1id-523789_477799_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/itpr_a#v1id-523789_477799_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/itpr_a#v1id-523789_477799_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/itpr_a#v1id-159952_387136_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/itpr_a#v1id-159952_387136_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/itpr_a#v1id-159952_387136_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/itpr_a#v1id-159952_387136_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uuosj_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itpr_a)

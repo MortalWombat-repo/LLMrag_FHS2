@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ceaac_a)
 
 ## Croatian Emigrant Art and Culture
-  * [Basic data](https://www.fhs.hr/en/course/ceaac_a#v1id-523750_763046_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ceaac_a#v1id-523750_763046_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ceaac_a#v1id-523750_763046_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ceaac_a#v1id-523750_763046_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ceaac_a#v1id-159918_771087_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ceaac_a#v1id-159918_771087_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ceaac_a#v1id-159918_771087_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ceaac_a#v1id-159918_771087_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hiuk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ceaac_a)

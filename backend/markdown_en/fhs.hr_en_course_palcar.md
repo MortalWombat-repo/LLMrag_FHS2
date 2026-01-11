@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/palcar)
 
 ## Palliative Care
-  * [Basic data](https://www.fhs.hr/en/course/palcar#v1id-523811_105799_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/palcar#v1id-523811_105799_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/palcar#v1id-523811_105799_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/palcar#v1id-523811_105799_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/palcar#v1id-159968_516841_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/palcar#v1id-159968_516841_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/palcar#v1id-159968_516841_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/palcar#v1id-159968_516841_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/palskr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/palcar)

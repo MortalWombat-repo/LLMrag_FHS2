@@ -9,7 +9,6 @@ Nastavu na doktorskom studiju povijesti na Fakultetu hrvatskih studija izvode na
 Inovativnost doktorskoga studija nalazi se prvenstveno u organizaciji koja se temelji na integraciji znanstveno-istraživačke i nastavne sveučilišne djelatnosti, te generacijske i interdisciplinarne kolaborativnosti. S obzirom na dominantnu istraživačku pozadinu nastavnika cijeli je studij koncipiran prema njihovom profilu i kompetencijama. Naime, s obzirom na ustanovu u kojoj rade, nastavnici, osim što imaju veliko teorijsko znanje, imaju i veliko praktično iskustvo u koncipiranju i provođenju znanstveno-istraživačkih zadaća. Doktorski studij povijesti u potpunosti slijedi koncepciju i organizaciju studija povijesti na preddiplomskoj i diplomskoj razini i predstavlja završnu fazu u provedbi ideje generacijske solidarnosti i pragmatičnosti na način da iskusnija, starija generacija pomaže mlađoj generaciji prepoznati i zaobići "zamke" povijesnih istraživanja. 
 Studij povijesti na Fakultetu hrvatskih studija Sveučilišta u Zagrebu prvi je među humanističkim znanostima u Republici Hrvatskoj uveo ECTS bodovni sustav (u akademskoj godini 2003./2004.) te svoj nastavni plan i program prilagodio bolonjskom procesu. Doktorski studiji povijesti u potpunosti slijedi ciljeve koji su naglašeni na Bologna Seminar u Salzburgu (3.-5.02.2005.), u Glasgow Declaration (15.04.2005.) i Bergen Communique (19./20.05.2005.).
 Što se otvorenosti studija prema pokretljivosti studenata tiče polaznik doktorskog studija može slušati obvezatne i izborne kolegije na bilo kojem studijskom smjeru ili sastavnici bilo kojeg sveučilišta u Republici Hrvatskoj pod uvjetom da za taj kolegij postoje točno određena ECTS vrijednost. Polaznik doktorskog studija u načelu mora jedan semestar provesti na stranom sveučilištu i tamo prikupiti 30 ECTS bodova. Fakultetsko vijeće Fakulteta hrvatskih studija odlučit će o svakom presedanu vezanom za izbor izbornih i obvezatnih kolegija izvan matične kuće, a na temelju obrazložene zamolbe polaznika.
-  
 
 ## Repozitorij
   * [ repo-pov ](https://www.fhs.hr/studiji/doktorski/povijest)
@@ -44,7 +43,6 @@ Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:50_
 [ 8.2_opis_predmeta_doktorski_povijest _[306,74 KiB]_ ](https://www.fhs.hr/_download/repository/repo-pov/8.2_opis_predmeta_doktorski_povijest.pdf)
 Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:50_
 
-
 ## Povijest
 2025/2026 
 [2025/2026](https://www.fhs.hr/studiji/doktorski/povijest?ak=2025#akgod) [2024/2025](https://www.fhs.hr/studiji/doktorski/povijest?ak=2024#akgod) [2023/2024](https://www.fhs.hr/studiji/doktorski/povijest?ak=2023#akgod) [2022/2023](https://www.fhs.hr/studiji/doktorski/povijest?ak=2022#akgod)
@@ -54,7 +52,6 @@ Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:50_
   * [3.sem](https://www.fhs.hr/studiji/doktorski/povijest#v1id-904764_154873_2_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/doktorski/povijest#v1id-904764_154873_2_4 "4.sem")
   * [5.sem](https://www.fhs.hr/studiji/doktorski/povijest#v1id-904764_154873_2_5 "5.sem")
-
 
 1. semestar, 1. godina  
 ---  
@@ -137,4 +134,4 @@ ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
 60.0 |  [Doktorski rad (264246)](https://www.fhs.hr/predmet/dokrad) |  -  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=K7MH9A8dxm7kSdlF2aZmqrM-W6EbOk7G_QYUjQ-kEi2HuLCqQn-La3VmCNqySKIUlHQBRKvKW4n0UEoc2C2ALOOlZetJiHYIymzJ1BiuDrwNSRHavzvcuCDQDOW8Jf4TYMvwahYn5pP7vjxtNV4gBHlIDug-TMaeWPDyp_JIRts6RD6lkGi395CG_qbqQz_NmjV18A==&_v1flags=R0A15OFZviCBcAoESQlyAFSfyM6lmkQCTVqedUVJhrMpxBYPJkRky3PQopt71lgqWF-y2yyIWLZUaZUkrOOhyrfcJuzmh2KkPcNM1lKRE7Ioolkgfkgsz4dgS3H4tKcLQcMgJ3WfPacB672JdM_fc5ddcUTWmCUseG0qcNuHeJ5qW_g1&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

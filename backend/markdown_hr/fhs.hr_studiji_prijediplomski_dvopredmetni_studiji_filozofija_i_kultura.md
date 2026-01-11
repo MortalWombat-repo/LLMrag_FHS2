@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/filozofija_i_kultura#v1id-904768_320572_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/filozofija_i_kultura#v1id-904768_320572_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -270,4 +269,4 @@ ECTS | FIL (1826): Izborni kolegiji
 3.0 |  [Uvod u umjetnu inteligenciju (227468)](https://www.fhs.hr/predmet/uuui) Skansi, S. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=S5xONHj3F75ddQMG7pR2hCqKlgl359Hg-cQjsD-BdAtSlL99_hCiD9lt4GKNB91QvQI8OfufpNkNrZOV0kJdt7PKD5t4QiQ_4D6jEJsQ0KZDt-hcdU7edHZau_FZZGePvFqq6tcxxHFTth8gwvzIV8xiGIc37wyyUOz-RnA4JDPQKzo58KiMUW2Hpis_0U9Y3NL15w==&_v1flags=H42UV9bGXh4kmAVrGjw0FCwHes8zzNSrI8rz7cthSCFyzh1vjKUp3m0X3K_5pcZOru-kqPAEZB52vBi0H4L0qiYT9q1eLDhMnDnKtG38cUVU1Aewld2Y7UUYk3WTRYWj5aawKjTpOySzHT0feQ2FauOXteMHKqI3LQpO3_ZqZk2HQ0ji&_lid=82933&_rand=0',%20''\))  
 5.0 |  [Vršnjačka potpora studentima s invaliditetom (86437)](https://www.fhs.hr/predmet/vpssi) |  | 120 15P+105PK |  [__](javascript:show_window\('/.cms/predmet_info?_v1=WwqSxF_lfM00XiJHpUqGWkbokHnVVqL-PV0buSOWKpQVJKVf30NB-pYjGW6ghYk5H_DqTdGy4pm-A_c8hmXCITEGmA6EFGiaTNJzsdDbDELhwkxiDhYVltN9lvpLVzoHkccbZP1SeI_QUxvNirqA124nTqhG7JbxsaEhfeXSMqOPkf2aDjpOYYFhKR_nGOdYG_c1zg==&_v1flags=vMs82BBNYOWMhmxaGP-337E_IhZygyllwDjhvOCkXgoKDw3nYp3ha_JyPfp9W31SdjHzoaUkibo-vQMZy9TZa4T_FVOy0YCO2bkNoS-mhGbTAIZnF1n2yFonHPakIw8ylX9pCPiYl-pq8WBUaZrQceByIoVHS6LS4usEdTYHo9scains&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

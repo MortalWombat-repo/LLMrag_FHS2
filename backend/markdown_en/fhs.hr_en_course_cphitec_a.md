@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cphitec_a)
 
 ## Croatian Philosophical Heritage in the European Context
-  * [Basic data](https://www.fhs.hr/en/course/cphitec_a#v1id-523759_813306_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cphitec_a#v1id-523759_813306_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cphitec_a#v1id-523759_813306_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cphitec_a#v1id-523759_813306_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cphitec_a#v1id-159926_655359_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cphitec_a#v1id-159926_655359_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cphitec_a#v1id-159926_655359_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cphitec_a#v1id-159926_655359_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hfbuek_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cphitec_a)

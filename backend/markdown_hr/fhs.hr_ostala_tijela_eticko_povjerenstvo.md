@@ -8,7 +8,6 @@ Priložene dokumente treba imenovati tako da naziv počinje prezimenom i imenom 
   * - Prezime_Ime_Suglasnost za sudionike
   * - Prezime_Ime_Upitnik za korisnike
 
-
 Ako je istraživanje prethodno odobrilo neko etičko povjerenstvo, to odobrenje treba biti sastavni dio dokumentacije koja se prilaže uz prijavu istraživanja Etičkomu povjerenstvu Fakulteta hrvatskih studija.
 Etičko povjerenstvo  
 Fakultet hrvatskih studija  
@@ -38,7 +37,6 @@ U svojem radu Etičko povjerenstvo:
   * - provodi postupke sukladno Etičkomu kodeksu Sveučilišta u Zagrebu,
   * - pomaže ostvarivanju zajedničkoga dobra i javnoga interesa, izgradnji dostojanstva i ugleda Fakulteta hrvatskih studija Sveučilišta u Zagrebu, povjerenju društvene i akademske zajednice u sustav visoke naobrazbe.
 
-
 "Etičko povjerenstvo Fakulteta hrvatskih studija Sveučilišta u Zagrebu rješava zahtjeve Fakultetskoga vijeća, dekana i prijepora studenata koji nisu riješeni na Etičkom povjerenstvu odsjeka“ (Odluka 10. sjednice Dekanskoga kolegija od 18. lipnja 2020., pod točkom 6.1.). Stoga su mentori i studenti upućeni da suglasnost za istraživanje za potrebe studentskoga rada zatraže od etičkoga povjerenstva svojega odsjeka.
 Zadnja promjena: 15. srpnja 2025.
 **Dokumenti**
@@ -49,7 +47,3 @@ Zadnja promjena: 15. srpnja 2025.
   * [Etički kodeks Odbora za etiku u znanosti i visokom obrazovanju (2006.)](https://www.fhs.hr/images/50014335/Eticki_kodeks.pdf)
   * [European Code of Conduct for Research Integrity (2011.)](https://www.fhs.hr/images/50014335/Code_Conduct_ResearchIntegrity.pdf)
   * [Responsible Conduct in the Global Research Enterprise (2012.)](https://www.fhs.hr/images/50014335/ResponsibleConductintheGlobalResearchEnterprise.pdf)
-
-
-  
-

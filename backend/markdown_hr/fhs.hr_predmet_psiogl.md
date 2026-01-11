@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/psiogl#v1id-904862_236366_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/psiogl#v1id-904862_236366_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psiogl) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poa_c)
 **Šifra:** |  206651  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -33,7 +32,6 @@
   6. Primijeniti osnovne vještine kreiranja kampanja koristeći različite platforme
   7. Primijeniti vlastite komunikacijske i socijalne vještine u odnosu s klijentima.
 
-  
 **Literatura:**  
   1. Digital Marketing Excellence. Plannig, Optimizing and Integrating Online Marketing, Chaffey, D. i Smith, P.R, New York: Routlege., 2017. 
   2. Briliant B2B Digital Marketing., Powers, R. i Chaffey, D, Smart Insights Marketing Intelligence, 2012. 
@@ -41,17 +39,15 @@
   4. Zakon o zaštiti potrošača (Narodne novine, broj 41/14, 110/15, 14/19), Narodne novine, 
   5. Zakon o provedbi Opće uredbe o zaštiti podataka (Narodne novine, broj 42/18), Narodne novine, 
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/psiogl?@=218oo#news_117648 "Arhiva obavijesti")

@@ -12,5 +12,4 @@ ODSJEK ZA SOCIOLOGIJU
 **prijediplomski**
   * [Postindustrijsko društvo (285534)](https://www.fhs.hr/predmet/posdru_d) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

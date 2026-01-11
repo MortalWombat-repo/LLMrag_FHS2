@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/aosrm)
 
 ## Applications of Social Research Methods
-  * [Basic data](https://www.fhs.hr/en/course/aosrm#v1id-523743_652599_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/aosrm#v1id-523743_652599_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/aosrm#v1id-523743_652599_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/aosrm#v1id-523743_652599_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/aosrm#v1id-159911_391094_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/aosrm#v1id-159911_391094_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/aosrm#v1id-159911_391094_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/aosrm#v1id-159911_391094_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pmdi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/aosrm)

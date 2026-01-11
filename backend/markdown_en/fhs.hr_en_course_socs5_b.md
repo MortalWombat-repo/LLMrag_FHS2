@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/socs5_b)
 
 ## Sociology of Croatian Society 5
-  * [Basic data](https://www.fhs.hr/en/course/socs5_b#v1id-523834_819981_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/socs5_b#v1id-523834_819981_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/socs5_b#v1id-523834_819981_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/socs5_b#v1id-523834_819981_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/socs5_b#v1id-159989_900577_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/socs5_b#v1id-159989_900577_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/socs5_b#v1id-159989_900577_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/socs5_b#v1id-159989_900577_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shd5_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/socs5_b)

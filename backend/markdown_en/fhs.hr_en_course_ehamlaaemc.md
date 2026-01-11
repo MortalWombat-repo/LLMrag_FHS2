@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ehamlaaemc)
 
 ## Emperors, heretics and monks:shaping late antique and early medieval Christianity
-  * [Basic data](https://www.fhs.hr/en/course/ehamlaaemc#v1id-523772_38322_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ehamlaaemc#v1id-523772_38322_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ehamlaaemc#v1id-523772_38322_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ehamlaaemc#v1id-523772_38322_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ehamlaaemc#v1id-159936_806661_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ehamlaaemc#v1id-159936_806661_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ehamlaaemc#v1id-159936_806661_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ehamlaaemc#v1id-159936_806661_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/chrokrk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ehamlaaemc)
@@ -14,7 +14,7 @@
 **ECTS:** |  3.0   
 **Lecturers in charge:** |  prof. dr. sc. [Mladen Tomorad](https://www.fhs.hr/staff/mladen.tomorad)   
   
-**Lecturers:** |  dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -60,7 +60,7 @@ Monday 7:30-8:00, 9:20-9:35 (lecture room Čakovec) and after lecture at 10:50 (
 Lectures during Summer semester: Monday 8:00-9:20, 9:35-10:50.
 Lectures during Winter semester: Monday 8:00-12:40, Tuesday 8:00-11:05.
 Location: 25 
-  * **dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
+  * **doc. dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
 Consultations: Tuesdays 12:15 - 13:15 pm
 Location: 103 
 

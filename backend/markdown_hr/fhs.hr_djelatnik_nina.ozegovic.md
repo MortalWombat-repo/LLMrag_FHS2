@@ -12,9 +12,7 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Magazini i revije (28489)](https://www.fhs.hr/predmet/mir) - Seminar
 
-
 **diplomski**
   * [Kulturološki aspekti masovne komunikacije (63567)](https://www.fhs.hr/predmet/kamk) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

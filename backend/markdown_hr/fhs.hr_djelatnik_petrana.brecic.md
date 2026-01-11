@@ -13,9 +13,7 @@ ODSJEK ZA PSIHOLOGIJU
   * [Opća psihopatologija (38642)](https://www.fhs.hr/predmet/opcpsi) - Nositelj
   * [Specifična psihopatologija (28732)](https://www.fhs.hr/predmet/spepsi) - Nositelj
 
-
 **diplomski**
   * [Izrada diplomskoga rada (126008)](https://www.fhs.hr/predmet/idr_b) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

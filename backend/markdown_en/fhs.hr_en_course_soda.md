@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/soda)
 
 ## Sociology of Drug Abuse
-  * [Basic data](https://www.fhs.hr/en/course/soda#v1id-523835_495365_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/soda#v1id-523835_495365_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/soda#v1id-523835_495365_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/soda#v1id-523835_495365_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/soda#v1id-159989_473829_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/soda#v1id-159989_473829_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/soda#v1id-159989_473829_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/soda#v1id-159989_473829_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sud) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/soda)

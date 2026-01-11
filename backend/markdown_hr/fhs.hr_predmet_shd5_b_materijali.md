@@ -21,5 +21,3 @@ Objavljeno: _Andreja Sršen -_ _7. 12. 2023. u 10:59_
   * ![](https://www.fhs.hr/_themes339/hrstud2024/default/icons_file/unknown32.png)
 [ KONAČNE OCJENE shd 5 _[11,29 KiB]_ ](https://www.fhs.hr/_download/repository/KONA%C4%8CNE%20OCJENE%20%20shd%205.xlsx)
 Objavljeno: _Andreja Sršen -_ _24. 1. 2024. u 11:42_
-
-

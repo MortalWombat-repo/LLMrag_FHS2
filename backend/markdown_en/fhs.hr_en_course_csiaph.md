@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/csiaph)
 
 ## Croatian Spring: Intellectual and Political History
-  * [Basic data](https://www.fhs.hr/en/course/csiaph#v1id-523764_306493_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/csiaph#v1id-523764_306493_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/csiaph#v1id-523764_306493_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/csiaph#v1id-523764_306493_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/csiaph#v1id-159929_390829_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/csiaph#v1id-159929_390829_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/csiaph#v1id-159929_390829_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/csiaph#v1id-159929_390829_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hpipp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/csiaph)

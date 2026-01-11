@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/wie)
 
 ## Writing in English
-  * [Basic data](https://www.fhs.hr/en/course/wie#v1id-523845_965895_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/wie#v1id-523845_965895_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/wie#v1id-523845_965895_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/wie#v1id-523845_965895_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/wie#v1id-159998_634901_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/wie#v1id-159998_634901_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/wie#v1id-159998_634901_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/wie#v1id-159998_634901_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pnej) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/wie)

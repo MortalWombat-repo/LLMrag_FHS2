@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/grerel)
 
 ## Greco-Roman Religion
-  * [Basic data](https://www.fhs.hr/en/course/grerel#v1id-523780_493170_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/grerel#v1id-523780_493170_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/grerel#v1id-523780_493170_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/grerel#v1id-523780_493170_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/grerel#v1id-159942_383540_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/grerel#v1id-159942_383540_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/grerel#v1id-159942_383540_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/grerel#v1id-159942_383540_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/grcrel) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/grerel)

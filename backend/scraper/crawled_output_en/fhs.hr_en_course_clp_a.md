@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clp_a)
 
 ## Croatian Language Policy
-  * [Basic data](https://www.fhs.hr/en/course/clp_a#v1id-523757_134441_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clp_a#v1id-523757_134441_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clp_a#v1id-523757_134441_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clp_a#v1id-523757_134441_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clp_a#v1id-159922_329784_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clp_a#v1id-159922_329784_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clp_a#v1id-159922_329784_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clp_a#v1id-159922_329784_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hjp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clp_a)

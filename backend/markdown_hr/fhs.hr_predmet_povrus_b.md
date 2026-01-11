@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/povrus_b#v1id-904858_968017_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/povrus_b#v1id-904858_968017_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/povrus_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hor_c)
 **Šifra:** |  214657  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -31,17 +30,15 @@
   3. imenovati najistaknutije povijesne ličnosti
   4. opisati značajke ruske povijesti u europskom i svjetskom kontekstu
 
-  
 **Literatura:**  
   1. Ikona i sekira. Istorija ruske kulture, jedno tumačenje, Bilington, Džejms., 1988. 
 
-  
 **3. semestar**  
 ---  
 > **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >  **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
 >  **POV (17191) - Izborni predmeti: Povijest ranoga novoga vijeka i 19.st.** - Redovni studij - Povijest  
@@ -50,7 +47,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Kristina Milković](https://www.fhs.hr/djelatnik/kristina.milkovic)**: 
 Srijedom od 11:15 do 12:15.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/povrus_b?@=21gjd#news_119214)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/taiolt)
 
 ## Theory and interpretation of literary text
-  * [Basic data](https://www.fhs.hr/en/course/taiolt#v1id-523839_297502_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/taiolt#v1id-523839_297502_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/taiolt#v1id-523839_297502_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/taiolt#v1id-523839_297502_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/taiolt#v1id-159992_285163_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/taiolt#v1id-159992_285163_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/taiolt#v1id-159992_285163_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/taiolt#v1id-159992_285163_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/tikt) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/taiolt)

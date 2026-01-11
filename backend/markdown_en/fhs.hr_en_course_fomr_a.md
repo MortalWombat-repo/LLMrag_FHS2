@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/fomr_a)
 
 ## Fundamentals of Market Research
-  * [Basic data](https://www.fhs.hr/en/course/fomr_a#v1id-523776_212669_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/fomr_a#v1id-523776_212669_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/fomr_a#v1id-523776_212669_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/fomr_a#v1id-523776_212669_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/fomr_a#v1id-159938_469250_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/fomr_a#v1id-159938_469250_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/fomr_a#v1id-159938_469250_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/fomr_a#v1id-159938_469250_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/oit_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/fomr_a)

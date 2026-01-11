@@ -69,73 +69,49 @@
 
   * 14. 05. 2013. **Monika Jurić:** _Glazba u djelima dubrovačkih renesansnih autora_. Mentor: prof. dr. sc. Stanislav Tuksar
 
-
   * 16. 04. 2013. **Dijana Dijanić** : _Društveno-kulturalni aspekti položaja žena: Antifašistička fronta žena u Hrvatskoj (1945.-1953.)_. Mentorica: dr. sc. Suzana Leček, znanstvena savjetnica. Doktorski rad obranjen: 15. 06. 2015.
-
 
   * 16. 10. 2012. **Marija Latchici** : _Jezik i kultura karaševskih Hrvata u 20. stoljeću_. Mentorica: izv. prof. dr. sc. Sanja Vulić Vranković.
 
-
   * 16. 10. 2012. **Mislav Kovačić** : _Filološki i teološki rad Bogoslava Šuleka na hrvatskom izdanju_ Novoga zavjeta. Mentori: prof. dr. sc. Peter Kuzmič i prof. dr. sc. Branka Tafra. Doktorski rad obranjen: 17. 06. 2015.
 
-
   * 14. 02. 2012. **Mirta Bijuković Maršić** : _Kulturološki mitemi grada u hrvatskoj prozi 20. stoljeća_. Mentorica: prof. dr. sc. Helena Sablić Tomić
-
 
   * 23. 11. 2011. **Branislav Šutić** : _Relevantnost kulture za turizam_ : Mentor: prof. dr. sc. Jure Zovko.  
 
   * 11. 10. 2011. **Morana Zajec** : _Profesionalne književnice u hrvatskoj književnoj kulturi od 1945. do 2005_. Mentorica: dr. sc. Renata Jambrešić Kirin, viša znanstvena suradnica. Doktorski rad obranjen: 20. 11. 2019.
 
-
   * 15. 02. 2011. **Sandra Cvikić** : _Vukovar u drugoj polovici 20. stoljeća: društveni uzroci nasilja_. Mentor: izv. prof. dr. sc. Renato Matić. Doktorski rad obranjen: 11. 02. 2016.
-
 
   * 07. 12. 2010. **Marin Sopta:** _Oblikovanje hrvatske zajednice u Kanadi u razdoblju od 1945. do 1995. godine_. Mentor: prof. dr. sc. Dražen Živić. Doktorski rad obranjen: 02. 02. 2012
 
-
   * 07. 12. 2010. **Rozina Palić-Jelavić** : _Hrvatska nacionalna povijesna operna trilogija Ivana pl. Zajca_. Mentorica: prof. dr. sc. Vjera Katalinić. Doktorski rad obranjen 23. 03. 2017.
-
 
   * 16. 11. 2010. **Milica Mikecin** : _Utjecaj grčkoga jezika na leksik najstarije faze hrvatske redakcije staroslavenskoga jezika_. Mentori: dr. sc. Vesna Badurina Stipčević, viša znanstvena suradnica i prof. dr. sc. Stjepan Damjanović. Doktorski rad obranjen: 06. 05. 2015.
 
-
   * 16. 11. 2010. T**amara Jurkić-Sviben** : _Glazbenici židovskog podrijetla u sjevernoj Hrvatskoj od 1815. do 1941. godine_. Mentor: prof. dr. sc. Stanislav Tuksar. Doktorski rad obranjen: 12. 07. 2016.
-
 
   * 20. 04. 2010. **Martell Vukušić** : _Ideja liberalizma u novinarsko-izdavačkom djelovanju Ljudevita Gaja_. Mentor: doc. dr. sc. Juraj Mirko Mataušić
 
-
   * 20. 04. 2010. **Andrea Sršen** : _Hrvatski nacionalni identitet u procesu europskih integracija_. Mentor: prof. dr. sc. Tihomil Cipek. Doktorski rad obranjen: 02. 03. 2012.
-
 
   * 20. 04. 2010. **Josipa Dragičević** : _Hrvatske književnice 19. stoljeća i njihova recepcija u hrvatskoj književnoj historiografiji_. Mentor: prof. dr. sc. Tihomil Maštrović. Doktorski rad obranjen: 15. 06. 2015.
 
-
   * 16. 03. 2010. **Ivančica Marković** : _Utjecaji prosvjetiteljstva na razvoj Slavonije u 18. i početkom 19. stoljeća_. Mentor: izv. prof. dr. sc. Darko Vitek. Doktorski rad obranjen: 04. 06. 2012.
-
 
   * 09. 02. 2010. **Marinko Šišak** : _Republikanski etos Dubrovačke Republike: odgojne teorije i praksa_. Mentor: prof. dr. sc. Marko Pranjić. Doktorski rad obranjen: 14. 02. 2011.
 
-
   * 19. 01. 2010. **Marina Petrić** : _Doprinos maksimilijana Vrhovca hrvatskoj kulturi_. Mentor: prof. dr. sc. Mijo Korade
-
 
   * 19. 01. 2010. **Anela Mateljak Popić** : _Đuro Rapić u kontekstu hrvatske književnosti u Slavoniji 18. stoljeća_. Mentorica: prof. dr. sc. Zlata Šundalić. Doktorski rad obranjen: 27. 11. 2013.
 
-
   * 09. 06. 2009. **Ivana Anić** : _Kulturni život Karlovca u vrijeme Hrvatskog narodnog preporoda_. Mentor: prof. dr. sc. Nikša Stančić. Doktorski rad obranjen 19. 5. 2015.
-
 
   * 23. 01. 2008. **Petra Košutar** : Hrvatsko jezikoslovlje 18. stoljeća u suodnosu s europskim. Mentorica: prof. dr. sc. Branka Tafra. Doktorski rad obranjen: 14. 05. 2013.
 
-
   * 09. 10. 2007. **Bojan Marott** i: _Značenje nadslovka u rječniku Pavla Rittera Vitezovića_ Lexicon Latino-Illyricum. Mentor: prof. dr. sc. Radoslav Katičić. Doktorski rad obranjen: 04. 06. 2012.
 
-
   * 10. 07. 2007. **Branka Barić** : _Razvoj hrvatskoga leksika na razmeđi tisućljeća_. Mentorica: prof. dr. sc. Branka Tafra. Doktorski rad obranjen: 16. 05. 2013.
-
-
-  
 
 ## Repozitorij
 Repozitorij je prazan

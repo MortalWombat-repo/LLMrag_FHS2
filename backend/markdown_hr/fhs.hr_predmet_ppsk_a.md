@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ppsk_a#v1id-904860_675629_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ppsk_a#v1id-904860_675629_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppsk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/oothowl_a)
 **Šifra:** |  173445  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Domagoj Brozović](https://www.fhs.hr/djelatnik/domagoj.brozovic)   
-  
+
 **Izvođači:** |  [Josip Periša](https://www.fhs.hr/djelatnik/josip.perisa), mag. educ. philol. croat. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -130,16 +129,14 @@
 >  3. Utjecaj avangarde na svjetsku postmodernu književnost  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Stilske formacije., Milivoj Solar; Povijest svjetske književnosti.; Golden marketing TK, Zagreb (2003), Aleksandar Flaker, Sveučilišna naklada Liber, 1986. 
   2. Stilske formacije., Aleksandar Flaker, Zagreb: SNL, 1986. 
   3. Svjetska književnost zapadnoga kruga, Ivan Slamnig, Školska knjiga, 1999. 
 
-  
 **Preporučena literatura:**  
   1. , DOPUNSKA LITERATURA:  
-  
+
 1. Milivoj Solar; Eseji o velikim i malim pričama; Ex Libris (2014), str. 524  
 2. Nevenka Košutić-Brozović: Čitanka stranih književnosti  
 3. Zdenko Škreb, Ante Stamać: Uvod u književnost. Globus. Zagreb, 1896. (Poglavlja: Problematika književne povijesti, Stih, Umjetnička proza, Drama dramaturgija kazalište, Pojmovi poetika u povijesnom slijedu, Smjerovi istraživanja književnosti)   
@@ -152,41 +149,40 @@
 10. Teorija drame: renesansa i klasicizam, knjiga 6, Beograd, 1976.   
 11. Viktor Žmegač: Povijesna poetika romana. GZH, Zagreb, 1991., , , .
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
@@ -197,10 +193,9 @@ Termini konzultacija:
 ponedjeljkom 14:30-15:30
 Lokacija: zgrada knjižnice 
   * **[Josip Periša](https://www.fhs.hr/djelatnik/josip.perisa), mag. educ. philol. croat.**: 
-  
+
 Srijedom od 14:00 do 15:00
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/ppsk_a?@=21tdl#news_112712)

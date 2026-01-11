@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/pkokmdfc#v1id-904854_928342_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pkokmdfc#v1id-904854_928342_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pkokmdfc) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/thocfkmtfc)
 **Šifra:** |  173129  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -25,22 +24,19 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **5. semestar** Ne predaje se  
 ---  
 > **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >  **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >   
-  
+
 **6. semestar**  
 > **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >  **POV (17192) - Izborni predmeti: Povijest 19. i 20. stoljeća** - Redovni studij - Povijest  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pkokmdfc?@=216oz#news_112782)

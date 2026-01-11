@@ -6,5 +6,3 @@
 [Hrvatski latinitet](https://www.fhs.unizg.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/hrvatski_latinitet)
 [Povijest](https://www.fhs.unizg.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/povijest)
 [Sociologija](https://www.fhs.unizg.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/sociologija)
-  
-

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sar11c)
 
 ## Society and Religion: 13th - 15th Century
-  * [Basic data](https://www.fhs.hr/en/course/sar11c#v1id-523830_771848_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sar11c#v1id-523830_771848_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sar11c#v1id-523830_771848_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sar11c#v1id-523830_771848_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sar11c#v1id-159985_293046_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sar11c#v1id-159985_293046_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sar11c#v1id-159985_293046_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sar11c#v1id-159985_293046_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dr11s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sar11c)
@@ -14,7 +14,7 @@
 **ECTS:** |  3.0   
 **Lecturers in charge:** |  doc. dr. sc. [Eva Katarina Glazer](https://www.fhs.hr/staff/eva_katarina.glazer)   
   
-**Lecturers:** |  dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities in the course will be held on English. This level includes courses with multiple groups (i.e., all teaching will be held strictly in Croatian for Croatian groups, and strictly in English for English groups).   
@@ -58,7 +58,7 @@ Consultations schedule:
 - Thursday, 10:15 AM - 11:15 AM, room 011
 - email to: eglazer@hrstud.hr
 Location: 
-  * **dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
+  * **doc. dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
 Consultations: Tuesdays 12:15 - 13:15 pm
 Location: 103 
 

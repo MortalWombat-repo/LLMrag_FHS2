@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hocic_b)
 
 ## History of Christianity in Croatia
-  * [Basic data](https://www.fhs.hr/en/course/hocic_b#v1id-523782_823225_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hocic_b#v1id-523782_823225_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hocic_b#v1id-523782_823225_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hocic_b#v1id-523782_823225_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hocic_b#v1id-159945_273215_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hocic_b#v1id-159945_273215_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hocic_b#v1id-159945_273215_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hocic_b#v1id-159945_273215_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pkuh_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hocic_b)
@@ -14,7 +14,7 @@
 **ECTS:** |  5.0   
 **Lecturers in charge:** |  doc. dr. sc. [Vlatko Smiljanić](https://www.fhs.hr/staff/vlatko.smiljanic)   
   
-**Lecturers:** |  doc. dr. sc. [Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic) - Seminar  
+**Lecturers:** |  [Bruno Šagi](https://www.fhs.hr/djelatnik/bruno.sagi) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -58,9 +58,6 @@
 >   
 Consultations schedule: 
   * **doc. dr. sc.[Vlatko Smiljanić](https://www.fhs.hr/staff/vlatko.smiljanic)**: 
-by agreement with prior notice by e-mail
-Location: zgrada 77, ured 718 
-  * **doc. dr. sc.[Vlatko Smiljanić](https://www.fhs.hr/djelatnik/vlatko.smiljanic)**: 
 by agreement with prior notice by e-mail
 Location: zgrada 77, ured 718 
 

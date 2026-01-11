@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sap_a)
 
 ## Space and Population
-  * [Basic data](https://www.fhs.hr/en/course/sap_a#v1id-523830_410987_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sap_a#v1id-523830_410987_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sap_a#v1id-523830_410987_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sap_a#v1id-523830_410987_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sap_a#v1id-159986_279665_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sap_a#v1id-159986_279665_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sap_a#v1id-159986_279665_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sap_a#v1id-159986_279665_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pis) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sap_a)

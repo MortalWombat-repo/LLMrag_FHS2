@@ -39,14 +39,12 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Društveni menadžment (201333)](https://www.fhs.hr/predmet/drumen) - Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Geopolitika i nacionalna sigurnost (201679)](https://www.fhs.hr/predmet/gns) - Nositelj, Seminar
   * [Mediji i nacionalna sigurnost (57242)](https://www.fhs.hr/predmet/mns_a) - Nositelj, Seminar
   * [Stanovništvo i financijski sustav (253115)](https://www.fhs.hr/predmet/sfs) - Nositelj, Seminar
   * [Upravljanje rizikom i krizno komuniciranje (57217)](https://www.fhs.hr/predmet/urkk) - Nositelj
   * [Diplomski rad (64886)](https://www.fhs.hr/predmet/diprad_c) - Seminar
-
 
 #### Životopis
 **Goran Radoš**(Zagreb, HR). Doktor ekonomskih znanosti i docent u tri znanstvena polja:  _ekonomija_ , _politologija_ i _komunikacijske znanosti_ te nastavnik na Odsjeku za komunikologiju Fakulteta hrvatskih studija Sveučilišta u Zagrebu (UNIZG). 

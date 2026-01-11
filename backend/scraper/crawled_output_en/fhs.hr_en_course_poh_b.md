@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poh_b)
 
 ## Philosophy of History
-  * [Basic data](https://www.fhs.hr/en/course/poh_b#v1id-523817_548102_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poh_b#v1id-523817_548102_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poh_b#v1id-523817_548102_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poh_b#v1id-523817_548102_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poh_b#v1id-159973_468826_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poh_b#v1id-159973_468826_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poh_b#v1id-159973_468826_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poh_b#v1id-159973_468826_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filpov_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poh_b)

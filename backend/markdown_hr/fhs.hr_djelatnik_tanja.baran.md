@@ -14,9 +14,7 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Teorije i sustavi radijskoga komuniciranja (28495)](https://www.fhs.hr/predmet/tsrk) - Nositelj, Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Diplomski rad (64886)](https://www.fhs.hr/predmet/diprad_c) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

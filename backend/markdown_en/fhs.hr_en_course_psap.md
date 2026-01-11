@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/psap)
 
 ## Public services and population
-  * [Basic data](https://www.fhs.hr/en/course/psap#v1id-523822_507306_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/psap#v1id-523822_507306_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/psap#v1id-523822_507306_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/psap#v1id-523822_507306_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/psap#v1id-159978_146151_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/psap#v1id-159978_146151_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/psap#v1id-159978_146151_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/psap#v1id-159978_146151_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/jss) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/psap)

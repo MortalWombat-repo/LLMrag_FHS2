@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/shj_a#v1id-904873_700018_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/shj_a#v1id-904873_700018_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shj_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/crosyn_a)
 **Šifra:** |  188074  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -42,7 +39,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik)**: 
 Petkom u 10 sati.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/shj_a?@=21t6a#news_113961)

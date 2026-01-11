@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cst)
 
 ## Contemporary Sociological Theories
-  * [Basic data](https://www.fhs.hr/en/course/cst#v1id-523764_816016_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cst#v1id-523764_816016_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cst#v1id-523764_816016_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cst#v1id-523764_816016_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cst#v1id-159929_504855_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cst#v1id-159929_504855_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cst#v1id-159929_504855_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cst#v1id-159929_504855_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sst) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cst)
@@ -14,10 +14,10 @@
 **ECTS:** |  6.0   
 **Lecturers in charge:** |  doc. dr. sc. [Erik Brezovec](https://www.fhs.hr/staff/erik.brezovec)   
   
-**Lecturers:** |  doc. dr. sc. [Erik Brezovec](https://www.fhs.hr/djelatnik/erik.brezovec) - Seminar  
+**Lecturers:** |  [Ana Marija Zagode](https://www.fhs.hr/djelatnik/ana_marija.zagode) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
-**English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
+**English level:** |  In agreement with the students enrolled in the course, the lecturer will provide as many teaching elements in English as possible, or in both English and Croatian for mixed groups (i.e., bilingual teaching materials and bilingual exams). Level 2 also includes additional individual consultations with foreign students (as in Level 1) for the teaching elements which will be held in Croatian.   
 **Load:**  
 ---  
 > ### 1. komponenta
@@ -53,9 +53,6 @@
 >   
 Consultations schedule: 
   * **doc. dr. sc.[Erik Brezovec](https://www.fhs.hr/staff/erik.brezovec)**: 
-Thursday: 10 - 11, room 018.
-Location: 018 
-  * **doc. dr. sc.[Erik Brezovec](https://www.fhs.hr/djelatnik/erik.brezovec)**: 
 Thursday: 10 - 11, room 018.
 Location: 018 
 

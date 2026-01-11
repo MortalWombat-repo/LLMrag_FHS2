@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/itc)
 
 ## Introduction to Croatology
-  * [Basic data](https://www.fhs.hr/en/course/itc#v1id-523788_825426_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/itc#v1id-523788_825426_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/itc#v1id-523788_825426_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/itc#v1id-523788_825426_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/itc#v1id-159952_195951_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/itc#v1id-159952_195951_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/itc#v1id-159952_195951_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/itc#v1id-159952_195951_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uuk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itc)

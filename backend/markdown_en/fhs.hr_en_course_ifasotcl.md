@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ifasotcl)
 
 ## Interlingual features and structure of the Croatian language
-  * [Basic data](https://www.fhs.hr/en/course/ifasotcl#v1id-523786_497412_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ifasotcl#v1id-523786_497412_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ifasotcl#v1id-523786_497412_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ifasotcl#v1id-523786_497412_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ifasotcl#v1id-159948_629781_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ifasotcl#v1id-159948_629781_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ifasotcl#v1id-159948_629781_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ifasotcl#v1id-159948_629781_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mduhj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ifasotcl)

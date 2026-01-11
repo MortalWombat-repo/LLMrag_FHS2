@@ -14,9 +14,7 @@ ODSJEK ZA SOCIOLOGIJU
   * [Sociologija informatičke profesije (269962)](https://www.fhs.hr/predmet/sip_b) - Seminar
   * [Sociologija marketinga (269451)](https://www.fhs.hr/predmet/socmar) - Seminar
 
-
 **diplomski**
   * [Sociologija upravljanja ljudskim potencijalima (269856)](https://www.fhs.hr/predmet/sulp_a) - Vježbe u praktikumu, Seminar
-
 
 #### Znanstveni radovi (CroRIS)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/yssf1t1)
 
 ## Yugoslav security services from 1944. to 1992.
-  * [Basic data](https://www.fhs.hr/en/course/yssf1t1#v1id-523846_562033_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/yssf1t1#v1id-523846_562033_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/yssf1t1#v1id-523846_562033_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/yssf1t1#v1id-523846_562033_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/yssf1t1#v1id-159999_672207_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/yssf1t1#v1id-159999_672207_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/yssf1t1#v1id-159999_672207_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/yssf1t1#v1id-159999_672207_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/jsso1d1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/yssf1t1)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tsd)
 
 ## Transition, State, Diaspora
-  * [Basic data](https://www.fhs.hr/en/course/tsd#v1id-523844_863396_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tsd#v1id-523844_863396_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tsd#v1id-523844_863396_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tsd#v1id-523844_863396_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tsd#v1id-159997_26887_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tsd#v1id-159997_26887_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tsd#v1id-159997_26887_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tsd#v1id-159997_26887_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/tdd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tsd)

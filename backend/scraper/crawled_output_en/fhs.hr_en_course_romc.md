@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/romc)
 
 ## Risks of Mass Communication
-  * [Basic data](https://www.fhs.hr/en/course/romc#v1id-523829_795024_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/romc#v1id-523829_795024_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/romc#v1id-523829_795024_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/romc#v1id-523829_795024_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/romc#v1id-159983_466667_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/romc#v1id-159983_466667_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/romc#v1id-159983_466667_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/romc#v1id-159983_466667_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rmk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/romc)

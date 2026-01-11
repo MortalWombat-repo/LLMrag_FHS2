@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ort_b)
 
 ## Orthoepy
-  * [Basic data](https://www.fhs.hr/en/course/ort_b#v1id-523810_379546_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ort_b#v1id-523810_379546_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ort_b#v1id-523810_379546_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ort_b#v1id-523810_379546_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ort_b#v1id-159967_666083_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ort_b#v1id-159967_666083_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ort_b#v1id-159967_666083_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ort_b#v1id-159967_666083_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pra_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ort_b)
@@ -31,6 +31,11 @@
 
   
 **Literature:**  
+  1. Priručna gramatika hrvatskoga književnoga jezika (Prozodijski sustav), Barić, E. i sur., Zagreb: Školska knjiga, 1979. 
+  2. Zvuk i pokret u jeziku, Guberina, P., Zagreb: Matica hrvatska, 1952. 
+  3. Hrvatski govorili! (Predgovor i B - Hrvatska prozodija riječi), Škarić, I., Zagreb: Školska knjiga, 2006. 
+  4. Hrvatski izgovor, Škarić, I., Zagreb: Nakladni zavod Globus, 2009. 
+  5. Fonetska procjena glumačkoga govora. Govor, XXX, 1, Vrban Zrinski, K., Hrvatsko filološko društvo, Odjel za fonetiku, 2013. 
 
   
 **1. semester** Not active  

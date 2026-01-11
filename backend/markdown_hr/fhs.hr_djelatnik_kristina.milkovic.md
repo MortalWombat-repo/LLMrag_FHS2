@@ -25,7 +25,6 @@ ODSJEK ZA POVIJEST
   * [Povijest Rusije (214657)](https://www.fhs.hr/predmet/povrus_b) - Nositelj
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Istraživačka skupina - izvori za hrvatsku povijest 19. stoljeća (130523)](https://www.fhs.hr/predmet/isizhp1s) - Nositelj
   * [Povijest privatnog života - Hrvatska u "dugom 19. stoljeću" (270165)](https://www.fhs.hr/predmet/ppzhud1s) - Nositelj, Seminar
@@ -34,10 +33,8 @@ ODSJEK ZA POVIJEST
   * [Diplomski rad (POV-ns_smjer) (64812)](https://www.fhs.hr/predmet/drp_a) - Seminar
   * [Diplomski rad (POV-zn_smjer) (64811)](https://www.fhs.hr/predmet/drp) - Seminar
 
-
 **doktorski**
   * [Istraživačka radna skupina 1. stupanj - Izvori hrvatske historiografije - dostupnost i korištenje arhivskih izvora za proučavanje hrvatske povijesti 19. stoljeća (258320)](https://www.fhs.hr/predmet/irs1sihhdkaizphp1s) - Nositelj
-
 
 #### Znanstveni radovi (CroRIS)
 #### Izabrane publikacije
@@ -52,6 +49,6 @@ _Josip Jelačić u Prvoj banskoj pukovniji (1841.-1848.)_. _Prilozi za povijest 
 „Represalije protiv Podzvizda 1845. Fenomen četovanja i malog rata u kasnim krajiškim društvima na hrvatsko-bosanskoj granici.“ _Povijesni prilozi_ 40 (2011), 195-224.
 „Percepcija Crne Gore i Crnogoraca u austrijskim vojnim izvješćima tridesetih godina 19. stoljeća.“ _Migracijske teme_ 26 (2010), br. 1: 67-84.
 #### Izabrani projekti
-  
+
 Od 2017. godine sudjeluje u znanstveno-istraživačkom projektu: Modernizacija urbanog života u Hrvatskoj kroz prizmu  
 razvoja komunalne infrastrukture u 19. i 20. stoljeću – MOZIRA (IP-2016-06-2015) s temom osnutka Mirogoja kao centralnoga zagrebačkoga groblja.

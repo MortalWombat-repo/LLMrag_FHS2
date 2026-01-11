@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sodv_b)
 
 ## Sociology of Domestic Violence
-  * [Basic data](https://www.fhs.hr/en/course/sodv_b#v1id-523836_293139_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sodv_b#v1id-523836_293139_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sodv_b#v1id-523836_293139_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sodv_b#v1id-523836_293139_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sodv_b#v1id-159988_867764_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sodv_b#v1id-159988_867764_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sodv_b#v1id-159988_867764_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sodv_b#v1id-159988_867764_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sodv_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sodv_b)

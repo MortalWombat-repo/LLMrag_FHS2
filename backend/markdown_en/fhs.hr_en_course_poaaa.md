@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poaaa)
 
 ## Psychology of Adulthood and Aging
-  * [Basic data](https://www.fhs.hr/en/course/poaaa#v1id-523815_746874_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poaaa#v1id-523815_746874_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poaaa#v1id-523815_746874_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poaaa#v1id-523815_746874_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poaaa#v1id-159972_698428_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poaaa#v1id-159972_698428_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poaaa#v1id-159972_698428_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poaaa#v1id-159972_698428_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pods) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poaaa)

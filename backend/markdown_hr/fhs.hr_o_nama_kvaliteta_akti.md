@@ -11,5 +11,3 @@
 [Priručnik za osiguravanje kvalitete](https://www.unizg.hr/fileadmin/rektorat/Studiji_studiranje/Studiji/Kvaliteta/Kvaliteta2/anketa/Prirucnik-osiguravanje-kvalitete-tisak-02-2014.pdf)
 [Strategija sustava osiguravanja kvalitete Sveučilišta u Zagrebu](https://www.unizg.hr/fileadmin/rektorat/Studiji_studiranje/Studiji/Kvaliteta/Kvaliteta1/Strategija_sustava_osiguravnja_kvalitete.pdf)
 [Pojmovnik osnovnih termina i definicija iz područja osiguravanja kvalitete u visokom obrazovanju](https://www.unizg.hr/fileadmin/rektorat/Studiji_studiranje/Studiji/Kvaliteta/Kvaliteta2/dokumenti/Pojmovnik_osnovnih_termina_i_definicija.pdf)
-  
-

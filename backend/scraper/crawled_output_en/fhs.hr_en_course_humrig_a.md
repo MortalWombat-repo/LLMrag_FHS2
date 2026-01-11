@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/humrig_a)
 
 ## Human Rights
-  * [Basic data](https://www.fhs.hr/en/course/humrig_a#v1id-523785_413347_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/humrig_a#v1id-523785_413347_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/humrig_a#v1id-523785_413347_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/humrig_a#v1id-523785_413347_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/humrig_a#v1id-159949_353041_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/humrig_a#v1id-159949_353041_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/humrig_a#v1id-159949_353041_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/humrig_a#v1id-159949_353041_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ljupra_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/humrig_a)

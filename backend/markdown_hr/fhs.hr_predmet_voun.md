@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/voun#v1id-904931_774779_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/voun#v1id-904931_774779_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/voun) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/taae_a)
 **Šifra:** |  187902  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -40,7 +37,7 @@
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >   
-  
+
 **4. semestar**  
 > **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
 >  **DIPL-NS-smjer (5035): Izborni kolegiji** - Redovni smjer - Nastavnički  
@@ -50,7 +47,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Rona Bušljeta Kardum](https://www.fhs.hr/djelatnik/rona.busljeta_kardum)**: 
 Utorak, 11-12 sati
 Lokacija: Zgrada knjižnice 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/voun?@=21ar4#news_113751)

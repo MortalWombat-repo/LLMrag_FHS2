@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/qrm_b)
 
 ## Quantitative research methods
-  * [Basic data](https://www.fhs.hr/en/course/qrm_b#v1id-523824_369707_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/qrm_b#v1id-523824_369707_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/qrm_b#v1id-523824_369707_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/qrm_b#v1id-523824_369707_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/qrm_b#v1id-159979_421801_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/qrm_b#v1id-159979_421801_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/qrm_b#v1id-159979_421801_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/qrm_b#v1id-159979_421801_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kmi_c) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/qrm_b)

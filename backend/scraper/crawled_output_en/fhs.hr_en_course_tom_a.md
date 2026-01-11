@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tom_a)
 
 ## Typology of Migration
-  * [Basic data](https://www.fhs.hr/en/course/tom_a#v1id-523842_465437_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tom_a#v1id-523842_465437_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tom_a#v1id-523842_465437_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tom_a#v1id-523842_465437_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tom_a#v1id-159994_566602_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tom_a#v1id-159994_566602_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tom_a#v1id-159994_566602_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tom_a#v1id-159994_566602_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/tipise_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tom_a)

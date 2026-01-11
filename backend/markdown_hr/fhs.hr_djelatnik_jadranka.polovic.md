@@ -12,11 +12,9 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Tranzicija, država, dijaspora (226934)](https://www.fhs.hr/predmet/tdd) - Nositelj, Seminar, Nositelj, Seminar
 
-
 **diplomski**
   * [Integracijski pristup (238019)](https://www.fhs.hr/predmet/intpri) - Nositelj, Seminar
   * [Stanovništvo, migracije i nacionalna sigurnost (253140)](https://www.fhs.hr/predmet/smns) - Nositelj
   * [Diplomski rad (253189)](https://www.fhs.hr/predmet/diprad_j) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

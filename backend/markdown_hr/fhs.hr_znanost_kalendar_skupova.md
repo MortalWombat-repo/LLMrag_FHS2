@@ -12,6 +12,4 @@ Pečuh, Mađarska;
 Zagreb;   
 svibanj - lipanj 2025.  |  međunarodni znanstveni skup: Perception of Ancient History in Modern Culture |  Fakultet hrvatskih studija, Odsjek za povijest; Hrvatska akademija znanosti i umjetnosti, Arheološki muzej u Zagrebu, Filozofski fakultet Sveučilišta u Zagrebu, Odsjek za povijest |  izv. prof. dr.sc. Mladen Tomorad  |  Odluka  
 Sisak;   
-14. travnja 2025. |  znanstveno-stručni skup: Desetljeća slobode |  Fakultet hrvatskih studija, Znanstveni zavod; Kulturno-povijesni centar Sisačko-moslavačke županije |  izv. prof. dr. sc. Vlatka Vukelić  |  Odluka  
-  
-
+14. travnja 2025. |  znanstveno-stručni skup: Desetljeća slobode |  Fakultet hrvatskih studija, Znanstveni zavod; Kulturno-povijesni centar Sisačko-moslavačke županije |  izv. prof. dr. sc. Vlatka Vukelić  |  Odluka

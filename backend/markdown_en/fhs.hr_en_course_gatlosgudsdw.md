@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/gatlosgudsdw)
 
 ## Globalization and the Language of Science/ Globalisierung und die Sprache der Wissenschaft
-  * [Basic data](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-523777_669325_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-523777_669325_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-523777_669325_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-523777_669325_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-159940_265759_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-159940_265759_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-159940_265759_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/gatlosgudsdw#v1id-159940_265759_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gjzgudsdw) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gatlosgudsdw)

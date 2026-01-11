@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cwoer_a)
 
 ## Croatian Writers of European Reference
-  * [Basic data](https://www.fhs.hr/en/course/cwoer_a#v1id-523766_17883_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cwoer_a#v1id-523766_17883_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cwoer_a#v1id-523766_17883_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cwoer_a#v1id-523766_17883_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cwoer_a#v1id-159930_673918_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cwoer_a#v1id-159930_673918_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cwoer_a#v1id-159930_673918_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cwoer_a#v1id-159930_673918_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkesr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cwoer_a)

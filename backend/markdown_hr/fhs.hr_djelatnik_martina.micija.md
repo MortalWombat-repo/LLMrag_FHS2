@@ -12,5 +12,4 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Hrvatska glazba u kontekstu europske glazbene kulture (188084)](https://www.fhs.hr/predmet/hgukegk_a) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

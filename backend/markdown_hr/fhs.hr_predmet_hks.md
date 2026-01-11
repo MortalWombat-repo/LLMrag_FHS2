@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hks#v1id-904814_369262_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hks#v1id-904814_369262_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hks) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clotma)
 **Šifra:** |  45641  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -46,7 +45,6 @@
 >  15. Što je danas aktualno u knjizi Jesen srednjeg vijeka Johana Huizinge. Pogled na doprinos srednjovjekovnoj kulturi pisaca iz grupe francuskih analista. Doprinos Radoslava Katičića poznavanju hrvatske srednjovjekovne književnosti i obrazovanja  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Eduard Hercigonja; Tropismena i trojezična kultura hrvatskoga srednjovjekovlja; Matica hrvatska, Zagreb (1994), 
   2. Dunja Fališevac; Hrvatska srednjovjekovna proza:književnopovijesne i poetičke osobine, Zagreb, 1980.; Hrvatsko filološko društvo (1980), 
@@ -54,7 +52,6 @@
   4. Slobodan Prosperov Novak,; Povijest hrvatske književnosti. Od početaka do Krbavske bitke 1493, sv. I, Antibarbarus, Zagreb, 1996.; Antibarbarus (1996), 
   5. Robert Ernst Curtius; Europska književnost i latinsko srednjovjekovlje, preveo S. Markuš, Zagreb, 1998.; Naprijed (1998), 
 
-  
 **Preporučena literatura:**  
   1. , Urednici:Vesna Badurina Stipčević i Ana Marija Durigl; Hrvatska srednjovjekovna proza, I-II, Stoljeća hrvatske književnosti, sv. 115-116, Zagreb, 2013. (hrestomatija s tekstovima); Matica hrvaska (2013), , , .
   2. , Amir Kapetanović, Dragica Malić i Kristina Štrkalj Despot; Hrvatsko srednjovjekovno pjesništvo. Pjesme, plačevi i prikazanja na hrvatskom jeziku, Zagreb, 2010. (hrestomatija s tekstovima); , Institut za hrvatski jezik i jezikoslovlje (2010), , , .
@@ -67,7 +64,6 @@
   9. , Jacques Le Goff; Intelektualci u srednjem vijeku, prevela M. Vekarić, Zagreb, 2009.; Naklada Jesenski i Turk (2009), , , .
   10. , Johan Huizinga; Jesen srednjeg vijeka, preveo D. Perković, Zagreb, 1991.; Naprijed (1991), , , .
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -76,7 +72,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic)**: 
 Prema dogovoru.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hks?@=21e3j#news_81536)

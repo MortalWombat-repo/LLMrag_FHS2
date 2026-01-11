@@ -8,7 +8,6 @@ Nastavu na doktorskom studiju na Fakultetu hrvatskih studija izvode nastavnici i
 Uvjeti upisa:
 Doktorski studij filozofije traje tri godine (šest semestara), ima opterećenje od 180 ECTS bodova, što uključuje ispunjenje svih studijskih obveza i dovršetak i obranu doktorskog rada. Završetkom studija stječe se akademski naziv doktora filozofije. Na studij se mogu upisati isključivo studenti koji su diplomski studij filozofije završili s prosjekom ocjena 3,5 i više. Pristupnik mora minimalno imati sveukupni prosjek ocjena 4,0; u slučaju da je prosjek niži, ali ne niži od 3,5; potrebna je preporuka dvaju sveučilišnih nastavnika. Pristupnici s nižim prosjekom koji imaju objavljene znanstvene i/ili stručne radove mogu biti primljeni na temelju odluke Razredbenoga povjerenstva.
 Doktorski studij filozofije na Fakultetu hrvatskih studija mogu upisati i pristupnici koji nisu završili diplomski studij filozofije nego diplomski studij unutar nekog drugog znanstvenog polja ili područja, ali tada, prije početka doktorskog studija, imaju obvezu pristupiti provjeri znanja odnosno polaganju diferencijalnih ispita. Pri procjeni pristupnika za upis na doktorski studij, uz gore navedene nužne uvjete, u obzir se uzima: (a) spremnost za ozbiljno i aktivno pohađanje studija, (b) znanstveno-stručne aktivnosti kao što su objavljeni radovi i sudjelovanja na znanstveno-stručnim skupovima, (c) potreba za njihovim angažmanom na nekom znanstveno-istraživačkom projektu i (d) potreba za njihovim angažmanom u izvođenju nastave na Fakultetu hrvatskih studija ili na nekom drugom visokom učilištu. Upis na doktorski studij filozofije provodi se na temelju rezultata javnog natječaja. Odluku o upisu donosi Fakultetsko vijeće Fakulteta hrvatskih studija na prijedlog Vijeća poslijediplomskih studija koji se temelji na izvješću tročlanog Razredbenoga povjerenstva koje razmatra prijave i vodi prijemne razgovore s pristupnicima**.**
-  
 
 ## Repozitorij
   * [ repo-filozofija ](https://www.fhs.hr/studiji/doktorski/filozofija)
@@ -49,7 +48,6 @@ Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:37_
 [ 9.5_opisi_predmeta_na_dokt_filozofije_engleski _[1,83 MiB]_ ](https://www.fhs.hr/_download/repository/repo-filozofija/9.5_opisi_predmeta_na_dokt_filozofije_engleski.pdf)
 Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:37_
 
-
 ## Filozofija
 2025/2026 
 [2025/2026](https://www.fhs.hr/studiji/doktorski/filozofija?ak=2025#akgod) [2024/2025](https://www.fhs.hr/studiji/doktorski/filozofija?ak=2024#akgod) [2023/2024](https://www.fhs.hr/studiji/doktorski/filozofija?ak=2023#akgod) [2022/2023](https://www.fhs.hr/studiji/doktorski/filozofija?ak=2022#akgod)
@@ -60,7 +58,6 @@ Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:37_
   * [4.sem](https://www.fhs.hr/studiji/doktorski/filozofija#v1id-904760_163159_2_4 "4.sem")
   * [5.sem](https://www.fhs.hr/studiji/doktorski/filozofija#v1id-904760_163159_2_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/doktorski/filozofija#v1id-904760_163159_2_6 "6.sem")
-
 
 1. semestar, 1. godina  
 ---  
@@ -116,4 +113,4 @@ ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
 60.0 |  [Doktorski rad (264246)](https://www.fhs.hr/predmet/dokrad) |  -  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=izRPg7z8np_rGk3UEbN0hjWQaQ7jGt_sv6ApCHpoS3yhOrtgKUn72U0_L61rV607ovhhD8f6P9kDExPX1iQi03uObEjGwzs7gMFriLvUQ4nBsuPS9dxbaDCNiICvdChC1eLyxib2y0CLMDTNvisu0hfftSMi1sZ5ng_-GQaA6zLPPBxw3LMSELN9zPgjHiBjsyONvw==&_v1flags=W5eH-2c3l1Xt4lZ-o5ZybXVY4LjDRNx1Xi_hb0w5w0tGYMl-LLDGECQ3rUw8i_iOMsNCcKUn3RKL3NYWmgbHdblP5aULaMjjeRXQy4D8o0ER1AIgxznobiXEBtw8H2OuUfcTcf8gQGUlYIGDDj5SB96ZaruDHXI0Q92Z4EHWtw99mUNu&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

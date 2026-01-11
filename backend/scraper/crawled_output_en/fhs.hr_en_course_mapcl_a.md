@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mapcl_a)
 
 ## Modern and Post-Modern Croatian Literature
-  * [Basic data](https://www.fhs.hr/en/course/mapcl_a#v1id-523799_971208_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mapcl_a#v1id-523799_971208_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mapcl_a#v1id-523799_971208_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mapcl_a#v1id-523799_971208_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mapcl_a#v1id-159959_816558_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mapcl_a#v1id-159959_816558_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mapcl_a#v1id-159959_816558_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mapcl_a#v1id-159959_816558_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkomdd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mapcl_a)

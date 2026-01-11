@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/psycou_a)
 
 ## Psychological Counselling
-  * [Basic data](https://www.fhs.hr/en/course/psycou_a#v1id-523824_238359_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/psycou_a#v1id-523824_238359_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/psycou_a#v1id-523824_238359_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/psycou_a#v1id-523824_238359_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/psycou_a#v1id-159978_597280_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/psycou_a#v1id-159978_597280_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/psycou_a#v1id-159978_597280_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/psycou_a#v1id-159978_597280_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psisav_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/psycou_a)

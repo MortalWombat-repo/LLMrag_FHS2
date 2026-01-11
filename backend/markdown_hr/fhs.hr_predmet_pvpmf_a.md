@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/pvpmf_a#v1id-904865_508159_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/pvpmf_a#v1id-904865_508159_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvpmf_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peitmotc_a)
 **Šifra:** |  144734  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic) - Metodičke vježbe  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -37,13 +36,11 @@
   6. Napraviti više oblika pismenih provjera znanja
   7. Sastaviti kraći anketni upitnik kojim će biti moguće evaluirati rad nastavnika ili nastavne sate filozofije, logike ili etike
 
-  
 **Literatura:**  
   1. Nastavni plan i program iz filozofije;, 
   2. Ispitni katalog iz filozofije i Ispitni katalog iz etike;, 
   3. Katalog odobrenih udžbenika za određenu školsku godinu;, 
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -53,7 +50,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Marjan Ninčević](https://www.fhs.hr/djelatnik/marjan.nincevic)**: 
 Srijedom od 13 do 14 sati, soba br. 106
 Lokacija: 106 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/pvpmf_a?@=21u16#news_110767)

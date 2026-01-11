@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/socmar#v1id-904873_193054_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/socmar#v1id-904873_193054_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/socmar) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/som_a)
 **Šifra:** |  269451  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  prof. dr. sc. [Renato Matić](https://www.fhs.hr/djelatnik/renato.matic)   
-  
+
 **Izvođači:** |  dr. sc. [Lovre de Grisogono](https://www.fhs.hr/djelatnik/lovre.de_grisogono) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,15 +28,13 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **5. semestar** Ne predaje se  
 ---  
 > **SOC (17147) - Izborni kolegiji (3. godina)** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **SOC (17147) - Izborni kolegiji (3. godina)** - Redovni studij - Sociologija  
 >  **SOC (3502) - Izborni kolegiji (1.)-6. sem.** - Redovni studij - Sociologija  
@@ -46,7 +43,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Renato Matić](https://www.fhs.hr/djelatnik/renato.matic)**: 
 srijedom od 17.30 do 18.30 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/socmar?@=21smy#news_123862)

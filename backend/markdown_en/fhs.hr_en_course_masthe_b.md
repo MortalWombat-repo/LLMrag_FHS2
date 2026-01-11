@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/masthe_b)
 
 ## Master thesis
-  * [Basic data](https://www.fhs.hr/en/course/masthe_b#v1id-523800_649466_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/masthe_b#v1id-523800_649466_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/masthe_b#v1id-523800_649466_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/masthe_b#v1id-523800_649466_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/masthe_b#v1id-159961_33509_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/masthe_b#v1id-159961_33509_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/masthe_b#v1id-159961_33509_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/masthe_b#v1id-159961_33509_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/diprad_f) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/masthe_b)

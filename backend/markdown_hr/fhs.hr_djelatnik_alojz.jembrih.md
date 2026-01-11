@@ -17,10 +17,8 @@ ODSJEK ZA KROATOLOGIJU
 **diplomski**
   * [Diplomski rad (64813)](https://www.fhs.hr/predmet/diprad_a) - Seminar
 
-
 **doktorski**
   * [Hrvatska glagoljaška baština (290178)](https://www.fhs.hr/predmet/hgb) - Nositelj
-
 
 #### Životopis
 Alojz Jembrih rođen je 11. lipnja 1947. u Varaždinu, a djetinjstvo proveo u Gregurovcu Veterničkom, kod Mihovljana gdje je završio osmogodišnje školovanje. Gimnaziju je pohađao u Zagrebu. Na filozofskom fakultetu Sveučilišta u Beču završio je studij slavistike, povijest umjetnosti i filozofije. Na istom je Sveučilištu doktorirao (1977.) iz slavenske filologije (starije hrvatske književnosti) o Antunu Vramcu (1538.–1588.) pod mentorstvom prof. dr. Josipa Hamma. Radio je u Staroslavenskom institutu u Zagrebu, Institutu za jezik (danas Institut za hrvatski jezik i jezikoslovlje) u Zagrebu, potom na Oddelku za slovanske jezike in književnosti, na katedri za južnoslovanske jezike in književnosti Filozofske fakultete Univerze v Ljubljani (1983. – 1996.). U tome je razdoblju bio stipendist zaklade Alexander von Humbold-Stiftung u Njemačkoj (1986. i 1991.). Održao je pozivna predavanja na Sveučilištima u: Tübingenu, Mannheimu, Regensburgu, Klagenfurtu (Celovec), Vidmu (Udine), Marburgu i Bambergu. Bio je nositelj dvaju znanstveno-istraživačkih projekata, u Ljubljani u Znanstvenom institutu Filozofske fakultete: _Vprašenje jezikovnih odnosov Stipana Konzula in Primoža Trubarja ob delu Biblijskega zavoda v Urachu_ i kod Filozofskoga fakulteta Družbe Isusove u Zagrebu: _Isusovačka školska drama u hrvatskim gimnazijama 17. i 18. stoljeća_. Suradnik na projektima: _Stvaralački potencijal u funkciji društvenoga razvoja sjeverozapadne Hrvatske_ (voditelj akademik Andre Mohorovičić, HAZU). Bio je jedan od organizatora epohalne izložbe _Kajavaiana croatica_ u Muzeju za umjetnost i obrt u Zagrebu te urednik istoimenog kataloga (1996.).

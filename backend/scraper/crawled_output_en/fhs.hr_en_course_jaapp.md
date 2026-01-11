@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/jaapp)
 
 ## Journalism as a Profession: Practicum
-  * [Basic data](https://www.fhs.hr/en/course/jaapp#v1id-523792_159909_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/jaapp#v1id-523792_159909_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/jaapp#v1id-523792_159909_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/jaapp#v1id-523792_159909_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/jaapp#v1id-159954_590768_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/jaapp#v1id-159954_590768_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/jaapp#v1id-159954_590768_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/jaapp#v1id-159954_590768_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pnp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/jaapp)

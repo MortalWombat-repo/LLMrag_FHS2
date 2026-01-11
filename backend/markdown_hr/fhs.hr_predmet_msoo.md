@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/msoo#v1id-904840_979978_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/msoo#v1id-904840_979978_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/msoo) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bkae_a)
 **Šifra:** |  200154  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Vanja Kopilaš](https://www.fhs.hr/djelatnik/vanja.kopilas)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -33,26 +32,24 @@
   5. razlikovati više i niže kognitivne procese, te diskutirati njihov međusobni odnos, kao i odnos sa školskim postignućem
   6. povezati razvoj neuralne osnove i kognitivnih procesa tijekom odrastanja s kapacitetima za učenje te ilustrirati važnost usklađenosti tih kapaciteta sa zahtjevima obrazovnih programa
 
-  
 **Literatura:**  
   1. Mind, Brain and Education: Neuroscience Implications for the Classroom (Leading Edge), Sousa, D. A., Solution Tree Press, 2010. 
   2. Mind, brain, and education science: A comprehensive guide to the new brain-based teaching, Tokuhama-Espinosa, T., New York, USA: W. W. Norton & Company, 2010. 
   3. The learning brain: Lessons for education, Blakemore, S. J., & Frith, U., Blackwell publishing, 2005. 
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **PSI (1860) - Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar**  
 > **PSI (1860) - Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **PSI (1860) - Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar**  
 > **PSI (1860) - Izborni kolegiji** - Redovni studij - Psihologija  
 >   
@@ -60,7 +57,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Vanja Kopilaš](https://www.fhs.hr/djelatnik/vanja.kopilas)**: 
 utorkom od 10:00-11:00 sati, uz obaveznu prethodnu najavu na e-mail
 Lokacija: 025 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/msoo?@=2181s#news_115692 "Arhiva obavijesti")

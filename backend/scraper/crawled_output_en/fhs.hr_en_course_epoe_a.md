@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/epoe_a)
 
 ## Economic Potentials of Emigrants
-  * [Basic data](https://www.fhs.hr/en/course/epoe_a#v1id-523773_281611_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/epoe_a#v1id-523773_281611_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/epoe_a#v1id-523773_281611_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/epoe_a#v1id-523773_281611_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/epoe_a#v1id-159938_218717_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/epoe_a#v1id-159938_218717_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/epoe_a#v1id-159938_218717_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/epoe_a#v1id-159938_218717_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gpi_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/epoe_a)

@@ -11,7 +11,6 @@
   * [5.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/kroatologija#v1id-904769_145122_1_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/prijediplomski/dvopredmetni_studiji/kroatologija#v1id-904769_145122_1_6 "6.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -330,4 +329,4 @@ ECTS | KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije
 3.0 |  [Vlasi u europskoj i hrvatskoj kulturi (284989)](https://www.fhs.hr/predmet/vuehk_a) Smiljanić, V. |  | 30 30S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=0QRTAiP0juUZtdNY4DrMY1oHXOuX8KVezbJ3ObOsJtZWvpr_rh0QXDUknhXVp10DmExssJtb-EhNEg2coEq-S3EgxoBn9QCRcWnZXTaEZlnDqufsU6YjKhATX7nrUst9MW2H3gXzFOZqTyAKj7YxD_MsEsRaIpSkaugaQS0U-QSH3ptKofOLFodmijFT6e1WYQMJLA==&_v1flags=z35NQzdJstDLb7xNzIQH4vXCxUk3q_NgL1U-tLzgzAgKtagoWJWWEUzI9539QvkomIA-5LreDthZtmMbLsPSk9c9snIbBoeNQKu9BXAW3Qi2vVuWpHN4SS-5AKKf84f8qCH650b6bok9sabHJghJGErDgJWMy4QZ4haBabTpVJ9rcsas&_lid=82933&_rand=0',%20''\))  
 2.0 |  [Zemljopisna obilježja Hrvatske (188087)](https://www.fhs.hr/predmet/zoh_a) * Komušanac, M. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=Qc26OlLZTf6hUvX6EOzULjIAgy17vI_6oL_0Kb8wA6QnrDQ8ZmVpuugFNs5uhMfD6JwquXneRBI7vAOubr3CqJvAkbIF3hyr2Vy1cOGHxTW4a7-UA9lG0G4u2PY3uTc_8uliMi1XgkDTf7aVpkYW1RfZdkQOz4sc5E-uaj74FbcIvnvOoB4LlCt291YwESJYbzw0uQ==&_v1flags=A6BuMHyMx1LRMH0dlbn8pUmskuy0Upz4PyQU5Nn8zgonsM9rDK1BcEmZ32dUmBbEy-sGYc-7i3uD5l45gAF-tNTIg8gQquKp_i-cf6SKmvZe1w8SGV65-qMbnsvr86E1tADPytw7DTkrDyn9uWlTuaVNBN7sy_vYb--KmsbXQpl_rIHG&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

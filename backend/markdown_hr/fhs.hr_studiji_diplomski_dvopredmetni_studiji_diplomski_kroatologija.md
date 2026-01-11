@@ -9,7 +9,6 @@
   * [3.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/kroatologija#v1id-904757_47518_1_3 "3.sem")
   * [4.sem](https://www.fhs.hr/studiji/diplomski/dvopredmetni_studiji_diplomski/kroatologija#v1id-904757_47518_1_4 "4.sem")
 
-
 1. semestar, 1. godina  
 ---  
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
@@ -247,4 +246,4 @@ ECTS | KRO-dipl (17275): Izborni kolegiji
 3.0 |  [Terapijska pedagogija 1 (201466)](https://www.fhs.hr/predmet/terped1) * Dadić, K. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=CI3ZFPgSWxGIG_O6bsGQDpFAHad1Vk8OOmWw6scHAffnbUDgjD88zvDguqm1UElnkRPwF7rGkjbkfMegh1zN65K1l4zpSrnKovv5p_7ssjgm3SDFAm_vvZQt04rvsfYmqDHTmyoX9CNP83_HNoF4iO-ZyI8rLM_b176zcjhpPnBRF5QVMmls78y-MSvbxq4fSC-idg==&_v1flags=6iygfaWoEzqSX-b4tEX5owkiyIjJOpv9g46dHL6zOmijf8HgGCXUvqyRywU-1mJS2UzWHOiPC2_U6tQy8CH7JGPq0cWuCb6813CipOq4OhQ4nXnPllfijcW1_OzdU_qZaMnF5_jA74y-Ln2mcr8oEyVL3aEhUJ2bUXj-RCebQXUNSzR6&_lid=82933&_rand=0',%20''\))  
 3.0 |  [Terapijska pedagogija 2 (201485)](https://www.fhs.hr/predmet/terped2) Piskač, D. |  | 30 15P+15S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=ywA1CCBoAbyiPmpHTRPAJP4sbAOkUg8AqcOXYLCHF70tTndxAaZ9EPl2b-Xnsg63uQJpnXvYg0rqehZ5HIB0OC5b_p0KynJBJLuMe43kk75UdQ7gU0iYMXKyp17RlewlnG6JS42EA6YfbPNfYzyubyUgp8uTNyfqpCtB2BY78ruaMVJn9GEf9F4bs_yRpbHGpmtC-w==&_v1flags=pduvxPzNQ_1swBND1Pj4TT-xoR5uR00DrRlrZr8POL-T6sDSujzv-8YFmI2PJoNZMkgbuFKYGMIadcqa586WFzWFkzfe1hpi5aVtmyQtzNq-QR4jP4jeXd9syaw8qyfMQP2OZLfd0eGc8BlogKRL-7z5Z72SjDNysDhuPtaTRh5eLuGa&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

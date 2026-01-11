@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hoplcitl1c)
 
 ## History of private life --Croatia in the "long 19th century"
-  * [Basic data](https://www.fhs.hr/en/course/hoplcitl1c#v1id-523784_233142_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hoplcitl1c#v1id-523784_233142_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hoplcitl1c#v1id-523784_233142_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hoplcitl1c#v1id-523784_233142_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hoplcitl1c#v1id-159948_916277_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hoplcitl1c#v1id-159948_916277_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hoplcitl1c#v1id-159948_916277_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hoplcitl1c#v1id-159948_916277_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppzhud1s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoplcitl1c)

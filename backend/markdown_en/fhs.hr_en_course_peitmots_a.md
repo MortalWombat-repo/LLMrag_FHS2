@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/peitmots_a)
 
 ## Practical Exercises in the Methodology of Teaching [Sociology]
-  * [Basic data](https://www.fhs.hr/en/course/peitmots_a#v1id-523814_195632_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/peitmots_a#v1id-523814_195632_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/peitmots_a#v1id-523814_195632_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/peitmots_a#v1id-523814_195632_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/peitmots_a#v1id-159971_43521_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/peitmots_a#v1id-159971_43521_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/peitmots_a#v1id-159971_43521_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/peitmots_a#v1id-159971_43521_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvpms_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peitmots_a)

@@ -13,5 +13,4 @@ ODSJEK ZA KROATOLOGIJU
   * [Hrvatska heraldika i semiotika grbovlja (200603)](https://www.fhs.hr/predmet/hhsg) - Nositelj
   * [Hrvatski glagolizam (188080)](https://www.fhs.hr/predmet/hrvgla_a) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

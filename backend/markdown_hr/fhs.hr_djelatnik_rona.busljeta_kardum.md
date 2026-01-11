@@ -27,11 +27,9 @@ ODSJEK ZA ODGOJNO-OBRAZOVNE ZNANOSTI
   * [Vrjednovanje i ocjenjivanje u nastavi (187902)](https://www.fhs.hr/predmet/voun) - Nositelj, Seminar
   * [Diplomski rad (214702)](https://www.fhs.hr/predmet/diprad_e) - Seminar
 
-
 **cjeloživotno učenje**
   * [Nastavna metodika (280208)](https://www.fhs.hr/predmet/nasmet) - Nositelj, Metodičke vježbe
   * [Praktične vježbe predmetne metodike (280209)](https://www.fhs.hr/predmet/pvpm) - Nositelj
-
 
 #### Životopis
 Dr. sc. Rona Bušljeta Kardum je od 2007. zaposlena na Fakultetu hrvatskih studija. Doktorski rad pod naslovom _Recepcija didaktičko-metodičkih inovacija u hrvatskim gimnazijskim udžbenicima povijesti od 2003. do 2008. godine_ obranila je 2012. godine. Od 2007. do danas izvodi predavanja, seminare i vježbe na Odsjeku za odgojno-obrazovne znanosti iz više obvezatnih i izbornih kolegija.

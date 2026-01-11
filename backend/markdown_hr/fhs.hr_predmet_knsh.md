@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/knsh#v1id-904831_234713_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/knsh#v1id-904831_234713_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/knsh) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lalhonc)
 **Šifra:** |  270278  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Svi elementi nastave na predmetu provode se na engleskom jeziku. Ova razina uključuje i predmete s više nastavnih grupa (u hrvatskoj grupi nastava je isključivo na hrvatskom jeziku, a u engleskoj grupi isključivo na engleskom jeziku).   
 **Opterećenje:**  
@@ -29,26 +28,24 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar**  
 > **KRO-dipl (17275): Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
@@ -57,7 +54,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Kresnik](https://www.fhs.hr/djelatnik/ivana.kresnik)**: 
 Petkom u 10 sati.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/knsh?@=21t6c#news_124398)

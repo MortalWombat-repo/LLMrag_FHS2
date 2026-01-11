@@ -25,10 +25,8 @@ ODSJEK ZA PSIHOLOGIJU
   * [Socijalna psihologija (37767)](https://www.fhs.hr/predmet/socpsi) - Nositelj
   * [Uvod u socijalnu psihologiju (172428)](https://www.fhs.hr/predmet/uusp_a) - Nositelj
 
-
 **diplomski**
   * [Izrada diplomskoga rada (126008)](https://www.fhs.hr/predmet/idr_b) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)
 #### Izabrane publikacije

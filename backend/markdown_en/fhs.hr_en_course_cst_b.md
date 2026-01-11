@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cst_b)
 
 ## Contemporary social theory
-  * [Basic data](https://www.fhs.hr/en/course/cst_b#v1id-523764_842210_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cst_b#v1id-523764_842210_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cst_b#v1id-523764_842210_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cst_b#v1id-523764_842210_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cst_b#v1id-159929_878030_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cst_b#v1id-159929_878030_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cst_b#v1id-159929_878030_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cst_b#v1id-159929_878030_1_3 "Consultations schedule")
 
 
 **Code:** |  211167  

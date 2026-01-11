@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/peitmotllal_a)
 
 ## Practical Exercises in the Methodology of Teaching [Latin Language and Literature]
-  * [Basic data](https://www.fhs.hr/en/course/peitmotllal_a#v1id-523815_585922_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/peitmotllal_a#v1id-523815_585922_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/peitmotllal_a#v1id-523815_585922_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/peitmotllal_a#v1id-523815_585922_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/peitmotllal_a#v1id-159972_29731_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/peitmotllal_a#v1id-159972_29731_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/peitmotllal_a#v1id-159972_29731_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/peitmotllal_a#v1id-159972_29731_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pvpmljk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peitmotllal_a)

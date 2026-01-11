@@ -12,9 +12,7 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Akademski francuski (209486)](https://www.fhs.hr/predmet/akafra) - Nositelj
 
-
 **diplomski**
   * [Hrvatska leksikografija (201792)](https://www.fhs.hr/predmet/hrvlek) - Nositelj, Seminar
-
 
 #### Znanstveni radovi (CroRIS)

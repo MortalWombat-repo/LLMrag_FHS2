@@ -6,13 +6,11 @@
   * [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_119_1834.html)
   * ### [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_119_1834.html)
 
-
 [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_119_1834.html)- [Zakon o visokom obrazovanju i znanstvenoj djelatnosti](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_10_119_1834.html)
 [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2330.html)- [Zakon o osiguravanju kvalitete u visokom obrazovanju i znanosti](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2330.html)
   * ### [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2330.html)
   * [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2330.html)
   * ###### [](https://narodne-novine.nn.hr/clanci/sluzbeni/2022_12_151_2330.html)
-
 
 #### **Temeljni dokumenti**
 [](https://www.fhs.unizg.hr/images/50014245/Odluka_o_osnivanju_Fakulteta_hrvatskih_studija.pdf)
@@ -86,5 +84,3 @@ Ostale odluke**
 [](https://www.fhs.unizg.hr/images/50014245/2020_01_07_Odluka_o_prestanku_podruznice.pdf)- [Odluka o prestanku podružnice Hrvatski studiji](https://www.fhs.unizg.hr/images/50014245/2020_01_07_Odluka_o_prestanku_podruznice.pdf) (7. 1. 2020.)
 [](https://www.fhs.unizg.hr/images/50014245/Odluka_o_imenovanju_dekana_i_clanova_Fakultetskoga_vijeca.pdf)- [Odluka o imenovanju dekana i članova Fakultetskoga vijeća](https://www.fhs.unizg.hr/images/50014245/Odluka_o_imenovanju_dekana_i_clanova_Fakultetskoga_vijeca.pdf) (10. 12. 2019.)
 [](https://www.fhs.unizg.hr/images/50014245/2019_12_10_Senat_daje_suglasnost_Rektoru.pdf)- [Odluka Senata o davanju suglasnosti na imenovanje dekana i članova Fakultetskoga vijeća](https://www.fhs.unizg.hr/images/50014245/2019_12_10_Senat_daje_suglasnost_Rektoru.pdf) (10. 12. 2019.)
-  
-

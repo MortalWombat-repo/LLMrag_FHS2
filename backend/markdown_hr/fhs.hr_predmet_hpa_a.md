@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hpa_a#v1id-904817_37898_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hpa_a#v1id-904817_37898_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hpa_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/csaa_a)
 **Šifra:** |  270385  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  nasl. doc. dr. sc. [Hela Vukadin-Doronjga](https://www.fhs.hr/djelatnik/hela.vukadin-doronjga)   
-  
+
 **Izvođači:** |  nasl. doc. dr. sc. [Hela Vukadin-Doronjga](https://www.fhs.hr/djelatnik/hela.vukadin-doronjga) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -40,13 +39,11 @@
   6. Vrednovati hrvatski prostor i kontinuitet arhitektonskog stvaralaštva kroz povijest.
   7. Ovladati vještinama pretraživanja arhivske građe, literature, izvora i artikulirati stavove o različitim vidovima hrvatske kulture.
 
-  
 **Literatura:**  
   1. PUSTINJA BLACA KULTURNI KRAJOLIK, br. 1-2., Bužanić, R., Klesarstvo i graditeljstvo, Pučišća, 2015. 
   2. POVIJEST UMJETNOSTI U HRVATSKOJ, str: 69, 74-76 / 92-93, 100-105, 141-143, 168-170, 264-267, 295-296, (393?) 401-402, 413-414, 424-425, 431-432, Milan Pelc, Ljevak, Zagreb, 2012. 
   3. HODOČAŠĆA I HODOČASNIČKA SVETIŠTA U BOSNI I HERCEGOVINI, Leonard Oreč, 1984. 
 
-  
 **Preporučena literatura:**  
   1. BAROKNA ARHITEKTURA, odabrana poglavlja, Katarina Horvat Levaj, Naklada Ljevak, Zagreb, 2015.
   2. 24 sata heroja, Mladen Kauzlarić, ukus međuratnog Zagreba, Katalog izložbe, [hrv./engl.] [odabrana poglavlja], Vukadin-Doronjga, H., Muzej grada Zagreba, 2003.
@@ -58,42 +55,40 @@
   8. BASTIONI JADRANSKE HRVATSKE, , Andrej Žmegač, Institut za povijest umjetnosti, Školska knjiga, 2009.
   9. OPĆA POVIJEST ARHITEKTURE, , Duško A. Rakić, Kućni majstor, 2005.
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **2. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >  **SOC (2960) - izborni TZP** - Redovni studij - Sociologija  
 >   
-  
+
 **6. semestar**  
 > **KRO (16533); Izborni kolegiji na dvopredmetnom studiju kroatologije** - Redovni studij - Kroatologija  
 >  **KRO (1787) - Izborni kolegiji** - Redovni studij - Kroatologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hpa_a?@=21ne3#news_124462 "Arhiva obavijesti")

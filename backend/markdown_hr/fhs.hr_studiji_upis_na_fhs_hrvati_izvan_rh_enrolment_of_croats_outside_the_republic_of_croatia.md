@@ -21,7 +21,6 @@ At the Faculty of Croatian Studies at the undergraduate level it is possible to 
   * One major (single major) in: Communicology, Croatology, History, Psychology, Sociology or
   * a combination of two studies (double major) selected from the following: Demography and the Croatian Diaspora, Philosophy and Culture, Communicology, Croatology, History and Sociology.
 
-
 _**Applications for enrolment and entrance interview**_
 Applicants submit their applications and send a motivation letter for enrollment in the first year of undergraduate studies:
 In the first round by Tuesday, July 1, 2025, at 23:59 according to Central European Summer Time. In the second round by Friday, September 5, 2025, at 23:59 according to Central European Summer Time.
@@ -39,5 +38,3 @@ Enrollment deadlines for all applicants who have obtained the right to enroll:
 Enrollment in the first year of undergraduate studies at the Faculty of Croatian Studies in the summer term will take place from July 17 to 22, 2025.
 For more information about study programs, visit: <https://www.fhs.unizg.hr/en/study>
 For assistance with filling out the application and collecting documentation, feel free to contact [hrvatiizvanrh@fhs.hr](javascript:cms_mail\('hrvatiizvanrh','fhs.hr','',''\)).
-  
-

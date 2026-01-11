@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/drap)
 
 ## Demographic Resourses and Potentials
-  * [Basic data](https://www.fhs.hr/en/course/drap#v1id-523770_296640_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/drap#v1id-523770_296640_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/drap#v1id-523770_296640_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/drap#v1id-523770_296640_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/drap#v1id-159934_808517_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/drap#v1id-159934_808517_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/drap#v1id-159934_808517_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/drap#v1id-159934_808517_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/drp_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/drap)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mitcl)
 
 ## Motivation in Teaching Croatian Language
-  * [Basic data](https://www.fhs.hr/en/course/mitcl#v1id-523804_470347_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mitcl#v1id-523804_470347_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mitcl#v1id-523804_470347_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mitcl#v1id-523804_470347_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mitcl#v1id-159964_721139_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mitcl#v1id-159964_721139_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mitcl#v1id-159964_721139_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mitcl#v1id-159964_721139_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/munhj) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mitcl)

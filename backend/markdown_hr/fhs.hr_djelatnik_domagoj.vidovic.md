@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Opća psihopatologija (38642)](https://www.fhs.hr/predmet/opcpsi) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

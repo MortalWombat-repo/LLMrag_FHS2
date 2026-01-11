@@ -3,6 +3,4 @@
 ## 
 Ivan Goran Benković, voditelj |  |   
 ---|---|---  
-|  |   
-  
-
+|  |

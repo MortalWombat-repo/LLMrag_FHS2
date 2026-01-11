@@ -15,5 +15,4 @@ ODSJEK ZA KROATOLOGIJU
   * [Globalizacija i jezik znanosti / Globalisierung und die Sprache der Wissenschaft (214003)](https://www.fhs.hr/predmet/gjzgudsdw) - Nositelj
   * [Kulturna i jezična raznolikost u Europi / Kulturelle und sprachliche Diversität in Europa (213980)](https://www.fhs.hr/predmet/kjruekusdie) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

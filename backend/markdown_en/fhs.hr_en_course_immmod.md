@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/immmod)
 
 ## Immigration Models
-  * [Basic data](https://www.fhs.hr/en/course/immmod#v1id-523785_826378_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/immmod#v1id-523785_826378_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/immmod#v1id-523785_826378_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/immmod#v1id-523785_826378_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/immmod#v1id-159948_497475_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/immmod#v1id-159948_497475_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/immmod#v1id-159948_497475_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/immmod#v1id-159948_497475_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/usemod) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/immmod)

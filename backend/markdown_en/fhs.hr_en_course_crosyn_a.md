@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/crosyn_a)
 
 ## Croatian Syntax
-  * [Basic data](https://www.fhs.hr/en/course/crosyn_a#v1id-523762_647999_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/crosyn_a#v1id-523762_647999_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/crosyn_a#v1id-523762_647999_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/crosyn_a#v1id-523762_647999_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/crosyn_a#v1id-159929_58308_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/crosyn_a#v1id-159929_58308_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/crosyn_a#v1id-159929_58308_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/crosyn_a#v1id-159929_58308_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shj_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/crosyn_a)

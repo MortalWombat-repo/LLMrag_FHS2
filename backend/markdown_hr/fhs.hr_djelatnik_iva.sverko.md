@@ -13,5 +13,4 @@ ODSJEK ZA PSIHOLOGIJU
   * [Psihologija izbora zanimanja (53800)](https://www.fhs.hr/predmet/piz) - Nositelj
   * [Izrada diplomskoga rada (126008)](https://www.fhs.hr/predmet/idr_b) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

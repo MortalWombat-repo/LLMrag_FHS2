@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poa_a)
 
 ## Psychology of Addiction
-  * [Basic data](https://www.fhs.hr/en/course/poa_a#v1id-523816_772177_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poa_a#v1id-523816_772177_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poa_a#v1id-523816_772177_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poa_a#v1id-523816_772177_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poa_a#v1id-159973_38556_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poa_a#v1id-159973_38556_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poa_a#v1id-159973_38556_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poa_a#v1id-159973_38556_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psiovi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poa_a)

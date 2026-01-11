@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/jss#v1id-904828_244795_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/jss#v1id-904828_244795_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/jss) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/psap)
 **Šifra:** |  194399  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -35,7 +34,6 @@
   4. Koristiti kartografske metode i projekcije u razmatranju, pojašnjavanju i prenošenju zakonitosti iz temeljnoga predmetnoga odnosa
   5. Dizajnirati prijedlog istraživačkog zadatka
 
-  
 **Literatura:**  
   1. Vukorepa, I., 2012: Mirovinski sustavi: kapitalno financiranje kao čimbenik socijalne sigurnosti, Pravni fakultet Sveučilišta u Zagrebu, 409., 
   2. Wertheimer-Baletić, A., 1999: Stanovništvo i razvoj, MATE d.o.o., Zagreb., 
@@ -43,7 +41,6 @@
   4. Hrvatski mirovinski sustav: korijeni, evolucija i perspektive, Puljiz, V., Revija za socijalnu politiku, 12(2), 2007. 
   5. Financiranje zdravstva, situacija u Hrvatskoj, Kovač N., Ekonomski vjesnik 2, 2013. 
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -52,7 +49,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: ured 716 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/jss?@=2179x#news_115547 "Arhiva obavijesti")

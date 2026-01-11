@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hijd#v1id-904810_264737_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hijd#v1id-904810_264737_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hijd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cdapa_a)
 **Šifra:** |  226937  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |  doc. dr. sc. [Ozana Ramljak](https://www.fhs.hr/djelatnik/ozana.ramljak)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Ozana Ramljak](https://www.fhs.hr/djelatnik/ozana.ramljak) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -84,37 +83,34 @@
 >  15. Zaključno predavanje - zajednička rasprava  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **2. semestar**  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **4. semestar**  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >  **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **6. semestar**  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hijd?@=21g9j#news_121368 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/pafs)
 
 ## Population and Financial System
-  * [Basic data](https://www.fhs.hr/en/course/pafs#v1id-523810_395858_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/pafs#v1id-523810_395858_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/pafs#v1id-523810_395858_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/pafs#v1id-523810_395858_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/pafs#v1id-159967_996616_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/pafs#v1id-159967_996616_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/pafs#v1id-159967_996616_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/pafs#v1id-159967_996616_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sfs) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/pafs)

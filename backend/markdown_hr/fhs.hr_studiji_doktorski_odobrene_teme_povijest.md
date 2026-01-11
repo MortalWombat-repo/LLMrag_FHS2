@@ -154,208 +154,139 @@
 
   * 11. 03. 2014. **Ivan Radoš** : _Vojni ustroj i djelovanje pobunjenih Srba na području sjeverne Dalmacije 1991.-1995_. Mentor: dr. sc. Davor Marijan, znanstveni savjetnik. Doktorski rad obranjen 06. 07. 2018.
 
-
   * 11. 03. 2014. **Vedran Klaužer** : _Ustrojstvo i djelovanje Senjske kapetanije od njezina osnutka do organizacije Vojne krajine po vrhovnom zapovjedniku Ivanu Lenkoviću (1469.-1563.)_. Mentor: dr. sc. Aleksander Buczynski, znanstveni savjetnik. Doktorski rad obranjen: 16. 03. 2015.
-
 
   * 21. 01. 2014. **Marko Vukičević** : _Zagreb u Prvome svjetskom ratu_. Mentor: dr. sc. Zdravka Jelsaka Marijan, viša znanstvena suradnica. Doktorski rad obranjen 05. 06. 2018.
 
-
   * 21. 01. 2014. **Marta Husić** : _Urbani razvoj Vukovara tijekom 18. stoljeća_. Mentor: izv. prof. dr. sc. Darko Vitek
-
 
   * 10. 12. 2013. **Ana Biočić** : _Djelovanje katoličkih svećenika u sazivu sabora Trojedne Kraljevine od 1867. do 1871. godine_. Mentor: izv. prof. dr. sc. Slavko Slišković. Doktorski rad obranjen: 12. 12. 2014.
 
-
   * 15. 10. 2013. **Rudolf Barišić** : _Školovanje klerika Bosne Srebrene na učilištima u Habsburškoj Monarhiji 1785.-1843_. Mentor: prof. dr. sc. Pavao Knezović. Doktorski rad obranjen 31. 10. 2014.
-
 
   * 15. 06. 2013. **Božena Glavan** : _Povijest grada Nina u razdoblju od 1573. do 1646. godine_. Mentor: prof. dr. sc. Mijo Korade. Doktorski rad obranjen: 11. 06. 2014.
 
-
   * 17. 07. 2013. **Ana Popovčić** : _Povijest sportskoga mačevanja u Zagrebu_. Mentor: doc. dr. sc. Marino Manin. Doktorski rad obranjen: 26. 10. 2015.
-
 
   * 11. 06. 2013. **Stipica Grgić:** _Uprava u Savskoj banovini (1929.-1939.) – Između državnog centralizma i supsidijarnosti_. Mentor: doc. dr. sc. Ivica Šute. Doktorski rad obranjen: 09. 04. 2014.
 
-
   * 11. 06. 2013. **Željko Karaula** : _Hrvatska seljačka zaštita u Kraljevini Jugoslaviji_. Mentor: doc. dr. sc. Ivica Miškulin. Doktorski rad obranjen: 20. 05. 2015.
-
 
   * 11. 06. 2013. **Mario Jager** : _Drava kao odrednica gospodarskog razvoja Osijeka od Hrvatsko-ugarske nagodbe do Prvoga svjetskog rata (1868.-1914.)_. Mentorica: prof. dr.sc. Zlata Živaković-Kerže
 
-
   * 14. 05. 2013. **Domagoj Knežević:** _Hrvatska demokratska zajednica od osnivanja do raskida s Jugoslavijom_. Mentor: dr.sc. Davor Marijan, znanstveni savjetnik. Doktorski rad obranjen: 12. 03. 2015.
-
 
   * 16. 04. 2013. **Domagoj Novosel** : _Stanovništvo upravne općine Gračani – Remete između dva svjetska rata_. Mentor: doc. dr. sc. Ivan Bulić. Doktorski rad obranjen: 12. 04. 2016.
 
-
   * 16. 4. 2013. **Tea Vinković:** _Hrvatska i regionalne organizacije na jugoistoku Europe_. Mentor: dr. sc. Albert Bing, znanstveni suradnik. Doktorski rad obranjen 14. 05. 2018.
-
 
   * 16. 04. 2013.**Ilija Matanović** : _Djelovanje Dragutina Kambera u domovini i emigraciji_. Mentor: prof. dr. sc. Jure Krišto
 
-
   * 12. 03. 2013. **Eugen Teklić** : _Djelovanje zbornog kaptola u Rovinju od 16. do 19. stoljeća_. Mentorica: doc. dr. sc. Jadranka Neralić
-
 
   * 12. 03. 2013. **Viktorija Košak** : _Povijest škola sestara Klanjateljica Krvi Kristove u BiH (1880.-1945.)_. Mentor: prof. dr. sc. Mijo Korade. Doktorski rad obranjen: 19. 11. 2013.
 
-
   * 15. 01. 2013. **Mihovil Dabo** : _Politička djelatnost Jurja Dobrile_. Mentor: dr. sc. Stjepan Matković, znanstveni savjetnik. Doktorski rad obranjen: 17. 05. 2013.
-
 
   * 16. 10. 2012. **Branka Manin:** _Hrvatski pedagoško-književni zbor_. Mentor: prof. dr. sc. Mijo Korade
 
-
   * 16. 10. 2012. **Monica Priante** : _L_ _’unionismo del vescovo Josip Juraj Strossmayer e il barnabita Cesare Tondini de’ Quarenghi: il caso della missione cattolica in Serbia (1883-1885)_. Mentor: doc. dr. sc. Slavko Slišković. Doktorski rad obranjen: 11. 04. 2013.
-
 
   * 16. 10. 2012. **Ivan Hrstić** : _Društveni razvoj Makarske od 1918. do 1929_. Mentorica: dr. sc. Suzana Leček, znanstvena savjetnica. Doktorski rad obranjen: 28. 11. 2013.
 
-
   * 16. 10. 2012. **Lidija Bencetić:** _Politička karikatura u listovima_ Borba _i_ Vjesnik _– komparativna analiza percepcije političkog i društvenog života u komunističkoj Jugoslaviji (1945.-1962.)_. Mentor: doc. dr. sc. Marino Manin. Doktorski rad obranjen: 15. 12. 2014.
-
 
   * 16. 10. 2012. **Marko Pijović** : _Vlasi u dubrovačkim spomenicima do 14. stoljeća_. Mentor: prof. dr. sc. Mladen Ančić. Doktorski rad obranjen 14.11. 2018.
 
-
   * 22. 11. 2011.**Ivan Brlić** : _Građanske udruge u Lici 1860. do 1940_. Mentor: doc. dr. sc. Željko Holjevac. Doktorski rad obranjen: 20. 11. 2013.
-
 
   * 22. 11. 2011. **Bruno Škreblin** : _Urbana elita zagrebačkog Gradeca od sredine 14. do početka 16. stoljeća_. Mentorica: izv. prof. dr. sc. Irena Benyovsky Latin. Doktorski rad obranjen:18. 06. 2015.
 
-
   * 11. 10. 2011. **Darko Belušić** : _Karitativni i socijalni rad Krunoslava Draganovića od 1945. do 1965. godine_. Mentor: izv. prof. dr. sc. Josip Jurčević
-
 
   * 11. 10. 2011. **Slaven Kale** : _Politička i kulturna javnost Banske Hrvatske o Poljacima i poljskom pitanju u drugoj polovici 19. stoljeća_. Mentor: prof. dr. sc. Damir Agičić. Doktorski rad obranjen 07. 02. 2018.
 
-
   * 11. 10. 2011.**Ivana Šubic:** _Uloga zagrebačkoga tiska u oblikovanju političke kulture 1918.-1929_. Mentor: dr. sc. Zdravko Dizdar, znanstveni savjetnik. Doktorski rad obranjen: 18. 06. 2014.
-
 
   * 11. 10. 2011. **Mislav Gabelica** : _Pravaštvo u Banskoj Hrvatskoj uoči Prvoga svjetskog rata_. Mentor: dr. sc. Stjepan Matković, znanstveni savjetnik. Doktorski rad obranjen: 08. 02. 2012.
 
-
   * 11. 10. 2011. **Željka Križe Gračanin** : _Velikosrpska politička propaganda uoči raspada Jugoslavije na primjeru srbijanskog tiska od donošenja Memoranduma SANU do početka ratnih sukoba u Hrvatskoj (1986-1991)_. Mentor: doc. dr. sc. Ante Nazor. Doktorski rad obranjen: 07. 07. 2015.
-
 
   * 10. 05. 2011. **Ivan Tepeš** : _Političko djelovanje Hrvatske seljačke stranke u emigraciji od 1945. do 1990. godine_. Mentori: prof. dr. sc. Mijo Korade i dr. sc. Marina Perić Kaselj, viša znanstvena suradnica. Doktorski rad obranjen 04. 05. 2018.
 
-
   * 10. 05. 2011. **Julija Barunčić Pletikosić** : _Katolička crkva u Hrvatskoj i Domovinski rat 1991-1995: stavovi, djelovanje i stradanja_. Mentor: dr. sc. Miroslav Akmadža, znanstveni savjetnik. Doktorski rad obranjen: 16. 07. 2014.
-
 
   * 15. 02. 2011. **Mladen Barać** : _Svakodnevni život na okupiranom području: Zapadna Slavonija 1992-1995_. Mentor: prof. dr. sc. Pavo Živković
 
-
   * 15. 02. 2011.**Ana Holjevac Tukovi** ć: _Srpska politika prema istočnom Podunavlju od vojno-redarstvene operacije Oluja do mirne reintegracije_. Mentor: prof. dr. sc. Ljubomir Antić. Doktorski rad obranjen: 12. 06. 2012.
-
 
   * 07. 12. 2010. **Janja Sekula** : _Zapadna Slavonija pod srpskom okupacijom (od Sarajevskog primirja do operacije Bljesak)_. Mentor: dr. sc. Jakša Raguž, znanstveni suradnik. Doktorski rad obranjen: 21. 02. 2013.
 
-
   * 07. 12. 2010. **Josip Kajinić** : _Nadbiskup Franjo Šeper i crkveno-državni odnosi 1960.-1969_. Mentor: dr. sc. Jure Krišto, znanstveni savjetnik. Doktorski rad obranjen: 18. 11. 2013.
-
 
   * 07. 12. 2010. **Tomislav Car:**_Srpska pravoslavna crkva u Hrvatskoj: oduzimanje imovine i odnosi s državom od 1945. do 1967_. Mentor: dr. sc. Zdenko Radelić, znanstveni savjetnik
 
-
   * 16. 11. 2010. **Eva Katarina Glazer** : _Polunomadsko i ruralno društvo i proces urbanizacije na prostoru Sirije i Palestine u brončano i željezno doba_. Mentor: prof. dr. sc. Slobodan Čače. Doktorski rad obranjen: 15. 06. 2012.
-
 
   * 16. 11. 2010. **Maja Katušić** : _Društvena i demografska struktura Kotora u 18. stoljeću_. Mentorica: dr. sc. Lovorka Čoralić. Doktorski rad obranjen: 17. 06. 2013.
 
-
   * 16. 11. 2010. **Dijana Pinjuh:** _Vjerske prilike kod katolika u Hercegovini od turskog osvajanja do konca 17. stoljeća_. Mentor: prof. dr. sc. Nenad Moačanin. Doktorski rad obranjen: 09. 07. 2013.
-
 
   * 16. 11. 2010. **Vlatka Vukelić** : _Povijest sustavnih arheoloških istraživanja u Sisku od 16. stoljeća do 1941. godine_. Mentori: dr. sc. Ivan Mirnik, znanstveni savjetnik i dr. sc. Jadranka Neralić, viša znanstvena suradnica. Doktorski rad obranjen: 20. 12. 2011.
 
-
   * 12. 10. 2010. **Valentina Zovko** : _Uloga poklisara u širenju teritorija Dubrovačke Republike na zaleđe (krajem 14. i početkom 15. stoljeća)_. Mentor: prof. dr. sc. Pavo Živković. Doktorski rad obranjen: 02. 07. 2012.
-
 
   * 20. 04. 2010. **Zdenka Rakičić Friedrich** : _Gospodarstvo civilne Slavonije u poslijenagodbenom razdoblju_. Mentor: prof. dr. sc. Petar Strčić
 
-
   * 20. 04. 2010. **Hrvoje Kekez** : _Plemićki rod Babonića do kraja 14. stoljeća_. Mentorica: dr. sc. Marija Karbić, viša znanstvena suradnica. Doktorski rad obranjen: 10. 02. 2012.
-
 
   * 09. 02. 2010. **Silva Kramer:**_Fašističke diktature. Nezavisna Država Hrvatska i Prva Slovačka republika u komparativnoj perspektivi_. Mentor prof. dr. sc. Tihomir Cipek
 
-
   * 09. 02. 2010. **Natko Martinić-Jerčić:** _Oslobodilačke operacije hrvatskih snaga u zapadnoj Slavoniji u jesen i zimu 1991./1992_. Mentor: prof. dr. sc. Ljubomir Antić. Doktorski rad obranjen: 11. 12. 2014.
-
 
   * 19. 01. 2010. **Rona Bušljeta** : _Recepcija didaktičko-metodičkih inovacija u hrvatskim gimnazijskim udžbenicima povijesti od 2003. do 2008. godine_. Mentor: prof. dr. sc. Marko Pranjić. Doktorski rad obranjen: 06. 06. 2012.
 
-
   * 19. 01. 2010. **Marko Jerković** : _Djelovanje Zagrebačkog kaptola i njegovi kanonici u 14. stoljeću_. Mentorica: dr. sc. Jadranka Neralić, viša znanstvena suradnica. Doktorski rad obranjen: 19. 11. 2011.
-
 
   * 19. 01. 2010. **Zrinka Novak** : _Pobožnost stanovnika rapske komune u drugoj polovici XVI. stoljeća_. Mentorica: dr. sc. Zoran Ladić, znanstveni savjetnik. Doktorski rad obranjen 09. 05. 2018.
 
-
   * 15. 12. 2009. **Ana Novak** : _Gorski arhiđakonat Zagrebačke biskupije od 1334. do 1501. godine (Povijesni razvoj crkveno-administrativnog područja_. Mentorica: dr. sc. Jadranka Neralić, viša znanstvena suradnica. Doktorski rad obranjen: 17. 06. 2011.
-
 
   * 15. 12. 2009. **Iva Kurelac** : _Počeci kritičke historiografije u djelu_ De rebus Dalmaticis _Dinka Zavorovića_. Mentori: izv. prof. dr. sc. Tamara Tvrtković i prof. dr. sc. Mijo Korade. Doktorski rad obranjen: 07. 06. 2010.
 
-
   * 17. 11. 2009. **Mario Kevo:** _Djelatnost Međunarodnog odbora Crvenog križa u Nezavisnoj Državi Hrvatskoj (1941.-1945.)_. Mentor: dr. sc. Mario Jareb, znanstveni suradnik. Doktorski rad obranjen: 31. 05. 2010.
-
 
   * 17. 11. 2009. **Marica Karakaš Obradov** : _Dobrovoljna i prisilna preseljenja u Hrvatskoj tijekom Drugog svjetskog rata i poraća_. Mentor: izv. prof. dr. sc. Miroslav Akmadža. Doktorski rad obranjen: 02. 06. 2011.
 
-
   * 09. 06. 2009. **Tomislav Popić** : _Zadarski sud_ curia maior ciuilium _i njegovo djelovanje_. Mentor: prof. dr. sc. Mladen Ančić. Doktorski rad obranjen: 28. 11. 2010.
-
 
   * 09. 06. 2009. **Vladimir Huzjan** : _Pučka pobožnost u župi Brdovec u 17. i 18. stoljeću_. Mentor: prof. dr. sc. Mijo Korade. Doktorski rad obranjen: 12. 07. 2010.
 
-
   * 09. 06. 2009. **Lidija Cerić** : _Hrvatska za vrijeme bana Slavka pl. Cuvaja_. Mentorica: prof. dr. sc. Mira Kolar
-
 
   * 21. 04. 2009. **Tonija Vladislavić** : _Život splitskog puka u srednjem vijeku: primjer obrtnika sredinom 15. stoljeća_. Mentorica: dr. sc. Irena Benyovski Latin, viša znanstvena suradnica. Doktorski rad obranjen: 25. 04. 2014.
 
-
   * 10. 02. 2009. **Slađana Josipović** : _Odnos komunističkog režima prema Katoličkoj crkvi u Đakovačkoj ili Bosanskoj i Srijemskoj biskupiji u vrijeme biskupa Antuna Akšamovića_. Mentor: izv. prof. dr. sc. Miroslav Akmadža. Doktorski rad obranjen: 10. 11. 2010.
-
 
   * 16. 09. 2008. **Valentina Janković** : _Plemićka obitelj Vojković-Vojkffy i društveno-kulturni život Zagreba i okolice u 18. stoljeću_. Mentor: prof. dr. sc. Mijo Korade. Doktorski rad obranjen: 17. 10. 2013.
 
-
   * 08. 07. 2008. **Ivana Žebec:** _Industrija u Zagrebu od 1935. do 1939. godine_. Mentorica: dr. sc. Suzana Leček, znanstvena savjetnica. Doktorski rad obranjen: 30. 06. 2011.
-
 
   * 16. 09. 2008. **Hrvoje Čapo** : _Državni represivni aparat na području Hrvatske od_ _1918. do 1941. godine_. Mentor: prof. dr. sc. Zdravko Dizdar. Doktorski rad obranjen: 08. 02. 2012.
 
-
   * 16. 09. 2008. **Iva Kraljević Bašić** : _Politički rad Većeslava Holjevca 1938.-1970_. Mentor: prof. dr. sc. Ljubomir Antić
-
 
   * 16. 09. 2008. **Goran Budeč** : _Svakodnevni život stanovnika Šibenika u drugoj polovini XV. stoljeća u zrcalu inventara i oporuka s posebnim osvrtom na razinu materijalne kulture_. Mentor: dr. sc. Zoran Ladić, znanstveni savjetnik. Doktorski rad obranjen: 17. 09. 2013.
 
-
   * 16. 09. 2008. **Branko Ostajmer** : _Narodna stranka u Slavoniji i Srijemu 1883.-1903_. Mentor: prof. dr. sc. Stjepan Matković. Doktorski rad obranjen: 22. 12. 2011.
-
 
   * 16. 09. 2008. **Branimir Šutalo** : _Položaj političkih zatvorenika u jugoslavenskom zatvorskom sustavu nakon sloma Hrvatskog proljeća_. Mentor: prof. dr. sc. Josip Jurčević
 
-
   * 16. 09. 2008. **Stipe Tutiš** : Curia maior ciulium _kao povijesno vrelo_. Mentor: izv. prof. dr. sc. Mladen Ančić
-
 
   * 08. 07. 2008. **Šimun Penava** : _Protjerivanje hrvata i bošnjaka s banjalučkog područja od 1992. do 1995. godine_. Mentor: dr. sc. Zdravko Dizdar  
 
   * 08. 07. 2008. **Anđelko Vlašić** : _Političko djelovanje Augusta Košutića tijekom Drugog svjetskog rata i poraća (1941.-1964.)_. Mentor: izv. prof. dr. sc. Miroslav Akmadža. Doktorski rad obranjen: 22. 02. 2010.
-
-
-  
 
 ## Repozitorij
 Repozitorij je prazan

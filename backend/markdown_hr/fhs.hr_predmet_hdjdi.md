@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/hdjdi#v1id-904808_872615_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hdjdi#v1id-904808_872615_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hdjdi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cspasi)
 **Šifra:** |  211194  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -40,31 +39,28 @@
 >  15. KOLOKVIJ 2  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **SOC-dipl (4420): Izborni kolegiji u zimskom semestru (ZN/NAST smjer)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **SOC-dipl (4420): Izborni kolegiji u zimskom semestru (ZN/NAST smjer)** - Redovni smjer - Nastavnički  
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **SOC-dipl (4420): Izborni kolegiji u zimskom semestru (ZN/NAST smjer)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hdjdi?@=21chg#news_119963 "Arhiva obavijesti")

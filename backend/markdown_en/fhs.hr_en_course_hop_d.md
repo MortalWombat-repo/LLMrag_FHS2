@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/hop_d)
 
 ## History of Palestine
-  * [Basic data](https://www.fhs.hr/en/course/hop_d#v1id-523784_723857_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/hop_d#v1id-523784_723857_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/hop_d#v1id-523784_723857_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/hop_d#v1id-523784_723857_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/hop_d#v1id-159947_772588_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/hop_d#v1id-159947_772588_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/hop_d#v1id-159947_772588_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/hop_d#v1id-159947_772588_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/povpal_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hop_d)

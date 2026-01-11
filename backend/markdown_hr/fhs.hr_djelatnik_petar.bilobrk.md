@@ -15,7 +15,6 @@ ODSJEK ZA KROATOLOGIJU
 **prijediplomski**
   * [Hrvatski identitet u europskom kontekstu (270237)](https://www.fhs.hr/predmet/hiuek_a) - Seminar
 
-
 #### Životopis
 Na Katoličkom bogoslovnom fakultetu Sveučilišta u Zagrebu završio je prijediplomski stručni studij teologije gdje je diplomirao na temu: _Nauk Ivana Pavla II. o ljudskom radu u svjetlu dostojanstva ljudske osobe_ , pod mentorstvom prof. dr. sc. Stjepana Balobana.
 Sveučilišni diplomski studij religijskih znanosti upisao je na Filozofskom fakultetu Družbe Isusove, Hrvatski studiji Sveučilišta u Zagrebu (danas Fakultet filozofije i religijskih znanosti Sveučilišta u Zagrebu) gdje je diplomirao na temu: _Kristologija Josepha Ratzingera_ , pod mentorstvom prof. dr. sc. Ivana Antunovića.
@@ -30,12 +29,9 @@ Zaposlen je na radnom mjestu voditelj Središnjeg sveučilišnog ureda za multim
   5. Udruga Alumni Fakulteta filozofije i religijskih znanosti Sveučilišta u Zagrebu - tajnik
   6. Društvo prijatelja glagoljice
 
-
 #### Izabrani projekti
   1. Sveučilište u Zagrebu Fakultet hrvatskih studija -  _Tihi pregaoci: redovnički prinosi hrvatskoj i europskoj kulturi_ - suradnik
   2. Sveučilište u Zagrebu Fakultet hrvatskih studija i Istraživački centar za poredbenu povijest redovništva Tehničkoga sveučilišta u Dresdenu (FOVOG) -  _Religious Orders and Societies Entangled (ROSE)_ - suradnik
   3. Institut za istraživanje migracija -_Hrvati u Bosni i Hercegovini: povijesne i suvremene perspektive (HRVABIH-POSUP)_(2024.-2027.) - suradnik
   4. Institut za istraživanje migracija -_Mapiranje hrvatske nacionalne manjine u europskim državama – Hrvati u Mađarskoj i Crnoj Gori (MAHRNAM-MICG)_(2024.-2027.) - suradnik
   5. Sveučilište u Zagrebu -  _Strani studenti na Sveučilištu u Zagrebu_ _od 1874. do 1918. u digitalnom okružju_ ; II. faza - suradnik
-
-

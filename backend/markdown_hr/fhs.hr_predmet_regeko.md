@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/regeko#v1id-904867_280136_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/regeko#v1id-904867_280136_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/regeko) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/regeco)
 **Šifra:** |  238022  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. [Petra Palić](https://www.fhs.hr/djelatnik/petra.palic)   
-  
+
 **Izvođači:** |  doc. [Petra Palić](https://www.fhs.hr/djelatnik/petra.palic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -59,16 +58,13 @@
 >  15. Perspektive regionalnoga integriranja i razvoja  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/regeko?@=21j11#news_122179 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/latica_a)
 
 ## Landscape and Tradition in Croatian Architecture
-  * [Basic data](https://www.fhs.hr/en/course/latica_a#v1id-523795_465315_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/latica_a#v1id-523795_465315_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/latica_a#v1id-523795_465315_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/latica_a#v1id-523795_465315_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/latica_a#v1id-159956_82487_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/latica_a#v1id-159956_82487_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/latica_a#v1id-159956_82487_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/latica_a#v1id-159956_82487_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ktuha_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latica_a)

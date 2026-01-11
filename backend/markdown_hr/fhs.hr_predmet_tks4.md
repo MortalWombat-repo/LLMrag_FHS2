@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/tks4#v1id-904881_761670_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/tks4#v1id-904881_761670_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/tks4) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/peas4)
 **Šifra:** |  185309  
-  
+
 ---|---  
 **ECTS:** |  0.0   
 **Nositelji:** |  v. pred. [Lucijan Šupljika Gabelica](https://www.fhs.hr/djelatnik/lucijan.supljika_gabelica)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -26,10 +25,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija i kultura  
@@ -46,12 +43,11 @@
 >   
 Termini konzultacija: 
   * **v. pred.[Lucijan Šupljika Gabelica](https://www.fhs.hr/djelatnik/lucijan.supljika_gabelica)**: 
-  
+
 srijedom 13.30 do 14.30  
-  
+
 Kampus Borongaj, glavna zgrada HS-a, soba 116
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/tks4?@=215x1#news_113828)

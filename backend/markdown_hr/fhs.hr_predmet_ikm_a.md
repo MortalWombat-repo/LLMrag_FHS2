@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/ikm_a#v1id-904823_890917_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ikm_a#v1id-904823_890917_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ikm_a)
 **Šifra:** |  264244  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |   
@@ -23,16 +22,13 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Izvanredni studij - Povijest  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ikm_a?@=21mil#news_123693 "Arhiva obavijesti")

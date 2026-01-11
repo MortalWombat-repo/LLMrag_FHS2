@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/smipr_b)
 
 ## Social Media in Public Relations
-  * [Basic data](https://www.fhs.hr/en/course/smipr_b#v1id-523833_183257_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/smipr_b#v1id-523833_183257_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/smipr_b#v1id-523833_183257_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/smipr_b#v1id-523833_183257_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/smipr_b#v1id-159988_28105_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/smipr_b#v1id-159988_28105_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/smipr_b#v1id-159988_28105_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/smipr_b#v1id-159988_28105_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dmuosj_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/smipr_b)
@@ -13,6 +13,8 @@
 ---|---  
 **ECTS:** |  5.0   
 **Lecturers in charge:** |  doc. dr. sc. [Tomislav Janović](https://www.fhs.hr/staff/tomislav.janovic)   
+  
+**Lecturers:** |  [Marino Erceg](https://www.fhs.hr/djelatnik/marino.erceg), mag. comm. - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -36,7 +38,7 @@
 >  **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >   
   
-**2. semester**  
+**2. semester** Not active  
 > **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >  **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >   
@@ -46,7 +48,7 @@
 >  **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >   
   
-**4. semester**  
+**4. semester** Not active  
 > **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >  **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >   
@@ -56,7 +58,7 @@
 >  **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >   
   
-**6. semester**  
+**6. semester** Not active  
 > **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >  **KOM (2945) - Izborni kolegiji 1.** - Regular studij - Communication Studies  
 >   

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/mimk#v1id-904839_351100_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mimk#v1id-904839_351100_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mimk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mcrm)
 **Šifra:** |  57208  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivan Burić](https://www.fhs.hr/djelatnik/ivan.buric)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivan Burić](https://www.fhs.hr/djelatnik/ivan.buric) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,7 +29,6 @@
 > Na početku diplomskog studija kolegiju je zadaća prikazati različite mogućnosti i metode znanstvenoga istraživanja medija i olakšati studentima odluku čemu će se u svom znanstvenom radu posvetiti i koju će temu magistarskoga rada izabrati. Kao priprema za samostalno i odgovorno bavljenje znanstvenim istraživanjem u polju medija, kolegij će studente u teorijskom i praktičnom smislu upoznati s metodološkim pristupima istraživanja masovne komunikacije na poljima komunikologije kao znanosti, tiska, radija, televizije, novih medija, etike, jezika medija, povijesti medija, odnosa s javnošću i promidžbenih poruka.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Milas, Goran (2009) Istraživačke metode u psihologiji i drugim društvenim znanostima. Zagreb: Naklada Slap.  
 Poglavlje 1: Znanosti i znanstvene metode , str. 3 - 22.  
@@ -48,7 +46,6 @@ Poglavlje 1. Općenito o znanosti, str. 17 - 32.
 Poglavlje 4. Izbor uzorka ispitanika i uzorka varijabli, str. 97-100., 
   4. Inga Koludrović Tomić, Anči Leborić (2002) Sociologija životnog stila, Vječne rasprave o odnosu kvantitativnog i kvalitativnog u sociologiji, str 203 - 219 Zagreb: Jesenski i Turk, 
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Komunikologija  
@@ -57,7 +54,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivan Burić](https://www.fhs.hr/djelatnik/ivan.buric)**: 
 Ponedjeljak, 11.00 - 12.00
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/mimk?@=20oyv#news_80311 "Arhiva obavijesti")

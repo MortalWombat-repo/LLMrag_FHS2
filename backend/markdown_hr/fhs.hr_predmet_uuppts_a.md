@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/uuppts_a#v1id-904886_328974_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/uuppts_a#v1id-904886_328974_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uuppts_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itpatsip_a)
 **Šifra:** |  200121  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Alena Gizdić](https://www.fhs.hr/djelatnik/alena.gizdic)   
-  
+
 **Izvođači:** |  [Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -39,18 +38,15 @@
   7. Opisati temeljne znacajke razlicitih grana primijenjene psihologije te razlicitih radnih mjesta psihologa
   8. Usporediti i analizirati razlike i slicnosti izmedu pojedinih teorijskih sustava u psihologiji.
 
-  
 **Literatura:**  
   1. Uvod u psihologiju, Atkinson, R.L., & Hilgard, E, Jastrebarsko: Naklada Slap., 2007. 
   2. Povijest psihologije, Hothersall, D., Jastrebarsko: Naklada Slap., 2002. 
   3. Temelji psihologije, Rathus, A. S., Jastrebarsko: Naklada Slap., 2000. 
   4. Psiholog u praksi, Hartley, J., & Branthwaite, A., Jastrebarsko: Naklada Slap., 2002. 
 
-  
 **Preporučena literatura:**  
   1. Cetrdeset znanstvenih studija koje su promijenile psihologiju., , Hock, R. R., Jastrebarsko: Naklada Slap., 2004.
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Psihologija  
@@ -59,7 +55,6 @@ Termini konzultacija:
   * **[Jelena Flego](https://www.fhs.hr/djelatnik/jelena.flego), mag. psych.**: 
 Utorkom 13.00-14.00h, soba 207
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/uuppts_a?@=2180q#news_115629 "Arhiva obavijesti")

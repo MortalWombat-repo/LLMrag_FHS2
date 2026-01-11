@@ -14,5 +14,3 @@ Sastav:
 Za obavljanje administrativnih poslova za potrebe Povjerenstva za javnu nabavu   
 zadužena je Lidija Zorić, prof.
 Zadnja promjena: 1. listopada 2024.
-  
-

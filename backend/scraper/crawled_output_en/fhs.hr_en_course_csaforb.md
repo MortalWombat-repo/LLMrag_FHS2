@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/csaforb)
 
 ## Croatian Society and Freedom of Religious Beliefs
-  * [Basic data](https://www.fhs.hr/en/course/csaforb#v1id-523763_40065_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/csaforb#v1id-523763_40065_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/csaforb#v1id-523763_40065_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/csaforb#v1id-523763_40065_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/csaforb#v1id-159930_69681_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/csaforb#v1id-159930_69681_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/csaforb#v1id-159930_69681_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/csaforb#v1id-159930_69681_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hdvs) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/csaforb)

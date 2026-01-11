@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/tsc)
 
 ## The Speech Culture
-  * [Basic data](https://www.fhs.hr/en/course/tsc#v1id-523843_364283_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/tsc#v1id-523843_364283_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/tsc#v1id-523843_364283_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/tsc#v1id-523843_364283_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/tsc#v1id-159996_751878_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/tsc#v1id-159996_751878_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/tsc#v1id-159996_751878_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/tsc#v1id-159996_751878_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kulgov) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tsc)
@@ -31,6 +31,11 @@
 
   
 **Literature:**  
+  1. Smijeh. O značenju komičnoga, Bergson, H., Zagreb: Nakladni zavod Znanje, 1987. 
+  2. Umijeće javnog nastupa: Osvojite govornicu koristeći se glumačkim vještinama, Gottesman, D., Mauro, B., Zagreb: Naklada Jesenski i Turk, 2006. 
+  3. U potrazi za izgubljenim govorom, Škarić, I., Zagreb: Školska knjiga, 1988. 
+  4. Odlike hrvatske državne medijske govorničke škole. Govor (12)1, Škarić, I., Hrvatsko filološko društvo, Odjel za fonetiku, 1995. 
+  5. Temeljci suvremenoga govorništva, Škarić, I., Zagreb: Školska knjiga, 2003. 
 
   
 **1. semester**  

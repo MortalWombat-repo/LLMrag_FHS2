@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ceare)
 
 ## Cyborg Ethics and Robot Ethics
-  * [Basic data](https://www.fhs.hr/en/course/ceare#v1id-523752_112305_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ceare#v1id-523752_112305_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ceare#v1id-523752_112305_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ceare#v1id-523752_112305_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ceare#v1id-159918_867247_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ceare#v1id-159918_867247_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ceare#v1id-159918_867247_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ceare#v1id-159918_867247_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kir) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ceare)

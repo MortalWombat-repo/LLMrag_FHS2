@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/fie1)
 
 ## Fieldwork 1
-  * [Basic data](https://www.fhs.hr/en/course/fie1#v1id-523774_467844_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/fie1#v1id-523774_467844_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/fie1#v1id-523774_467844_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/fie1#v1id-523774_467844_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/fie1#v1id-159938_784364_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/fie1#v1id-159938_784364_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/fie1#v1id-159938_784364_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/fie1#v1id-159938_784364_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ternas1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/fie1)

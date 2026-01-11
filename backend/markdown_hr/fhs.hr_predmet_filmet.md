@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/filmet#v1id-904804_240134_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/filmet#v1id-904804_240134_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filmet) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/phimet)
 **Šifra:** |  201535  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -65,10 +64,8 @@
 >  15. Interdisciplinarnost i pluriperspektvizam  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -77,7 +74,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Matija Mato Škerbić](https://www.fhs.hr/djelatnik/matija_mato.skerbic)**: 
 Utorkom, 14:30 - 15:30
 Lokacija: 18 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/filmet?@=21dpq#news_120152)

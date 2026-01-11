@@ -13,7 +13,5 @@ Sastav:
 
 Za obavljanje administrativnih poslova za potrebe Povjerenstva za znanost i inovacije  
 zadužena je Tea Cacović, mag. phil. et mag. soc.  
-  
-Zadnja promjena: 1. listopada 2025.
-  
 
+Zadnja promjena: 1. listopada 2025.

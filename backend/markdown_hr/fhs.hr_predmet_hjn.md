@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hjn#v1id-904811_530746_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hjn#v1id-904811_530746_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hjn) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clp)
 **Šifra:** |  201776  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. dr. sc. [Mario Grčević](https://www.fhs.hr/djelatnik/mario.grcevic)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Mario Grčević](https://www.fhs.hr/djelatnik/mario.grcevic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -52,7 +51,6 @@
   5. Objasniti normativna razilaženja.
   6. Analizirati razlike između prihvaćenih i neprihvaćenih savjeta, preporuka, uporabne i propisane norme, itd.
 
-  
 **Literatura:**  
   1. Temelji hrvatskomu pravopisu, Babić, Stjepan, Školska knjiga, 2005. 
   2. Novosadski dogovor u kontekstu jugoslavenske jezične politike prve polovice XX. stoljeća, Bašić, Nataša, U: Slavko Mirković (ur.), Babićev zbornik o 80. obljetnica života (str. 199-237). Slavonski Brod: Ogranak Matice hrvatske., 2008. 
@@ -61,21 +59,20 @@
   5. Hrvatski jezik u XX. stoljeću, Samardžija, Marko , Ivo Pranjković, Zagreb: Matica hrvatska, 2006. 
   6. Hrvatski jezik i pravopis od ujedinjenja do kraja Banovine Hrvatske (1918.-1941.), Samardžija, Marko, Zagreb: Školska knjiga, 2012. 
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
 >  **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar**  
 > **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KRO-dipl (4425): Izborni kolegiji 2** - Redovni smjer - Znanstveni  
 >   
@@ -83,7 +80,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Mario Grčević](https://www.fhs.hr/djelatnik/mario.grcevic)**: 
 petak, 11.30 - 12.30
 Lokacija: Zgrada 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hjn?@=21fzi#news_116475)

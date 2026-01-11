@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sfsr)
 
 ## Statistics for Social Research
-  * [Basic data](https://www.fhs.hr/en/course/sfsr#v1id-523833_569242_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sfsr#v1id-523833_569242_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sfsr#v1id-523833_569242_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sfsr#v1id-523833_569242_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sfsr#v1id-159985_591437_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sfsr#v1id-159985_591437_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sfsr#v1id-159985_591437_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sfsr#v1id-159985_591437_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sudi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sfsr)

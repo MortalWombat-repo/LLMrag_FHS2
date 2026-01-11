@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/itsrmas_a)
 
 ## Introduction to Social Research Methods and Statistics
-  * [Basic data](https://www.fhs.hr/en/course/itsrmas_a#v1id-523793_11104_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/itsrmas_a#v1id-523793_11104_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/itsrmas_a#v1id-523793_11104_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/itsrmas_a#v1id-523793_11104_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/itsrmas_a#v1id-159953_185284_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/itsrmas_a#v1id-159953_185284_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/itsrmas_a#v1id-159953_185284_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/itsrmas_a#v1id-159953_185284_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uumdis_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/itsrmas_a)

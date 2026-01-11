@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/elt)
 
 ## English language:Journalistic Translation
-  * [Basic data](https://www.fhs.hr/en/course/elt#v1id-523773_700672_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/elt#v1id-523773_700672_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/elt#v1id-523773_700672_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/elt#v1id-523773_700672_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/elt#v1id-159936_347684_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/elt#v1id-159936_347684_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/elt#v1id-159936_347684_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/elt#v1id-159936_347684_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ejp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/elt)

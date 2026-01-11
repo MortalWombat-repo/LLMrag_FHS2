@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/acaita)
 
 ## Academic Italian
-  * [Basic data](https://www.fhs.hr/en/course/acaita#v1id-523743_681011_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/acaita#v1id-523743_681011_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/acaita#v1id-523743_681011_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/acaita#v1id-523743_681011_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/acaita#v1id-159911_404604_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/acaita#v1id-159911_404604_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/acaita#v1id-159911_404604_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/acaita#v1id-159911_404604_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/akatal) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/acaita)
@@ -15,6 +15,8 @@
 **Lecturers in charge:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/staff/antonia.ordulj)   
   
 **Lecturers:** |  [Jelena Bekić](https://www.fhs.hr/djelatnik/jelena.bekic), prof. - Practical foreign language exercises  
+  
+[Jelena Bekić](https://www.fhs.hr/djelatnik/jelena.bekic), prof. - Lectures  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   

@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/isini#v1id-904824_66987_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/isini#v1id-904824_66987_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/isini) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rgioems)
 **Šifra:** |  62006  
-  
+
 ---|---  
 **ECTS:** |  6.0   
 **Nositelji:** |   
@@ -26,7 +25,6 @@
 > Cilj kolegija je upoznati studente s osnovnim podacima i povijesnim procesima koji su se odvijali na prostoru Hrvatske u novom vijeku, upoznati ih s osnovnom problematikom proučavanja hrvatske novovjekovne povijesti, te ih pripremiti za samostalni rad na interpretaciji novovjekovnih izvora.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. ur. Stjepan Sršan; Vizitacije - Visitationes canonicae - Kanonske vizitacije; Državni arhiv u Osijeku (2003), 
   2. ur. Ive Mažuran; Komorski popisi - Stanovništvo i vlastelinstva u Slavoniji 1736. godine i njihova ekonomska podloga; Zavod za znanstveni rad HAZU, Osijek (1993), 
@@ -34,13 +32,11 @@
   4. Izvještaj o Dalmaciji Antuna Giustiniana godine 1575. - Vicko Solitro, Povijesni dokumenti o Istri i Dalmaciji; Split (1989), 
   5. Katica Miholović; Statut grada Karlovca 1778; Karlovac (2000), 
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **POV-dipl (5390): Istraživačke skupine** - Redovni smjer - Znanstveni  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/isini?@=20qrs#news_81165)

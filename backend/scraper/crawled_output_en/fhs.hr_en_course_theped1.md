@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/theped1)
 
 ## Therapeutic Pedagogy 1
-  * [Basic data](https://www.fhs.hr/en/course/theped1#v1id-523841_476001_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/theped1#v1id-523841_476001_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/theped1#v1id-523841_476001_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/theped1#v1id-523841_476001_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/theped1#v1id-159995_543380_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/theped1#v1id-159995_543380_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/theped1#v1id-159995_543380_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/theped1#v1id-159995_543380_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/terped1) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/theped1)
@@ -15,7 +15,7 @@
 **Lecturers in charge:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/staff/katarina.dadic)   
   
 **Lecturers:** |  izv. prof. dr. sc. [Katarina Dadić](https://www.fhs.hr/djelatnik/katarina.dadic) - Seminar  
-[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed. - Seminar  
+dr. sc. Martina Horvat - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  The lecturer is not able to offer courses in English at this time.   
@@ -76,9 +76,6 @@
 >  **POV-dipl (4411): Izborni kolegiji** - Regular smjer - Teaching Stream  
 >   
 Consultations schedule: 
-  * **[Martina Horvat](https://www.fhs.hr/djelatnik/martina.horvat), mag. paed.**: 
-Thursday, 11.00 - 12.00
-Location: Zgrada knjižnice 
 
 
 ## News

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/texedi)
 
 ## Text Editing
-  * [Basic data](https://www.fhs.hr/en/course/texedi#v1id-523841_30178_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/texedi#v1id-523841_30178_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/texedi#v1id-523841_30178_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/texedi#v1id-523841_30178_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/texedi#v1id-159993_831231_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/texedi#v1id-159993_831231_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/texedi#v1id-159993_831231_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/texedi#v1id-159993_831231_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uretek) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/texedi)

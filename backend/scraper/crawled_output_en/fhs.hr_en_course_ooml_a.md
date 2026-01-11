@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ooml_a)
 
 ## Overview of Medieval Latinity
-  * [Basic data](https://www.fhs.hr/en/course/ooml_a#v1id-523809_699442_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ooml_a#v1id-523809_699442_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ooml_a#v1id-523809_699442_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ooml_a#v1id-523809_699442_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ooml_a#v1id-159968_346540_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ooml_a#v1id-159968_346540_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ooml_a#v1id-159968_346540_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ooml_a#v1id-159968_346540_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psl_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ooml_a)

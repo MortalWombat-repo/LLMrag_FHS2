@@ -6,15 +6,14 @@
   * [Nastava](https://www.fhs.hr/predmet/hrvgla_a#v1id-904818_818797_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hrvgla_a#v1id-904818_818797_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hrvgla_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/crogla_a)
 **Šifra:** |  188080  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Tomislav Galović](https://www.fhs.hr/djelatnik/tomislav.galovic)   
 nasl. prof. [Amir Kapetanović](https://www.fhs.hr/djelatnik/amir.kapetanovic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -28,20 +27,17 @@ nasl. prof. [Amir Kapetanović](https://www.fhs.hr/djelatnik/amir.kapetanovic)
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
 >   
-  
+
 **6. semestar**  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hrvgla_a?@=21nh7#news_114276)

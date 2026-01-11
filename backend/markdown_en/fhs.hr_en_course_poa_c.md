@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/poa_c)
 
 ## Psychology of Advertising
-  * [Basic data](https://www.fhs.hr/en/course/poa_c#v1id-523816_83018_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/poa_c#v1id-523816_83018_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/poa_c#v1id-523816_83018_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/poa_c#v1id-523816_83018_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/poa_c#v1id-159972_442234_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/poa_c#v1id-159972_442234_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/poa_c#v1id-159972_442234_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/poa_c#v1id-159972_442234_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psiogl) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/poa_c)

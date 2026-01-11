@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/sudi#v1id-904877_916086_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/sudi#v1id-904877_916086_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sudi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sfsr)
 **Šifra:** |  37765  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  izv. prof. dr. sc. [Dario Pavić](https://www.fhs.hr/djelatnik/dario.pavic)   
-  
+
 **Izvođači:** |  dr. sc. [Marija Zelić](https://www.fhs.hr/djelatnik/marija.zelic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -31,7 +30,6 @@
 >  Opći ciljevi kolegija: studenti će steći osnovna statistička znanja i tehnike koje se koriste u društvenim istraživanjima, s naglaskom na tumačenju statističkih pokazatelja, posebice onih sadržanih u standardnim računalnim ispisima. Studenti kroz predavanja, vježbe, praćenje literature i samostalno rješavanje zadataka savladavaju osnovne statističke tehnike i pojmove: slučajna varijabla, distribucija frekvencija, mod, medijan, srednja vrijednost, mjere disperzije, vjerojatnost, te osnovne distribucije diskretne i kontinuirane slučajne varijable. Studenti razvijaju statistički način razmišljanja i upoznaju precizne statističke načine izražavanja. Očekuje se da studenti predoče jasna statistička tumačenja rješenja zadataka.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Petz, B.; Osnovne statističke metode za nematematičare; Naklada Slap, Jastrebarsko (1997), 
   2. Howell, D. C; Fundamental Statistics for the Behavioral Sciences; Duxbury Press/ Cole Publishing Company, Ca., USA (2014), 
@@ -39,7 +37,6 @@
   4. Pagano, R. R.; Understanding Statistics in the Behavioral Sciences; Brooks / Cole Publishing Company An International Thomson Publishing Company, Pacific Grove, USA (2008), 
   5. Sweet, S. A.; Grace-Martin K. A; Data Analysis with SPSS: A First Course in Applied Statistics (4th Edition); Pearson, USA (2012), 
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Sociologija  
@@ -51,7 +48,6 @@ Lokacija: 17
   * **dr. sc.[Marija Zelić](https://www.fhs.hr/djelatnik/marija.zelic)**: 
 Po dogovoru uz najavu na e-mail: mzelic@hrstud.hr
 Lokacija: 018 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/sudi?@=21n3g#news_78042)

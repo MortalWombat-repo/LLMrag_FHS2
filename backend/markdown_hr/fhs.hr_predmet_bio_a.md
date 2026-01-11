@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/bio_a#v1id-904793_584317_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/bio_a#v1id-904793_584317_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/bio_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/bio_a)
 **Šifra:** |  201425  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,10 +28,8 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
@@ -41,7 +38,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Ivana Greguric](https://www.fhs.hr/djelatnik/ivana.greguric)**: 
 Utorak 14-15h 
 Lokacija: 18 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/bio_a?@=21m54#news_116144)

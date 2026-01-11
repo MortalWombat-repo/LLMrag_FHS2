@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clg)
 
 ## Croatian Latinity Genres
-  * [Basic data](https://www.fhs.hr/en/course/clg#v1id-523754_960994_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clg#v1id-523754_960994_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clg#v1id-523754_960994_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clg#v1id-523754_960994_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clg#v1id-159921_293283_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clg#v1id-159921_293283_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clg#v1id-159921_293283_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clg#v1id-159921_293283_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/zhl) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clg)

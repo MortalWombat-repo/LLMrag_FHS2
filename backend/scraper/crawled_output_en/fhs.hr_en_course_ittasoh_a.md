@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ittasoh_a)
 
 ## Introduction to the Auxiliary Sciences of History
-  * [Basic data](https://www.fhs.hr/en/course/ittasoh_a#v1id-523792_230585_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ittasoh_a#v1id-523792_230585_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ittasoh_a#v1id-523792_230585_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ittasoh_a#v1id-523792_230585_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ittasoh_a#v1id-159953_836633_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ittasoh_a#v1id-159953_836633_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ittasoh_a#v1id-159953_836633_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ittasoh_a#v1id-159953_836633_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/uuppz_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ittasoh_a)
@@ -12,7 +12,7 @@
   
 ---|---  
 **ECTS:** |  3.0   
-**Lecturers in charge:** |  doc. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
+**Lecturers in charge:** |  izv. prof. dr. sc. [Lucija Krešić Nacevski](https://www.fhs.hr/staff/lucija.kresic_nacevski)   
   
 **Lecturers:** |  [Alen Moslavac](https://www.fhs.hr/djelatnik/alen.moslavac), mag. philol. hung. et mag. educ. hist. - Seminar  
   

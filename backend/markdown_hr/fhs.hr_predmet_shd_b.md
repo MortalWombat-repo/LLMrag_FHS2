@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/shd_b#v1id-904872_740153_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/shd_b#v1id-904872_740153_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shd_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sotcd_a)
 **Šifra:** |  205183  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  nasl. izv. prof. dr. sc. [Marina Perić Kaselj](https://www.fhs.hr/djelatnik/marina.peric_kaselj)   
-  
+
 **Izvođači:** |  nasl. izv. prof. dr. sc. [Marina Perić Kaselj](https://www.fhs.hr/djelatnik/marina.peric_kaselj) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,29 +28,26 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **Obavezni predmet** - Redovni smjer - Znanstveni  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/shd_b?@=218lu#news_117471 "Arhiva obavijesti")

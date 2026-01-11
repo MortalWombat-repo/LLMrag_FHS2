@@ -1,0 +1,10 @@
+[Article Link](https://www.fhs.hr/studiji/prijediplomski/jednopredmetni)
+
+## 
+[Komunikologija](https://www.fhs.unizg.hr/studiji/prijediplomski/jednopredmetni/komunikologija)
+[Kroatologija](https://www.fhs.unizg.hr/studiji/prijediplomski/jednopredmetni/kroatologija)
+[Povijest](https://www.fhs.unizg.hr/studiji/prijediplomski/jednopredmetni/povijest)
+[Psihologija](https://www.fhs.unizg.hr/studiji/prijediplomski/jednopredmetni/psihologija)
+[Sociologija](http://Na%20Fakultetu%20hrvatskih%C2%A0studija%20izvode%20se%20sveu%C4%8Dili%C5%A1ni%20prijediplomski,%20diplomski%20i%20doktorski%20studijski%20programi%20iz%20podru%C4%8Dja%20dru%C5%A1tvenih%20i%20humanisti%C4%8Dkih%20znanosti%20te%20iz%20interdisciplinarnoga%20podru%C4%8Dja%20znanosti,%20podijeljeni%20u%20skladu%20s%20Bolonjskim%20modelom:%20prijediplomski%20studiji%20traju%20tri%20godine%20\(%C5%A1est%20semestara\),%20diplomski%20studiji%20traju%20dvije%20godine%20\(%C4%8Detiri%20semestra\),%20a%20integrirani%20studiji%20traju%20pet%20godina%20\(deset%20semestara\).%20Mogu%C4%87%20je%20upis%20diplomskih%20studija%20i%20za%20studente%20koji%20su%20zavr%C5%A1ili%20srodne%20prijediplomske%20studije%20na%20nekom%20drugom%20visokom%20u%C4%8Dili%C5%A1tu%20\(uz%20eventualno%20polaganje%20unaprijed%20propisanih%20razlikovnih%20ispita%20kao%20uvjeta%20upisa%20u%20zavr%C5%A1nu%20godinu%20studija\).%20Na%20prijediplomskoj%20razini%20neki%20se%20studijski%20programi%20mogu%20studirati%20samo%20kao%20dvopredmetni%20\(Demografija%20i%20hrvatsko%20iseljeni%C5%A1tvo,%20te%C2%A0Filozofija%20i%20kultura\),%20a%20neki%20kao%20dvopredmetni%20i%20jednopredmetni%20\(komunikologija,%20kroatologija,%20povijest%20i%C2%A0sociologija\),%20a%20Psihologija%20zbog%20svojih%20specifi%C4%8Dnosti%20isklju%C4%8Divo%20jednopredmetno.%20Na%20diplomskoj%20razini%20neki%20su%20studiji%20dvopredmetni%20\(Filozofija,%20Hrvatski%20latinitet,%20Kroatologija,%20Povijest%20i%20sociologija\),%20neki%20dvopredmetni%20i%20jednopredmetni%20\(Kroatologija,%20Povijest%20i%20Sociologija\),%20a%20neki%20za%20sada%20jednopredmetni%20\(Psihologija%20i%C2%A0Komunikologija\).)
+  
+

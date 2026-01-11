@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/litsty)
 
 ## Literary Stylistics
-  * [Basic data](https://www.fhs.hr/en/course/litsty#v1id-523797_334210_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/litsty#v1id-523797_334210_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/litsty#v1id-523797_334210_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/litsty#v1id-523797_334210_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/litsty#v1id-159957_350115_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/litsty#v1id-159957_350115_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/litsty#v1id-159957_350115_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/litsty#v1id-159957_350115_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sti_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/litsty)
@@ -31,6 +31,14 @@
 
   
 **Literature:**  
+  1. Nove stilističke studije, Frangeš, I., Zagreb: Globus, 1986. 
+  2. Zvuk i pokret u jeziku, Guberina, P., Zagreb: Matica hrvatska, 1952. 
+  3. Stilistika, Guberina, P., Zagreb: Zavod za fonetiku Filozofskog fakulteta u Zagrebu, 1967. 
+  4. Lingvistika i poetika. U: Lingvistika i poetika., Jakobson, R., Beograd: Nolit, 1966. 
+  5. Funkcionalni stilovi hrvatskoga jezika, Silić, J., Zagreb: Disput, 2006. 
+  6. Govorni stilovi u informativnim emisijama. Govor, 12 (1), Varošanec-Škarić, G., Hrvatsko filološko društvo, Odjel za fonetiku, 1995. 
+  7. Lingvostilistička usporedba štokavske i kajkavske Svete Rožalije. Radovi Zavoda za znanstveni i umjetnički rad u Požegi, HAZU, 8, Vrban Zrinski, K., Požega: HAZU, 2019. 
+  8. Govorna stilistika, Vuletić, B., Zagreb: FF press, 2006. 
 
   
 **1. semester**  

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/latpat)
 
 ## Latin Patrology
-  * [Basic data](https://www.fhs.hr/en/course/latpat#v1id-523796_405705_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/latpat#v1id-523796_405705_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/latpat#v1id-523796_405705_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/latpat#v1id-523796_405705_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/latpat#v1id-159957_660104_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/latpat#v1id-159957_660104_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/latpat#v1id-159957_660104_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/latpat#v1id-159957_660104_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latpat) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latpat)

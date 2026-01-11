@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cgae)
 
 ## Croatian gastronomy and enology
-  * [Basic data](https://www.fhs.hr/en/course/cgae#v1id-523751_735414_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cgae#v1id-523751_735414_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cgae#v1id-523751_735414_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cgae#v1id-523751_735414_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cgae#v1id-159919_357402_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cgae#v1id-159919_357402_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cgae#v1id-159919_357402_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cgae#v1id-159919_357402_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hge) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cgae)

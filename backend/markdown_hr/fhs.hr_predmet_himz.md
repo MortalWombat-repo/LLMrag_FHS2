@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/himz#v1id-904811_435888_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/himz#v1id-904811_435888_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/himz) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cmcid)
 **Šifra:** |  194398  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Wollfy Krašić](https://www.fhs.hr/djelatnik/wollfy.krasic)   
-  
+
 **Izvođači:** |  dr. sc. [Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -71,18 +70,15 @@
 >  15. Institucionalna djelovanja i današnja društvena i kulturna vizibilnost autohtonih hrvatskih manjinskih zajednica u matičnim državama i njihova povezanost s kulturnim, društvenim i političkim institucijama Republike Hrvatske.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Skenderović, Robert (2017). Povijest podunavskih Hrvata (Bunjevaca i Šokaca) od doseljenja do propasti Austro-Ugarske Monarhije, HIP i ZKVH, Slavonski Brod., 
   2. Holjevac, Željko (2006). Gradišćanski Hrvati u Mađarskoj i Hrvati u Slovačkoj: analiza hrvatskih naselja u zapadnoj Mađarskoj i Slovačkoj, Zagreb., 
   3. Čolak, Nikola - Ive Mažuran (2000). Janjevo sedam stoljeća opstojnosti Hrvata, Zagreb: Udruga Janjevo., 
   4. Krpan, Stjepan (1990). Hrvati u Rekašu kraj Temišvara, Zagreb: Kršćanska sadašnjost., 
 
-  
 **Preporučena literatura:**  
   1. , Bara, Mario (2011). Prešućeni karaševski Hrvati: Karaševci u vojvođanskom dijelu Banata (članak), Godišnjak za znanstvena istraživanja, Subotica: ZKVH., , , .
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -91,7 +87,6 @@ Termini konzultacija:
   * **dr. sc.[Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor)**: 
 Četvrtkom od 11 do 12 ili prema dogovoru.
 Lokacija: 710 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/himz?@=2179w#news_115554 "Arhiva obavijesti")

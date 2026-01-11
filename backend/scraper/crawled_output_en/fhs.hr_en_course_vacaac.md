@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/vacaac)
 
 ## Violence Against Children and Among Children
-  * [Basic data](https://www.fhs.hr/en/course/vacaac#v1id-523845_614898_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/vacaac#v1id-523845_614898_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/vacaac#v1id-523845_614898_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/vacaac#v1id-523845_614898_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/vacaac#v1id-159997_490911_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/vacaac#v1id-159997_490911_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/vacaac#v1id-159997_490911_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/vacaac#v1id-159997_490911_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/nndmd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/vacaac)
@@ -16,7 +16,10 @@
   
 **Lecturers:** |  [Ana Raguž Šutalo](https://www.fhs.hr/djelatnik/ana.raguz_sutalo), mag. psych. - Seminar  
   
+[Dora Korać](https://www.fhs.hr/djelatnik/dora.korac), mag. psych. - Lectures  
+  
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
+**English level:** |  The lecturer is not able to offer courses in English at this time.   
 **Load:**  
 ---  
 > ### 1. komponenta

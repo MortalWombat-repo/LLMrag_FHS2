@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/phk#v1id-904851_689987_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/phk#v1id-904851_689987_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/phk) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/hoct)
 **Šifra:** |  37469  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -59,7 +58,6 @@
 >  15. Fenomen kazališnih festivala u XX. stoljeću. Dubrovačke ljetne igre i njihova povijest. Drugi hrvatski kazališni festivali. Marulovi dani i zrcaljenje suvremene hrvatske drame i kazališta u njima. Dani hvarskog kazališta. Krležini dani u Osijeku. Zagrebački kazališni festivali. Teatar Itd kao važan iskorak u europeizaciji hrvatskoga kazališnog repertoara. Opusi najvažnijih hrvatskih redatelja Gavella, Spaić, Habunek, Violić, Paro, Juvančić, Kunčević, Dolenčić...  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Nikola Batušić; Povijest hrvatskoga kazališta; Zagreb: Školska knjiga (1978), 
   2. Silvio d Amico; Povijest dramskog teatra (preveo Frano Čale); Zagreb: Nakladni zavod Matice hrvatske (1972), 
@@ -67,29 +65,28 @@
   4. (priredio B. Senker); Hrestomatija novije hrvatske drame, (sv. I-II); Zagreb: Disput (2000), 
   5. Viktoria Franić Tomić; Tko je bio Marin Držić; Zagreb: Matica hrvatska (2011), 
 
-  
 **1. semestar**  
 ---  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **4. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >  **Obavezni predmet** - Redovni studij - Kroatologija  
 >   
-  
+
 **6. semestar**  
 > **KOM (2999) - izborni TZP** - Redovni studij - Komunikologija  
 >   
@@ -97,7 +94,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic)**: 
 Prema dogovoru.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/phk?@=21e3p#news_79583)

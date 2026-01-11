@@ -12,5 +12,4 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Psihologijska etika (240092)](https://www.fhs.hr/predmet/psieti_a) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

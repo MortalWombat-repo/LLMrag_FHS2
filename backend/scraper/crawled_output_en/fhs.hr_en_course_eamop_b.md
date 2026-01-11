@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/eamop_b)
 
 ## Evaluation and Measurement of Personality
-  * [Basic data](https://www.fhs.hr/en/course/eamop_b#v1id-523770_996499_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/eamop_b#v1id-523770_996499_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/eamop_b#v1id-523770_996499_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/eamop_b#v1id-523770_996499_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/eamop_b#v1id-159935_385994_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/eamop_b#v1id-159935_385994_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/eamop_b#v1id-159935_385994_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/eamop_b#v1id-159935_385994_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pml_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/eamop_b)
@@ -14,7 +14,7 @@
 **ECTS:** |  3.0   
 **Lecturers in charge:** |  izv. prof. dr. sc. [Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)   
   
-**Lecturers:** |  dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -44,7 +44,7 @@ Consultations schedule:
   * **izv. prof. dr. sc.[Dario Vučenović](https://www.fhs.hr/staff/dario.vucenovic)**: 
 Tuesday 2:30 PM - 3:30 PM
 Location: 207 
-  * **dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
+  * **doc. dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
 Monday: 11:00-12:00 AM
 2nd floor, room 206
 Location: 206 

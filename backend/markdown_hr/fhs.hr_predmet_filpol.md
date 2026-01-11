@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/filpol#v1id-904804_199297_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/filpol#v1id-904804_199297_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/filpol) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/polphi)
 **Šifra:** |  201514  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -43,7 +42,6 @@
 >  15. Politika kao znanost i kao poziv.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Aristotel, Politika, Hrvatska sveučilišna naklada, Zagreb 1992., 
   2. Niccolo Machiavelli, Vladar, Globus, Zagreb 1985., 
@@ -54,17 +52,16 @@ Max Weber, Vlast i politika, Jesenski i Turk, Hrvatsko sociološko društvo, Zag
 John Rawls, Politički liberalizam, Kruzak, Zagreb 2000.  
 Hannah Arendt, Vita activa, August Cesarec, Zagreb 1991., 
 
-  
 **1. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Filozofija  
 >  **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
@@ -72,7 +69,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Sandro Skansi](https://www.fhs.hr/djelatnik/sandro.skansi)**: 
 Nakon predavanja uz obveznu raniju najavu mailom ili po dogovoru
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/filpol?@=219k0#news_116235)

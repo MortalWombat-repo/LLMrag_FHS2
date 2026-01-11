@@ -12,5 +12,4 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
 **prijediplomski**
   * [Hrvatsko iseljeništvo i javno djelovanje (226937)](https://www.fhs.hr/predmet/hijd) - Nositelj, Seminar, Nositelj, Seminar
 
-
 #### Znanstveni radovi (CroRIS)

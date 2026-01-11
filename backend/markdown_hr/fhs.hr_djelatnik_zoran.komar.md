@@ -13,5 +13,4 @@ ODSJEK ZA PSIHOLOGIJU
   * [Upravljanje ljudskim potencijalima (227542)](https://www.fhs.hr/predmet/ulp) - Nositelj
   * [Vojna i poratna psihologija-hrvatska i međunarodna iskustva (188053)](https://www.fhs.hr/predmet/vppmi) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

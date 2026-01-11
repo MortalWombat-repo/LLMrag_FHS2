@@ -4,7 +4,6 @@
 [**Odsjek za kroatologiju**](https://www.fhs.unizg.hr/kroatologija)
 **Voditeljica studija** : [prof. dr. sc. Dubravka Zima](https://www.fhs.unizg.hr/djelatnik/dubravka.zima)
 Nema dvojbe da u našoj znanstvenoj zajednici postoji potreba za profilom izobrazbe koji hrvatskoj kulturi u svoj njezinoj kompleksnoj slojevitosti pristupa otvoreno za gledišta i sadržaje raznih tradicionalnih humanističkih disciplina koje se bave njome. Polazeći od raznih dodiplomskih studija poslijediplomci će se ovim studijima u tom smislu pripremati za znanstveni rad, upoznavajući uz pomoć kvalificiranih nastavnika koji su i sami orijentirani prema takvu razmišljanju temeljnu problematiku i drugih disciplina relevantnih za razumijevanje hrvatske kulture kao cjeline, pa će za svoj budući znanstveni rad dobiti polazište drukčije od onoga na koje ih upućuje i jedna od tih disciplina sama za se. Izvođenje pak takve nastave poticat će u razmišljanju i istraživanju interdisciplinarne pristupe u većoj mjeri nego se to do sada ostvarivalo. Kako bi se to postiglo, polazi se od onog što već postoji i iskorišćuju mogućnosti koje su nam u tom pogledu već na raspolaganju. Predavači koji su se kvalificirali za znanstveno-nastavna zvanja u konstituiranim humanističkim disciplinama, a otvoreni su takvom razmišljanju, te u primjerenom opsegu prenose znanja koja poslijediplomcima zaokružuju horizont i time se stvaraju preduvjeti za razvijanje konkretnih interdisciplinarnih zahvata pri čemu stvaralačka suradnja i poticajni dijalog omogućuju postavljanje, razvijanje i iskušavanje te međusobno odmjeravanje raznolikih modela interdiciplinarnosti ne propisujući nikoji teorijski pristup dogmatski i unaprijed. Za takvu trajnu interdiciplinarnu radionicu, na to usmjerenu zajednicu nastavnika i studenata, valja stvoriti preduvjete i dati joj organizacijski okvir. Treba uspostavljati pozitivno ozračje. To i jest glavna svrha ustrojavanja interdisciplinarnog doktorskoga studija kroatologije. Na njem će polaznici raznih diplomskih profila na predavanjima steći dopunska znanja i nove uvide, pa i na području vlastite struke, a na konverzatorijima i konzultacijama izgrađivat će se suvisao i svrhovit interdisciplinarni pristup za predmet koji svaki od njih na studiju istražuje i obrađuje. Tako će se odmah od početka, postojećim i dobrim dijelom sada neiskorištenim potencijalima, postizati nova dimenzija interdiciplinarnosti u proučavanju i tumačenju pojava hrvatske kulture, a očekivati je da će se, kako vrijeme ide, postizati u tome i kontinuiran napredak, što nam je na području humanističkih disciplina jako potrebno. Prema odredbama Zakona o znanstvenoj djelatnosti i visokom obrazovanju (Narodne novine br. 123/2003. i 105/2004.) doktorski interdisciplinarni studij kroatologije ustrojava se na Hrvatskim studijima kao redoviti znanstveni sveučilišni studij za stjecanje doktorata iz područja interdisciplinarnih znanosti.
-  
 
 ## Repozitorij
   * [ repo-kroat ](https://www.fhs.hr/studiji/doktorski/kroatologija)
@@ -40,7 +39,6 @@ Uredio: _Goran Dejanović -_ _17. 12. 2024. u 17:30_
 [ Nastavni_program__KROATOLOGIJA_22_23 _[954,81 KiB]_ ](https://www.fhs.hr/_download/repository/repo-kroat/Nastavni_program__KROATOLOGIJA_22_23.pdf)
 Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:46_
 
-
 ## Kroatologija
 2025/2026 
 [2025/2026](https://www.fhs.hr/studiji/doktorski/kroatologija?ak=2025#akgod) [2024/2025](https://www.fhs.hr/studiji/doktorski/kroatologija?ak=2024#akgod) [2023/2024](https://www.fhs.hr/studiji/doktorski/kroatologija?ak=2023#akgod) [2022/2023](https://www.fhs.hr/studiji/doktorski/kroatologija?ak=2022#akgod)
@@ -51,7 +49,6 @@ Objavljeno: _Dario Knežić -_ _1. 10. 2024. u 14:46_
   * [4.sem](https://www.fhs.hr/studiji/doktorski/kroatologija#v1id-904762_389006_2_4 "4.sem")
   * [5.sem](https://www.fhs.hr/studiji/doktorski/kroatologija#v1id-904762_389006_2_5 "5.sem")
   * [6.sem](https://www.fhs.hr/studiji/doktorski/kroatologija#v1id-904762_389006_2_6 "6.sem")
-
 
 1. semestar, 1. godina  
 ---  
@@ -105,4 +102,4 @@ ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO
 ECTS |  Redovni predmeti  | Eng. raz. | Opterećenje | INFO  
 60.0 |  [Doktorski rad (264246)](https://www.fhs.hr/predmet/dokrad) |  -  | 60 60S |  [__](javascript:show_window\('/.cms/predmet_info?_v1=qPSPn4-w_XeLUx7U4_pwFoj55fh9Z3tfYCN20Ykx5fD3JJdQTEBgAxMWIMBSiVULrtBGEj_byStVjKwwhL9fkX0xhAOrwj6PtroYAXyvPI7c7s3a__Btp4N-tv6LKSCEWjcLm-d4iVbsriG--qFtWQRA2FGL8wlyKhCHIvPDnfuTmCWTEcL97XqVNxNVJii1NbUJ6w==&_v1flags=UCDI5oYJdJiUFhuRAbgTywz5MLZKcdg3wISkVh8708BAqVGcp8xEkNM01BT5P_xgPv6pVFn_sl5S40LfrD3k1-iU8iZzum__eKgdFX6JtbvBR3oeV9X8co1bjVhrNj8hIIp-0gjLIIoHHxIISYUfqZPCJMOZBo7DgKpnia-ZFwnx31d-&_lid=82933&_rand=0',%20''\))  
 (*)predmet se ne predaje u prikazanom semestru tekuće akademske godine  
-(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj 
+(***)predmet se predaje u prikazanoj akademskoj godini, ne i u tekućoj

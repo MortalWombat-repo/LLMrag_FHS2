@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/dr11s#v1id-904799_475834_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/dr11s#v1id-904799_475834_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dr11s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sar11c)
 **Šifra:** |  130475  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Eva Katarina Glazer](https://www.fhs.hr/djelatnik/eva_katarina.glazer)   
-  
+
 **Izvođači:** |  dr. sc. [Marko Marina](https://www.fhs.hr/djelatnik/marko.marina) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Svi elementi nastave na predmetu provode se na engleskom jeziku. Ova razina uključuje i predmete s više nastavnih grupa (u hrvatskoj grupi nastava je isključivo na hrvatskom jeziku, a u engleskoj grupi isključivo na engleskom jeziku).   
 **Opterećenje:**  
@@ -29,11 +28,9 @@
 > Glavni je cilj upoznati studente s temeljnim procesima koji su obilježili odnos društva i religije u razvijenom i kasnome srednjem vijeku. Također, cilj je upoznati studente s najvažnijim primarnim izvorima i suvremenom literaturom relevantnom za promatranu problematiku. Pored svladavanja temeljne faktografije i povijesnih procesa, studenti će se prije svega poticati na komparativno razmišljanje i interdisciplinarni pristup. Cilj je i osposobiti studente za rad na izvorima, diplomatičkim i narativnim, koji se odnose na problematiku odnosa religije i društva u promatranom razdoblju.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Berend, Nora; At the Gate of Christendom: Jews, Muslims and Pagans in Medieval Hungary, C.1000 - C.1300; (2001), str. izbor poglavlja, 
 
-  
 **Preporučena literatura:**  
   1. , Chaunu, Pierre; Vrijeme reformi: Religijska historija i civilizacijski sistem; (2002), str. izbor poglavlja, , , .
   2. , Cohen, Mark R.; Under crescent and cross: the Jews in the Middle Ages; (1994), str. 121.-136, , , .
@@ -47,7 +44,6 @@
   10. , Samarrai, Alaudin; "Arabs and Latins in the Middle Ages: Enemies, Partners, and Scholars", u: Western Views of Islam in Medieval and Early Modern Europe; (1999), str. 137.-145, , , .
   11. , Watt, Montgomery; The Influence of Islam on Medieval Europe; (1972), str. 72.-84, , , .
 
-  
 **2. semestar**  
 ---  
 > **POV (17190) - Izborni predmeti: Srednjovjekovna povijest** - Redovni studij - Povijest  
@@ -61,7 +57,6 @@ Lokacija:
   * **dr. sc.[Marko Marina](https://www.fhs.hr/djelatnik/marko.marina)**: 
 Konzultacije utorkom od 12 i 15 do 13 i 15h. 
 Lokacija: 103 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/dr11s?@=21hmr#news_88059)

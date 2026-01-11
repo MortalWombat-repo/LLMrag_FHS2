@@ -6,14 +6,13 @@
   * [Nastava](https://www.fhs.hr/predmet/gjzgudsdw#v1id-904806_655045_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/gjzgudsdw#v1id-904806_655045_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gjzgudsdw) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gatlosgudsdw)
 **Šifra:** |  214003  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  prof. emer. dr. sc. [Zygfryd Eckardt Gehrmann](https://www.fhs.hr/djelatnik/zygfryd_eckardt.gehrmann)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -62,7 +61,6 @@
 >  15. Primjer: Hrvatska  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. ein Reader mit der Pflichtliteratur oder mit Links wird zu Beginn der Lehrveranstaltung zur Verfügung gestellt Ammon, Ulrich (2000): Weltmacht Englisch? In: Merkur, Heft 617/618 (Sonderheft: Europa  
 oder Amerika? Zur Zukunft des Westens) 2000/54 , S. 867-877  
@@ -72,24 +70,23 @@ Gehrmann, S./Turković, S. (2019): Perspektiven einer europäischen Wissenschaft
 Hamel, R. E. (2008): Sprachimperien, Sprachimperialismus und die Zukunft der Sprachenvielfalt. In: Goethe-Institut (Hg.). Die Macht der Sprache. Teil II -Online Publikation, München, S. 15 --46   
 Mocikat, R. (2008): Die Rolle der Sprache in den Naturwissenschaften. In: Scottish Languages Review Issue 2008/17, 1-6, 
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
-  
+
 **2. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >  **SOC-dipl (4421): Izborni kolegiji u 2. semestru (ZN i NAST smjer)** - Redovni smjer - Znanstveni  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **SOC-dipl (4421): Izborni kolegiji u 2. semestru (ZN i NAST smjer)** - Redovni smjer - Nastavnički  
 >  **SOC-dipl (4469): Izborni kolegiji** - Redovni studij - Sociologija  
@@ -98,7 +95,6 @@ Termini konzultacija:
   * **prof. emer. dr. sc.[Zygfryd Eckardt Gehrmann](https://www.fhs.hr/djelatnik/zygfryd_eckardt.gehrmann)**: 
 utorak 10-11
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/gjzgudsdw?@=21cht#news_120089 "Arhiva obavijesti")

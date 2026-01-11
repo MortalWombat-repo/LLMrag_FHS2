@@ -32,7 +32,6 @@ ODSJEK ZA SOCIOLOGIJU , ODSJEK ZA KOMUNIKOLOGIJU
   * [Tehnike u odnosima s javnošću (285540)](https://www.fhs.hr/predmet/tuosj_a) - Seminar
   * [Uvod u odnose s javnošću (285538)](https://www.fhs.hr/predmet/uuosj_a) - Seminar
 
-
 **diplomski**
   * [Društveno odgovorno djelovanje (285545)](https://www.fhs.hr/predmet/dod_c) - Vježbe u praktikumu
   * [Studentska praksa (269863)](https://www.fhs.hr/predmet/stupra_c) - Vježbe u praktikumu
@@ -41,7 +40,6 @@ ODSJEK ZA SOCIOLOGIJU , ODSJEK ZA KOMUNIKOLOGIJU
   * [Pravne i etičke norme u odnosima s javnošću (289823)](https://www.fhs.hr/predmet/penuosj) - Seminar
   * [Sociologija razvoja (269864)](https://www.fhs.hr/predmet/socraz_c) - Seminar
   * [Sociologija socijalne kontrole i policije u hrvatskom društvu (159978)](https://www.fhs.hr/predmet/sskpuhd) - Seminar
-
 
 #### Životopis
 Ana Marija Dunaj u svibnju 2025. obranila je doktorski rad na poslijediplomskom studiju _Strateško komuniciranje_ na Fakultetu za uporabne družbene študije (FUDŠ) u Sloveniji. Tema disertacije bila je _Promjene u internoj komunikaciji i odnosu interne i eksterne komunikacije u hrvatskoj policiji_. Disertacija predstavlja važan doprinos razumijevanju interne komunikacije u policijskim organizacijama te donosi konkretne preporuke za njezino unaprjeđenje s ciljem jačanja povjerenja građana. Stečena inozemna visokoškolska kvalifikacija _Doktorica znanosti_ priznata je mišljenjem Agencije za znanost i visoko obrazovanje od 28. srpnja 2025. godine kao usporediva s kvalifikacijom doktorskog studija u Republici Hrvatskoj.

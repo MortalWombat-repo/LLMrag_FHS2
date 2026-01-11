@@ -27,11 +27,9 @@ ODSJEK ZA DEMOGRAFIJU I HRVATSKO ISELJENIŠTVO
   * [Integracija Hrvatske i iseljeništva (226639)](https://www.fhs.hr/predmet/ihi) - Seminar
   * [Odgoj i obrazovanje u iseljeništvu (226645)](https://www.fhs.hr/predmet/ooui) - Seminar
 
-
 **diplomski**
   * [Terenska nastava 2 (238023)](https://www.fhs.hr/predmet/ternas2) - Terenske vježbe
   * [Hrvatska žena u iseljeništvu (238015)](https://www.fhs.hr/predmet/hzui) - Seminar
-
 
 #### Životopis
 Tamara Bodor rođena je 14. prosinca 1987. u Malom Lošinju gdje je odrasla i završila osnovno i srednje obrazovanje. Nakon završene opće gimnazije, 2006. upisala je dvopredmetni studij kroatologije i komunikologije na Hrvatskim studijima Sveučilišta u Zagrebu. Na diplomskom studiju kroatologije diplomirala je 2013. s temom _Čakavska baština otoka Lošinja: Govor Veloga Lošinja_ i stekla zvanje magistre kroatologije, a 2014. i magistre komunikologije. Na poslijediplomskom doktorskom studiju kroatologije bavi se temama iz hrvatske dijaspore. Primarni znanstveni interes joj je pisana kultura hrvatskoga iseljeništva.

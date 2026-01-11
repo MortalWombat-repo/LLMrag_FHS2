@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sdaroemc)
 
 ## Social Development and Rise of Eastern Mediterranean Civilisations
-  * [Basic data](https://www.fhs.hr/en/course/sdaroemc#v1id-523832_306477_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sdaroemc#v1id-523832_306477_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sdaroemc#v1id-523832_306477_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sdaroemc#v1id-523832_306477_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sdaroemc#v1id-159986_289116_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sdaroemc#v1id-159986_289116_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sdaroemc#v1id-159986_289116_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sdaroemc#v1id-159986_289116_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rducim) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sdaroemc)

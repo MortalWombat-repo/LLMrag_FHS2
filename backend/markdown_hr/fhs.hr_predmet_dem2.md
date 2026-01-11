@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/dem2#v1id-904794_112932_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/dem2#v1id-904794_112932_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dem2) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/dem2)
 **Šifra:** |  194395  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)   
-  
+
 **Izvođači:** |  [Borna Mažar](https://www.fhs.hr/djelatnik/borna.mazar), mag. geogr. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -42,12 +41,10 @@
   7. Objasniti napredne tablice i brojke s demografskim podatcima
   8. Objasniti povezanost demografske i gospodarske strukture stanovništva
 
-  
 **Literatura:**  
   1. Wertheimer-Baletić, Alica (1999), Stanovništvo i razvoj, Zagreb: MATE., 
   2. Demogeografija : stanovništvo u prostornim odnosima i procesima, Nejašmić, Ivo, Školska knjiga, 2005. 
 
-  
 **Preduvjeti za:**  
 > **Upis predmeta :**  
 >  Odslušan : [Demografija 1](https://www.fhs.hr/predmet/dem1)  
@@ -63,7 +60,6 @@ Lokacija: ured 716 (zgrada 77)
   * **[Borna Mažar](https://www.fhs.hr/djelatnik/borna.mazar), mag. geogr.**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: 716 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/dem2?@=2179p#news_115575 "Arhiva obavijesti")

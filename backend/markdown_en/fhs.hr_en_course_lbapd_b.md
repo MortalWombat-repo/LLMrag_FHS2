@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/lbapd_b)
 
 ## Legal Bases and Pedagogical Documentation
-  * [Basic data](https://www.fhs.hr/en/course/lbapd_b#v1id-523796_985172_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/lbapd_b#v1id-523796_985172_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/lbapd_b#v1id-523796_985172_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/lbapd_b#v1id-523796_985172_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/lbapd_b#v1id-159957_483924_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/lbapd_b#v1id-159957_483924_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/lbapd_b#v1id-159957_483924_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/lbapd_b#v1id-159957_483924_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/pupd_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/lbapd_b)

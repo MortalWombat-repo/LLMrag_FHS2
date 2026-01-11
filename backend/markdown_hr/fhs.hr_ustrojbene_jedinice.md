@@ -2,7 +2,7 @@
 
 ## 
 Ustrojbene jedinice Fakulteta hrvatskih studija Sveučilišta u Zagrebu jesu:   
-  
+
 Odsjek za demografiju i hrvatsko iseljeništvo,   
 Odsjek za filozofiju i kulturologiju,   
 Odsjek za hrvatski latinitet,  
@@ -16,5 +16,3 @@ Znanstveni zavod,
 Centar za učenje hrvatskoga jezika,   
 Knjižnica i   
 Dekanat.
-  
-

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ooui#v1id-904845_399762_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ooui#v1id-904845_399762_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ooui) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/eitcd)
 **Šifra:** |  226645  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Antonia Ordulj](https://www.fhs.hr/djelatnik/antonia.ordulj)   
-  
+
 **Izvođači:** |  dr. sc. [Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -57,10 +56,8 @@
 >  15. Zaključno predavanje  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **6. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -72,7 +69,6 @@ Lokacija: Objekt 78, soba 16
   * **dr. sc.[Tamara Bodor](https://www.fhs.hr/djelatnik/tamara.bodor)**: 
 Četvrtkom od 11 do 12 ili prema dogovoru.
 Lokacija: 710 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ooui?@=21g9n#news_121291 "Arhiva obavijesti")

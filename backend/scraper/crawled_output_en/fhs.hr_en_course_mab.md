@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mab)
 
 ## Media and Bioethics
-  * [Basic data](https://www.fhs.hr/en/course/mab#v1id-523798_985881_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mab#v1id-523798_985881_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mab#v1id-523798_985881_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mab#v1id-523798_985881_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mab#v1id-159958_104030_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mab#v1id-159958_104030_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mab#v1id-159958_104030_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mab#v1id-159958_104030_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mib) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mab)

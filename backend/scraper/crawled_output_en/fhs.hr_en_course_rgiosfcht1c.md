@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/rgiosfcht1c)
 
 ## Research Group - Interpretation of Sources for Croatian History: the 19th Century
-  * [Basic data](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-523828_449790_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-523828_449790_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-523828_449790_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-523828_449790_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-159982_765800_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-159982_765800_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-159982_765800_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/rgiosfcht1c#v1id-159982_765800_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/isizhp1s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/rgiosfcht1c)

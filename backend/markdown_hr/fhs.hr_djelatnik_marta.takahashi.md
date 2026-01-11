@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Komunikacija u organizaciji (289754)](https://www.fhs.hr/predmet/kuo_b) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

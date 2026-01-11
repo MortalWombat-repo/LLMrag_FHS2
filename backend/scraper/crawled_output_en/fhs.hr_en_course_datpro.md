@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/datpro)
 
 ## Data processing
-  * [Basic data](https://www.fhs.hr/en/course/datpro#v1id-523766_247467_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/datpro#v1id-523766_247467_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/datpro#v1id-523766_247467_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/datpro#v1id-523766_247467_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/datpro#v1id-159931_87375_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/datpro#v1id-159931_87375_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/datpro#v1id-159931_87375_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/datpro#v1id-159931_87375_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/obrpod) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/datpro)

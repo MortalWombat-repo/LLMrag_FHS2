@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/respro)
 
 ## Research Project
-  * [Basic data](https://www.fhs.hr/en/course/respro#v1id-523826_566034_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/respro#v1id-523826_566034_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/respro#v1id-523826_566034_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/respro#v1id-523826_566034_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/respro#v1id-159981_890167_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/respro#v1id-159981_890167_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/respro#v1id-159981_890167_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/respro#v1id-159981_890167_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/istpro) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/respro)

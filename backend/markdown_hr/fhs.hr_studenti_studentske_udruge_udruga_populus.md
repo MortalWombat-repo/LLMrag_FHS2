@@ -33,5 +33,3 @@ Registarski broj u Registru udruga Republike Hrvatske: 21015056
 Registarski broj u Registru neprofitnih organizacija: 0498173
 Matični broj poslovnog subjekta: 5971829
 IBAN: HR5223600001103149394 (Zagrebačka banka d. d.)
-  
-

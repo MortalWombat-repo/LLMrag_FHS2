@@ -26,7 +26,6 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Teorije i sustavi televizijskog komuniciranja (285539)](https://www.fhs.hr/predmet/tstk_c) - Nositelj
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Bioetika (201425)](https://www.fhs.hr/predmet/bio_a) - Nositelj, Seminar
   * [Društveni mediji (118530)](https://www.fhs.hr/predmet/drumed) - Nositelj
@@ -37,7 +36,6 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Televizijsko novinarstvo (57245)](https://www.fhs.hr/predmet/telnov) - Nositelj
   * [Diplomski rad (214814)](https://www.fhs.hr/predmet/diprad_f) - Seminar
   * [Istraživački projekt (63570)](https://www.fhs.hr/predmet/istpro) - Seminar
-
 
 #### Životopis
 Ivana Greguric je izvanredna profesorica filozofije Sveučilišta u Zagrebu i znanstvena suradnica u Znanstvenom centru izvrsnosti za integrativnu bioetiku na Filozofskom fakultetu, sa znanstvenim djelovanjem prvenstveno u okviru Znanstveno-istraživačkog povjerenstva za bioetiku, tehniku ​​i transhumanizam. Radila je kao znanstvena novakinja na projektu “Kiborgoetika - sjecište ili veza između bioetike i tehnoetike” i kao istraživačica u filozofskoj knjižnici “Demetra”.

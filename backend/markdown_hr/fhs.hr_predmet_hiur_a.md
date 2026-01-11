@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hiur_a#v1id-904811_935068_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hiur_a#v1id-904811_935068_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hiur_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cdaed_a)
 **Šifra:** |  269747  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Monika Balija](https://www.fhs.hr/djelatnik/monika.balija) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -36,7 +35,6 @@
   5. Koristiti znanje o iseljeničkim i razvojnim zakonitostima
   6. Koristiti znanstveni pristup iseljeništvu i razvoju
 
-  
 **Literatura:**  
   1. Stanovništvo i razvoj, Wertheimer-Baletić, A., MATE, Zagreb, 1999. 
   2. Geografski i demogeografski identitet, Šterc, S., Prirodoslovno-matematički fakultet Sveučilišta u Zagrebu, Sveučilišna tiskara, Zagreb, 2015. 
@@ -46,7 +44,6 @@
   6. Intensity of Modern Emigration from Republic of Croatia During the COVID-19 Pandemic, Balija, M., Fakultet hrvatskih studija Sveučilišta u Zagrebu, Hrvatsko katoličko sveučilište, 2022. 
   7. Why do Croats Migrate to Austria? Motives for and Experiences of Migration since 2013., Balija, M., Treatises and Documents, Journal of Ethnic Studies, 91, 2023. 
 
-  
 **3. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
@@ -55,7 +52,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Monika Balija](https://www.fhs.hr/djelatnik/monika.balija)**: 
 prema dogovoru uz najavu e-poštom
 Lokacija: ured 716 (zgrada 77) 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/hiur_a?@=21nd0#news_123982 "Arhiva obavijesti")

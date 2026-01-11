@@ -10,7 +10,6 @@ znanstveni savjetnik u trajnom zvanju/naslovni redovni profesor u trajnom zvanju
 Srijedom od 17.30 do 19 sati, odnosno prije i poslije predavanja
   * ili prema dogovoru e-mailom: andreja.brajsa.zganec@pilar.hr
 
-
 **Telefon:**
 014886819
 **E-mail:**
@@ -33,10 +32,8 @@ ODSJEK ZA PSIHOLOGIJU
 **prijediplomski**
   * [Psihologija odrasle dobi i starenja (38640)](https://www.fhs.hr/predmet/pods) - Nositelj
 
-
 **diplomski**
   * [Psihologija obrazovanja (53870)](https://www.fhs.hr/predmet/psiobr) - Nositelj
-
 
 #### Životopis
 Prof. dr. sc. Andreja Brajša-Žganec znanstvena je savjetnica u trajnom zvanju na Institutu društvenih znanosti Ivo Pilar u Zagrebu.. Kao redovita profesorica u trajnom zvanju, predaje kolegije iz područja razvojne psihologije i psihologije obrazovanja na više fakulteta Sveučilišta u Zagrebu te na Katoličkom sveučilištu i Sveučilištu sjever. Vodila je tri međunarodna znanstvena projekta i jedan domaći te aktivno sudjelovala kao istraživač u provedbi još 9 međunarodnih (EU FP7, HORIZON, COST, EUROFOND, UNICEF) i 25 domaćih znanstveno istraživačkih i istraživačkih projekata. Trenutno je voditeljica HRZZ projekta „Dobrobit djeteta u kontekstu obitelji CHILD WELL“. Objavila je četiri znanstvene monografije te tri stručne knjige, preko šezdeset znanstvenih radova i dvadesetak stručnih radova te desetak stručno popularnih radova ili prikaza, te sudjelovala na dvjestotinjak međunarodnih i domaćih konferencija. Glavna područja bavljenja su joj zaštitni i rizični čimbenici psihosocijalnog razvoj djece i adolescenata, uloga obitelji u dječjem razvoju, dobrobit djece, mladih i obitelji, kvaliteta života u obitelji i školi, te područja kvalitete života i dobrobiti odraslih. Dobitnica je državne nagrade za znanost, za značajno znanstveno dostignuće, zatim nagrade „Snježana Biga-Friganović“ Hrvatske psihološke komore te društvenog priznanja "Marulić: Fiat Psychologia" Hrvatskog psihološkog društva.

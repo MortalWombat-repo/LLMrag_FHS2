@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/kvarad#v1id-904832_854370_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kvarad#v1id-904832_854370_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kvarad)
 **Šifra:** |  264461  
-  
+
 ---|---  
 **ECTS:** |  15.0   
 **Nositelji:** |   
@@ -23,16 +22,13 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **5. semestar**  
 ---  
 > **Obavezni predmet** - Izvanredni studij - Kroatologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/kvarad?@=21min#news_123749 "Arhiva obavijesti")

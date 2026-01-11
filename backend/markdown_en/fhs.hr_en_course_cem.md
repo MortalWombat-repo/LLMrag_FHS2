@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cem)
 
 ## Croatian emigrant media
-  * [Basic data](https://www.fhs.hr/en/course/cem#v1id-523752_267611_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cem#v1id-523752_267611_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cem#v1id-523752_267611_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cem#v1id-523752_267611_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cem#v1id-159918_423352_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cem#v1id-159918_423352_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cem#v1id-159918_423352_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cem#v1id-159918_423352_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/him) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cem)

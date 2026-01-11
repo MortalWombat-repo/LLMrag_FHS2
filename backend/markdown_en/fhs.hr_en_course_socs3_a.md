@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/socs3_a)
 
 ## Sociology of Croatian Society 3
-  * [Basic data](https://www.fhs.hr/en/course/socs3_a#v1id-523833_854740_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/socs3_a#v1id-523833_854740_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/socs3_a#v1id-523833_854740_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/socs3_a#v1id-523833_854740_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/socs3_a#v1id-159989_513813_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/socs3_a#v1id-159989_513813_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/socs3_a#v1id-159989_513813_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/socs3_a#v1id-159989_513813_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/shd3dmd) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/socs3_a)

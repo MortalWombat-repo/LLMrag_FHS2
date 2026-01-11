@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/cogpsy)
 
 ## Cognitive Psychology
-  * [Basic data](https://www.fhs.hr/en/course/cogpsy#v1id-523757_744952_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/cogpsy#v1id-523757_744952_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/cogpsy#v1id-523757_744952_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/cogpsy#v1id-523757_744952_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/cogpsy#v1id-159923_528948_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/cogpsy#v1id-159923_528948_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/cogpsy#v1id-159923_528948_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/cogpsy#v1id-159923_528948_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kogpsi) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/cogpsy)

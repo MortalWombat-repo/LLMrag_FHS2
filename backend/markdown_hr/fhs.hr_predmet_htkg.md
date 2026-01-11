@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/htkg#v1id-904820_705836_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/htkg#v1id-904820_705836_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/htkg) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ctcag)
 **Šifra:** |  226945  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  nasl. doc. dr. sc. Marta Račić   
-  
+
 **Izvođači:** |  nasl. doc. dr. sc. Marta Račić - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -71,21 +70,18 @@
 >  15. Ponavljanje i vrjednovanje rada na predmetu.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar** Ne predaje se  
 ---  
 > **SOC (17099) - Izborni kolegiji (2.godina)** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar**  
 > **SOC (17099) - Izborni kolegiji (2.godina)** - Redovni studij - Sociologija  
 >  **SOC (3480) - Izborni kolegiji (1.)-4. sem.** - Redovni studij - Sociologija  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/htkg?@=21gae#news_121382 "Arhiva obavijesti")

@@ -14,5 +14,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **prijediplomski**
   * [Novinarska etika (28470)](https://www.fhs.hr/predmet/noveti) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

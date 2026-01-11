@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/csr_c)
 
 ## Corporate Social Responsibility
-  * [Basic data](https://www.fhs.hr/en/course/csr_c#v1id-523765_167734_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/csr_c#v1id-523765_167734_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/csr_c#v1id-523765_167734_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/csr_c#v1id-523765_167734_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/csr_c#v1id-159930_266579_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/csr_c#v1id-159930_266579_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/csr_c#v1id-159930_266579_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/csr_c#v1id-159930_266579_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dod_c) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/csr_c)

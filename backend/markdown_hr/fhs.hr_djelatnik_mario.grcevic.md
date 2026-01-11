@@ -26,7 +26,6 @@ ODSJEK ZA KROATOLOGIJU
   * [Povijest hrvatskoga književnoga jezika (188081)](https://www.fhs.hr/predmet/phkj_a) - Nositelj, Seminar
   * [Završni rad (38774)](https://www.fhs.hr/predmet/zavrad) - Seminar
 
-
 **diplomski**
   * [Hrvatska jezična politika (226960)](https://www.fhs.hr/predmet/hjp) - Nositelj
   * [Hrvatska jezikoslovna normativistika (201776)](https://www.fhs.hr/predmet/hjn) - Nositelj, Seminar
@@ -34,7 +33,6 @@ ODSJEK ZA KROATOLOGIJU
   * [Tvorba riječi u hrvatskom jeziku (201805)](https://www.fhs.hr/predmet/truhj_a) - Nositelj
   * [Diplomski rad (64813)](https://www.fhs.hr/predmet/diprad_a) - Seminar
   * [Diplomski rad (215308)](https://www.fhs.hr/predmet/diprad_h) - Seminar
-
 
 #### Životopis
 Rođen je 1969. godine u Varaždinu. Srednju školu završio je u Zagrebu 1987. godine. Godine 1988. upisao je i 1995. godine završio studij slavistike i germanistike na Sveučilištu u Mannheimu. Doktorirao je na Sveučilištu u Mannheimu 2005. obranom disertacije o jeziku i postanku hrvatskoga štokavskoga misala iz XVI. stoljeća. U Njemačkoj je radio kao učitelj u hrvatskoj dopunskoj nastavi, kao znanstveni pomoćnik i kao lektor za hrvatski jezik. Prva iskustva u nastavi stekao je na Narodnom učilištu i Večernjoj školi u Mannheimu. Ondje je 1990./1991. uveo „hrvatski jezik“ kao nastavni predmet i ukinuo „srpskohrvatski“. Od 1998. do 2000. bio je kao doktorand stipendist Studijske zaklade njemačkoga naroda (_Die Studienstiftung des deutschen Volkes_). Od 2000. do 2004. radio je kao znanstveni suradnik na Slavenskom seminaru Sveučilišta u Mannheimu u sklopu projekta Njemačke istraživačke zajednice (_Deutsche Forschungsgemeinschaft_). Od 2005. do 2006. radio je kao znanstveni novak (asistent i viši asistent) u Zavodu za lingvistička istraživanja HAZU na projektu akademika Stjepana Babića Oblici hrvatskoga književnoga jezika. Od 2006. radi na Hrvatskim studijima Sveučilišta u Zagrebu, od 2013. u zvanju izvanrednoga profesora, a od 2019. u zvanju redovitoga profesora. Ondje predaje kroatističke predmete.

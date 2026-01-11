@@ -6,7 +6,7 @@
 **Zvanje:**
 viši predavač 
 **Konzultacije:**
-  
+
 Petak 12:40 do 13:40, ili prema dogovoru uz prethodnu najavu e-poštom 
 **E-mail:**
 [lmiskulin@fhs.hr](javascript:startMail\('zyfvhxvy@aus.feu'\);)
@@ -17,10 +17,8 @@ ODSJEK ZA ODGOJNO-OBRAZOVNE ZNANOSTI
   * [Akademski engleski (45642)](https://www.fhs.hr/predmet/akaeng) - Nositelj
   * [Akademski njemački (45829)](https://www.fhs.hr/predmet/akanje) - Nositelj
 
-
 **diplomski**
   * [Introduction to Sociolinguistics (133474)](https://www.fhs.hr/predmet/its_a) - Nositelj, Seminar
-
 
 #### Životopis
 Lucia Miškulin Saletović rođena je 1. srpnja 1976. godine u Vinežu u Hrvatskoj. Završila je studij germanistike i anglistike na Filozofskom fakultetu Sveučilišta u Zagrebu. Na Filozofskom fakultetu Sveučilišta u Zagrebu završila je i poslijediplomski znanstveni studij lingvistike te izradila i obranila doktorski rad (disertaciju) pod naslovom _Tekstna vrsta reklama za kozmetičke proizvode u hrvatskim i njemačkim ženskim časopisima_ , čime je 2013. godine stekla akademski stupanj _doktorica znanosti_ iz područja humanističkih znanosti, znanstvenoga polja filologije.

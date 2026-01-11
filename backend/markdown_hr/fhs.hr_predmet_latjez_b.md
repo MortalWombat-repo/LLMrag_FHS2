@@ -6,18 +6,17 @@
   * [Nastava](https://www.fhs.hr/predmet/latjez_b#v1id-904834_707023_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/latjez_b#v1id-904834_707023_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/latjez_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/latin_c)
 **Šifra:** |  185332  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)   
-  
+
 **Izvođači:** |  dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata) - Vježbe iz stranog jezika  
-  
+
 dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -31,10 +30,8 @@ dr. sc. [Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croa
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **2. semestar**  
 ---  
 > **FIL (3806) - Latinski jezik ili Grčki jezik** - Redovni studij - Filozofija i kultura  
@@ -46,7 +43,6 @@ Lokacija:
   * **dr. sc.[Petar Ušković Croata](https://www.fhs.hr/djelatnik/petar.uskovic_croata)**: 
 Prema dogovoru
 Lokacija: J2 (zgrada knjižnice) 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/latjez_b?@=21syf#news_114178)

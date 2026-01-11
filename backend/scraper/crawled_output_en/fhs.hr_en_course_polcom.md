@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/polcom)
 
 ## Political Communication
-  * [Basic data](https://www.fhs.hr/en/course/polcom#v1id-523819_30817_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/polcom#v1id-523819_30817_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/polcom#v1id-523819_30817_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/polcom#v1id-523819_30817_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/polcom#v1id-159974_516387_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/polcom#v1id-159974_516387_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/polcom#v1id-159974_516387_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/polcom#v1id-159974_516387_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/polkom) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/polcom)

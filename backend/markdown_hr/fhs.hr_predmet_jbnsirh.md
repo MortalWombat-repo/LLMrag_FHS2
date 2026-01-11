@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/jbnsirh#v1id-904827_259922_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/jbnsirh#v1id-904827_259922_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/jbnsirh)
 **Šifra:** |  264245  
-  
+
 ---|---  
 **ECTS:** |  30.0   
 **Nositelji:** |   
@@ -24,16 +23,13 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **4. semestar**  
 ---  
 > **Obavezni predmet** - Izvanredni studij - Povijest  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/jbnsirh?@=21mir#news_123701 "Arhiva obavijesti")

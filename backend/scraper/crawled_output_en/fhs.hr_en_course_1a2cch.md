@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/1a2cch)
 
 ## 19th and 20th Century Croatian Historiography
-  * [Basic data](https://www.fhs.hr/en/course/1a2cch#v1id-523739_793303_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/1a2cch#v1id-523739_793303_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/1a2cch#v1id-523739_793303_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/1a2cch#v1id-523739_793303_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/1a2cch#v1id-159908_90640_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/1a2cch#v1id-159908_90640_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/1a2cch#v1id-159908_90640_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/1a2cch#v1id-159908_90640_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hh12s) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/1a2cch)

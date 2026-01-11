@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/scitroci2c)
 
 ## Social Changes in the Republic of Croatia in 20th Century
-  * [Basic data](https://www.fhs.hr/en/course/scitroci2c#v1id-523832_956186_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/scitroci2c#v1id-523832_956186_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/scitroci2c#v1id-523832_956186_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/scitroci2c#v1id-523832_956186_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/scitroci2c#v1id-159986_68475_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/scitroci2c#v1id-159986_68475_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/scitroci2c#v1id-159986_68475_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/scitroci2c#v1id-159986_68475_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/dpuhuxs) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/scitroci2c)

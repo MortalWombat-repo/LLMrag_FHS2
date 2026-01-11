@@ -9,7 +9,6 @@ Zamolbu za prijelaz na studijski program Fakulteta hrvatskih studija studenti mo
   * ovjereni prijepis ocjena
   * potvrdu o uplati 30,00 eura za provedbu postupka usporedbe nastavnih programa.
 
-
 **Podatci za uplatu:**
 Fakultet hrvatskih studija
 Borongajska cesta 83d, 10000 Zagreb
@@ -28,7 +27,3 @@ Studentima prijelaznicima može se izreći polaganje razlikovnih ispita.
   6. Ukoliko je student koji podnosi zahtjev za prijelaz upisao treću godinu studija u trenutku podnošenja zahtjeva za prijelaz ne smije imati prosjek ocjena niži od 3,50, te mora imati stečenih najmanje 120 ECTS bodova tijekom prve dvije godine studija.
   7. Iznimno prijelaz se može odobriti onim studentima koji ne zadovoljavaju uvjete iz stavaka 3. – 7. ovoga članka ukoliko je prijelaz potreban zbog teže bolesti, preseljenja obitelji ili nekoga drugoga opravdanoga razloga navedenoga u zahtjevu..
   8. O opravdanim razlozima odlučuju dekan Fakulteta hrvatskih studija, na prijedlog prodekana za nastavu i uz mišljenje voditelja Službe za nastavu i studente.
-
-
-  
-

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/regdem)
 
 ## Regional Demography
-  * [Basic data](https://www.fhs.hr/en/course/regdem#v1id-523824_500067_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/regdem#v1id-523824_500067_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/regdem#v1id-523824_500067_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/regdem#v1id-523824_500067_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/regdem#v1id-159981_35441_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/regdem#v1id-159981_35441_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/regdem#v1id-159981_35441_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/regdem#v1id-159981_35441_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/regdem) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/regdem)

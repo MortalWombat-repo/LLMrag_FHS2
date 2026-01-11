@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/mcajitcw)
 
 ## Mass Communication and Journalism in the Contemporary World
-  * [Basic data](https://www.fhs.hr/en/course/mcajitcw#v1id-523802_161397_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/mcajitcw#v1id-523802_161397_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/mcajitcw#v1id-523802_161397_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/mcajitcw#v1id-523802_161397_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/mcajitcw#v1id-159961_910673_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/mcajitcw#v1id-159961_910673_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/mcajitcw#v1id-159961_910673_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/mcajitcw#v1id-159961_910673_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mknusu) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mcajitcw)

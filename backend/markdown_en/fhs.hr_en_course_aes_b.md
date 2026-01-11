@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/aes_b)
 
 ## Aestetics
-  * [Basic data](https://www.fhs.hr/en/course/aes_b#v1id-523742_893094_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/aes_b#v1id-523742_893094_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/aes_b#v1id-523742_893094_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/aes_b#v1id-523742_893094_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/aes_b#v1id-159911_267552_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/aes_b#v1id-159911_267552_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/aes_b#v1id-159911_267552_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/aes_b#v1id-159911_267552_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/est_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/aes_b)

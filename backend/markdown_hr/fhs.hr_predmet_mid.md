@@ -6,19 +6,18 @@
   * [Nastava](https://www.fhs.hr/predmet/mid#v1id-904838_227869_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mid#v1id-904838_227869_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mid) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/tmac)
 **Šifra:** |  86357  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Mirko Lukaš](https://www.fhs.hr/djelatnik/mirko.lukas)   
-  
+
 **Izvođači:** |  izv. prof. dr. sc. [Lana Ciboci Perša](https://www.fhs.hr/djelatnik/lana.ciboci_persa) - Seminar  
 prof. dr. sc. [Mirko Lukaš](https://www.fhs.hr/djelatnik/mirko.lukas) - Seminar  
-  
+
 izv. prof. dr. sc. [Lana Ciboci Perša](https://www.fhs.hr/djelatnik/lana.ciboci_persa) - Predavanja  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  U dogovoru sa studentima upisanim na predmetu, nastavnik će osigurati što veći broj elemenata nastave na engleskom jeziku, odnosno istovremeno i na engleskom i na hrvatskom za mješovite grupe (dvojezični nastavni materijali i dvojezični ispiti). Razina 2 također uključuje dodatni individualni rad sa stranim studentima (slično kao i razina 1) za nastavne elemente koji se drže na hrvatskom jeziku.   
 **Opterećenje:**  
@@ -33,7 +32,6 @@ izv. prof. dr. sc. [Lana Ciboci Perša](https://www.fhs.hr/djelatnik/lana.ciboci
 > Glavni je cilj predmeta upoznati studente s normativnim uređenjem i etičkim aspektima izvještavanja o djeci u medijima te ih upoznati s utjecajem medija na znanja, stavove i ponašanje djece i mladih. Sekundarni je cilj predmeta upoznati studente s medijima koji su namijenjeni isključivo djeci, njihovim pozitivnim i negativnim stranama te im ukazati na odgojnu i obrazovnu ulogu medija u odrastanju djece i adolescenata.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. 1. Ilišin, Vlasta; Marinović Bobinac, Ankica; Radin, Furio (2001) Djeca i mediji: uloga medija u svakodnevnom životu djece. Državni zavod za zaštitu obitelji, materinstva i mladeži. Zagreb.  
 2. Mikić, Krešimir (2001) Značenje medija u životu mladih, Zbornik Učiteljske akademije u Zagrebu, 3 (2001) 1, 251-262.  
@@ -43,7 +41,6 @@ izv. prof. dr. sc. [Lana Ciboci Perša](https://www.fhs.hr/djelatnik/lana.ciboci
 5. Flego, Maja (2009) Zaštita privatnosti djece u medijima: zbornik priopćenja s tribine. Pravobranitelj za djecu  
 6. Žderić J. (2009): Medijska kultura djece i mladih ? mogućnosti i zamke, Medioteka, 
 
-  
 **Preporučena literatura:**  
   1. , 1. Mataušić, Juraj Mirko (2005) Obitelj u globalnom selu, Diacovensia, Vol. 16 No. 2  
 2. Košir, Manca; Zgrabljić, Nada; Ranfl, Rajko (1999) Život s medijima: priručnik o medijskom odgoju za roditelje, nastavnike i učitelje, Zagreb.   
@@ -66,16 +63,15 @@ izv. prof. dr. sc. [Lana Ciboci Perša](https://www.fhs.hr/djelatnik/lana.ciboci
 19. Miliša, Zlatko; Zloković, Jasminka (2008) Odgoj i manipulacija djecom u obitelji i medijima: prepoznavanje i prevencija, MarkoM usluge, Zagreb.  
 20. Lemish, Dafna (2006) Children and Television: A Global Perspective, , , .
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
@@ -83,7 +79,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Lana Ciboci Perša](https://www.fhs.hr/djelatnik/lana.ciboci_persa)**: 
 prema dogovoru
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/mid?@=20ox4#news_80493 "Arhiva obavijesti")

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/ecl)
 
 ## Early-Modern Croatian Literature
-  * [Basic data](https://www.fhs.hr/en/course/ecl#v1id-523770_344060_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/ecl#v1id-523770_344060_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/ecl#v1id-523770_344060_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/ecl#v1id-523770_344060_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/ecl#v1id-159935_622908_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/ecl#v1id-159935_622908_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/ecl#v1id-159935_622908_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/ecl#v1id-159935_622908_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkrn) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ecl)

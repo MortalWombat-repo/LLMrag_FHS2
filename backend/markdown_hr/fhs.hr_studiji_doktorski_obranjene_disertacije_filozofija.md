@@ -55,8 +55,5 @@
 
   27. **Tomislav Bracanović:** _Filozofija biologije i evolucijsko objašnjenje morala_. Mentor: prof. dr. sc. Josip Talanga. Datum obrane: 18. 05. 2005.
 
-
-  
-
 ## Repozitorij
 Repozitorij je prazan

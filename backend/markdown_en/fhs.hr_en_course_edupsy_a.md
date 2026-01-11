@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/edupsy_a)
 
 ## Educational Psychology
-  * [Basic data](https://www.fhs.hr/en/course/edupsy_a#v1id-523771_157050_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/edupsy_a#v1id-523771_157050_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/edupsy_a#v1id-523771_157050_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/edupsy_a#v1id-523771_157050_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/edupsy_a#v1id-159936_583509_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/edupsy_a#v1id-159936_583509_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/edupsy_a#v1id-159936_583509_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/edupsy_a#v1id-159936_583509_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/psiobr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/edupsy_a)
@@ -14,7 +14,7 @@
 **ECTS:** |  4.0   
 **Lecturers in charge:** |  nasl. prof. dr. sc. [Andreja Brajša-Žganec](https://www.fhs.hr/staff/andreja.brajsa-zganec)   
   
-**Lecturers:** |  dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
+**Lecturers:** |  doc. dr. sc. [Ana Petak](https://www.fhs.hr/djelatnik/ana.petak) - Seminar  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
 **English level:** |  All teaching activities will be held in Croatian. However, foreign students in mixed groups will have the opportunity to attend additional office hours with the lecturer and teaching assistants in English to help master the course materials. Additionally, the lecturer will refer foreign students to the corresponding literature in English, as well as give them the possibility of taking the associated exams in English.   
@@ -42,7 +42,7 @@
 > **Mandatory course** - Regular studij - Psychology  
 >   
 Consultations schedule: 
-  * **dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
+  * **doc. dr. sc.[Ana Petak](https://www.fhs.hr/djelatnik/ana.petak)**: 
 Monday: 11:00-12:00 AM
 2nd floor, room 206
 Location: 206 

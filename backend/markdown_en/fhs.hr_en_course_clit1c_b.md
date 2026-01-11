@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/clit1c_b)
 
 ## Croatian Language in the 19th Century
-  * [Basic data](https://www.fhs.hr/en/course/clit1c_b#v1id-523754_484411_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/clit1c_b#v1id-523754_484411_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/clit1c_b#v1id-523754_484411_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/clit1c_b#v1id-523754_484411_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/clit1c_b#v1id-159921_212574_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/clit1c_b#v1id-159921_212574_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/clit1c_b#v1id-159921_212574_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/clit1c_b#v1id-159921_212574_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hjuxs) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/clit1c_b)

@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/gpai_a)
 
 ## Group Processes and Impacts
-  * [Basic data](https://www.fhs.hr/en/course/gpai_a#v1id-523778_266965_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/gpai_a#v1id-523778_266965_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/gpai_a#v1id-523778_266965_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/gpai_a#v1id-523778_266965_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/gpai_a#v1id-159941_948692_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/gpai_a#v1id-159941_948692_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/gpai_a#v1id-159941_948692_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/gpai_a#v1id-159941_948692_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/gpu_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/gpai_a)

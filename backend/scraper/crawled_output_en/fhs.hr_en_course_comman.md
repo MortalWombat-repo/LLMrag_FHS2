@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/comman)
 
 ## Communication Management
-  * [Basic data](https://www.fhs.hr/en/course/comman#v1id-523759_126507_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/comman#v1id-523759_126507_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/comman#v1id-523759_126507_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/comman#v1id-523759_126507_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/comman#v1id-159924_662596_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/comman#v1id-159924_662596_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/comman#v1id-159924_662596_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/comman#v1id-159924_662596_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kommen) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/comman)

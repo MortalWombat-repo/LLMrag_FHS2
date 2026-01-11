@@ -12,5 +12,4 @@ ODSJEK ZA ODGOJNO-OBRAZOVNE ZNANOSTI
 **prijediplomski**
   * [Akademski francuski (209486)](https://www.fhs.hr/predmet/akafra) - Vježbe iz stranog jezika
 
-
 #### Znanstveni radovi (CroRIS)

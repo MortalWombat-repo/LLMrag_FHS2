@@ -17,7 +17,6 @@ ODSJEK ZA KROATOLOGIJU
 **diplomski**
   * [Miroslav Krleža (201853)](https://www.fhs.hr/predmet/mirkrl_a) - Seminar
 
-
 #### Životopis
 **Suzana Marjanić** , znanstvena savjetnica (r. 1969.), radi u Institutu za etnologiju i folkloristiku u Zagrebu, gdje ostvaruje interese za teorije mita i rituala (disertacija:  _Mitsko u usmenoknjiževnom — tragom Nodilove re/konstrukcije “stare vjere” Srba i Hrvata_. IEF rkp. 1774, 2002.), kulturnu i kritičku animalistiku te izvedbene studije.
 Objavila je šest autorskih knjiga:  _Glasovi_ Davnih dana _: transgresije svjetova u Krležinim zapisima 1914–1921/22._ (2005.),  _Kronotop hrvatskoga performansa: od Travelera do danas_ (2014.),  _Topoi hrvatskoga performansa: lokalna vizura_ (2017.), knjigu  _Cetera animantia: od etnozoologije do zooetike_ (2021), knjigu  _Mitovi i re/konstrukcije: tragom Nodilove „stare vjere“ Srba i Hrvata_ (2022) i  _Umjetnost performansa i kinizam: izvedbena linija otpora_ (2022).

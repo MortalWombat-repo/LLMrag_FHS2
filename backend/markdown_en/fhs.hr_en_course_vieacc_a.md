@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/vieacc_a)
 
 ## Vlachs in European and Croatian culture
-  * [Basic data](https://www.fhs.hr/en/course/vieacc_a#v1id-523845_149783_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/vieacc_a#v1id-523845_149783_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/vieacc_a#v1id-523845_149783_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/vieacc_a#v1id-523845_149783_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/vieacc_a#v1id-159996_916934_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/vieacc_a#v1id-159996_916934_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/vieacc_a#v1id-159996_916934_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/vieacc_a#v1id-159996_916934_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/vuehk_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/vieacc_a)

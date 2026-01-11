@@ -6,15 +6,14 @@
   * [Nastava](https://www.fhs.hr/predmet/palskr#v1id-904848_703233_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/palskr#v1id-904848_703233_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/palskr) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/palcar)
 **Šifra:** |  226946  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Lovorka Brajković](https://www.fhs.hr/djelatnik/lovorka.brajkovic)   
 prof. dr. sc. [Marijana Braš](https://www.fhs.hr/djelatnik/marijana.bras)   
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -66,23 +65,21 @@ prof. dr. sc. [Marijana Braš](https://www.fhs.hr/djelatnik/marijana.bras)
 >  15. Završna razmatranja; kolokvij  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar**  
 ---  
 > **PSI-dipl (4388): Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **PSI-dipl (4388): Izborni kolegiji** - Redovni studij - Psihologija  
 >   
-  
+
 **3. semestar**  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
@@ -90,7 +87,6 @@ Termini konzultacija:
   * **izv. prof. dr. sc.[Lovorka Brajković](https://www.fhs.hr/djelatnik/lovorka.brajkovic)**: 
 Prema prethodnom dogovoru putem e-pošte
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/palskr?@=21gb3#news_121270 "Arhiva obavijesti")

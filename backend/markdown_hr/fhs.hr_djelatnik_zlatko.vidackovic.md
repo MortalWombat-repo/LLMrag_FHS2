@@ -18,9 +18,7 @@ ODSJEK ZA KOMUNIKOLOGIJU
   * [Medijski i novinarski žanrovi (117213)](https://www.fhs.hr/predmet/mnz) - Nositelj, Seminar
   * [Povijest i teorija filma (64441)](https://www.fhs.hr/predmet/ptf) - Nositelj, Seminar
 
-
 **diplomski**
   * [Diplomski rad (64886)](https://www.fhs.hr/predmet/diprad_c) - Seminar
-
 
 #### Znanstveni radovi (CroRIS)

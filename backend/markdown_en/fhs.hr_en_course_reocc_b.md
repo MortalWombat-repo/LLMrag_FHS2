@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/reocc_b)
 
 ## Religious Elements of Croatian Culture
-  * [Basic data](https://www.fhs.hr/en/course/reocc_b#v1id-523825_876972_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/reocc_b#v1id-523825_876972_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/reocc_b#v1id-523825_876972_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/reocc_b#v1id-523825_876972_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/reocc_b#v1id-159982_183227_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/reocc_b#v1id-159982_183227_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/reocc_b#v1id-159982_183227_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/reocc_b#v1id-159982_183227_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/rshi_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/reocc_b)

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/mns_a#v1id-904841_908556_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/mns_a#v1id-904841_908556_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/mns_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/mans)
 **Šifra:** |  57242  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  doc. dr. sc. [Goran Radoš](https://www.fhs.hr/djelatnik/goran.rados)   
-  
+
 **Izvođači:** |  doc. dr. sc. [Goran Radoš](https://www.fhs.hr/djelatnik/goran.rados) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -30,22 +29,21 @@
 > Upoznavanje studenata s osnovama nacionalne i međunarodne sigurnosti te predstavljanje sustava nacionalne sigurnosti RH. Predstavljanje važnosti, moći i utjecaja medija na suvremene društvene promjene, posebice u području sigurnosti, te uloge medija, s jedne strane u suradnji s državnim aparatom u borbi protiv nasilja, a s druge u borbi za transparentnost rada sigurnosnog sektora kroz borbu za pravo na pristup informacijama te djelovanje u cilju zaštite ljudskih prava u okolnostima u kojima dolazi do povećanja ovlasti sigurnosnog sektora uslijed novih oblika nasilja i globalnog terorizma.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. S. Tatalović, A. Grizold, V. Cvrtila: Suvremene sigurnosne politike, Golden marketing - Tehnička knjiga, Zagreb, 2008.;, 
   2. S. Tatalović: Nacionalna i međunarodna sigurnost, Politička kultura, Zagreb, 2006.;, 
   3. A. A. Collins: Suvremene sigurnosne studije, Politička kultura, Zagreb, 2010.;, 
   4.   5. 
-  
+
 **1. semestar** Ne predaje se  
 ---  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar**  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **KOM-dipl (4397): Izborni kolegiji** - Redovni studij - Komunikologija  
 >   
@@ -53,7 +51,6 @@ Termini konzultacija:
   * **doc. dr. sc.[Goran Radoš](https://www.fhs.hr/djelatnik/goran.rados)**: 
 Srijedom od 12.30h uz obvezni prethodni dogovor.
 Lokacija: 106/ I. kat (Glavna zgrada - južno krilo) 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/mns_a?@=2175w#news_80486)

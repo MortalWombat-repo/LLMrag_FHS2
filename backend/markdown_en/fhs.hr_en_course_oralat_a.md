@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/oralat_a)
 
 ## Oral Latin
-  * [Basic data](https://www.fhs.hr/en/course/oralat_a#v1id-523809_273052_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/oralat_a#v1id-523809_273052_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/oralat_a#v1id-523809_273052_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/oralat_a#v1id-523809_273052_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/oralat_a#v1id-159967_182421_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/oralat_a#v1id-159967_182421_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/oralat_a#v1id-159967_182421_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/oralat_a#v1id-159967_182421_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/govlat_a) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/oralat_a)
@@ -17,7 +17,7 @@
 **Lecturers:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Exercises  
   
 **Take exam:** |  [Studomat](http://www.isvu.hr/studomat)  
-**English level:** |  All teaching activities in the course will be held on English. This level includes courses with multiple groups (i.e., all teaching will be held strictly in Croatian for Croatian groups, and strictly in English for English groups).   
+**English level:** |  The lecturer is not able to offer courses in English at this time.   
 **Load:**  
 ---  
 > ### 1. komponenta

@@ -9,5 +9,3 @@ Uredio: _Goran Dejanović -_ _3. 10. 2025. u 10:09_
 [ Obrazac za prijavu mentora _[175,47 KiB]_ ](https://www.fhs.hr/_download/repository/Obrazac_Prijava_mentora-1.pdf)
 Objavljeno: _Dario Knežić -_ _8. 10. 2024. u 19:03_   
 Uredio: _Goran Dejanović -_ _3. 10. 2025. u 10:09_
-
-

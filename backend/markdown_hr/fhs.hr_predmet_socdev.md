@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/socdev#v1id-904873_185508_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/socdev#v1id-904873_185508_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/socdev) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sod_b)
 **Šifra:** |  172505  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  prof. dr. sc. [Renato Matić](https://www.fhs.hr/djelatnik/renato.matic)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Renato Matić](https://www.fhs.hr/djelatnik/renato.matic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastavnik nije u mogućnosti ponuditi nastavu na engleskom jeziku.   
 **Opterećenje:**  
@@ -29,16 +28,14 @@
 **Opis predmeta:**  
 > **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **3. semestar**  
 ---  
 > **SOC (17099) - Izborni kolegiji (2.godina)** - Redovni studij - Sociologija  
 >  **SOC (3479) - Izborni kolegiji (1.)-3. sem.** - Redovni studij - Sociologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **SOC (17099) - Izborni kolegiji (2.godina)** - Redovni studij - Sociologija  
 >   
@@ -46,7 +43,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Renato Matić](https://www.fhs.hr/djelatnik/renato.matic)**: 
 srijedom od 17.30 do 18.30 sati
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/socdev?@=215ua#news_112579)

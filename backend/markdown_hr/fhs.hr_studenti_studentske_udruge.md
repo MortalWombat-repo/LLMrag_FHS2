@@ -23,6 +23,4 @@
 |   
 #### **Udruga studenata Fakulteta hrvatskih studija "Studia Croatica"**
 |   
-**E-mail** : hrstud.studiacroatica@gmail.com [Instagram](https://www.instagram.com/studiacroatica.fhs?igsh=b241aGZjYzljcHl0&utm_source=qr) [Facebook](https://www.facebook.com/share/1BsBMKngUe/?mibextid=wwXIfr) [WhatsApp grupa](https://chat.whatsapp.com/FRPBtRmWeoUAVpaVptnBQI) [Pristupnica](https://docs.google.com/forms/d/e/1FAIpQLSdyKOYhi1-tMgJlOv6XJqISBrzO30rEc13cnKOSg91M_L-wIQ/viewform) **Tea Vlahov , predsjednica, [tvlahov@fhs.hr](javascript:cms_mail\('tvlahov','fhs.hr','',''\))** **Asja Bužimkić , potpredsjednica, ****abuzimkic@fhs.hr ** ** Karmen Baneković, potpredsjednica, kbanekovi@fhs.hr** **Matija Perković , tajnik, mperkovic@fhs.hr** **** | ![](https://www.fhs.hr/images/50042865/studia%20croatica.jpg)  
-  
-
+**E-mail** : hrstud.studiacroatica@gmail.com [Instagram](https://www.instagram.com/studiacroatica.fhs?igsh=b241aGZjYzljcHl0&utm_source=qr) [Facebook](https://www.facebook.com/share/1BsBMKngUe/?mibextid=wwXIfr) [WhatsApp grupa](https://chat.whatsapp.com/FRPBtRmWeoUAVpaVptnBQI) [Pristupnica](https://docs.google.com/forms/d/e/1FAIpQLSdyKOYhi1-tMgJlOv6XJqISBrzO30rEc13cnKOSg91M_L-wIQ/viewform) **Tea Vlahov , predsjednica, [tvlahov@fhs.hr](javascript:cms_mail\('tvlahov','fhs.hr','',''\))** **Asja Bužimkić , potpredsjednica, ****abuzimkic@fhs.hr ** ** Karmen Baneković, potpredsjednica, kbanekovi@fhs.hr** **Matija Perković , tajnik, mperkovic@fhs.hr** **** | ![](https://www.fhs.hr/images/50042865/studia%20croatica.jpg)

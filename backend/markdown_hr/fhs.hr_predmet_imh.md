@@ -6,10 +6,9 @@
   * [Nastava](https://www.fhs.hr/predmet/imh#v1id-904823_705684_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/imh#v1id-904823_705684_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/imh) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/iomc)
 **Šifra:** |  214021  
-  
+
 ---|---  
 **ECTS:** |  2.0   
 **Nositelji:** |   
@@ -61,37 +60,34 @@
 >  15. Zaključno predavanje.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
 
-  
 **1. semestar** Ne predaje se  
 ---  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **3. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >  **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **5. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **DEM (17929) - Izborni predmeti** - Redovni studij - Demografija i hrvatsko iseljeništvo (integrirani)  
 >   
 Termini konzultacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/imh?@=21cel#news_119879 "Arhiva obavijesti")

@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/kzp#v1id-904834_244922_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/kzp#v1id-904834_244922_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/kzp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/camp)
 **Šifra:** |  228390  
-  
+
 ---|---  
 **ECTS:** |  4.0   
 **Nositelji:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Šime Demo](https://www.fhs.hr/djelatnik/sime.demo) - Vježbe u praktikumu  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Svi elementi nastave na predmetu provode se na engleskom jeziku. Ova razina uključuje i predmete s više nastavnih grupa (u hrvatskoj grupi nastava je isključivo na hrvatskom jeziku, a u engleskoj grupi isključivo na engleskom jeziku).   
 **Opterećenje:**  
@@ -37,41 +36,39 @@
   5. dati pragmatički zasnovano objašnjenje pojava tradicionalno promatranih u kontekstu domena kao što su stil, retorika i logičke pogreške
   6. protumačiti primjere međukulturnih razlika u komunikaciji
 
-  
 **Literatura:**  
   1. Pragmatics and discourse: a resource book for students, Cutting, J., London: Routledge, 2002. 
   2. Pragmatics, Yule, G., Oxford: Oxford University Press, 1996. 
 
-  
 **1. semestar**  
 ---  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >   
-  
+
 **2. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >   
-  
+
 **3. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KRO (3001) - izborni TZP** - Redovni studij - Kroatologija  
 >   
-  
+
 **5. semestar**  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >   
-  
+
 **6. semestar** Ne predaje se  
 > **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
 >  **KOM (2945) - Izborni kolegiji 1.** - Redovni studij - Komunikologija  
@@ -80,7 +77,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Šime Demo](https://www.fhs.hr/djelatnik/sime.demo)**: 
 Utorkom 11:45-12:45 (uz prethodnu najavu)
 Lokacija: 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/kzp?@=21g9u#news_121340 "Arhiva obavijesti")

@@ -12,5 +12,4 @@ ODSJEK ZA KOMUNIKOLOGIJU
 **diplomski**
   * [Metode javne promocije znanosti (57236)](https://www.fhs.hr/predmet/mjpz) - Seminar
 
-
 #### Znanstveni radovi (CroRIS)

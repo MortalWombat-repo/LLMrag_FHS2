@@ -22,5 +22,4 @@ ODSJEK ZA PSIHOLOGIJU
 **diplomski**
   * [Forenzička psihologija (53786)](https://www.fhs.hr/predmet/forpsi) - Nositelj
 
-
 #### Znanstveni radovi (CroRIS)

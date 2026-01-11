@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/ppp#v1id-904861_183445_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/ppp#v1id-904861_183445_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/ppp) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/popp)
 **Šifra:** |  214005  
-  
+
 ---|---  
 **ECTS:** |  3.0   
 **Nositelji:** |  izv. prof. dr. sc. [Lovorka Brajković](https://www.fhs.hr/djelatnik/lovorka.brajkovic)   
-  
+
 **Izvođači:** |  [Katarina Jelić](https://www.fhs.hr/djelatnik/katarina.jelic), mag. psych. - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -40,7 +39,6 @@
   4. Analizirati te, u kontekstu europskih i/ili svjetskih istraživanja predmetnoga fenomena, interpretirati i vrjednovati nalaze istovjetnih psihologijskih istraživanja provedenih u Hrvatskoj.
   5. Kritički prosuđivati stručnu i znanstvenu literaturu iz psihologije i srodnih disciplina te kreirati nove znanstvene spoznaje o prevencijskoj znanosti.
 
-  
 **Literatura:**  
   1. Applied Social Psychology: Understanding and Addressing Social and Practical Problems., Udžbenik iz primijenjene socijalne psihologije, s naglaskom na osmišljavanje rješenja za važna društvena pitanja., Schneider, F.W., Gruman, J.A., Coutts, L.M., London: Sage., 2013. 
   2. Istraživačke metode u psihologiji i drugim društvenim znanostima., Eksperimentalne i neeksperimentalne metode; osnove statističkih analiza., Milas, G., Jastrebarsko: Naklada Slap., 2005. 
@@ -48,18 +46,16 @@
   4. Zdravstvena psihologija, Havelka, M., Zagreb: Školska knjiga., 2009. 
   5. Teorija prevencije - Prevencija poremećaja u ponašanju i rizičnih ponašanja djece i mladih, Bašić, J., Zagreb: Školska knjiga., 2009. 
 
-  
 **Preporučena literatura:**  
   1. Programi evaluacije i evaluacija istraživanja u društvenim znanostima, Programi evaluacije i evaluacijska istraživanja su objektivne činjenice, ali i socijalno-konstruirane kategorije koje oblikuje specifični kontekst unutar kojega djeluju različiti sudionici: klijenti/korisnici, multipli stakeholdersi i evaluatori., Halmi, A., Jastrebarsko: Naklada Slap., 2008.
   2. Socijalnopedagoški mozaik - Razvoj modela potpore učenicima s problemima u ponašanju, U priručniku je razrađen model socijalnopedagoških intervencija u osnovnoj školi koji je utemeljen na suvremenim teorijama učenja i promjena., Bouillet, D., Bićanić, J., Ivančan, A., Novosel Guszak, D., Rovis Brandić, A. i Sitar, M, Zagreb: Školska knjiga., 2018.
   3. Trening namijenjen mladeži - Strukturiranje radnog i socijalnog ponašanja, Trening je usmjeren na izgradnju i poboljšanje radnog i socijalnog ponašanja djece i mladih u dobi od 13 do 20 godina. Širok raspon primjene: agresivno-nesocijalno ponašanje, te pomanjkanje inicijative i problemi s motivacijom, osobito radnom., Petermann, U. i Petermann, F., Jastrebarsko: Naklada Slap., 2012.
 
-  
 **3. semestar**  
 ---  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
-  
+
 **4. semestar** Ne predaje se  
 > **PSI-dipl. (7596): Izborni predmeti II. godina** - Redovni studij - Psihologija  
 >   
@@ -70,7 +66,6 @@ Lokacija:
   * **[Katarina Jelić](https://www.fhs.hr/djelatnik/katarina.jelic), mag. psych.**: 
 Četvrtak, 14:20-15:50h
 Lokacija: 206 
-
 
 ## Obavijesti
 [Arhiva obavijesti](https://www.fhs.hr/predmet/ppp?@=21cl2#news_119130 "Arhiva obavijesti")

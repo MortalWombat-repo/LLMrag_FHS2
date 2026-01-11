@@ -6,16 +6,15 @@
   * [Nastava](https://www.fhs.hr/predmet/hkrn#v1id-904813_949925_1_2 "Nastava")
   * [Termini konzultacija](https://www.fhs.hr/predmet/hkrn#v1id-904813_949925_1_3 "Termini konzultacija")
 
-
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/hkrn) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/ecl)
 **Šifra:** |  37436  
-  
+
 ---|---  
 **ECTS:** |  5.0   
 **Nositelji:** |  prof. dr. sc. [Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic)   
-  
+
 **Izvođači:** |  prof. dr. sc. [Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic) - Seminar  
-  
+
 **Prijava ispita:** |  [Studomat](http://www.isvu.hr/studomat)  
 **Engleski jezik:** |  Nastava se odvija na hrvatskom jeziku u svim svojim elementima, a stranim studentima koji su pridruženi mješovitoj grupi nudi se mogućnost savladavanja predmeta pomoću dodatnih izravnih konzultacija s nastavnikom i asistentima na engleskom jeziku. Pri tome, nastavnik stranog studenta upućuje na odgovarajuću literaturu na engleskom jeziku te mu osigurava mogućnost polaganja predmeta na engleskom jeziku.   
 **Opterećenje:**  
@@ -64,18 +63,15 @@
 >  Seminar. Putopis kao autobiografija. Antun Vrančić, Putovanje iz Budima u Drinopolje.  
 **Ishodi učenja:**  
 
-  
 **Literatura:**  
   1. Slobodan Prosperov Novak; Povijest hrvatske književnosti od humanističkih početaka do Kašićeve ilirske gramatike 1604. sv. II.; Antibarbarus (1997), 
   2. Mihovil Kombol; Povijest hrvatske književnosti do Narodnog preporoda (priredili Milan Ratković i Jakša Ravlić); Zagreb: Matica hrvatska (1961), 
   3. Krešimir Georgijević; Hrvatska književnost od 16. do 18. stoljeća u sjevernoj Hrvatskoj i Bosni; Zagreb: Matica hrvatska (1969), 
   4. Jacob Burckhardt; Kultura renesanse u Italiji (preveo M. Prelog); Zagreb: Prosvjeta (1997), 
 
-  
 **Preporučena literatura:**  
   1. , Gustav Rene Hocke; Manirizam u književnosti: alkemija jezika i ezoterično umijeće kombiniranja: prilozi poredbenoj povijesti evropskih književnosti (preveo A. Stamać); Zagreb: Cekade (1984), , , .
 
-  
 **2. semestar**  
 ---  
 > **Obavezni predmet** - Redovni studij - Kroatologija  
@@ -84,7 +80,6 @@ Termini konzultacija:
   * **prof. dr. sc.[Viktoria Franić Tomić](https://www.fhs.hr/djelatnik/viktoria.franic_tomic)**: 
 Prema dogovoru.
 Lokacija: 
-
 
 ## Obavijesti
 [ ![](https://www.fhs.hr/_pub/themes_static/hrstud2024/default/img/default_news.jpg) ](https://www.fhs.hr/predmet/hkrn?@=20t03#news_81550)

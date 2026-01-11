@@ -1,10 +1,10 @@
 [Article Link](https://www.fhs.hr/en/course/sotitp)
 
 ## Sociology of the Information Technology Profession
-  * [Basic data](https://www.fhs.hr/en/course/sotitp#v1id-523837_508500_1_0 "Basic data")
-  * [Detailed data](https://www.fhs.hr/en/course/sotitp#v1id-523837_508500_1_1 "Detailed data")
-  * [Classes](https://www.fhs.hr/en/course/sotitp#v1id-523837_508500_1_2 "Classes")
-  * [Consultations schedule](https://www.fhs.hr/en/course/sotitp#v1id-523837_508500_1_3 "Consultations schedule")
+  * [Basic data](https://www.fhs.hr/en/course/sotitp#v1id-159991_159297_1_0 "Basic data")
+  * [Detailed data](https://www.fhs.hr/en/course/sotitp#v1id-159991_159297_1_1 "Detailed data")
+  * [Classes](https://www.fhs.hr/en/course/sotitp#v1id-159991_159297_1_2 "Classes")
+  * [Consultations schedule](https://www.fhs.hr/en/course/sotitp#v1id-159991_159297_1_3 "Consultations schedule")
 
 
 [![](https://www.fhs.hr/img/flags/gif/hr.gif)](https://www.fhs.hr/predmet/sip_b) [![](https://www.fhs.hr/img/flags/gif/gb.gif)](https://www.fhs.hr/en/course/sotitp)
